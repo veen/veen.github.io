@@ -1,0 +1,233 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+
+    <title>Web development basics | Greg Veen</title>
+    <meta name="ICBM" content="37.769829, -122.433982" />
+    <meta name="DC.title" content="Gregory Veen" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="RSS"
+      href="http://www.veen.com/greg/index.xml"
+    />
+    <link rel="stylesheet" href="https://use.typekit.net/esx3quu.css" />
+    <link rel="stylesheet" href="/greg/main.css" />
+    <link rel="start" href="http://www.veen.com/greg/" title="Home" />
+    <link
+      rel="prev"
+      href="http://www.veen.com/greg/archives/000866.html"
+      title="The top"
+    />
+    <link
+      rel="next"
+      href="http://www.veen.com/greg/archives/000872.html"
+      title="Webtarded"
+    />
+    <script
+      src="http://www.google-analytics.com/urchin.js"
+      type="text/javascript"
+    ></script>
+    <script type="text/javascript">
+      _uacct = "UA-96573-1";
+      urchinTracker();
+    </script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="/greg/">Greg Veen</a></li>
+          <li><a href="/greg/">About</a></li>
+          <li><a href="/greg/archives/">Blog</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      <h1>Web development basics</h1>
+
+      <h2>27 March 2006</h2>
+
+      <p>
+        Those of us who design and build for the web have witnessed some
+        exciting changes in our field over the past few years. We've seen
+        traction in the web standards movement, a spreading commitment to
+        accessibility, the growth of web services, the emergence of Ajax, the
+        development of time-saving code frameworks and libraries, and more. But
+        how does it all fit together? As we pursue the <em>next</em> new and
+        exciting development, how do we avoid taking for granted the amazing
+        infrastructure all these changes have left us with?
+      </p>
+
+      <p>
+        Whenever I start a new project -- and from time to time during ongoing
+        ones -- I take a step back to review the web development basics. What
+        priorities should guide my work? Given the landscape of ways the web is
+        accessed today, what core design and development requirements should I
+        meet? What advice would I give to others in the same situation?
+      </p>
+
+      <p>
+        Well then, here are a few recommendations, for myself and those like me.
+        This discussion will be mostly about
+        <a
+          href="http://en.wikipedia.org/wiki/Front-end"
+          title="Front-end and back-end - Wikipedia, the free encyclopedia"
+          >front-end</a
+        >
+        technical priorities, so the main back-end/infrastructural
+        recommendation I'd make is to use systems (like
+        <a href="http://drupal.org/" title="drupal.org | Community plumbing"
+          >Drupal</a
+        >
+        for content management, say) that don't unnecessarily get in the way of
+        realizing your front-end goals. For example: don't use a CMS that
+        inserts invalid code into your documents!
+      </p>
+
+      <p>
+        Above all else, make sure that your site declares a document type
+        (preferably at least XHTML 1.0 Strict) and that its HTML and CSS
+        validate against the W3C's
+        <a
+          href="http://www.w3.org/QA/Tools/"
+          title="The W3C QA Toolbox - Validators, checkers and other tools for Webmasters and Web Developers"
+          >validators</a
+        >. As I've
+        <a href="/greg/archives/000634.html" title="Why XHTML? | Greg Veen"
+          >discussed</a
+        >
+        before, this is simply the best way to keep your code lean and
+        maintainable, and it sets an essential foundation for everything else
+        I'm about to describe.
+      </p>
+
+      <p>
+        Beyond that core of valid markup and CSS, your site should also meet web
+        accessibility guidelines and standards, such as the W3C's
+        <a href="http://www.w3.org/WAI/intro/wcag.php" title="WCAG Overview"
+          >Web Content Accessibility Guidelines</a
+        >
+        and the federal government's
+        <a
+          href="http://www.section508.gov/"
+          title="Section 508: The Road to Accessibility"
+          >Section 508</a
+        >
+        standards. You can use various
+        <a
+          href="http://www.contentquality.com/"
+          title="Welcome to the HiSoftware Cynthia Says Portal"
+          >tests</a
+        >
+        to check your site's compliance to these guidelines and standards.
+      </p>
+
+      <p>
+        But what's actually far more important than letter-of-the-law adherence
+        to those guideline checklists is that your site really is designed and
+        developed, from the beginning, with accessibility in mind. Keep the
+        interface simple; organize and order content logically and meaningfully;
+        and make sure the site makes sense in alternate browsing devices, like
+        screen readers. On a markup level, this would mean direct, uncluttered
+        code that's structured into semantically meaningful elements like
+        headings, paragraphs, and lists rather than lots of meaningless divs and
+        spans -- or worse, presentational elements like nested layout tables, hr
+        tags, and images that contain text. Plus, if you use markup correctly,
+        the site will not only be more accessible, but it will tend to rank
+        higher in search engine results as well. I've found that
+        <a
+          href="http://diveintoaccessibility.org/"
+          title="Dive Into Accessibility"
+          >Dive into Accessibility</a
+        >
+        among others can help keep you on track when it comes to these sorts of
+        common sense, real-world accessibility strategies. Example: a "skip to
+        main content" link is important if your site includes a list of
+        navigational links at the top of each page. Many major sites still don't
+        have one.
+      </p>
+
+      <p>
+        As for browsers, you basically want to support them all. This doesn't
+        mean that every hi-fi detail of your site has to work in, say, Netscape
+        3, of course. It just means that, ideally, browsers that don't support
+        the latest standards will still be presented with a usable site --
+        perhaps unstyled, if they don't support css-based layouts, and perhaps
+        not Ajax-enabled, if their Javascript support is lacking -- but
+        informative and usable nevertheless. So the advanced features of your
+        site should either look and function their best, or be stripped down.
+        And the thing is, you can still end up providing the best experience to
+        most of your site's visitors: just be sure to test advanced features in
+        at least IE6, Firefox/Mozilla, Safari, and Opera 8, and you'll be
+        covering most people. Ideally, you'll also test in Windows IE5/5.5 and
+        IE 5.2 Mac, though there's been some debate as to whether accommodating
+        the quirks of these browsers, especially Win IE5/5.2, is worth the all
+        the hacks and extra effort necessary.
+      </p>
+
+      <p>
+        And that about sums it up. Yes, of course there's so much more beyond
+        this. But I've found that resisting compromise on these basic guidelines
+        helps keep projects sane and sites usable, even as the web continues to
+        evolve in newer, more exciting directions.
+      </p>
+
+      <p class="byline">Posted by Greg at 11:27 PM.</p>
+      <section class="comments">
+        <section>
+          <a name="comments"></a>
+
+          <h3>
+            On 28 March 2006 at 12:43 PM,
+            <a href="http://shootingthekids.dpblogs.com/" rel="nofollow"
+              >Chris Frazier</a
+            >
+            commented:
+          </h3>
+          <p>Wow - a real post! And it's a good one too!</p>
+
+          <p>
+            As far as browser compatability goes, I like Yahoo's graded
+            approach, where you establish A, B and C level experiences and make
+            sure that browsers within that grade level are supported fully for
+            that experience. If you build you presentation framework in such a
+            way that it abstracts the actual nuts and bolts of it, then
+            developing this way isn't hard.
+          </p>
+
+          <p>Oh - and I've stopped using HRs, thanks to you. :)</p>
+        </section>
+        <p>Commenting on this post is now closed.</p>
+      </section>
+      <p>
+        <a href="/greg/archives/000866.html">&laquo; Previous post</a>
+        |
+
+        <a href="/greg/archives/">All posts</a>
+        |
+        <a href="/greg/archives/000872.html">Next post &raquo;</a>
+      </p>
+    </article>
+    <footer>
+      <p><a href="/greg/">Learn more</a> about Greg Veen.</p>
+      <p>
+        <em
+          >Typeset in
+          <a href="https://fonts.adobe.com/fonts/freight-text">Freight Text</a>
+          by
+          <a href="https://fonts.adobe.com/designers/joshua-darden"
+            >Joshua Darden</a
+          >
+          and
+          <a href="https://fonts.adobe.com/fonts/source-sans">Source Sans</a> by
+          <a href="https://fonts.adobe.com/designers/paul-d-hunt"
+            >Paul D. Hunt</a
+          >, served by
+          <a href="https://fonts.adobe.com/typekit">Adobe Fonts</a>.
+        </em>
+      </p>
+    </footer>
+  </body>
+</html>
