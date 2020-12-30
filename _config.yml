@@ -3,7 +3,7 @@
 # rdiscount:
 # extensions:   [smart]
 permalink:      /archives/:title.html
-layouts:        _layouts/
+#layouts:        _layouts/
 #source:         jeff
 #destination:    jeff
 title:          Jeffrey Veen
