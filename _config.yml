@@ -2,7 +2,7 @@
 # markdown:      rdiscount
 # rdiscount:
 # extensions:   [smart]
-permalink:      /archives/:title.html
+permalink:      jeff/archives/:title.html
 #layouts:        _layouts/
 #source:         jeff
 #destination:    jeff
