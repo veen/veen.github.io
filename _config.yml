@@ -5,10 +5,9 @@ title:          Jeffrey Veen
 feed:           /rss-source.xml
 description:    "The personal web site of Jeffrey Veen."
 
+url:           http://veen.com/jeff
 #url:           http://127.0.0.1:4000
-#url:           http://veen.com/jeff
 #url:           http://pixel:81
-url:            https://veen.github.io
 
 sass:
     style: compressed
