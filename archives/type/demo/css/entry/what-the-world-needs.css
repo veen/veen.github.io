@@ -1,0 +1,366 @@
+/*  This code is copyrighted to Jason Santa Maria.
+    This means you may NOT use it for you site's design.  */
+
+/*
+----------------------------------------------------------------
+	B A S E
+---------------------------------------------------------------- */
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #333;
+	background: #fff url(../../i/entry/what-the-world-needs/page-bg.jpg) repeat;
+	}
+
+/* L I N K S */
+
+a:link, a:visited { color: #1f6a7b; text-decoration: none; }
+	
+a:hover { color: #164a56; text-decoration: underline; }
+
+/* S T R U C T U R E */
+
+#main-outer { background: transparent; }
+
+#main { background: url(../../i/entry/what-the-world-needs/superhero.gif) no-repeat bottom left; text-align: left; padding-bottom: 40px !important;}
+
+#content { background: transparent; border-bottom: 1px solid #ac9a76; }
+
+/*
+----------------------------------------------------------------
+	H E A D E R
+---------------------------------------------------------------- */
+
+#header-outer { background: transparent; }
+
+/* L O G O */
+
+/* White logo */
+
+#logo a, #logo a:link, #logo a:visited {
+	background: transparent url(../../i/logo-type-7F7257.png) no-repeat top left;
+	}
+
+#logo a:link .bug, #logo a:visited .bug {
+	background: #1f6a7b url(../../i/logo-bug-wh.png) no-repeat top left;
+	}
+
+#logo a:hover .bug {
+	background: #164a56 url(../../i/logo-bug-wh.png) no-repeat top left;
+	}
+
+#nav-home a:link, #nav-home a:visited, #nav-articles a:link, #nav-articles a:visited, #nav-portfolio a:link, #nav-portfolio a:visited, #nav-oddities a:link, #nav-oddities a:visited, #nav-dailyphoto a:link, #nav-dailyphoto a:visited, #nav-about a:link, #nav-about a:visited {
+	background-image: url(../../i/nav-FFFFFF-7F7257.png);
+	}
+
+/* D E F A U L T  H O V E R  A N D  C U R R E N T  S T A T E S */
+
+#nav li a:hover,
+body#home #nav-home a, 
+body#articles #nav-articles a,
+body#articles-indv #nav-articles a,
+body#portfolio #nav-portfolio a,
+body#oddities #nav-oddities a,
+body#dailyphoto #nav-dailyphoto a,
+body#dp-indv #nav-dailyphoto a,
+body#about #nav-about a {
+	background-color: #1f6a7b;
+	}
+
+/* C U R R E N T  H O V E R  S T A T E S */
+
+body#home #nav-home a:hover, 
+body#articles #nav-articles a:hover,
+body#articles-indv #nav-articles a:hover,
+body#portfolio #nav-portfolio a:hover,
+body#oddities #nav-oddities a:hover,
+body#dailyphoto #nav-dailyphoto a:hover,
+body#dp-indv #nav-dailyphoto a:hover,
+body#about #nav-about a:hover {
+	background-color: #164a56 !important;
+	}
+	
+/*
+----------------------------------------------------------------
+	S U B
+---------------------------------------------------------------- */
+
+#sub-outer { background: #000; }
+
+#home #sub-outer {
+	margin-top: 0;
+	}
+
+#sub .port-list img, #sub .port-list a:link img, #sub .port-list a:visited img, #sub .book-indv a:link .book-thumb, #sub .book-indv a:visited .book-thumb, .dp-thumb, a:link .dp-thumb, .deck img, .deck a:link img, .deck a:visited img {
+	border: 5px solid #262626;
+	}
+
+#sub .port-list a:hover img, #sub .book-indv a:hover .book-thumb, a:hover .dp-thumb, .deck a:hover img {
+	border: 5px solid #444;
+	}
+
+/*
+----------------------------------------------------------------
+	C O N T E N T
+---------------------------------------------------------------- */
+
+#home .post-head, #articles-indv .post-head, #main h1 {
+	font-size: 50px;
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: normal;
+	text-transform: none;
+	margin: 10px 20px 2px;
+	line-height: 50px;
+	width: 870px;
+	color: #170900;
+	padding: 10px 0 5px;
+	letter-spacing: 0;
+/*  display: block;
+  height: 52px;
+  text-indent: -9999px;
+  border: none;
+  background: transparent url(../../i/entry/what-the-world-needs/title.png) no-repeat top left;*/
+	}
+
+#home .post-head a:link, #home .post-head a:visited {
+	color: #170900;
+	width: 782px;
+	display: block;
+	height: 52px;
+	}
+	
+#home .post-head a:hover {
+	border-bottom: 1px solid #170900;
+	}	
+	
+code, pre {
+	color: #08c;
+	}
+
+.search-btn { /* used in #sub */
+	background: #3d3d3d;
+	color: #e5e5e5;
+	}
+
+.comment-btn {
+	background: #333333;
+	color: #e5e5e5;
+	}
+
+.rss-icon {
+	background: #164a56;
+	}
+
+/*	C O L  1 */
+
+#content p, #comments p {
+	margin: 0 10px 20px 10px;
+	font-family: Georgia, Times, serif;
+	font-size: 14px;
+	line-height: 20px;
+	}
+	
+#content blockquote { /* includes comment blockquotes */
+	margin: 0 10px 20px 10px;
+	/*margin: 0 120px 20px 230px;*/	/* default alignment */
+	border: 1px dashed #ccc;
+	background: #eee;
+	}
+
+#col1 a, #col1 a:visited, #col2 a, #col2 a:visited {
+	background: #fcd7a6;
+	}
+
+#col1 {
+	float: left;
+	width: 540px;
+	margin-top: 30px;
+	margin-bottom: 340px;
+	color: #222;
+	}
+
+#col1 p {
+	margin: 0 10px 20px 230px;
+	}
+
+#col2 {
+	float: left;
+	width: 320px;
+	margin-top: 30px;
+	margin-left: 10px;
+	color: #222;
+	margin-bottom: 50px;
+	}
+
+#col1 .lead {
+	font-size: 16px;
+	line-height: 26px;
+	color: #330000;
+	margin: 0 10px 18px 10px !important;
+	}
+
+/*
+----------------------------------------------------------------
+	P O S T  N A V
+---------------------------------------------------------------- */
+
+#post-meta-top ul, #post-meta-bott ul {
+	border-top: 1px solid #ac9a76;
+	}
+
+#post-meta-top ul .comms, #post-meta-top ul .cats, #post-meta-bott ul .comms, #post-meta-bott ul .tags, #post-meta-bott ul .prev, #post-meta-top ul .prev, #post-meta-bott ul .next, #post-meta-top ul .next {
+	border-left: 1px solid #ac9a76;
+	}
+
+#dailyphoto ul .comms, #dp-indv ul .comms {
+	border-right: 1px solid #ac9a76;
+	}
+
+#home .post-head, #articles-indv .post-head, #main h1 {
+	border-bottom: 1px solid #ac9a76;
+	}
+
+#post-meta-top ul .comms em, #post-meta-bott ul .comms em  {
+	background: transparent url(../../i/comment-lg-bk.png) no-repeat 0 3px;
+	}
+
+#post-meta-top ul strong, #post-meta-top ul a:link strong, #post-meta-top ul a:visited strong, #post-meta-top ul .cats span, #post-meta-bott ul strong, #post-meta-bott ul a:link strong, #post-meta-bott ul a:visited strong, #post-meta-bott ul .tags span {
+	color: #000;
+	}
+
+#post-meta-top span,
+#post-meta-top span a:link,
+#post-meta-top a:link em, 
+#post-meta-top span a:visited,
+#post-meta-top a:visited em,
+#post-meta-bott span a:link, 
+#post-meta-bott a:link em, 
+#post-meta-bott span a:visited, 
+#post-meta-bott a:visited em {
+	color: #000;
+	}
+
+#post-meta-top ul a:hover strong,
+#post-meta-top span a:hover,
+#post-meta-top a:hover em, 
+#post-meta-bott ul a:hover strong,
+#post-meta-bott span a:hover,
+#post-meta-bott a:hover em {
+	color: #164a56 !important;
+	}
+
+
+/*
+----------------------------------------------------------------
+	F O O T E R
+---------------------------------------------------------------- */
+
+#footer-outer {
+	border-top: 1px solid #2f2f2f;
+	background: #000;
+	}
+
+#footer { color: #999; }
+		
+/*
+----------------------------------------------------------------
+	C O M M E N T S
+---------------------------------------------------------------- */
+
+#comm-outer {
+	background: #000;
+	margin-top: 0;
+	border-bottom: 1px solid #444 !important;
+	color: #ccc;
+	}
+
+#comm-head, #post-comm-head, #comm-preview-head { color: #fff; }
+
+#comm-head {
+	padding: 20px 0 0;
+	margin: 10px 0 0 0;
+	}
+
+#post-comm-head {
+	padding: 40px 0 0;
+	}
+
+#post-comm-head { border-top: none; border-bottom: 1px solid #444; }
+
+#comm-preview-head { border-bottom: 1px solid #444; }
+
+.comm-message blockquote, #preview-text blockquote {
+	border: 1px dashed #333;
+	background: #111;
+	}
+
+#comm-list dt { border-top: 2px solid #888; } /* Commenters' top color bar */
+
+#comm-list .jason dt { border-top: 2px solid #1f6a7b; } /* My comment top color bar */
+
+#comm-list em.comm-date { color: #666; }
+
+#comm-list a.comm-link { background: transparent url(../../i/comment-lg-wh.png);}
+
+#comm-list .comm-link a:hover { border-bottom: 1px solid #444; }
+
+#comm-list dd { border-top: 2px solid #444; }
+		
+#comm-list #preview-text { border-top: 2px solid #444; }
+	
+#comm-list .comm-avatar img { border: 1px solid #444; }
+
+/* F O R M */
+
+#post-comm { border-top: 1px solid #444; }
+
+.comm-permitted {
+	background: #eee;
+	color: #222;
+	border: 1px dashed #444;
+	}
+
+#post-comm label, .comm-permitted span { color: #666; }
+
+#comm-preview dt { background: url(../../i/comment-lg-wh.png) 0 2px no-repeat; }
+
+
+#post-comm {
+	float: left;
+	width: 865px;
+	padding: 20px 0 0 5px;
+	margin-top: 2px;
+	border-top: 1px solid #444;
+	}
+
+#post-comm label, .comm-permitted span, .guidelines span {
+	font-size: 11px;
+	color: #666;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	}
+
+#comm-preview dt {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-size: 15px;
+	padding: 0 0 0 22px;
+	margin: 15px 0 10px 0;
+	background: url(../../i/comment-lg-wh.png) 0 2px no-repeat;
+	}
+
+/* T E X T I L E */ 
+
+#textile { border: 1px solid #333; background-color: #111; }
+#textile h4 { color: #999; }
+#textile p { border-top: 1px solid #333; color: #fff; }	
+
+/* Don't need to be changed */
+#post-comm dl { padding: 4px 0; float: left; }
+#post-comm-form { width: 310px; float: left; }
+#post-comm-form p { font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Arial, sans-serif; font-size: 12px; margin: 0 0 10px 0; width: 290px; }
+#post-comm label span { letter-spacing: 0; text-transform: none; font-style: italic; }
+#post-comm .simple-label { font-size: 12px; letter-spacing: 0; text-transform: none; }
+#name, #email, #url, #comment { width: 297px; display: block; margin: 3px 0 10px 0; }
+#comm-preview { float: left; margin-left: 30px; width: 520px; }
+#comm-preview p { margin-right: 0; margin-left: 0; }

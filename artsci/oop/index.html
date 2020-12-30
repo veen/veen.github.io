@@ -1,0 +1,573 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Object Oriented Publishing</title>
+
+<style type="text/css">
+  <!-- 
+  h1, h2	 {
+    font: bold 12pt Arial, sans-serif;
+    margin-left:-20px;}
+  p,ul,ol {
+    font: 9pt/14pt Verdana, Arial, sans-serif;}
+  ul {
+    font: 9pt/14pt Verdana, Arial, sans-serif;
+    margin-top:0px;
+    list-style-type: square;}
+  body {
+    margin-left:15%;
+    padding: 0px;
+    background:#ffffff;}
+  table {
+    border: solid black 2px;
+    margin-bottom:20px;}
+  -->
+</style>
+<script language="JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+<body  bgcolor="#FFFFFF">
+<div class="content">
+<h1>Object Oriented Publishing</h1>
+<p><i>Note: This tutorial on developing dynamic, database-driven Web sites was excerpted from the book, "<a href="http://veen.com/artsci/">The Art & Science of Web Design</a>" by Jeffrey Veen.</i></p>
+<p>I was reading one of those professional reports the other day from one of those 
+  big research companies. The subject at hand was content management; specifically, 
+  how large companies were dealing with the incredible flow of stuff that needs 
+  to be posted to their Web sites. One interview with a product manager at a large 
+  site struck me with the fact that they currently had over <i>100 million</i> 
+  pages online, and were anticipating their growth rate doubling this year.</p>
+<p>“Good Lord,” I thought, “that must be a nightmare to manage.” And, in fact, 
+  it is. The report goes on to talk about multi-million dollar publishing systems, 
+  with artificial intelligence-based metadata systems and other strange sounding 
+  systems. It was enough to make my head spin.</p>
+<p>Thankfully, most of us don’t have page counts on our sites with seven figures. 
+  But that doesn’t mean we’re not facing similar struggles. Specifically, how 
+  can your site simultaneously grow and stay up to date? How do to you manage 
+  the flow of content through your site while developing new features, or redesigning 
+  the existing ones? It’s a challenge anyone with a site will eventually face.</p>
+<p>Through the following pages, I’ll show you a process by which anyone can convert 
+  an existing site made up of static html pages into a dynamic, database-driven 
+  site. We’ll look at how to uncover the structure of your content, how to strip 
+  that content naked and then push it through templates, and finally how this 
+  process is fundamentally changing how we design Web sites.</p>
+<p>And remember: size doesn’t matter. These principles apply to sites that have 
+  100 pages to sites that have a million. In fact, the example we’ll use is a 
+  site for a small, non-profit organization.</p>
+<p>So let’s roll up our sleeves and get to it.</p>
+<h2>Getting Started</h2>
+<p>I've spoken to a number of Web designers on all sorts of Web sites, and I've 
+  heard a common theme to many of their complaints. They talk about working with 
+  publishing systems or template languages in their organizations, but they feel 
+  completely cut off from how they work. &quot;Oh, I can't change that part of 
+  my site,&quot; they say. &quot;The programmers take care of that.&quot;</p>
+<p>If there is one important thing you should take away from this discussion, 
+  it is that anyone -- <i>anyone</i> -- can participate in the development of 
+  dynamic Web sites. The distinction between &quot;design&quot; and &quot;programming&quot; 
+  – or the even more disturbing nomenclature of &quot;technical&quot; and &quot;creative&quot; 
+  --  is artificial. They are as intertwined as the art and science of Web design 
+  itself.</p>
+<p>I call this process Object Oriented Publishing. Dynamic Web sites are built 
+  using relatively simple scripting languages. Even if you have never attempted 
+  to write a line of code, you can see results almost instantly. We not talking 
+  about compiling code or using debuggers. </p>
+<p>For this reason, we're going deconstruct an Object Oriented Publishing system 
+  behind a relatively simple site. I could have chosen a large scale commercial 
+  content site, or an ecommerce powerhouse with a triple-digit stock price. Instead, 
+  we're going to look at a small site from <a href="http://www.calvarypresbyterian.org/">a 
+  Presbyterian church</a> in San Francisco, California. This site faces the same 
+  problems as many others – with limited staff and resources, how can this organization 
+  maintain a Web presence that can expand quickly yet still maintain a professional 
+  and organized look?</p>
+  <p align="center"><a href="images/calvary_homepage.gif"><img src="images/icon_calvary_homepage.gif" width="300" height="238" border="0"></a><br>
+  <b>A simple Web site for a church in San Francisco.<br>
+  Yet it uses the same publishing techniques as <br>
+  some of the largest sites on the Web.</b></p>
+<p>The site is not terribly complex, yet there are a number of pages that need 
+  to be maintained by a staff unfamiliar with the peculiarities of building Web 
+  sites. To accommodate the desire for an organized look and feel, the site was 
+  developed using a series of scripts that run on the site's Web server. This 
+  ensures consistency across the many pages of the site, while freeing the church's 
+  staff to focus on developing the content.</p>
+<p>One of the goals of this Web site was to act as a repository for the sermons 
+  delivered during weekly worship services. Adding a page or two a week to a simple 
+  Web site may not seem like a very time consuming task, but there are quite a 
+  number of fairly technical steps involved – converting the Microsoft Word file 
+  of the sermon to HTML, ensuring proper navigation and branding exist on each 
+  page, transferring the file to the right place on the Web server, etc. In fact, 
+  the church was facing the very publishing problems we faced at Wired Magazine 
+  years ago – the same problems shared by most any Web site wishing to update 
+  with any regularity.</p>
+<p>Looking at how the church solved this problem is an excellent primer to Object 
+  Oriented Publishing. We'll start with an introduction to the entire process, 
+  then drill down into each part, using the church's sermon archive as an example. 
+  In the end, it should be clear just how easy it can be to get started with a 
+  system like this, and what the implications are for good Web design.</p>
+<p>To start, we need an understanding of the process. Below, I've outlined the 
+  basic steps to creating a Object Oriented Publishing system.</p>
+<ol>
+  <li> Strip your content of all formatting.</li>
+  <li> Figure out what the pieces are.</li>
+  <li> Store those pieces in a database (or something similar).</li>
+  <li> Design some templates.</li>
+  <li> Wire it all together.</li>
+</ol>
+<p>We're going to follow these steps as we develop a basic publishing system for 
+  Calvary Presbyterian Church's Web site. In the end, we should have a virtually 
+  maintenance free site that can be updated by someone with even the most basic 
+  computer skills.  </p>
+<h2>Naked Words</h2>
+<p>Before we can even think about what the pages are going to look like, we need 
+  to understand exactly what the content is. In the case of the sermons, the structure 
+  of each piece of content (or the <i>schema</i> to use database jargon) is pretty 
+  well defined. Each sermon was sent to the site's manager as a Microsoft Word 
+  file with the following information:</p>
+<ul>
+  <li>  Title: What the sermon was called. 
+    Essentially a headline.</li>
+  <li> Pastor: Who wrote and delivered the sermon.</li>
+  <li> SermonDate: When the sermon was delivered</li>
+  <li> Text1: A passage from the Bible that accompanied the sermon. Not the actual 
+    text, but a pointer consisting of book, chapter, and verse.</li>
+  <li> Text2: Often, there would be a second passage.</li>
+  <li> Body: The paragraphs of content.</li>
+</ul>
+<p>The process of identifying and labeling each component of a story is critical 
+  to the eventual success of a system like this. In time, we'll be using these 
+  little pieces of each sermon to design templates and create navigation. Think 
+  about the pages on your Web site and how the content could be broken up into 
+  little pieces. For example, if your responsible for job postings on a corporate 
+  site, you might develop a schema like this:</p>
+<ul>
+  <li> Job Title</li>
+  <li> Department</li>
+  <li> Description</li>
+  <li> Open Date</li>
+  <li> Requirements</li>
+  <li> Salary Range</li>
+  <li> Contact</li>
+</ul>
+<p>Or, if you're developing an ecommerce site, each product page might have a 
+  schema like this:</p>
+<ul>
+  <li>  Item Name</li>
+  <li> Description</li>
+  <li> List Price</li>
+  <li> Price</li>
+  <li> SKU#</li>
+  <li> Shipping Options</li>
+  <li> Current Stock</li>
+</ul>
+<p>You get the idea. This is simply a process of defining the content you'll be 
+  using at as fine a grain as possible. I suggest being as explicit as possible. 
+  Write down all the pieces just like I did above. Think about all the possibilities 
+  for the content. In the first example, could a sermon ever possibly have more 
+  than two Biblical passages associated with it? If so, I'd need to make a note 
+  of that now. Describe each one as clearly as possible, including what type of 
+  data it is: Date? Number? Text?</p>
+<h2>Thinking About Architecture</h2>
+<p>It's time to do some technical work now. We're going to take the schema we 
+  just documented and create a database to hold the content. But before we do 
+  that, it pays to take a quick overview of how systems like this really work.</p>
+<p>You may have heard the term &quot;three-tiered architecture&quot; thrown around 
+  in the past. This is simply more jargon for an overall structure of system design. 
+  When applied to the type of system we're developing here, a three-tiered architecture 
+  means something fairly specific: it refers to the basic components of an Object 
+  Oriented Publishing system. Here are the three tiers:</p>
+<ul>
+  <li> <b>Backend Database:</b> This is where the content is stored. Some popular 
+    databases include Microsoft SQL Server, Oracle, Sybase, and the open source 
+    MySQL.</li>
+  <li> <b>Middleware:</b> A server-based application that processes requests for 
+    pages and provides a scripting language for writing templates. Some popular 
+    middleware packages include Microsoft Active Server Pages (ASP), Allaire's 
+    Cold Fusion, and the open source PHP, We'll talk more about these a bit later.</li>
+  <li><b> Interface: </b>This refers to the HTML code that gets sent to your users' 
+    browsers.</li>
+</ul>
+<p>I'm writing this on a relatively standard laptop running the Windows 98 operating 
+  system. Also running on this machine is Microsoft's Personal Web Server (which 
+  includes the ability to process ASP templates) and the Access database software 
+  that ships with Microsoft Office. </p>
+  <p>Rember, I'm advocating an entry-level sort of site building here. I want 
+    you to experiement with the tools you have on hand and not get caught up in 
+    religious wars over operating systems, web servers, and scripting languages. 
+    But let me also reiterate that nobody in their right mind would use Microsoft's 
+    Personal Web server and the Access database on a site with any amount of traffic. 
+    Rather, you'd use a true network server, like Microsoft's Internet Information 
+    Server 5.0 running on Windows 2000 with an Oracle database or the like. Open 
+    Source fans would find the equivilent in the Appache Web server on Linux with 
+    the MySQL database. Ultimately, the process for choosing the right pieces 
+    is complicated and specific to every Web site. It's the reason why we pay 
+    our Chief Technology Officers so much. (In fact, take a look at this <a href="javascript:MM_openBrWindow('scripting_languages.html','','scrollbars=yes,width=500,height=550')">sidebar</a> 
+    for a quick comparison of a few of these scripting languages.)</p>
+<p>Just remember: <i>Anyone</i> can experiment with dynamic publishing. This isn't 
+  just the domain of engineers, database administrators, or any other IT professional. 
+  Getting started is simple. The principles and techniques are easy to understand. 
+  You can install the tools on your personal computer and appreciate how it works 
+  from the inside. It will make you a better designer.</p>
+<h2>Seting Up Databases and Servers</h2>
+  <p>Let's get started building the system. Since I have the schema for the sermon 
+    defined and documented, I can now create a database that will mimic it. That 
+    way, I'll be able to store all of this content in a well-structured place 
+    and know exactly what to ask for when I want to get it out again. Since I 
+    put the effort into the schema, this will be a relatively painless process. 
+    I start Access and create a new database, then add a new table (if you'd like 
+    some definitions, I've included a glossary of <a href="javascript:MM_openBrWindow('db_vocab.html','sidebar','scrollbars=yes,width=500,height=550')">Database 
+    Vocabulary</a>).</p>
+<p>Now, I simply add fields to the table in my database. Like I said, this is 
+  pretty easy, since I documented my schema first. I add each one and give it 
+  the appropriate properties. One important note: I've added an additional field 
+  labeled 'sermonid', given it a type of 'AutoNumber', and made it the table's 
+  Primary Key. This all means that each sermon in the sermons table will get a 
+  unique number assigned to it when the content gets added. That way, when I start 
+  to put templates and pages together later, I'll be able to ask for specific 
+  sermons by an ID number that gets automatically assigned by the database.</p>
+  <p align="center"><a href="images/access_fields.gif"><img src="images/icon_access_fields.gif" width="300" height="216" border="0"></a><br>
+  <b>Adding fields to an Access database.</b></p>
+<p align="left">Next, I can start adding some content. It's very important to 
+  strip any and all formatting from the text at this point. All I want in my database 
+  is plain text – not Microsoft Word formatting, no HTML tags – nothing. All the 
+  presentation information will be applied through a template a bit later. For 
+  now, I want the content to live in on my database in as pure a form as possible.</p>
+<p align="left">In the case of the staff at the church, they simply copy and paste 
+  the content from a Word document into the appropraite fields in the database. 
+  No need for them to worry about HTML or any other sort of formatting. They're 
+  using the tools they're comfortable with.</p>
+<p>As I mentioned earlier, I happen to be running Windows 98. On the CD-ROM that 
+  came with my system I found the installation option for Microsoft's Personal 
+  Web Server. I installed it on my machine and can now serve Web pages to the 
+  rest of the world, but more importantly, I can write pages embedded with scripts 
+  intended to be run on a Web server.</p>
+  <div align="center"><a href="images/pws_manager.gif"><img src="images/icon_pws_manager.gif" width="300" height="211" border="0"></a><br>
+  <b> Installing a Web server is as easy as clicking &quot;Start&quot;. <br>
+  I'm ready to build a few dynamic pages. </b> </div>
+<p>Once the server is installed, using it is a matter of point and click. I need 
+  to tell the server where to look for my pages, and I need to configure it to 
+  know about my database. Both of these processes are described in more detail 
+  in this article. </p>
+<p>Once I've clicked the &quot;Start&quot; button in the control panel, I can 
+  start building the site.</p>
+<h2>Creating Templates</h2>
+ 
+  
+<p>Simple pages, simple code. Let's add a bit more complexity to this project. 
+  At this point, I've copied and pasted about a dozen sermons from their Word 
+  files into the Access database. Now, I can create a template that grabs the 
+  content out of the database, wraps it in my interface and design, and sends 
+  it off to my users' browsers.</p>
+  <p align="center"><a href="images/calvary_sermon.gif"><img src="images/icon_calvary_sermon.gif" width="300" height="287" border="0"></a><b><br>
+  By creating a template, we can pull content <br>
+  out of the database and display it on a Web page.</b></p>
+<p>I start the template just like I did the previous pages: by including my standard 
+  header. These pages need to look like every other page on the site. But that's 
+  where the similarity stops. These pages are different because they really don't 
+  exist. What I mean is that I'm actually going to be creating what appears to 
+  my users to be dozens of new pages, but will actually be just one template pulling 
+  content from the database I created earlier. I'll explain this more by example.</p>
+<p>First off, we need to open a connection to the database and ask for some content. 
+  Each middleware package has it's own unique way of doing this. In fact, Microsoft's 
+  ASP technology has a number of different ways to accomplish this. Again, it's 
+  important to remember here that the syntax for what we're doing is almost irrelevant. 
+  What matters most is the overall architecture of this system. I'm going to create 
+  something called a Server Object that will let me to the Access database of 
+  sermons, then allow me to build a page with the results.</p>
+<pre>&lt;OBJECT RUNAT=Server ID=Conn PROGID=&quot;ADODB.Connection&quot;&gt;&lt;/OBJECT&gt;
+&lt;%
+Conn.Open &quot;Calvary
+Set RS = Conn.Execute(SELECT * FROM sermons 
+  WHERE sermonid= 1
+%&gt;</pre>
+<p>The first line simply tells the server to open a connection to the database. 
+  The &lt;OBJECT&gt; tag is similar to the one you may have used to include video 
+  or Flash in your Web pages. The exception here is the &quot;RUNAT=Server&quot; 
+  attribute which, as you would expect, creates the object on the Web server rather 
+  than in the browser. The next couple of lines start the communication process 
+  with the database. &quot;Conn.Open&quot; tells Access that we're after the &quot;Calvary&quot; 
+  database, where the sermons are stored. The next line fills a variable with 
+  the results of our first query. In this case, we're sending some SQL commands 
+  to the database, asking for the following, &quot;In the Calvary database, please 
+  find [SELECT] all the fields [*] from the first row [sermonid=1] in the specified 
+  table [sermons].&quot; </p>
+ 
+  
+<p>Now I've got a variable (&quot;RS&quot;) full of the content I originally pasted 
+  from my Word file into the database. The rest of the template consists of my 
+  HTML with variables where the content should be. So let's get some of this content 
+  onto the page.</p>
+  
+<pre>     &lt;h1 class=&quot;title&quot;&gt;&lt;%= RS(&quot;title&quot;)    %&gt;&lt;/h1&gt;</pre>
+<p>Since the top of the page is already taken care of by using our included header 
+  fragment, I can move directly into the guts of the page. Here, I've added a 
+  headline (&lt;h1&gt;) and then printed the &quot;title&quot; that came from 
+  the database. Now, when the server processes this page, it will substitute the 
+  variable with whatever is in the database field &quot;title&quot; in the row 
+  starting with &quot;sermonid=1&quot;. Notice how this variable maps exactly 
+  to the fields I added when I created the Access database, which in turn map 
+  to the schema I developed at the very beginning. In fact, using ASP, my whole 
+  schema is available to me:</p>
+<pre>     &lt;%= RS(&quot;title&quot;) %&gt;
+     &lt;%= RS(&quot;pastor&quot;) %&gt;
+     &lt;%= RS(&quot;sermondate&quot;) %&gt;
+     &lt;%= RS(&quot;text1&quot;) %&gt;
+     &lt;%= RS(&quot;text2&quot;) %&gt;
+     &lt;%= RS(&quot;body&quot;) %&gt;</pre> 
+<p>So the rest of the page is easy:</p>
+<pre>     &lt;div class=&quot;pastor&quot;&gt;&lt;%  = RS(&quot;pastor&quot;) %&gt;&lt;/div&gt;
+     &lt;div class=&quot;sermondate&quot;&gt;&lt;% = RS(&quot;sermondate&quot;) %&gt;&lt;/div&gt;
+     &lt;div class=&quot;text1&quot;&gt;&lt;%= RS(&quot;text1&quot;)%&gt;&lt;/div&gt;
+     &lt;div class=&quot;text2&quot;&gt;&lt;%= RS(&quot;text2&quot;)%&gt;&lt;/div&gt;
+     &lt;div class=&quot;body&quot;&gt;&lt;%= RS(&quot;body&quot;)%&gt;&lt;/div&gt;</pre>
+<p>This code is optimized for a browser that supports Cascading Stylesheets.  
+  Each of these variables could have been surrounded by a &lt;TABLE&gt; and numerous 
+  &lt;FONT&gt; tags. And, since I'm using a dynamic publishing system, I could 
+  very well create separate versions of this code for separate browser versions 
+  and simply serve the appropriate one. But I wanted to show here the connection 
+  between my original architecture, the database structure, my template code, 
+  and the interface code. Notice how well all of the different pieces tie together. 
+  Just as the variable names match the database fields, the class names that reference 
+  CSS declarations match as well. Since I was very specific in how my content 
+  was structured at the instigation of the process, the whole system can grow 
+  from a solid foundation. Good design doesn't start with page layout. Good design 
+  starts at the beginning.</p>
+<p>I'm not quite finished with the template, however. Since I have a complete 
+  scripting language at my command, I can manipulate a few things to get them 
+  exactly the way I want them. For example, the date coming out of the database 
+  isn't terribly attractive as &quot;11/16/2000&quot;. A bit of code fixes that:</p>
+<pre>     newdate = FormatDateTime(RS(&quot;sermondate&quot;), vbLongDate)</pre>
+<p>which takes the date from the database and passes it to a built-in function 
+  called &quot;FormatDateTime&quot; which does exactly what you'd think it does. 
+  In this case, I've asked it to set the date in one of the predefined formats: 
+  vbLongDate gives me &quot;November 16, 2000&quot;.</p>
+<p>I need to do a similar transformation on the &quot;body&quot; content, since 
+  it lives in the database without any tags at all. Since each paragraph in the 
+  &quot;body&quot; has line breaks between them, I can replace (using another 
+  eponymous built-in function)  them with &lt;P&gt; tags to show the paragraphs 
+  in the browser:</p>
+<pre>     replace(RS(&quot;body&quot;), vbcr, &quot;&lt;p&gt;&quot;)</pre>
+<p>And on and on. I can change anything I like, or use logic (if…then…else statements) 
+  to make my template even smarter. For example, if one the particular sermon 
+  only has one Biblical passage associated with it, then we only need to show 
+  one in our template. We can check and see if anything is in the &quot;text2&quot; 
+  variable, and only show the surrounding HTML if something is in there:</p>
+<pre>     &lt;%if RS(&quot;text2&quot;) = &quot;&quot; then %&gt;
+          &lt;!-- No code here --&gt;
+     &lt;% else %&gt;
+          &lt;div class=&quot;text2&quot;&gt;&lt;%= RS(&quot;text2&quot;)%&gt;&lt;/div&gt;
+     &lt;% end if %&gt;</pre>
+<h2>Designing With Code</h2>
+<p>The example so far only does one thing: it pulls one pre-specified story from 
+  the database and runs it through a formatting template. What about all the other 
+  sermons? How will I get them out of the database? </p>
+<p>First, I need to add a way to reuse my template over and over again for each 
+  sermon in the database. Remember that SQL command I used to ask the database 
+  for the content?</p>
+<pre>     &quot;SELECT * FROM sermons WHERE sermonid= 1&quot;</pre>
+<p>I need to replace that &quot;sermonid=1&quot; with a way to say, in essence, 
+  &quot;sermonid can equal anything&quot;. For this, I'll use the URL, or, more 
+  specifically, the query string part of the URL.</p>
+<pre>     http://www.calvarypresbyterian.org/sermonDisplay.asp?showsermon=1</pre>
+<p>You may have seen URLs like this before. They point to a server and a specific 
+  page, but then follow that with a question mark and one or more variables with 
+  values. Everything following the question mark is called the query string. Here, 
+  I've created a URL that sets a variable named &quot;showsermon&quot; to the 
+  value of &quot;1&quot;. Now in my template, I can ask the server to put whatever 
+  it finds in the query string into a variable I can use on my page:</p>
+<pre>     showsermon = Request.QueryString(&quot;showsermon&quot;)</pre>
+<p>Now my template has a variable named &quot;showsermon&quot; with a value of 
+  &quot;1&quot;. Next, I use it in my SQL statement:</p>
+<pre>     &quot;SELECT * FROM sermons WHERE sermonid=&quot; &amp; showsermon</pre>
+<p>And from there, I can change the number in the URL and automatically show the 
+  corresponding sermon from the database. So if I send a user to:</p>
+<pre>     http://www.calvarypresbyterian.org/sermonDisplay.asp?showsermon=2</pre>
+<p>They'll see a nicely formatted page with the second sermon in the database. 
+  And:</p>
+<pre>     http://www.calvarypresbyterian.org/sermonDisplay.asp?showsermon=3</pre>
+<p>will show them the third. One important note: In this example, there are only 
+  three sermons in the database. If a user were to change the number in the URL 
+  above to a 4 or higher, bad things would happen – most notably they would get 
+  an ugly error. Well-written, robust code should always include routines that 
+  handle errors like this, but I'm leaving them out for the sake of clarity in 
+  this system.</p>
+<p>Let's see what I've got so far now:</p>
+<pre>&lt;OBJECT RUNAT=Server ID=Conn PROGID=&quot;ADODB.Connection&quot;&gt;&lt;/OBJECT&gt;
+
+&lt;%
+showsermon = Request.QueryString(&quot;showsermon&quot;)
+Conn.Open &quot;Calvary&quot;
+Set RS = Conn.Execute(SELECT * FROM sermons    WHERE sermonid=&quot; &amp; showsermon)
+%&gt;
+
+&lt;!--#include virtual=&quot;/includes/header.inc&quot;    --&gt;
+
+&lt;h1 class=&quot;title&quot;&gt;&lt;%= RS(&quot;title&quot;) %&gt;&lt;/h1&gt;
+&lt;div class=&quot;pastor&quot;&gt;&lt;%= RS(&quot;pastor&quot;) %&gt;&lt;/div&gt;
+&lt;div class=&quot;sermondate&quot;&gt;&lt;%= FormatDateTime(RS(&quot;sermondate&quot;), vbLongDate)&lt;/div&gt;
+&lt;div class=&quot;text1&quot;&gt;&lt;%= RS(&quot;text1&quot;)%&gt;&lt;/div&gt;
+    &lt;%if RS(&quot;text2&quot;) = &quot;&quot; then %&gt;
+       &lt;!-- No code here… --&gt;
+    &lt;% else %&gt;
+      &lt;div class=&quot;text2&quot;&gt;&lt;%= RS(&quot;text2&quot;)%&gt;&lt;/div&gt;
+    &lt;% end if %&gt;
+
+&lt;div class=&quot;body&quot;&gt; replace(RS(&quot;body&quot;),    vbcr, &quot;&lt;p&gt;&quot;)&lt;/div&gt;
+
+&lt;%
+RS.Close
+Conn.Close
+%&gt;
+
+&lt;!--#include virtual=&quot;/includes/footer.inc&quot;    --&gt;
+</pre>
+<p>Reviewing my template, I find the following to be happening: I'm instantiating 
+  an object on the server that lets me talk to a database named &quot;Calvary&quot;. 
+  Once I open the connection, I ask for all the fields in the table &quot;sermons&quot; 
+  from the row which has a &quot;sermonid = 1&quot;. Then I start putting things 
+  on the page. I start with my page header, which I include from a fragment file. 
+  Then comes the headline, pastor's name, and sermon date – which I've reformatted 
+  to my liking. After that, I put down the first passage, then check and see if 
+  there is a second. If not, I show nothing, else I print the code. Then, I add 
+  &lt;P&gt; tags to the body and show that as well. I send two commands to the 
+  object that talks to the database, telling it to close the connection. Finally, 
+  I include a second fragment – the page footer with copyright and other information 
+  – at the end of the template.</p>
+<p>That's it. That's how easy it is to start building a basic database publishing 
+  system. </p>
+<h2>Building an Index</h2>
+<p>If I were creating this project out of static HTML, I'd now have to take all 
+  the sermon pages and copy and paste relevant information out of them and into 
+  an index page. I'd probably want to show the date, the title, and the author 
+  of each one. I'd also need to include the URL in an &lt;A HREF&gt; tag to provide 
+  pointer. The end result would look something like the screenshot on this page.</p>
+  <p align="center"><a href="images/sermon-index.gif"><img src="images/icon_sermon-index.gif" width="250" height="348" border="0"></a><b><br>
+  A list of all the pages available, <br>
+  organized as a navigable index.</b></p>
+<p align="left">But this isn't a static HTML project. All that information is 
+  sitting in the database waiting to be used. Or, in this case, reused.</p>
+<p>I start with a very similar template as before. I open the database connection 
+  and send some SQL asking for the appropriate content. Then I include the page 
+  header and display the results. Only this time, the SQL is different:</p>
+<pre>Set RS = Conn.Execute(&quot;SELECT sermonID, title, pastor, sermonDate FROM sermons ORDER BY sermonDate DESC&quot;)</pre>
+<p>You can see that I'm no longer asking the database for every field. In my last 
+  SQL statement, I told it to &quot;SELECT *&quot;, which means, &quot;All Fields&quot;. 
+  Now, however, I'm asking for specific fields: sermonid, title, pastor, and sermonDate; 
+  still from the table &quot;sermons&quot;. I could ask for them all, but since 
+  I have no intention of using the &quot;body&quot; field, and since it's such 
+  a large field, my page will perform faster by being more specific. There is 
+  one other difference between this SQL statement and the previous is the &quot;ORDER 
+  BY&quot; command. This takes the results of my query, which will come out of 
+  the database in no particular order, and rank all the rows by date. The &quot;DESC&quot; 
+  means descending. I could have otherwise specified &quot;ASC&quot; to reverse 
+  the order.</p>
+<p>The &quot;RS&quot; variable now has a lot of stuff in it. It's holding all 
+  the IDs, titles, pastor names, and dates of each sermon in the database. My 
+  template needs to arrange this data into a nice interface for my users.  To 
+  do this, I'll put everything in a table, starting with some headers for each 
+  column:</p>
+<pre>&lt;TABLE BORDER=0&gt;
+  &lt;tr&gt; 
+    &lt;th&gt;Date&lt;/th&gt;
+    &lt;th&gt;Sermon&lt;/th&gt;
+    &lt;th&gt;Pastor&lt;/th&gt;
+  &lt;/tr&gt;</pre>
+<p>Then I'll start a loop that runs through all the results I got back from my 
+  query, printing each variable as it comes to it:</p>
+<pre>&lt;% Do While Not RS.EOF %&gt; 
+  &lt;tr&gt;
+    &lt;td class=&quot;sermondate&quot;&gt;
+      &lt;%= RS(&quot;sermondate&quot;) %&gt;
+    &lt;/td&gt;
+    &lt;td class=&quot;title&quot;&gt;
+      &lt;a href=&quot;/Calvary/sermons/sermonDisplay.asp?id=&lt;%= RS(&quot;sermonID&quot;) %&gt;&quot;&gt;&lt;%= RS(&quot;title&quot;) %&gt;&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td class=&quot;pastor&quot;&gt;
+      &lt;%= RS(&quot;pastor&quot;) %&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;% 
+    RS.MoveNext
+    Loop
+%&gt;</pre>
+
+<p>There are some interesting things going on here. First, I add a line of code 
+  that tells the template to loop through all the results until it runs out of 
+  results, or &quot;While not RS.EOF&quot; (which stands for the &quot;end of 
+  file&quot;). At the end of the block of code, I tell it to move to the next 
+  set of results (&quot;RS.MoveNext&quot;) and the &quot;Loop&quot;. This will 
+  create row after row of a table, but since I put this loop below the first &lt;TR&gt;, 
+  only one header.</p>
+<p>I'm still using the same class names for my CSS as before, carefully matching 
+  them to the variable names to keep everything clear. Each cell in the table 
+  now contains the replaced value of each variable. The result is a well formatted 
+  table of contents to all the sermons in the database.</p>
+<p>One final note of interest here. In the second cell of the table, I'm displaying 
+  the title of the sermon. I'm also using that page element as the navigational 
+  link to the actual sermon. To do this, I've included part of the URL in the 
+  &lt;A HREF&gt; tag, and used the &quot;sermonid&quot; variable from the database 
+  to generate the rest of the address. As the template loops through all the results 
+  of the query, the URLs automatically are assembled to point to the correct sermon 
+  in the database:</p>
+<pre>     &lt;a href=&quot;/Calvary/sermons/sermonDisplay.asp?id=&lt;%=RS(&quot;sermonID&quot;)    %&gt;&quot;&gt;</pre>
+<p>The system is essentially complete. All the sermon pages are identically formatted, 
+  creating a clean and consistent interface to an ever-growing archive of content. 
+  That archive is accessible through a nearly automatic index pulled from the 
+  same reusable fields of the database I used for displaying the sermons. Maintenance 
+  is a breeze. Want to change the design? A quick template edit updates the hundreds 
+  of existing pages on the site. Find an error? Change it in the database and 
+  it updates wherever it appears – on a sermon page, in the index, on the search 
+  results page.</p>
+<h2>Eternally Fresh</h2>
+<p> The sermon archive on this site spans five years worth of content. But now, 
+  the content of each page – regardless of age – can be redesigned or embellished 
+  with an up-to-the-minute accurate feature. It is as if I was updating every 
+  single page in the archive every time someone adds a new sermon to the database. 
+  Of course, you <i>could</i> do something like this by hand, but the labor would 
+  be prohibitive. You would literally spend all your time maintaining your site, 
+  at the expense of creating new content and features.</p>
+<p>Systems like this also have an interesting historical effect on the pages they 
+  contain. If I decided to, say, change the background color of every page, or 
+  use advanced scripting for a feature, or whatever, I would be changing <i>every</i> 
+  page. The implication, then, is that the pages will cease to reflect the visual 
+  design and technological advances of the era in which they were created. For 
+  example, when I was studying history in college, I would scour editions of Life 
+  Magazine dating from the late 1800s while doing research. Much of the value 
+  of these sources was not only in the content of the articles, but the context 
+  in which they were displayed. Advertisements of the day, typography from the 
+  last century and other tidbits would add to the overall impression of the time 
+  in which the article existed. Will we lose this value on the Web? Pages created 
+  just five years ago already fail to render in today's browsers as old HTML elements 
+  become deprecated in new standards. The advent of Object Oriented Publishing 
+  takes this even farther, separating not only content from it's presentation, 
+  but it's historical context as well. It's a tenuous balance between the efficiency 
+  of dynamic publishing and the value of learning from our past mistakes and achievements.</p>
+<p>And not everybody thinks database-driven template design is <i>really</i> design. 
+  Some designers I've spoken with find it insulting to think that each and every 
+  story in a Web site should be absolutely identical. Content, the argue, should 
+  be designed based on what it says and what it means. Visual design communicates 
+  as well as the words, they would argue. And I would agree, but there is a reality 
+  on the Web that forces a compromise.</p>
+<p>First, design can and should conform to content, but tools are tools. Users 
+  learn how interfaces work, and expect those interfaces to work the same time 
+  after time. Developing custom design treatments for story after story on a Web 
+  site can lead to a disorientation as users are forced to pick out the particular 
+  useful bits of an interface over and over again as they move through a site.</p>
+<p>But more importantly, a dynamic publishing system can give commercial Web sites 
+  an edge to survival. The Web is still young, and business models are evolving 
+  as quickly as the technology behind today's Web sites. Yet despite the surge 
+  in &quot;dot com&quot; stock prices and seemingly endless venture capital being 
+  invested in startups, the fact remains that it can be very difficult to provide 
+  free content supported with advertising. The cost of advertising on a Web site 
+  is significantly less than what it costs to run ads in printed publications 
+  or on television- two other forms of media that are typical free to end users, 
+  with costs being offset by messages from sponsors. Ultimately, successful business 
+  models will emerge from the chaos that is today's adolescent Web. But today, 
+  commercial sites need every edge they can muster.<br>
+</p>
+<p>So go forth and experiement. There's an Object Orient Web site in your future.</p>
+</div>
+</body>
+</html>

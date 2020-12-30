@@ -1,0 +1,4 @@
+Redirect /apps http://mail.google.com/a/smallbatchinc.com
+Redirect /index.html http://smallbatchinc.com/news/wikirank_acquired.html
+Redirect /news/index.html http://smallbatchinc.com/news/wikirank_acquired.html
+

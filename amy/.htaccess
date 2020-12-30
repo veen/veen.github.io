@@ -1,0 +1,76 @@
+# Emergency Fix by pair Networks - Fri May  4 15:05:06 2012
+RewriteEngine on
+RewriteCond %{QUERY_STRING} ^[^=]*$
+RewriteCond %{QUERY_STRING} %2d|- [NC]
+RewriteRule .? - [F,L]
+
+# hack for Mt3.2 since pair upgraded to php5
+Action application/x-pair-php4 /cgi-sys/php4.cgi
+AddType application/x-pair-php4 .php
+# end hack
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /amy/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /amy/index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

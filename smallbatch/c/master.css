@@ -1,0 +1,148 @@
+/*  This code is copyrighted to Small Batch Inc.
+    This means you may NOT use it for your site's design.  */
+
+/*
+----------------------------------------------------------------
+	B A S E
+---------------------------------------------------------------- */
+
+body {
+	padding: 0;
+	font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2", Georgia, "Times New Roman", Times, Serif;
+	font-size: 18px;
+	color: #333;
+	background: #fff;
+	}
+
+a:link, a:visited {
+	color: #0c97c4;
+	text-decoration: underline;
+	}
+	
+a:hover {
+	color: #086381;
+	text-decoration: underline;
+	}
+
+#main-outer {
+	background: transparent;
+	width: 100%;
+	}
+
+#main {
+	position: relative;
+	width: 600px;
+	margin: 0 auto;
+	background: transparent;
+	padding: 60px 0;
+	}
+
+/*
+----------------------------------------------------------------
+	M I S C
+---------------------------------------------------------------- */
+
+hr, .hide {
+	display: none;
+	}
+
+a img {
+	border: none;
+	}
+
+/*
+----------------------------------------------------------------
+	C O N T E N T
+---------------------------------------------------------------- */
+
+#main p {
+	margin-bottom: 1.5em;
+	}
+
+h1 {
+	text-transform: uppercase;
+	color: #fff;
+	letter-spacing: 2px;
+	font-weight: normal;
+	font-family: "museo-slab-1","museo-slab-2", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Arial, sans-serif;
+	font-size: 14px;
+	padding: 8px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: #0c97c4;
+	font-weight: 300;
+	}
+
+h2 {
+	font-size: 32px;
+	text-transform: uppercase;
+	font-family: "museo-slab-1","museo-slab-2", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Arial, sans-serif;
+	margin-bottom: .5em;
+	position: relative;
+	font-weight: 900;
+	color: #0c97c4;
+	}
+
+h3 {
+	text-transform: uppercase;
+	color: #666;
+	letter-spacing: 2px;
+	font-weight: bold;
+	font-size: 13px;
+	}
+
+h4 {
+	text-transform: uppercase;
+	color: #999;
+	letter-spacing: 2px;
+	font-family: "museo-slab-1","museo-slab-2", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 900;
+	}
+
+.about {
+	font-size: 12px;
+	color: #666;
+	}
+
+/*
+----------------------------------------------------------------
+	F O O T E R
+---------------------------------------------------------------- */
+
+#footer {
+	border-top: 1px solid #ccc;
+	}
+	
+#footer ul {
+	font-size: 12px;
+	padding: 10px 0;
+	margin: 0 0;
+	list-style: none;
+	}
+
+#footer a, #footer a:link, #footer a:visited {
+	text-decoration: none;
+	}
+
+#footer a:hover {
+	text-decoration: underline;
+	}
+
+.metanav li {
+	display: inline;
+	padding: 0 10px;
+	border-left: 2px solid #eee;
+	margin: 0;
+	background: none;
+	}
+
+.metanav .first {
+	padding-left: 0;
+	border: none;
+	}
+
+.twitter-icon {
+	margin-bottom: -2px;
+	}

@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <title>Droid Serif: regular, regular italic, bold, bold italic</title>
+    <style type="text/css">
+    @font-face {
+      font-family: "droid-serif";
+      src: url("f/regular.svg#typekit") format("svg");
+      font-style: normal;
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: "droid-serif";
+      src: url("f/regular-italic.svg#typekit") format("svg");
+      font-style: italic;
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: "droid-serif";
+      src: url("f/bold.svg#typekit") format("svg");
+      font-style: normal;
+      font-weight: 700;
+    }
+    @font-face {
+      font-family: "droid-serif";
+      src: url("f/bold-italic.svg#typekit") format("svg");
+      font-style: italic;
+      font-weight: 700;
+    }
+    .droid-serif{font-family:"droid-serif",serif;}
+    </style>
+  </head>
+  <body>
+    <p class="droid-serif">
+      Test
+    </p>
+    <p class="droid-serif">
+      <em>Test</em>
+    </p>
+    <p class="droid-serif">
+      <strong>Test</strong>
+    </p>
+    <p class="droid-serif">
+      <strong><em>Test</em></strong>
+    </p>
+  </body>
+</html>

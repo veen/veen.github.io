@@ -1,0 +1,109 @@
+<!html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Size &amp; Scale</title>
+  <style type="text/css">
+    @font-face {
+      font-family: 'Fontin Sans';
+      src: url(Fontin_Sans_R_45b.otf); /* A font by Jos Buivenga (exljbris) -> www.exljbris.nl */
+      font-weight: normal;
+      font-style: normal;
+    }
+    
+    body {
+      font-size: 62.5%;
+    }
+    
+    .wrapper {
+      padding: 1em;
+      background-color: #eee;
+      margin-bottom: 1em;
+      position: relative;
+    }
+    .wrapper h2 {
+      font-weight: normal;
+      position: absolute;
+      margin: 0;
+      font-size: 2.1em;
+      color: #666;
+    }
+
+    td {
+      text-align: center;
+      padding: 0 .3em;
+    }
+    tr.letters td {
+      border-bottom: 1px solid #666;
+      vertical-align: bottom;
+      padding-bottom: 1px;
+    }
+    tr.numbers td {
+      color: #666;
+      font-family: Helvetica;
+      line-height: 1;
+      vertical-align: bottom;
+      font-size: .5em;
+    }
+    
+
+    .helvetica {
+      font-family: 'Helvetica';
+    }
+    .helvetica td {
+      line-height: .58;
+    }
+    
+    .times {
+      font-family: 'Times';
+    }
+    .times td {
+      line-height: .52;
+    }
+
+    .fontin-sans {
+      font-family: 'Fontin Sans';
+    }
+    .fontin-sans td {
+      line-height: .65;
+    }
+    
+  </style>
+  <script type="text/javascript" src="../javascripts/jquery-1.3.2.js"></script>
+  <script type="text/javascript">
+    var scale = [6,7,8,9,10,11,12,14,16,18,21,24,36,48,72];
+    var letter = 'a';
+
+    function buildTable(parent, letter, scale) {
+      var table = $('<table></table>').appendTo(parent);
+      var letters = $('<tr></tr>').appendTo(table).addClass('letters');;
+      var numbers = $('<tr></tr>').appendTo(table).addClass('numbers');
+
+      for (var i = 0; i < scale.length; i++) {
+        var size = scale[i];
+        var content = $('<span>' + letter + '</span>').css('font-size', (size / 10) + 'em');
+        $('<td></td>').append(content).appendTo(letters);
+        $('<td>' + size + '</td>').appendTo(numbers);
+      }
+    }
+
+    $(function() {
+      buildTable($('.helvetica'), letter, scale);
+      buildTable($('.times'), letter, scale);
+      buildTable($('.fontin-sans'), letter, scale);
+    })
+
+  </script>
+</head>
+<body>
+  <div class="wrapper helvetica">
+    <h2>Helvetica</h2>
+  </div>
+  <div class="wrapper times">
+    <h2>Times</h2>
+  </div>
+  <div class="wrapper fontin-sans">
+    <h2>Fontin Sans</h2>
+  </div>
+</body>
+</html>

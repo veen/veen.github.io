@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Jeffrey Veen</title>
+	<link rel="stylesheet" type="text/css" href="../home/jeff.css">
+</head>
+
+<body>
+
+<h1>Jeffrey Veen</h1>
+
+<h2>The Art & Science of Web Design: Chapter Excerpt</h2>
+
+<h3>Automatic Web Design</h3>
+<p>In what now seems like a past life, I used to be the managing editor of a series of small community newspapers. We did stories on car crashes and Little League scores and weddings and city council meetings -- with a staff of five. So, besides being managing editor, I also reported and wrote stories, took the occasional photograph and laid out all the pages of the paper. Laying out newspapers can be fun, until you get to the headlines. Writing and sizing headlines can be as invigorating as writing haiku all day long - interesting for a while, but eventually degrading into tedium. The words of the headlines, you see, had to match the width of the columns in the stories. With fairly narrow columns and typically constrained headlines, the job became one of constant word play. Wouldn't it be wonderful, I would dream, if I could have a machine that did this for me? </p>
+
+<p>We're about to to create a design that should feel right no matter what environmental variables are at play. So far, we've accounted for the width of the browser window when scaling table cells, and the user preferences for setting font size. Now I'll put them together and add scripting to dynamically size page elements based on a slew of variable factors.</p>
+
+<p>The more you explore the behavior of Web pages, the more you'll have to occasionally dip into scripting to achieve the effects you're after. As I said in Chapter One, the interdisciplinary nature of the Web requires us to branch out as far as we can towards the other domains. We're going to be using Javascript to manipulate the visual appearance of our pages.</p>
+
+<p>One of the wonderful features of Web scripting languages like Javascript is the ability to peer into our users' worlds. Thus, I can gain access to things like the default values of many things: what browser they are using, what plugins are installed, and even useful data like the screen resolution and browser window width. The latter are particularly interesting. If I can tell what size the screen is and how wide the browser is on that screen, I should be able to lay out pages based on that knowledge.</p>
+
+<p>To get the window width to lay out our page, we're going to have to ask using the native language of the browser. This language - the vocabulary used to address each and every aspect and element of a particular page - is called the Document Object Model, or DOM. The DOM is really just shorthand notation for asking the browser questions like, "Hey, what color is the fourth paragraph on this page?" Or, in my example, "I need to know the current width of the browser window in pixels." Here's how I ask that question using Javascript:</p>
+
+<pre>var mySize = document.body.offsetWidth;</pre>
+
+<p>This little bit of code sets up a variable for us named mySize, into which we dump the width of the current browser window. More specifically, we'll get the width of the canvas, or the number of visible horizontal pixels being displayed in the user's current window. </p>
+
+<p>Now, we can do some simple calculations to derive a font size. In the example below, a typical news story from the Wired News web site, I've used this algorithm to set the size of the headline:</p>
+
+<p><b>	SCREENSHOT: wired_news_big.gif</b></p>
+
+<pre>&lt;script&gt;
+  var mySize = document.body.offsetWidth/29;
+  headline.style.fontSize = mySize;
+&lt;/script&gt;</pre>
+ 
+<p>Let's look at what's going on here. First, we're dealing with a page that's been set up with a liquid structure. The logo and header are locked to the top of the screen, and sized at 100%, to fill up the entire window. Then, the story sits in a table cell between two columns -- an empty margin and a collection of narrow advertising units. The two outer columns are locked to an absolute width, while the story fills the remaining space. Thus, the layout is responding to the variable width of the user's browser.</p>
+
+<p>The headline, however, is what we're going to change. The text itself is rendered with this structural code:</p>
+
+<pre>&lt;H1 id="headline"&gt;Riffage Buys SF Concert Hall&lt;/H1&gt;</pre>
+
+<p>and this style code:</p>
+
+<pre>&lt;style&gt;
+body {font-size: .8em; font-family: Verdana, Arial, Geneva, sans-serif}
+H1   {font-family: Verdana, Arial, Helvetica, san-serif; font-weight: bold;}
+&lt;/style&gt;</pre>
+
+<p>Combining the structure, style, and behavior, we get a dynamically sized headline. The JavaScript code takes the width of the canvas by asking the browser for it by way of the document.body.offsetWidth node in the DOM. But before I assign it to a variable, I need to massage it a bit. If we simply set the size of the headline to the width of the browser window, it would be enormous. So to scale it down a bit, I'm dividing this particular headline, "Riffage Buys SF Concert Hall", by 29 to get it roughly the right size to fit the width of the column of text. So when the browser is set to, say, 750 pixels wide, that number gets divided by 29 and I'm left with 26px after rounding. In the last line of the script, I simply tell the browser to look for an element with the ID of "headline" (which I had already applied to my &lt;H1&gt;), and set it's font-size attribute to whatever is in the mySize variable. In one fell swoop, I've grabbed the window width, scaled it down, and applied it to my headline. At that size, the headline fits atop the story just fine. All we need to do is find an event to trigger the script. </p>
+
+<p>Since I want this resizing event to happen instantly when the page loads, I'll create a function, and call that function with an onLoad event on the body tag. Since I also want the script to resize my headline as the browser resizes, I'll fire the function from that event, as well.</p>
+
+<pre>&lt;script&gt;
+function change_size() {
+  var mySize = document.body.offsetWidth/29;
+  headline.style.fontSize = mySize;
+}
+&lt;/script&gt;
+
+...
+
+&lt;body onLoad="change_size()" onResize="change_size()"&gt;</pre>
+
+<p><b>SCREENSHOT: wired_news_small.gif</b></p>
+
+<p>Here's where it starts to get really interesting. If I were to resize the browser window, not only would the column of text get narrower, but the headline would resize itself proportionately to fit. Likewise, as the browser gets larger, the column widens, and the headline grows bigger and bigger.</p>
+
+<h3>Constraining Myself</h3>
+
+<p>Of course, we still want to exert some amount of design control over our presentation. Once you start playing around with dynamically sized elements like our headline example above, you quickly realize how ridiculous the extremes are. For example, scaling the window down very small, and suddenly the headline is completely illegible. And you can see why: If the window gets below, say, 100px, our math begins to fall apart. 100 divided by 29 is just over 3. Three pixel type is, to say the least, not the easiest to read on the screen. We need some constraints.</p>
+
+<p>To set limits on the scaling of type, I'm going to add a bit of a reality check to the script that sizes the headline. Before actually applying my derived value to the font-size of the headline, I'm going to see if it is either too small or too big. I'll do this with a couple of if...else statements -- a common programming technique for adding logic to code.</p>
+
+<pre>&lt;script&gt;
+function change_size() {
+  var mySize = document.body.offsetWidth/29;
+  if (mySize &lt; 14) {
+    headline.style.fontSize = 14;
+  } else if (mySize &gt; 50) {
+    headline.style.fontSize = 50;
+  } else {
+    headline.style.fontSize = mySize;
+  }
+}
+&lt;/script&gt;</pre>
+
+<p>While this may seem to be getting complicated, it really isn't. The new lines above simply tell the browser, "If the value you're about to use to set the headline's font-size is less than 14 pixels, then set the value to 14. If it's bigger than 50 pixels, then just use 50." Now I can rest assured that my headline will never get too small to read or ridiculously big. I've set up a dynamic -- yet constrained -- system for displaying a nicely fitting headline on my story.</p>
+
+<h3>Knowing Even Less </h3>
+
+<p>I'm getting close to my goal now - a machine that will format my headlines for me. There is still one variable left to deal with, and it's a big one. While the script we've been developing so far has accounted for screen width column size, as well as set up constraints for big and small extremes, we still need to tackle one fundamental unknown: the headline itself.</p>
+
+<p>Wired News, like most other content heavy Web sites, doesn't actually server HTML files when you visit it's pages. Rather, all the content for all the stories is stored in a large and fairly complicated database. These stories are pulled out of this database and then pushed through a publishing system that almost magically creates the pages you see in your browser. We'll get into the nuts and bolts of this process chapter nnn: Object Oriented Publishing, because now I'm still focused on formatting that headline.</p>
+
+<p>You see, all of the powerful behind-the-scenes technology puts designers in a unique predicament. I've been talking about how everything we've dealt with thus far has been relative. Just how little we know about the environment in to which we send our designs is turning out to be a sort of postmodern nightmare free of any absolute truths whatsoever. And now for the ultimate - after accounting for the wide variety of user systems and complex preferences, the sad truth: I don't even know what my headline will be.</p>
+
+<p>That's right. I have no idea how many words or characters will be in that string of text. Sure, we can put constraints on our editors and ensure they write headlines with some manner of consistency. But ultimately, the hundreds of stories that flow through the newsroom and onto the site are going to do so automatically. They are going to come barreling out of a database and into a template, but it will happen and the speed of light and without so much as a quick glance from a designer. I therefore need to set up a system that will deal not only with the constraints my users will place on the design, but also with content I've never seen. How do I account for this?</p>
+
+<p>Time to add a couple more lines of code to my script. I've already set the size dynamically, and added my constraints. Now, I'll do what I used to do at the newspaper: I'll tweak the size based on the available headline.</p>
+
+<p>Once the text comes out of the database and is married to the template, my script will be able to ask the computer for one final and crucial piece of information: just how long is that headline. I'll ask this question with these two simple lines of code:</p>
+
+<pre>var myHead = headline.innerHTML;
+var targetSize = myHead.length;</pre>
+
+<p>I'm adding a couple of new variables to the script here. The first, myHead, uses a bit of the Document Object Model to look for that element with the ID of headline, and grab it's contents. So, in our example from earlier, the value for myHead would be set to "Riffage to Buy SF Music Venue". So now even though I don't know what the headline will be when the page is finally rendered at least my script will. The next line sets a variable named targetSize to the length of the string - or, in English - the total number of letters and spaces in the headline. With this info, we can modify the algorithm that sets the font-size property of the headline to look like this:</p>
+
+<pre>mySize = (document.body.offsetWidth/targetSize) * 1.35;</pre>
+
+<p>Now the final size of the headline will be calculated by taking the number of pixels in the current browser window, and dividing the by the number of characters in my headline. You'll remember that earlier I was simply dividing by 27. Again, we're replacing an absolute value with a relative one. So with a browser window at, say, 750 pixels and the headline from our earlier example coming in at 29 characters, we're left with a font-size of 25.8px. To get the font-size to match the specific column in this layout, I need it to be about 135 percent of what this math gives me, so I've added the multiplication at the end. I take my 25.8px value and run it up to 34.9px and now, as if by magic, my headline fits atop the column of text as if I'd designed it from scratch to look just right. If our headline happened to be 23 characters and the window was scaled out to 825 pixels wide, we'd end up with 825 divided by 23, then multiplied by 1.35 to give me a size of 48.2px - which also fits just fine. And all the while, if my users scale their browser to big or too small, I can keep that headline between 16 and 50 pixels using the if…then constraints I added earlier.</p> 
+
+<p>Here now is the completed script:</p>
+
+<pre>&lt;script&gt;
+function change_size() {
+	var myHead = headline.innerHTML;
+	var targetSize = myHead.length;
+	var mySize = (document.body.offsetWidth/targetSize) * 1.35;
+	if (mySize &lt; 14) {
+		headline.style.fontSize = 14;
+	} else if (mySize &gt; 50) {
+		headline.style.fontSize = 50;
+	} else {
+		headline.style.fontSize = mySize;
+	}
+}
+&lt;/script&gt;</pre>
+
+<p>And you can see how it works in these screenshots of our story with a variety of headlines:</p>
+
+	Screenshots: wirednews_var1.gif, wirednews_var2.gif, wirednews_var3.gif
+	Caption: The script is resizing each headline not only based on the available space, but according to how many characters is in each one. Now, any headline will fit with any column width -- a truly liquid page.
+
+<h3>Building the Virtual Designer</h3>
+
+<p>I didn't include this script in this chapter to give you a working example of how to create scaleable headlines. In fact, this script uses some proprietary additions to the DOM included by Microsoft in their Internet Explorer browser. Using it in other browsers like Netscape Navigator will cause an obtuse error message to appear. I included it here -- and spent the time deconstructing every last detail -- to show you how designers are going to have to evolve to embrace the behavior of Web pages as well as the technology behind those behaviors. A good eye will remain mandatory in the discipline. A designer's deep understanding of the fundamentals of visual communication will never go away. But much like a magazine designer's knowledge of inks on paper and the mechanics of printing presses, a Web designer will need a deep understanding of the inner workings of Web technologies.</p>
+
+<p>This script, then, is an example of a much bigger idea. Throughout this chapter, we've been looking at examples of rule-based design, and how the traditional notion of pixel-based design is rapidly being left behind. But here's the big picture: good designers are harnessing the technology available to them and using it to encode the process they use to do good design. A pixel-based designer spends time sizing a headline perfectly to an absolute column and page width. A rule-based designer spends time converting that task to a browser-based script.</p>
+
+<p>In our example, we converted one design process for sizing headlines into one script that does it for us. Now imagine the myriad other design decisions that a news story page may need. We've only scratched the surface of page layout, branding, advertising, internal and external navigation, and everything else that falls into that particular page. Extrapolate even further to different pages on the site, and then to the many different types of sites - what rules would need to be encoded for a search engine, or an ecommerce shopping cart, or a stock portfolio tracking application, or an artists portfolio. Or anything else.</p>
+
+	
+	
+	
+<p><a href="?">Order Online</a>
+	<img src="images/amazon_bug.gif" width="90" height="29" border="0" alt="Amazon.com" align="left"><br>Get the book for only $29.95 when you order online at Amazon.com.</p>
+</body>
+</html>

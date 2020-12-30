@@ -1,0 +1,122 @@
+/* demo ui style rules */
+
+#typecast-demo {
+  margin-top: -103px;
+  background: #fff url(demo-pane-bg.png) bottom left repeat-x;
+}
+
+#typecast-demo-wrapper {
+  width: 1010px;
+  height: 80px;
+  padding: 12px;
+}
+
+#typecast-demo .fonts {
+  float: left;
+}
+
+#typecast-demo .fonts img {
+  margin: 3px 9px;
+  border: 1px solid #333;
+  padding: 2px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  cursor: pointer;
+}
+
+#typecast-demo .fonts img.active {
+  margin: 0 6px;
+  border: 4px solid #f00;
+}
+
+#typecast-demo .nav {
+  position: relative;
+  float: left;
+  margin: 10px 0 0 30px;
+  border-left: 1px solid #333;
+  padding: 0 0 0 15px;
+  width: 220px;
+  font-size: 10px;
+  line-height: 20px;
+  color: #666;
+}
+
+#typecast-demo .nav a {
+  color: #666;
+  text-decoration: none;
+}
+
+#typecast-demo .nav img {
+  position: absolute;
+  top: 11px;
+  right: 0;
+  border: 0;
+}
+
+
+/* font declarations */
+
+.font-arial {
+  font-family: arial !important;
+}
+
+.font-helvetica {
+  font-family: helvetica !important;
+}
+
+@font-face {
+  font-family: "font-hoefler-text-roman";
+  src: url(hoefler-text-roman.otf);
+}
+.font-hoefler-text-roman {
+  font-family: font-hoefler-text-roman !important;
+}
+
+@font-face {
+  font-family: "font-ambassador-script";
+  src: url(ambassador-script.otf);
+}
+.font-ambassador-script {
+  font-family: font-ambassador-script !important;
+}
+
+@font-face {
+  font-family: "font-marker-felt";
+  src: url(marker-felt.otf);
+}
+.font-marker-felt {
+  font-family: font-marker-felt !important;
+}
+
+@font-face {
+  font-family: "font-academy-engraved-let";
+  src: url(academy-engraved-let.ttf);
+}
+.font-academy-engraved-let {
+  font-family: font-academy-engraved-let !important;
+}
+
+@font-face {
+  font-family: "font-american-typewriter";
+  src: url(american-typewriter.otf);
+}
+.font-american-typewriter {
+  font-family: font-american-typewriter !important;
+}
+
+@font-face {
+  font-family: "font-cracked";
+  src: url(cracked.otf);
+}
+.font-cracked {
+  font-family: font-cracked !important;
+}
+
+
+@font-face {
+  font-family: "font-historical-english-textura";
+  src: url(historical-english-textura.otf);
+}
+.font-historical-english-textura {
+  font-family: font-historical-english-textura !important;
+}

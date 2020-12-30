@@ -1,0 +1,307 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>Start!</title>
+  <link rel="stylesheet" href="css/master.css" type="text/css" media="screen" charset="utf-8" />
+  <script type="text/javascript" charset="utf-8" src="js/jquery-1.2.6.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $(".person-name a").click(function(){
+        $(".full-bio").css("display","none");
+        $(this).parents(".person-blurb").children(".full-bio").css("display","block");
+        return false;
+      });
+      $("a.bio-done").click(function(){
+        $(".full-bio").css("display","none");
+        return false;
+      })
+      $(".update").click(function(){
+        $(".update").removeClass("open");
+        $(this).addClass("open");
+        return false;
+      });
+      $("body").click(function(){
+        $(".full-bio").css("display","none");
+      })
+    });
+    pre1 = new Image();
+    pre1.src = "images/bkgd-popup-wide-hard-top.png";
+    pre2 = new Image();
+    pre2.src = "images/bkgd-popup-wide-hard-btm.png";
+    pre3 = new Image();
+    pre3.src = "images/bio-pic-frame.png";
+    pre4 = new Image();
+    pre4.src = "images/icn-arrow-green.png";
+    pre5 = new Image();
+    pre5.src = "images/close-x.png";
+  </script>
+	<!--[if IE]>
+	  <style type="text/css">
+      .clearfix { height:1%; }
+      .bio-pic-frame { margin-top:-102px; }
+      #venue h3 { font-size:210%; }
+    </style>
+	<![endif]-->
+</head>
+
+<body>
+  <div id="banner">
+    <div class="wrapper clearfix">
+      <h1>Start!, a Conference for Entrepreneurs</h1>
+    </div><!--wrapper-->
+  </div><!--/banner-->
+  <div id="content" class="clearfix">
+    <div class="wrapper clearfix">
+      <div id="right-wrapper">
+      <div id="main">
+        <h2>Quit your day job!</h2>
+        <p class="intro">Start is a one-day conference in San Francisco designed for <strong>smart, talented Web people</strong> to take hold of their ideas, follow their dreams, and start their own companies.</p>
+        <p class="subintro">We&#8217;ve lined up entrepreneurs from some of your <strong>favorite startups</strong> as well as some interesting investors, lawyers, and others. They'll give you <strong>practical advice, horror stories, and inspiration</strong> based on years of experience. If you've ever dreamt of taking the plunge, don't miss this chance to hear from the experts!</p>
+        <div id="learn">
+          <h3>What you&#8217;ll learn</h3>
+          <ul>
+            <li><span>Get inspired. Hear how they got started, how they screwed up, and how they kept going.</span></li>
+            <li><span>Hiring? Firing?!? Who&#8217;s watching the books? Do we need a lawyer?</span></li>
+            <li><span>Pitch off! Listen to some of the web’s best entrepreneurs give their best 5 minute pitch. Learn how to hone yours.</span></li>
+          </ul>
+        </div>
+        <div id="events">
+          <h3>The day&#8217;s events</h3>
+          <ul>
+            <li><span>Jeff and Bryan show up hammered. Jeff walks away from cab leaving Bryan to pay.</span></li>
+            <li><span>Jeff mumbles something about web standards while Bryan takes a recruitment call from Obama &#8217;08.</span></li>
+            <li><span>After a few panels and whatnot Bryan announces that there’s a bar nearby. Jeff is already there.</span></li>
+          </ul>
+        </div>
+        <div id="updates">
+          <h3>UPDATES</h3>
+          <div class="update first open">
+            <p class="update-title"><a href="#">Mule Design, specifically Mike, did an outstanding job</a></p>
+            <div class="update-body">
+              <p>Spend the day some of the web&#8217;s most successful entrepreneurs and learn why smart, talented Web people should take hold of their ideas, follow their dreams, and start. Spend the day some of the web’s most successful entrepreneurs and learn why smart, talented Web people.</p>
+              <p>Spend the day some of the web&#8217;s most successful entrepreneurs and learn why smart, talented Web people should take hold of their ideas, follow their dreams, and start. Spend the day some of the web’s most successful entrepreneurs and learn why smart, talented Web people.</p>
+            </div><!--update-body-->
+            <p class="update-byline"><span>written by Jeff on</span> Monday, June 14</p>
+          </div><!--/update-->
+          <div class="update">
+            <p class="update-title"><a href="#">Older updates could go here.</a></p>
+            <div class="update-body">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <p class="update-byline"><span>written by Jeff on</span> Friday, June 12</p>
+          </div>
+          <div class="update">
+            <p class="update-title"><a href="#">And just expand in place when you click on them.</a></p>
+            <div class="update-body">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <p class="update-byline"><span>written by Jeff on</span> Friday, June 12</p>
+          </div>
+          <div class="update">
+            <p class="update-title"><a href="#">Either using titles.</a></p>
+            <div class="update-body">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <p class="update-byline"><span>written by Jeff on</span> Friday, June 12</p>
+          </div>
+          <div class="update">
+            <p class="update-title"><a href="#">Or just excerpting the first sentence.</a></p>
+            <div class="update-body">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <p class="update-byline"><span>written by Jeff on</span> Friday, June 12</p>
+          </div>
+          <p id="feeds"><a href="#">Subscribe for latest news and updates</a></p>
+        </div><!--/updates-->
+      </div><!--/main-->
+      <div id="right"> <!-- position:absolute;top:-80px;right:-10px;-->
+        <div id="register">
+          <h2><a href="http://google.com/" id="register-link">Register</a></h2>
+          <p class="price"><span>$</span>200</p>
+          <p class="no-hassle">That&#8217;s it. No hassle.</p>
+          <p>(Well, it's not like your boss is gonna pay for it, is it?)</p>
+        </div><!--register-->
+        <div id="venue" class="side-module">
+          <h2>When? Where?</h2>
+          <div id="hcalendar-Start!" class="vevent">
+            <h3><abbr title="2008-08-07" class="dtstart">August 7</abbr>, <abbr title="2008-08-08" class="dtend">2008</abbr></h3>
+            <img src="images/fort-mason-center.jpg" alt="A picture of the Fort Mason Center" />
+            <p class="summary">Start! A Conference for Entrepreneurs</p>
+            <p class="location"><span>Cowell Theater, Fort Mason</span> San Francisco, <abbr title="California">CA</abbr></p>
+            <p>Cowell Theater is a wheelchair accessible facility.</p>
+            <p><a href="#">Map and directions</a></p>
+          </div><!--/hcalendar-->
+        </div><!--/conf-site-->
+        <div id="sponsors" class="clearfix">
+          <h2><span>Who's Sponsoring?</span><img src="images/txt-whos-sponsoring.png" alt="" /></h2>
+          <div class="sponsor-row clearfix">
+            <a href="#" class="sponsor-sm-left"><img src="images/sponsors/FPO_adobe.png" alt="Adobe, Inc." /></a>
+            <a href="#" class="sponsor-sm-right"><img src="images/sponsors/FPO_engine-yard.png" alt="Engine Yard - Rails Hosting" /></a>
+          </div>
+          <div class="sponsor-row">
+            <a href="#" class="sponsor-lg"><img src="images/sponsors/FPO_true-ventures.png" alt="True Ventures" /></a>
+          </div>
+          <div class="sponsor-row">
+            <a href="#" class="sponsor-lg"><img src="images/sponsors/FPO_oatv.png" alt="O'Reilly Alphatech Ventures" /></a>
+          </div>
+          <div class="sponsor-row">
+            <a href="#" class="sponsor-lg"><img src="images/sponsors/FPO_mule.png" alt="Mule Design Studio" /></a>
+          </div>
+        </div><!--/sponsors-->
+      </div><!--/right-->
+      </div><!--/right-wrapper-->
+      <div id="left">
+        <div class="side-module hosts">
+          <h2>Who's responsible?</h2>
+          <ul class="people">
+            <li class="person-blurb clearfix" id="veen">
+              <img src="images/hosts/veen-sm.jpg" />
+              <p class="person-name"><a href="#">Jeff Veen</a></p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <div class="full-bio">
+                <div class="full-bio-top clearfix">
+                  <div class="bio-copy">
+                    <h3>Jeff Veen</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                    <p><a href="http://www.veen.com" class="bio-link">www.veen.com</a></p>
+                    <p><a href="#" class="bio-done">we&#8217;re done here</a></p>
+                  </div>
+                  <div class="bio-pic">
+                    <img src="images/hosts/veen-lg.jpg" />
+                    <div class="bio-pic-frame"></div>
+                  </div>
+                </div><!--/full-bio-top-->
+                <div class="full-bio-btm"></div>
+              </div><!--/full-bio-->
+            </li>
+            <li class="person-blurb clearfix" id="mason">
+              <img src="images/hosts/mason-sm.jpg" />
+              <p class="person-name"><a href="#">Bryan Mason</a></p>
+              <p>Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <div class="full-bio">
+                <div class="full-bio-top clearfix">
+                  <div class="bio-copy">
+                    <h3>Bryan Mason</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                    <p><a href="http://www.b-may.com" class="bio-link">www.b-may.com</a></p>
+                    <p><a href="#" class="bio-done">we&#8217;re done here</a></p>
+                  </div>
+                  <div class="bio-pic">
+                    <img src="images/hosts/FPO_mason-lg.jpg" />
+                    <div class="bio-pic-frame"></div>
+                  </div>
+                </div><!--/full-bio-top-->
+                <div class="full-bio-btm"></div>
+              </div><!--/full-bio-->
+          </li>
+          </ul>
+        </div><!--/side-module-->
+        <div class="side-module speakers">
+          <h2>Who's speaking?</h2>
+          <ul class="people">
+            <li class="person-blurb clearfix" id="williams">
+              <img src="images/speakers/FPO_williams-sm.jpg" class="speaker-pic" />
+              <p class="person-name"><a href="#">Evan Williams</a></p>
+              <p>Twitter</p>
+              <div class="full-bio">
+                <div class="full-bio-top clearfix">
+                  <div class="bio-copy">
+                    <h3>Evan Williams</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                    <p><a href="http://evhead.com" class="bio-link">www.evhead.com</a></p>
+                    <p><a href="#" class="bio-done">we&#8217;re done here</a></p>
+                  </div>
+                  <div class="bio-pic">
+                    <img src="images/speakers/FPO_williams-lg.jpg" />
+                    <div class="bio-pic-frame"></div>
+                  </div>
+                </div><!--/full-bio-top-->
+                <div class="full-bio-btm"></div>
+              </div><!--/full-bio-->
+            </li>
+            <li class="person-blurb clearfix" id="mann">
+              <img src="images/speakers/FPO_williams-sm.jpg" class="speaker-pic" />
+              <p class="person-name"><a href="#">Merlin Mann</a></p>
+              <p>43 Folders</p>
+              <div class="full-bio">
+                <div class="full-bio-top clearfix">
+                  <div class="bio-copy">
+                    <h3>Merlin Mann</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                    <p><a href="http://43folders.com" class="bio-link">www.43folders.com</a></p>
+                    <p><a href="#" class="bio-done">we&#8217;re done here</a></p>
+                  </div>
+                  <div class="bio-pic">
+                    <img src="images/speakers/FPO_williams-lg.jpg" />
+                    <div class="bio-pic-frame"></div>
+                  </div>
+                </div><!--/full-bio-top-->
+                <div class="full-bio-btm"></div>
+              </div><!--/full-bio-->
+            </li>
+            <li class="person-blurb clearfix" id="trott">
+              <img src="images/speakers/FPO_williams-sm.jpg" class="speaker-pic" />
+              <p class="person-name"><a href="#">Mena Trott</a></p>
+              <p>Six Apart</p>
+              <div class="full-bio">
+                <div class="full-bio-top clearfix">
+                  <div class="bio-copy">
+                    <h3>Mena Trott</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                    <p><a href="http://evhead.com" class="bio-link">www.evhead.com</a></p>
+                    <p><a href="#" class="bio-done">we&#8217;re done here</a></p>
+                  </div>
+                  <div class="bio-pic">
+                    <img src="images/speakers/FPO_williams-lg.jpg" />
+                    <div class="bio-pic-frame"></div>
+                  </div>
+                </div><!--/full-bio-top-->
+                <div class="full-bio-btm"></div>
+              </div><!--/full-bio-->
+            </li>
+            <li class="person-blurb clearfix" id="malik">
+              <img src="images/speakers/FPO_williams-sm.jpg" class="speaker-pic" />
+              <p class="person-name"><a href="#">Om Malik with the really long name that will wrap.</a></p>
+              <p>Giga Om</p>
+              <div class="full-bio">
+                <div class="full-bio-top clearfix">
+                  <div class="bio-copy">
+                    <h3>Om Malik</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                    <p><a href="http://evhead.com" class="bio-link">www.evhead.com</a></p>
+                    <p><a href="#" class="bio-done">we&#8217;re done here</a></p>
+                  </div>
+                  <div class="bio-pic">
+                    <img src="images/speakers/FPO_williams-lg.jpg" />
+                    <div class="bio-pic-frame"></div>
+                  </div>
+                </div><!--/full-bio-top-->
+                <div class="full-bio-btm"></div>
+              </div><!--/full-bio-->
+            </li>
+          </ul>
+          <p class="added">More speakers being added.</p>
+        </div><!--/side-module-->
+      </div><!--/left-->
+    </div><!--/wrapper-->
+  </div><!--/content-->
+  <div id="footer">
+    <div class="wrapper clearfix">
+      <div id="suits"></div>
+      <p>&copy; Small Batch 2008</p>
+    </div><!--/wrapper-->
+  </div><!--/footer-->
+  <!-- <div style="visibility:hidden;height:0px;width:0px;">
+    <img src="images/bkgd-popup-hard-top.png" />
+    <img src="images/bkgd-popup-hard-btm.png" />
+  </div> -->
+</body>
+</html>
