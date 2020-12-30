@@ -1,0 +1,90 @@
+--- 
+layout: post
+title: "Joint Venture: Cobranding on the Web"
+date: 2002-06-22
+author: Jeffrey Veen
+featured: yes
+abstract: Explaining partnerships to users has always been tricky to navigate. Originally written for New Architect Magazine in July, 2002.
+
+---
+
+You're waiting in line for a latte at Starbucks. As you're about to order, you notice a cardboard display on the counter filled with compact discs featuring music that's typically played in Starbucks cafes. But the CD display has a large Barnes & Noble logo across the top.
+
+Does that make sense? Well, sure. Starbucks and Barnes & Noble are exploiting a cobranding opportunity. They're blending their brands in an attempt to merge audiences. This makes sense in a physical retail store, where customers have a specific task at hand. As they're getting caffeinated, they're presented with a complimentary task, buying music. Neither task gets in the other's way.
+
+This strategy works so well in real-world retail settings that it has invaded our digital world as well. Yet on the Web, cobranding hasn't been nearly as successful. Too many online brands try to apply brick-and-mortar techniques to their sites with disappointing results. These businesses fail to see an obvious obstacle: There are no physical spaces on the Web. 
+
+Back in the cafe, most folks wouldn't stop to think, "Now wait, is this a Starbucks or a Barnes & Noble store? If I grab one of those CDs, will I no longer be able to buy a coffee? Will I be transported to a book and music store instead?"
+
+Online, a product's usability can make or break its success. Walking into a physical store, selecting a product, and carrying it to a cash register requires very little learning for a shopper. On the Web, that activity is akin to learning a new desktop application. The new customer must decrypt new interfaces, new naming conventions, and all of the other details that make up an e-commerce experience on the Web. Simplifying this process will undoubtedly lead to more online sales. So why do so many corporations persistently try to cram cobranded Web sites into physical-space models?
+
+## Making Your Relationship Work
+
+Multiple brand messages will muddy a user's experience and kill sales if you aren't careful. Many cobranded services turn out poorly, primarily because they fall short in two areas: technology and strategy.
+
+Many bad cobranding deals begin with incorrect technical assumptions. What looks like a quick project with lots of potential often ends up as a lesson in frustration. "We only wanted to add some content to our site," you think. But in the end, you find yourself mired in incompatible technology. Merging your ASP interface with your partner's JSP infrastructure turns out to be a lot of work. To finish the deal, you and your partner finally agree to a cut-and-paste solution. Headers and footers go on. The site launches, and nobody is happy.
+
+There are technical solutions on the horizonÂ—many may already be part of your own technical toolbox. Solid XML vocabularies, such as the Rich Site Summary (RSS) format, make syndicating content as easy as swapping DTDs. And it isn't just content, but services as well. Web services, the Next Big Thing according much of the Web's trade press, promises to make integrating functionality just as effortless. Search engine Google.com, for example, recently released an API to its index that lets developers incorporate Google searches into their Web applications by simply calling a remote procedure.
+
+But nailing the technology will get you nowhere if nobody actually wants to use your service. Just because a service is popular in one context, doesn't mean that the success will translate to your site users. For cobranded sites to work at all, they must be:
+
+*   *Consistent.* When using your site, users should never question where they are at any time. If a user ever feels that he or she has left your site, or is confused about the source of content, you've lost that person. When two brands are thrown together without careful consideration of how the brands coexist in a unified interface, usability suffers. Confusing designs erode trust. 
+
+*   *Complementary.* Even if a cobranded service is easy to use, it may have no particular relevance to the task at hand. Expedia.com, a travel site, does a good job of integrating a cobranded map service. The feature fits well with the kinds of tasks users are there to do. But what if Expedia started selling selections from The New York Times best-seller list? Books to read on airplanes! Perfect, right? Wrong. Make sure the deal you arrange makes sense to your audience. Anything else will just get in the way.
+
+*   *User Centered.* Finally, ask yourself (or your marketing director) about the motivation for developing a cobranded service. Are you looking for a traffic bump? Access to new customers? A competitive advantage? All of these are desirable outcomes, but none of them are motivations. Be sure that your goal with any development on your site is to provide the best service possible for your users. If a partner's competency can help with that, great. Then, and only then, should you do a cobrand deal.
+
+The physical world is full of successfully cobranded products and services. However, our virtual world lacks the assumed experience that physical spaces afford users. Online cobrands can, of course, learn from their offline counterparts, but they must ensure that the end result embodies the guidelines of consistency, complimentary services and user-centered motivation. Let's look at a few examples.
+
+## Team Effort
+
+Cobranding works best when the brands represent distinctly separate goods or services, but share similar audiences. For example, a decade ago, auto maker Ford teamed with sportswear manufacturer Eddie Bauer to create the Eddie Bauer-edition Ford Bronco. Both brands' logos adorned the vehicle, and the potential audience seemed to make the connection: This was the rugged truck they had come to expect from Ford, but with the outdoor styling of a well-known clothing line. There was benefit to the vehicle's ownerÂ—the Eddie Bauer Bronco featured an upgraded leather interior and some trim detail on the body. And the machine sold well. The cobranding effort was able to tell an effective brand story to a certain subset of consumers. 
+
+Does this work online? Sometimes. Large search engine/portal sites like Yahoo, Lycos, or MSN, show scores of cobranding deals in action.
+
+Long-time Web portal (and my former employer) Lycos is a classic example of content and service aggregation, for better or worse. Like most other portals, Lycos began as a simple search engine. As the company grew, it found that search alone was insufficient to sustain the bottom line of a healthy business. Eventually, Lycos expanded to providing not only search results, but services to satisfy users' queries. When everything worked as planned, users found what they were after while Lycos kept the page viewsÂ—and the resulting ad revenue.
+
+How do portals provide all of these services? They cobrand them, of course. They look for companies that provide the kinds of content and services that users are searching for. When they find them, the portal attempts to wrap its interface around the service. This, as you can imagine, happens with varying degrees of success.
+
+Pay a visit to Lycos Shopping to see an example of this strategy gone awry. Partnering with online gift retailer Red Envelope, Lycos has simply slapped on its own navigation. The result: user confusion. Clicking on a navigation item on the shopping home page leads a user to the interface shown in [Figure 1][2]. "Wait, am I still at Lycos? What is Red Envelope? I thought I clicked on Gifts." Your audience relies on consistency as it tries to accomplish tasks. In this interface, the site's navigation suddenly shifts to a new pattern because of a single click on a link, akin to touching a CD in Starbucks and suddenly finding yourself in a Barnes & Noble store. Buying gifts certainly seems complementary to the task of shopping, but this halfhearted attempt at combining them is a poor design solution. 
+
+Let's revisit the travel site Expedia.com. Click the Maps tab on the interface and enter an address. You should find exactly what you request: a map of your destination presented within the Expedia interface. It's a seamlessly integrated user experience. Does it matter that the actual map you're looking at is the result of a partnership between Expedia, Microsoft's MapPoint technology, and Navigational Technologies Corporation? 
+
+It sure does. Those brands lend an air of authenticity to the accuracy of the map you're using. But ultimately, you're experiencing a blend of technologies brought together to help you accomplish a task. The result is a service that complements the overall product while remaining consistent with the site's interface conventions.
+
+Here's another good example. Amazon and Target have successfully demonstrated how two recognized brands can piggyback on one another. Visiting Amazon.com, you'll notice a branded navigation item for Target. Clicking on it brings you to a Target branded e-commerce experience translated into the familiar Amazon shopping interface. The services are complementary, and the combined audience benefits. It may not be a leather interior for your SUV, but it's pretty cool nonetheless.
+
+## Joint Custody
+
+Lots of brands find themselves forced together due to corporate mergers. As ever-growing parent companies snap up existing entities, the collections of products are mapped together. Just pay a visit to a recent fast-food anomaly—the combination Pizza Hut/Taco Bell/KFC. At these stores, you can choose from a menu offering fast food from three completely different restaurants, all of which are owned by the Pepsi Cola Company. Customers perceive this cobrand as a matter of increased choice, albeit at the risk of gastrointestinal distress.
+
+This strategy can be difficult to translate online. When computer merchant Outpost.com was purchased by real-world outlet Fry's Electronics, the new parent company used the Web retailer as a shortcut to an e-commerce offering. Fry's hadn't yet moved to online sales, and now it suddenly could. Yet Fry's seems to have applied only the most superficial treatment of brand integration. Outpost.com has the digital equivalent of an "Under New Management" banner strung across its virtual storefront. Who does this benefit? Certainly not users looking for Fry's online. Again, ensure that your motivation is guided by a stellar user experience, rather than a simple marriage of convenience.
+
+Go.com, by contrast, is a portal that did it right. The portal, owned by Disney, offers a collection of existing publishing brands. Visit the site and you'll find a nav bar offering ABC.com, ESPN.com, Movies.com, and a host of others. (See [Figure 3][4].) There is a clear separation between brands, each offering a unique product, presented as complimentary services. And if you're a fan of this sort of packaged information, then the combined presentation of these items can be as convenient as a bean burrito with crispy wings on the side. Remember, an effective cobrand blends complimentary services in a coherent manner.
+
+## What's Yours Is Mine
+
+Cobranding can take a more subtle tack as well. Consider the local morning newspaper filled with stories from the day past. Look closely though, and you'll see that only a fraction of that content was actually produced by reporters from that paper. Rather, the stories are often taken from the wireÂ—news agencies like the Associated Press that produce tremendous amounts of copy each day. Your local paper pays a fee for this stream of stories, then formats the articles to look like the rest of the paper. The result is a more complete picture of the day's events. And it lets the paper keep costs downÂ—*The Sacramento Bee* need not send a reporter out every time there's another conflict in the Congo.
+
+Syndication has made its way to the Web as well. A variety of services provide a steady stream of content in every imaginable category. Companies like Screaming Media and Moreover offer subscription-based syndication services that will add content to virtually any Web site. And, as I mentioned earlier, the technology standards are keeping pace. Some of the most interesting innovations on the Web are happening in this area, as XML vocabularies continue to appear, easing the automation of shared data.
+
+Content syndication, however, isn't a secret tool that will magically attract users. Many decision makers believe that making a content-rich Web site is as easy as adding a few lines of code. Audience-grabbing stories will magically appear on the home page, and the site will flourish.
+
+A steady stream of content is no replacement for smart editors, though. A good eye and deeply attuned common sense are still required for a Web site to succeed. Automation may be an excellent time-saving tool, and the innumerable stories may be a fertile field from which to harvest, but editing takes talent, and we've yet to program that. See, for example, how random headlines lined up to make Excite.com look foolish, if not outright misleading:
+ 
+Poor design and mismanaged editorial consideration contribute to a cluster of headlines that appear as one absurd sentence. The first line links to a collection of strange news stories. The second relates an international incident. Finally, a tech headline reports on Apple's latest design innovations. All three features titles are interesting alone, but when poured automatically onto the page, they read like a bizarre act of aggression against a desktop computer. Odd indeed.
+
+Syndication done well, however, can prove exceedingly valuable. Pay a visit to my.yahoo.com to see it in action. With content offerings from such diverse sources as CNet, *The New York Times*, Billboard, and PlanetOut, the site allows virtually any content configuration along with all of the other services for which Yahoo is known.
+
+The difference? Users are in charge at Yahoo. The site becomes a useful tool rather than a force fed marketing platformÂ—a lesson that countless corporate Web sites still need to learn. At Yahoo, the personalized news product was designed with careful attention to user-centered tasks.
+
+## Your Future Together
+
+Brands are delicate. Your customers' perception of who you are can erode instantly. And cobranding is inherently risky. You're exposing one of your most valuable assets, your reputation, to the whims of a partner.
+
+Yet adding your brand to another can equal more than the sum of the parts. Well-executed partnerships can make your site's offerings both more complete and more competitive. Just remember that new content or services will only attract users if they are complementary to your current offerings and are consistent with your existing interface. And without an unrelenting focus on your users fueling your development, you risk having a confusing site and alienating your core audience. There's one thing that both the online and offline worlds can agree on: It's nearly impossible to stay viable without an audience.
+
+ [1]: http://www.newarchitectmag.com/archives/2002/07/
+ [2]: 1.gif
+ [3]: 2.gif
+ [4]: 3.gif

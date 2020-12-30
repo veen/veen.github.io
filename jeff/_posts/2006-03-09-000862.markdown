@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "People use software they like"
+date: 2006-03-09
+author: Jeffrey Veen
+featured: yes
+abstract: When rolling out new technology, find the mavens and explore the grassroots
+---
+A lot of the consulting work I've done at Adaptive Path was necessarily in adversity to centralized IT departments. It's not that I feel particularly passionate about the issue, it's just that so many larger organizations funnel their external and internal Web projects through these departments. And for many historical reasons, the sort of user-centered design and user experience methodologies we practice seldom fit comfortably with technologists accustomed to controlling resources and managing services.
+
+I started thinking about this recently when I came across a post on Ross Mayfield's blog concerning adoption of enterprise software. This is a challenge Ross' company  <a href="http://www.socialtext.com/">SocialText</a>  faces every day. How do you get some new software - especially new software categories like wikis - to be widely used in your company?
+
+Unsurprisingly, top-down mandates seldom work. "Here is your new content management system. All content will now be published with this centralized system. Signed, The Management." I often found myself consulting with organizations with similar problems. "We spent all this time and money installing a CMS, but everyone still publishes static HTML pages. How do we force them to use it?"
+
+You don't, of course. As many of us have learned, people use the simplest thing that works, and they look to their peers to find those tools.
+
+<blockquote>There are two ways to go about encouraging adoption of social software: fostering grassroots behaviours which develop organically from the bottom-up; or via top-down instruction. In general, the former is more desirable, as it will become self-sustaining over time - people become convinced of the tools' usefulness, demonstrate that to colleagues, and help develop usage in an ad hoc, social way in line with their actual needs.</blockquote>
+
+This really resonates with my experience with Adaptive Path's own internal wiki. We had long struggled with the best way to share our collective intelligence in structured ways. Ironically, an unstructured approach was the one that finally won us over. After many attempts at intranet software, we finally just installed a wiki, and had a few key folks use it personally and share their experiences with others. 
+
+<a href="http://peterme.com/">Peter</a>, in particular, simply started posting to it like crazy, as if it were his own personal notepad (which, of course, is the whole point). But more importantly, he evangelized his use: whenever anyone would ask a question on an internal mailing list, Peter would respond _on the wiki and then reply to all with a URL for the new page. Conversation would typically continue in the email thread, and Peter would often update his wiki post based on the discussion. 
+
+The result hasn't been without a snag or two - wikis are still notoriously geeky, but folks like SocialText and <a href="http://www.jot.com/">JotSpot</a> are working on that. But more importantly, our small team shifted to using better tools to solve particular problems. Email is conversational and collaborative, but ephemeral. Wikis can be somewhat disruptive to the flow of communication in a group, but are great at recording a first draft of institutional memory.
+
+I'm sure there are lots of examples of this adoption strategy working outside of the enterprise: mavens evangelize new stuff everywhere from fashion to politics. I'm just happy to see simple and effective tools starting to spread like epidemics through the notoriously heavy-handed domain of centralized IT departments. It's about time our workplaces get infected with tools we actually want to use.

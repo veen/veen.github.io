@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "XHTML2"
+date: 2002-09-18
+author: Jeffrey Veen
+---
+"This module adds the 'a' element to the Inline content set of the Text Module, and activates the Hypertext Attribute Collection." I think I may have been away from working drafts for too long -- I'm finding it difficult to interpret that sentence. Regardless, I'm still excited every time I see a <a href="http://www.w3.org/TR/xhtml2/">new spec</a>. Say, is it just me, or is this the first time a W3C acronym has been trademarked?
+&#8203;

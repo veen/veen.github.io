@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The Frontier of User Experience"
+date: 2004-03-17
+author: Jeffrey Veen
+---
+I filled in for <a href="http://jjg.net/">Jesse</a> at South by SouthWest this weekend, and took the stage for his "The Frontiers of User Experience" talk. I have no idea what he was going to say; I just gave my own talk. Lots of people asked me for a copy of the presentation, so <a href="http://adaptivepath.com/events/sxsw/">here it is</a>. 
+
+It won't make much sense if you weren't there, since <a href="http://www.veen.com/jeff/archives/000483.html">I don't use bullet points</a> in my decks. For a little context, Brian Alvey blogged <a href="http://alvey.weblogsinc.com/entry/4349235256845446/">a nice summary</a>.
+&#8203;

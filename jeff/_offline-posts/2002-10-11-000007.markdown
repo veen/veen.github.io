@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Wired News Gets Religion"
+date: 2002-10-11
+author: Jeffrey Veen
+---
+My good friend and former coworker Doug Bowman has redesigned <a href="http://wired.com/">Wired News</a>. And not only has he given it a visual refresh and added new features, but he has reworked the front end to be <a href="http://wired.com/news/culture/0,1284,55675,00.html">completely standards compliant</a>. The whole site validates under xHTML 1.0-transitional, and doesn't use a single font tag or table. Now <i>that's</i> how a site should be built.
+&#8203;

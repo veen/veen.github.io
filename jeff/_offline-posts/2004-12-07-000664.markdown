@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Ad Blocking in RSS"
+date: 2004-12-07
+author: Jeffrey Veen
+---
+There's a great discussion going on over at Jason's site debating the merits of <a href="http://www.kottke.org/04/12/blocking-rss-advertising">blocking advertising in RSS</a>. It's not all that much different from the debate of 8 years ago over blocking ads in the browser but with an interesting difference: CSS works now. Then, it took a third-party tool or elaborate proxy server to strip unwanted banners from loading. Now, it takes this:
+
+<code>img[src*="amazon"] {display: none !important;}</code>
+
+Since most RSS aggregators now use the operating systems embedded rendering engine, they expose "skins" as simple stylesheets. In my reader, NetNewsWire, I edit the file at ~/Library/Application Support/NetNewsWire/Default/ and start hacking away. The line above selects any image with an attribute of 'src' containing the substring 'amazon' and switches its display off with priority. (No, that's not where the affiliate banners come from. It's just an example.)
+
+If you really want to future-proof your aggregator, paste <a href="http://www.mozilla.org/support/firefox/adblock.html">this mess</a> into the default stylesheet.
+
+How should we feel about this ethically? I built my career off of advertising-subsidized content, both in print and digital media. But as Brent Simmons, author of NetNewsWire says, "The whole point of aggregators is about user control and smarts." That is, it moves control of the experience from publisher to user. Since bits are bits, filtering is a very simple matter.
+
+Whether it's spam, music downloading, or stripping ad banners, it's the publishers that end up playing an endlessly futile game of <a href="http://www.spymuseum.org/games/mole.html">Whack-a-Mole</a>. The odds seem to consistently be with users. 
+
+&#8203;

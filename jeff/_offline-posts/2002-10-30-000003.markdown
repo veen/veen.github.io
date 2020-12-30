@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "More Praise For Jesse's Book"
+date: 2002-10-30
+author: Jeffrey Veen
+---
+Another review of the <a href="http://www.amazon.com/exec/obidos/ASIN/0735712026/ref=nosim/hotwiredstyle/">Elements of User Experience</a>, this time at Digital Web Magazine. "For some of us, it will finally be a way to explain to our family members what we've been doing for the last five to eight years." Read the <a href="http://www.digital-web.com/reviews/book/bookreview_2002-10.shtml">whole review</a>.
+&#8203;

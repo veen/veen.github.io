@@ -1,0 +1,21 @@
+---
+layout: base
+title: Jeffrey Veen's blog
+---
+
+<section class="archive">
+{% for post in site.posts %}
+    {% if post.featured %}
+    
+    <h2><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="abstract"> &raquo; <span class="published_date">{{ post.date | date_to_string }}</span> &middot; {{post.abstract}}</p>
+    
+    {% endif %}
+{% endfor %} 
+
+</section>
+
+
+{% comment %}
+<p>Travelogues &raquo; <a href="Baja/">Baja</a> <span class="home-date">(1998)</span> <a href="CR/">Costa Rica <span class="home-date">(1997)</span> <a href="london/">London</a> <span class="home-date">(1991)</span></p>
+{% endcomment %}

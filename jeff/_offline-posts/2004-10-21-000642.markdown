@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Evolving Our Tools"
+date: 2004-10-21
+author: Jeffrey Veen
+---
+My first electronic publishing project came in the late 1980s. I was working in the video production lab, and was asked to create a manual for all the gear. I collected the crappy instruction booklets from all the cameras, VTRs, and even the scary new Video Toaster software we got for the Amiga. It had to be at least 15 years ago, because all the text I wrote, plus image scans, and a bootleg copy of Quark XPress 1.0 all fit on an 800k floppy.
+
+I bring this up merely to trace the evolution of the tools I use to do my work. That evolutionary process is typically viewed in hindsight; I think back about how I struggled with fonts and halftones all those years ago, and how much easier it was at my newspaper job, and yet again when I got to Wired.
+
+Lately, I've been trying to turn the camera around and look forward. What kinship is there between how desktop publishing changed and Web work? Is there an equivalent to 1-bit scans stuffed on a floppy?
+
+My recent <a href="http://www.veen.com/jeff/archives/000622.html">shot across the bow</a> of open source content management systems was in this spirit. Our work may be frustrating because of immature tools, but it doesn't (and won't) have to be this way. Because without reliable, intuitive, robust tools, there's no hope of developing our craft.
+
+Case in point: Arlen Walker has been banging up against a couple open source tools, to little avail. His rant is technical -- he's complaining about divs being added to his designs, as if in secret. And his point is that the designer, not the tool, should always be the one in charge. It's a good <a href="http://arlen.f2o.org/archives/2004/10/19/content-content-whos-got-the-content/">read</a>.
+
+
+&#8203;

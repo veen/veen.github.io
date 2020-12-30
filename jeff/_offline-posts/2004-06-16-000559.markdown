@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Links: 2004-06-16"
+date: 2004-06-16
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.aiga.org/content.cfm?ContentAlias=symbolsigns">Symbol signs</a><br />
+<span class="link-meta">"The complete set of 50 passenger/pedestrian symbols developed by AIGA is now available on the web, free of charge." (categories: <a href="http://del.icio.us/veen/design">design</a> )</span></li>
+
+    <li><a href="http://bradchoate.com/weblog/2004/04/14/inventory">Brad Choate: OS X software inventory</a><br />
+<span class="link-meta">What's in *your* Aplications folder? (categories: <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+    <li><a href="http://www.cyclingnews.com/news.php?id=news/2004/jun04/jun15news3">Postal is out, Discovery is in.</a><br />
+<span class="link-meta">The cable channel will take over for the Postal Service as Lance's team sponsor. (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/news">news</a> )</span></li>
+
+    <li><a href="http://chordguide.com/guitar/chords.asp?chord=Dm&note=D">D minor guitar chords</a><br />
+<span class="link-meta">The saddest of all chords. (categories: <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.roboranch.com/blog/archives/000099.php">Ray Charles on the 10 Dollar Bill</a><br />
+<span class="link-meta">"With all this talk about putting Ronald Reagan on the $10 bill, George and I thought it would be appropriate to suggest another recently deceased entertainer to grace our currency." (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.brunx.com/radiorocket.html">RadioRocketBRUNX</a><br />
+<span class="link-meta">Geeks attach camera to model rocket, use footage to make Radiohead video. (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+  </ul>
+
+&#8203;

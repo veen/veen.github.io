@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Links: 2003-12-16"
+date: 2003-12-16
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://pathetic.endoftheinternet.org/">Pathetic Motorways</a><br /><span class="link-meta">A gallery of motorways within Great Britain that are not perhaps, the greatest feats of engineering. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://gmpg.org/xfn/">XFN - XHTML Friends Network</a><br /><span class="link-meta">A simple way to represent human relationships using hyperlinks (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+    <li><a href="http://slate.msn.com/id/2091577/">The problem with Hummer's new ad.</a><br /><span class="link-meta">Great ad. And it sucks. (categories: <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://www.cmswatch.com/Features/ProductWatch/FeaturedProduct/?feature_id=96">The Ideal CMS -- Circa 2004</a><br /><span class="link-meta">What every CMS should have, and few do. (categories: <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+    <li><a href="http://theonion.com/3948/infograph.html">The Onion: Stopping Spam</a><br /><span class="link-meta">Fight the good fight... (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+  </ul>
+
+&#8203;

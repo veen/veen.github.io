@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "An Introduction to 'Web Design in a Nutshell'"
+date: 2006-03-07
+author: Jeffrey Veen
+featured: yes
+abstract: We've come a long way on the web, but we also have so much more to learn.
+---
+*Jennifer Niederst Robbins and I worked together quite a bit last year on Measure Map -- she designed all the icons and helped craft the overall identity of the application. It was a lot of fun and a great collaboration, though I was perpetually asking her for more of her time. Turns out she was also busy writing the third edition to her seminal book "<a href="http://www.oreilly.com/catalog/wdnut3/index.html">Web Design in a Nutshell</a>." When she was done, Jen was nice enough to ask me to write the foreword for this edition, and even nicer to let me reprint it here.*
+
+
+I recall sitting at my desk many years ago, struggling with a piece of HTML markup, when someone walked by and dropped off a floppy disk. Written in block letters across the label was "Netscape .9b" - a pre-release beta version of what would soon become the most widely used browser of that time. I installed it and clicked around my company's web site, and I remember thinking to myself, "Huh. My job just completely changed."
+
+Up to that point in the nascent history of the World Wide Web, there had really been only one browser to worry about. Nearly everyone used Mosaic, and as long as my pages were also functional in a text-only browser like Lynx, I could safely forget about that aspect of web design. But suddenly there was competition. And with competition came new concerns about rendering, feature support, and bugs.
+
+That would prove to be one of innumerable watershed events in more than a decade of growth and evolution of the web as a world-changing technological platform. Soon after Netscape shipped their browser, my job would completely change over and over again. First came fonts and colors; then frames, Javascript, database-driven dynamic Web applications, XML, cascading stylesheets, Flash, semantic markup -- and all of those innovations have iterated through countless new versions. If there's one thing that is certain in the life of a Web designer, it's that every day something you thought you knew will change. And then change again.
+
+Yet in any journey - whether literal or metaphorical - it pays to occasionally find a vantage point and take stock of where you've been and how far you have to go. We've come a long way on the web, but we also have so much more to learn.
+
+The earliest days of the web were the domain of the Webmaster. At that time, the web was viewed as another service provided as technical infrastructure - much like the email server or firewall. The Webmaster's duties included maintaining the HTTP server, keeping things secure, monitoring bandwidth usage, and - oh, yeah - creating the HTML pages for this new service. Web design back then was simply the output of a web server. And the IT department found itself in the position of building pages and even occasionally using Photoshop. Those were crazy times.
+
+By the mid '90s, the web had moved from IT to marketing. Every company needed a web site if they expected to survive, and there was a mad scramble to develop an "interactive strategy." This was the era of the transitional web designer -- when people with experience in more traditional media design came to the web and tried to bend it to fit. No control of typography? Build the whole page as an image. Page layout not up to our standards? We'll hack on tables and invisible GIFs until things look exactly like they should. The web didn't respond very well to this onslaught. The cornerstones of digital design - usability, content reuse, accessibility - buckled under the hubris of graphic artists.
+
+But today holds both tremendous opportunity and significant trepidation for those who call themselves web designers. The legacy of the so-called "browser wars" are behind us; we have a strong and stable platform for building with increasing sophistication. A foundation of accepted and well-implemented industry standards offers a constancy we once could only dream of. But at the same time, the web has factions of innovation racing off in countless directions. Good designers now worry as much about semantics, device-agnosticism, and Ajax-style interactions as they do about color, typography, and layout. It is an understandably intimidating time.
+
+The weight of this book in your hands is a testimony to that complexity. And if it seems daunting, at least take comfort in the fact that the author could not possibly be a more capable guide. Jennifer Robbins has been designing web sites longer than anyone else I know. For years she has been the one we've all turned to for reassurance and clarity as our industry propels itself into the future.
+
+There is nobody I would trust more than Jennifer to show us where we've been, and where we're heading next. You should too.
+
+_The book is out now, and available a the O'Reilly web site <a href="http://www.oreilly.com/catalog/wdnut3/index.html">here</a>.
+&#8203;

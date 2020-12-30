@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "MAKE MONEY FA$T!"
+date: 2002-08-07
+author: Jeffrey Veen
+---
+My partner, Peter, has some interesting ideas for talking about the value of design with business types. We all know usability is important, and that an effective user experience is crucial of online brand perception. But how do you translate that to something the CEO will understand intuitively? How about, "Hey, the more usable our site is, the fewer calls we'll get to customer service. I bet we could save $25k next quarter on that alone." That, of course, is jumping ahead to metrics and ROI, but it's a good example of how to turn the conversation around. Check out Peter's <a href="http://www.adaptivepath.com/publications/essays/archives/000045.php">essay</a> on the subject.
+&#8203;

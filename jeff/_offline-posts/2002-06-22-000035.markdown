@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Marc Rettig on avoiding analysis paralysis"
+date: 2002-06-22
+author: Jeffrey Veen
+---
+Marc spoke at Adaptive Path's workshop in Chicago, delivering a wonderful full day tutorial on how  to actually do something with the data you get from user research. Before we left for Chicago, [I interviewed him][1] via email on what he thought about collaboration, research, and his teaching engagement at Carnegie Melon University.
+
+
+[1]: http://web.archive.org/web/20020808172702/http://adaptivepath.com/events/rettig.phtml

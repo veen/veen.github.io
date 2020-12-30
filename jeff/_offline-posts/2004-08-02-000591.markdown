@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Links: 2004-08-02"
+date: 2004-08-02
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.gapingvoid.com/Moveable_Type/archives/000876.html">How To Be Creative</a><br />
+<span class="link-meta">"90% of what seperates successful people and failed people is time, effort and stamina." (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+
+    <li><a href="http://ftrain.com/google_takes_all.html">August 2009: How Google beat Amazon and Ebay to the Semantic Web (Ftrain.com)</a><br />
+<span class="link-meta">Paul Ford has seen the future, and it's all semantic (categories: <a href="http://del.icio.us/veen/rdf">rdf</a> <a href="http://del.icio.us/veen/semweb">semweb</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.goodexperience.com/blog/archives/000036.php">Good Experience - Budgeting for Advertising and Customer Experience</a><br />
+<span class="link-meta">$30M on advertising, $20K on the site. Why are users frustrated? Duh... (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://money.cnn.com/2004/07/28/technology/terra_lycos.reut/">Terra set to sell Lycos for $95-$115M at more than $12B loss</a><br />
+<span class="link-meta">Well, that was an interesting experiment (categories: <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.macilife.com/2004/07/forget-airport-express-say-hello-to.html">Say Hello to iHome</a><br />
+<span class="link-meta">Jim Heid details a headless Mac media server (categories: <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.movabletype.org/news/2004/07/movable_type_31_whats_new.shtml#more">Movable Type 3.1: What's New</a><br />
+<span class="link-meta">Dynamic PHP templates, scheduled publishing, subcategories... If they add workflow, they could compete with the six figure CMS crowd. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+
+  </ul>
+
+&#8203;

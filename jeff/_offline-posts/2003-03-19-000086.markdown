@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Good News"
+date: 2003-03-19
+author: Jeffrey Veen
+---
+So many terrible things are confronting us these days: the United States will soon be involved in a preemptive war, its economy worsens, joblessness is on the rise, terrible viruses are raging through Asia. So it was with a sign of relief that I uncovered a few gems of good news. Well, good to me at least. Have a click:
+
+<ul>
+  <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2003/03/19/national1539EST0698.DTL">Proposal to drill in Alaska refuge defeated in Senate</a></li>
+  <li><a href="http://www.apple.com/pr/library/2003/mar/19gore.html">Former US Vice President Al Gore joins Apple Computer's board of directors</a></li>
+  <li><a href="http://www.mozilla.org/releases/mozilla1.3/">Mozilla 1.3 released</a></li>
+  <li><a href="http://sanfrancisco.giants.mlb.com/NASApp/mlb/sf/news/sf_gameday_recap.jsp?ymd=20030319&content_id=224988&vkey=spt2003wrapup&fext=.jsp">Giants beat Angels 10-4</a></li>
+</ul>
+&#8203;

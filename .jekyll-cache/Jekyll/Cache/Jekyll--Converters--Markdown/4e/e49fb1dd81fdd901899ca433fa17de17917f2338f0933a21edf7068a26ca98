@@ -1,0 +1,14 @@
+I"m<p>Back when I was in journalism school in the late 80s, I remember spending about half a class period one day on the subject of “database journalism.” This nascent technique, our professor explained, would one day change the way we did our jobs. He painted a picture of us querying massive data repositories, searching for patterns and clues – investigative journalism without ever leaving our terminals.</p>
+
+<p>I was so excited. I had recently started using my new account on the campus Unix box, sharing a 9600 bps connection to <a href="http://www.merit.edu/mn/index.html">MichNet</a> and staying up late with MUDs and FTP sites. Imagine the power and possibilities of practicing journalism with all these interconnected networks!</p>
+
+<p>Quaint, in retrospect. But also the motivation behind much of my career. (I told this same story some years later when interviewing at _Wired magazine.) But something was missing, even then. Sure, putting deep databases in the hands of journalism was changing how stories were developed, but it really wasn’t changing newspapers – or for that matter,  media – in any fundamental way. Stories where still being discovered and crafted through the perspective of an elite few: Journalists.</p>
+
+<p>What we couldn’t have seen back then, and what is so obvious today, is that you can very effectively cut out the middleman. What happens when the entire audience is on the network and has access to the databases? And what happens when they have the <a href="http://www.sixapart.com/">tools to publish</a> what they uncover? Some call it chaos, others call it the blogosphere. But you can’t deny that it is transforming media faster than we ever thought it would.</p>
+
+<p>It’s interesting, of course, to see how the traditional outlets of “news” are responding. Some, like the New York Times, try to enforce their role as gatekeeper by locking their archives behind a <a href="http://pqasb.pqarchiver.com/nytimes/advancedsearch.html">pay wall</a>, hoping that an enforced scarcity will yield them a few extra dollars before they’re forced to change.</p>
+
+<p>Others, like the Washington Post, realize that that newspapers can transform into conduits of information – powerful tools in the hands of citizens. Witness <a href="http://blogs.washingtonpost.com/post_remix/">Post Remix</a>, a collection of open data sources provided by the paper “To spotlight the work of outside Web developers who’ve made cool and interesting projects (‘mashups’) using Post content.”. Their first major undertaking? An API to <a href="http://projects.washingtonpost.com/congress/">the voting record of your congressional representatives</a>, including <a href="http://projects.washingtonpost.com/congress/rss/">RSS feeds</a> for every member of congress, and all recent votes.</p>
+
+<p>How will all this data be used? Who can tell. And that, of course, is the point.</p>
+:ET

@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Learning From the Apple Store"
+date: 2004-07-13
+author: Jeffrey Veen
+---
+<img src="http://64.239.129.76/assets/users/veen/default/gallery-1078958899-sprint.jpg" style="border: 1px solid black;float: left; width: 60px; height: 80px; margin-right: 5px; margin-top: 5px;" alt="The San Francisco Apple Store" />There is a certain smug satisfaction in being a Mac owner and walking into an Apple Store. Compared to a couple years ago, when I was a PC user and walked into Fry's looking for a new video card. Both retail environments offered the same basic product categories, but the _experience is astonishingly different. But how, exactly? Is it the brushed aluminum and hardwood floors that build marketshare? Is it the open WiFi, or the free, regularly scheduled tutorials in the theater?
+
+My partner, Jesse James Garrett, takes a very <a href="http://adaptivepath.com/publications/essays/archives/000331.php">detailed look</a> at how the San Francisco Apple Store achieves this experience -- from the layout of the space to the grating over the heating ducts.
+&#8203;

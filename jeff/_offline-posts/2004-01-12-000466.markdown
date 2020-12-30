@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Stop Stealing Gas (and other design techniques)"
+date: 2004-01-12
+author: Jeffrey Veen
+---
+A quick review of an interaction design basic: affordances. An affordance is a design technique that allows people to intuit how to use an interface control by sight alone. For example, a knob affords turning. A switch affords flipping. Little grooves on a wheel afford spinning. This is especially important when designing digitally, since virtually every control is a metaphor. Our knobs aren't knobs, really. They're pictures meant to resemble knobs.
+
+<img src="/jeff/images/gas-tank.jpg" style="float:left;padding-right:5px;"" alt="A terrible interface to a gas tank" />
+
+Let me give you a classic example of this issue in the real world. Recently,  before returning a rented Mitsubishi Gallant, I stopped to fill the tank. A quick scan of the dashboard failed to reveal a lever for opening the little door over the gas tank opening. So I went outside, found the door (on the wrong side, of course. Why don't all cars put the door on the same side? Shouldn't there be a standard for this? But I digress.) and saw no way of opening it. Generally, there is an affordance; either a little dimple to stick your finger in, or a lock that takes the ignition key. Not here. It was smooth and featureless. We dug around in the glove compartment and found the owner's manual. In it, we found the answer. "To access the gas tank, press the right side of the door." Back outside, pressed the door, pop - it's open.
+
+It baffles me why the Mitsubishi designers chose to obfuscate this feature. I suspect it's a sly nod towards security. My car at home has a lock on the door to discourage would-be fuel thieves (I guess). Maybe these designers thought they could trick gas crooks into thinking the door was unopenable. It certainly worked on me.
+
+Next time, I'll buy the tank of gas directly from Hertz.
+&#8203;

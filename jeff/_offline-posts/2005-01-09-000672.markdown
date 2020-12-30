@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "If it works for them..."
+date: 2005-01-09
+author: Jeffrey Veen
+---
+<img src="http://veen.com/jeff/images/noon-contetx.jpg" width="466" height="52" alt="Screenshot of feature at Threadless.com" />
+
+While shopping for t-shirts recently (and <a href="http://preshrunk.info/">who isn't</a> these days), I came across the feature above at the beautiful <a href="http://www.threadless.com/">Threadless.com</a>. I was immediately impressed with the feature, and scribbled down the reasons why.
+
+Subtlety: The presentation of this feature so simple and unobtrusive. The temptation would be to set something like this in bright <a href="http://www.homecarecompanion.com/webb/yellow_starburst_sm.jpg">red text within a yellow starburst</a>, likely flashing an animation reading "For the love of god click now before it's too late!!!" Rather, we're presented with a simple and effective clock icon, and a slight shade of blue to offset the whitespace around it. It's a good reminder of the old design axiom: "If everything on the page is important, then nothing is."
+
+Personality: "We'll probably ship it by noon." How many other companies would dare say "probably"? Is it a fear of appearing too casual with my purchase? Get over it. A little personality can go a long way. Too much, of course, is condescending. The only thing I would add in addition to this is, "Unless you really want it shipped today, but that will cost you $5 extra."
+
+Context: A simple timer -- "1 hour left" -- really works as impulse-buy motivation. This isn't some sort of "Web Design Law of eCommerce" or any other nonsense. It's just a realization that people buy t-shirts online with little forethought, and the site may as well capitalize on this. 
+
+And that's the key. A strategy like this may not work on your Web site. Or it may. Who knows. You'll need to figure that out for yourself. We're far enough along in our industry now to see that Web-wide <a href="http://useit.com/alertbox/20031110.html">laws and proclamations</a> can't be trusted when applied specifically and consistently. That is to say:
+
+BAD: Adding a countdown to shipping time on product pages will spur sales.
+
+GOOD: Providing clear information about shipping options will help your users make the right choice. But you'll need to figure out what information works for your specific audience.
+
+
+By the way: <a href="http://www.threadless.com/product/157/Afternoon_Delight">Best. T-shirt. Ever.</a>
+&#8203;

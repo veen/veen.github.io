@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Getting Over Archiving"
+date: 2005-02-18
+author: Jeffrey Veen
+---
+There have been some very good posts from Merlin over at 43Folders recently on the topic of email management -- a skill you cannot avoid these days regardless of your profession. You can read them <a href="http://www.43folders.com/2005/02/five_fast_email.html">here</a>, <a href="http://groups-beta.google.com/group/43Folders/msg/fae758c871189d6d">here</a>, and <a href="http://www.43folders.com/2005/02/quick_tips_on_p.html">here</a>.
+
+Late last year, as I prepared for taking a rare and coveted chunk of time off of work, I realized that I was sitting on an inbox with nearly 2000 messages, six hundred unread. I had lost control of correspondence. I didn't know what was in there. I didn't want to find out.
+
+Eventually, after _three solid days of nothing but inbox triage, I had my inbox empty. Ten minutes later, a dozen new messages showed up. I knew I had to develop some combination of habits and tools that would help me keep my head above water.
+
+One trick came in the form of an <a href="http://www.aaronsw.com/weblog/001054">Applescript that moves messages</a> to an archival mailbox by using a command key. I can't believe how much easier that simple shortcut made processing my inbox -- saves me soooo much time. I've assigned two keys (^a for "Archive" and ^s for "missed spam"). Once an hour, I do a first-pass of my inbox, shooting things into the right place without moving my hands or deciding anything more than "Keep or do later?"
+
+Thus, I gave up on any sort of structured archiving (in direct contradiction to my <a href="http://www.veen.com/jeff/archives/000657.html">RSS-reading strategy</a>, I realize). Before I had dozens of folders for people/projects/themes, etc. etc. Blech. Now, I've got a folder with thousands of messages that I rotate once a year or so. Even with mail.app's pathetic search capabilities, I can find stuff easily enough. <a href="http://www.apple.com/macosx/tiger/spotlight.html">Spotlight</a>, I'm guessing, will make it trivial.
+
+The bigger point here, of course, is that <a href="http://en.wikipedia.org/wiki/Knowledge_worker">people who think for a living</a> are relying more and more on <a href="http://sippey.typepad.com/filtered/2005/02/a_couple_of_mon.html">search rather than browse</a> -- and eventually <a href="http://atomiq.org/archives/2004/11/personal_information_architecture.html">personal social networks</a> -- to manage the overwhelmingly complex amount of data that they need to transform daily into information, and ultimately understanding.
+
+What tools do you use?
+&#8203;

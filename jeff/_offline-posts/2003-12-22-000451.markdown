@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Links: 2003-12-22"
+date: 2003-12-22
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.oreillynet.com/pub/wlg/3005">REST vs. SOAP at Amazon</a><br /><span class="link-meta">Tim O'Reilly on Web Services (categories: <a href="http://del.icio.us/veen/rest">rest</a> )</span></li>
+    <li><a href="http://www.onlamp.com/pub/a/php/2003/10/30/amazon_rest.html">PHP Web Services Without SOAP</a><br /><span class="link-meta"> (categories: <a href="http://del.icio.us/veen/php">php</a> <a href="http://del.icio.us/veen/rest">rest</a> )</span></li>
+    <li><a href="http://webservices.xml.com/lpt/a/ws/2002/02/06/rest.html">XML.com: Second Generation Web Services</a><br /><span class="link-meta">An introduction to REST application architecture (categories: <a href="http://del.icio.us/veen/rest">rest</a> )</span></li>
+    <li><a href="http://internet.conveyor.com/RESTwiki/moin.cgi">RESTwiki</a><br /><span class="link-meta"> (categories: <a href="http://del.icio.us/veen/rest">rest</a> )</span></li>
+    <li><a href="http://webservices.xml.com/pub/a/ws/2002/02/20/rest.html">XML.com: REST and the Real World</a><br /><span class="link-meta">Using REST in practical applications (categories: <a href="http://del.icio.us/veen/rest">rest</a> )</span></li>
+  </ul>
+
+&#8203;

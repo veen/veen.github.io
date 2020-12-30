@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: "Links: 2004-07-02"
+date: 2004-07-02
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.zompist.com/phrases.html">The Zompist Phrasebook</a><br />
+<span class="link-meta">"I know I'm naked, could you just tell me how to get back to the hotel? " (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://features.engadget.com/entry/1130461946171237/">Tech from the Tour de France</a><br />
+<span class="link-meta">A look at some of the electronics being used in the Eurpean peloton (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.pezcyclingnews.com/?pg=fullstory&id=2382">Tyler Hamilton's Time Trial Bike</a><br />
+<span class="link-meta">Way, way beyond the cutting edge of cycling technology. (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://story.news.yahoo.com/news?tmpl=story&u=/ap/20040703/ap_on_go_pr_wh/bush_campaign_churches&cid=544&ncid=2043">Bush Seeks to Mobilize Religious Conservatives</a><br />
+<span class="link-meta">Campaign asks for church membership roles. That's not just unethical, it's flat out illegal. (categories: <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/religion">religion</a> )</span></li>
+
+    <li><a href="http://daringfireball.net/2004/06/location_field">Daring Fireball: The Location Field Is the New Command Line</a><br />
+<span class="link-meta">"[S]aying that web apps would never become popular was like a theater critic in the early 1950s dismissing television." (categories: <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.artima.com/intv/simplest.html">The Simplest Thing that Could Possibly Work</a><br />
+<span class="link-meta">An interview with Mr. Wiki, Ward Cunningham (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+&#8203;

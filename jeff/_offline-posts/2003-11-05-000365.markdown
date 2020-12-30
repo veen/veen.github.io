@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Patterns &amp; Facets"
+date: 2003-11-05
+author: Jeffrey Veen
+---
+For some time now, I've had an interest in how Web-based interfaces can best articulate with <a href="http://www.veen.com/jeff/archives/000005.html">faceted information</a>. It seems like an area ripe for innovation in search and navigation for a wide variety of sites.
+
+Additionally, I've been a fan of designing with <a href="http://iawiki.net/WebsitePatterns">pattern languages</a>, and the implications for best practices in our industry. On the face of things, patterns make me wonder why designers spend so much time trying to reinvent all that has come before. Looking back on what seems to work and using that as a foundation seems the best way to, once again, innovate.
+
+So to see these two interests of mine come together so neatly is of great interest, to say the least. Heidi Adkisson has been collecting what she has dubbed "De Facto Standards" on her site "<a href="http://www.webdesignpractices.com/">Web Design Practices</a>. It's a great site: clean design, simple architecture, and a great collection of best practices in areas like <a href="http://www.webdesignpractices.com/functions/search.html">search</a>, <a href="http://www.webdesignpractices.com/pagewidthlength.html">page size</a>, and ... of course ... <a href="http://www.webdesignpractices.com/navigation/facets.html">faceted classification</a>.
+&#8203;

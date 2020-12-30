@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Useless Usability"
+date: 2004-06-17
+author: Jeffrey Veen
+---
+I've often told people that usability testing should be a culture, not an event. That is, it should happen as part of a Web team's daily/weekly/monthly design process, not a big show-stopping research phase that happens before something new launches. Test early, test often. 
+
+In his latest essay for the Adaptive Path Web site, my partner Lane Becker digs into why this is so important.
+
+<blockquote>When viewed as a sort of quality assurance, as it classically is, usability testing becomes a late-stage nice-to-have, less important than getting the newest version of the Web site out the door. It usually results in a thick document that outlines everything that's wrong with a Web application, including fundamental design issues that can't be fixed in the few weeks left before launch. This isn't the best way to effect positive change.</blockquote>
+
+Read the whole essay <a href="http://www.adaptivepath.com/publications/essays/archives/000328.php">here</a>.
+&#8203;

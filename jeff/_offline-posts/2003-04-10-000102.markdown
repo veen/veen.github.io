@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "More on Flash MX"
+date: 2003-04-10
+author: Jeffrey Veen
+---
+A few days ago, I discussed how Macromedia had taken steps towards greater accessibility for users of varying physical abilities in the latest version of Flash. Thomas Vander Wal <a href="http://www.vanderwal.net/random/entrysel.php?blog=1142">points out</a> that these advances are more like baby steps -- certainly in the right direction, but also illustrative of just how far they need to go. I would say that in addition, it is the rare Flash developer who takes all the needed steps to make a Flash presentation or application really perform anywhere near Section 508 compliance.
+
+Meanwhile, over at Digital Web, Nick Fink tells a <a href="http://digital-web.com/new/2003_04_01_archive.shtml#92246692">frightening story</a>. Apparently at this year's South by Southwest "Show and Tell" session a young designer was asked why his site was rendered entirely in Flash. He replied, "Jeffrey Veen said 'Flash is the future,' so I designed my site all in Flash."
+
+Well now.
+
+It certainly is flattering to think that anyone would take what I say with such conviction, but honestly -- Flash is the future? That's a significant misinterpretation of my desire to see Flash used well. I have been saying publicly for a while now that I'm excited to see Macromedia pushing ahead with a standard set of interface controls. This allows Flash developers to not only save time when creating Web applications, but also does a great service to user experience on the Web by encouraging UI consistency. 
+
+There are dozens of great examples of Flash-based Web applications that put HTML forms to shame. But at the same time, have a look at the <a href="http://www.alexa.com/site/ds/top_500">most-trafficked sites on the Web</a> and you won't see a single one developed in Flash. Each Web technology has its strengths and weaknesses. Applying the proper solution to the present problem is the hallmark of good design.
+
+So, to sum up:
+
+    The future of the Web is Flash.
+    The future of the Web is xHTML.
+    The future of the Web is CSS.
+    The future of the Web is some other stuff too. Just wait 6 months. You'll see.
+&#8203;

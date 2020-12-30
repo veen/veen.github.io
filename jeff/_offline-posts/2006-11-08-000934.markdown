@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The state of the web, or something..."
+date: 2006-11-08
+author: Jeffrey Veen
+---
+Vitamin Magazine has published a podcast I recorded backstage at the Web Apps Summit just after giving my talk. They've also provided a text transcript which clearly illustrates how hard it can be to think clearly while still basking in the adrenaline rush of presenting to a few hundred people. My comments can best be summed up as, "The web is changing for the better, though it won't make you rich, but you should still make stuff. Also, something about gardens." Oh yeah.
+
+ <a href="http://www.thinkvitamin.com/interviews/webapps/jeff-veen/">Listen or read here</a>.
+&#8203;

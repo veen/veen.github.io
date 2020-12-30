@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "What is interaction, anyway?"
+date: 2003-05-01
+author: Jeffrey Veen
+---
+From a mailing-list conversation on interaction and experience design comes this quote about the role of audience in entertainment.
+
+<blockquote>Another famous ALCS play took place during 1996. The Orioles were ahead of the Yankees in the eighth inning, when Derek Jeter hit a fly 
+ball to deep right field. Orioles' right fielder Tony Tarasco camped under the ball and was all set to make the catch when 12-year old Jeffrey Maier reached out from the stands and pulled the ball over the wall. Umpire Rich Garcia ruled it a home run, and the Yankees went on to win the game, the ALCS, and the World Series. Garcia could have ruled fan interference, but didn't, and later admitted that he made the wrong call.
+
+Jeffrey Maier became an instant celebrity. What makes this play so memorable, aside from the controversy of the call, is the fact that a fan was involved. An everyday, ordinary person influenced the outcome of the Major League Baseball playoffs.</blockquote>
+&#8203;

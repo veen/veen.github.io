@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Raiders of the Lost Ark and the mystery of inspiration"
+date: 2007-07-12
+author: Jeffrey Veen
+featured: yes
+abstract: Dreaming up solutions to vexing problems
+---
+At a conference recently, I heard Dan Cederholm from <a href="http://simplebits.com">SimpleBits</a> talk about inspiration. He showed a bunch of different techniques he uses, including howw he uses Photoshop's mosaic filter on an image to blow up giant pixels representing the basic colors in the picture. He uses those as pallets for the design work he does. Very cool.
+
+Inspiration can come from process, but it can also come from the most unexpected places. For example, when we were designing the data-over-time visualizations for Google Analytics, we were totally stuck with bar graphs. We'd iterated dozens of times, scoured the web for examples to steal, and had tried just about everything. The result felt muddy and <a href="http://www.veen.com/jeff/archives/000071.html">chartjunked</a>; the data didn't feel clear and was weighing down the whole page. Finally, I told the team to forget about that problem for a while - we had some time, we could come back to them in a couple weeks. So we did.
+
+<a href="http://www.flickr.com/photos/veen/783891052/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1244/783891052_8714746f41.jpg" width="500" height="216" alt="Inspiration: Travel montage from Raiders of the Lost Ark" /></a>
+
+<a href="http://www.flickr.com/photos/veen/783890816/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1406/783890816_c2098c0bcd.jpg" width="500" height="106" alt="Inspiration: The lines-and-dots chart" /></a>
+
+The next month, I got the box set of Indiana Jones movies and watched Raiders of The Lost Ark. I still love that movie. But that night I had a dream inspired by the travel montage - the one where Indy is flying to Nepal. The plane's route is traced as a line that bounces from city to city across a map, leaving a big dot where they landed. In my dream, I could see the airplane flying over our charts, trailing a line behind it, leaving a dot at each data point. The next morning I woke up, grabbed my laptop and drew a line-with-dots chart in <a href="http://www.omnigroup.com/applications/omnigraffle/">OmniGraffle</a> while still in bed. It's what we ended up using in the new version of Analytics (with a tremendous amount of polish from the team, of course).
+
+Moral of the story: sleep with your laptop.

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "The Waiting is the Hardest Part"
+date: 2004-05-25
+author: Jeffrey Veen
+---
+I'm sitting in a usability session for a Web site with streaming audio. The woman at the computer says, "Oh, Real Audio... I don't like that at all."</p>
+
+<p>"Why's that?" I ask.</p>
+
+<p>"Oh, it's always rebuffing. I click on the link and the player comes up and it just keeps rebuffing."</p>
+
+<p>"Rebuffing?"</p>
+
+<p>"Yeah," she says, getting exasperated just thinking about it. "Rebuffing 50%. Rebuffing 80%. Rebuffing 95%. It's really annoying."</p>
+
+<p>"Oh, that! Sure. That is annoying."</p>
+
+<p>All she knew what that when the music stopped, the player rebuffed her. No wonder she didn't like it! Slow connections and _buffering really can be a pain, especially when we use jargon in our interfaces that make no sense to folks out there.
+&#8203;

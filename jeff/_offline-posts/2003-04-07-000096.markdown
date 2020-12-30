@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Hiding CSS Bugs"
+date: 2003-04-07
+author: Jeffrey Veen
+---
+Many, many years ago, I <a href="http://webmonkey.com/templates/print_template.htmlt?meta=/webmonkey/97/51/index0a_meta.html">wished publicly </a> that the new year would bring bug-free browsers. And still today, I hold on to the same wish. Until then, though, we still need to hack around all the bugs. The fine folks over at <a href="http://w3development.de/css/hide_css_from_browsers/">w3development.de</a> have what seems to be a fairly complete collection of CSS hacks that will hide your stylesheets from various inconsistent and non-compliant browsers.
+&#8203;

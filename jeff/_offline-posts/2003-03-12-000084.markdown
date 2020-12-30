@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "\"Kivilev is down\""
+date: 2003-03-12
+author: Jeffrey Veen
+---
+Last night, we were watching the third stage of the Paris-Nice bicycle race on the Tivo. About 10km from the end, they quickly cut to the rear of the peloton, where Cofidis rider Andrei Kivilev was lying motionless on the pavement next to his bike. The helicopter hovered above as the team doctor sprinted to him, followed by race officials. The commentators agreed that this would be bad for Cofidis if he was really injured, considering his value to the team. Andrei had taken fourth in the Tour de France, and had many stage wins behind him. In fact, they continued, a bad injury this early in the season could wreck his season.
+
+Andrei [died this morning][] after spending the night in a coma. His skull had been crushed -- he had not been wearing a helmet. The peloton neutralized the stage and followed the remaining Cofidis team slowly around the course today.
+
+It's likely hard for most Americans to understand the implications of this. Try imagining Barry Bonds getting hit by a pitch and having it kill him. Or Kobe Bryant tripping while running down court and never getting up.
+
+Cycling is a grueling, dangerous sport. And much of it's allure comes from the struggle and the suffering, the fall and redemption of its heros. But when the struggle leads to the death of a participant, we suddenly realize it's just a game. And it is just too much.
+
+[died this morning]: http://velonews.com/news/fea/3584.0.html

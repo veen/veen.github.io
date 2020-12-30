@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "It's an accessible day in the neighborhood..."
+date: 2003-05-12
+author: Jeffrey Veen
+---
+Last night, Brewster Kahle of the <a href="http://archive.org/">Internet Archive</a> gave a lecture at, of all places, our church (I'll post more on his ideas later). With thoughts of universal access and open WiFi on my mind, I walked home five blocks with my Mac on, <a href="http://www.macstumbler.com/">MacStumbler</a> sniffing the neighborhood. Turns out there is <a href="http://veen.com/jeff/images/pac_heights_wifi.jpg ">quite a bit of bandwidth</a> floating around out there.
+&#8203;

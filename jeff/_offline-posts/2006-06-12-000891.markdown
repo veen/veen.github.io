@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "@Media in London"
+date: 2006-06-12
+author: Jeffrey Veen
+---
+I'm heading to London for a few days to do a session on web applications at the <a href="http://www.vivabit.com/atmedia2006/">@Media 2006 conference</a> (an excellent event with, I've found, an ineffectively googlable title). I'm really looking forward to it; the agenda has an interesting mix of nuts-and-bolts techniques and industry perspective.
+
+My presentation looks at how booms and busts cycle relentlessly, not only in our technology bubble but throughout history. So, that being the case, what can we learn from all the current Web 2.0 excitement, drama, and hype? Are there design strategies that will outlast all this? Considering the overwhelming cynicism the phrase garners in many circles these days, I'll cautiously try to show the forest for the trees.
+
+If you're at the conference or any of the events surrounding, stop by and say hi.
+&#8203;

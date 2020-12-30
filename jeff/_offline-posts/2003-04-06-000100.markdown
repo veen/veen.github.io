@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Flash MX and Accessibility"
+date: 2003-04-06
+author: Jeffrey Veen
+---
+At a recent workshop, we were discussing the advances available using Flash MX when developing interactive interfaces to Web applications. The discussion turned to accessibility, and how to create alternative representations of the UI controls. With increasing pressure placed on developers to adhere  to the U.S. government's <a href="http://www.usdoj.gov/crt/508/archive/oldresource.html">Section 508</a> guidelines, this has become a hot issue.
+
+Making a Flash file accessible to disabled users used to be virtually impossible. In fact, the only recourse was to offer a non-Flash alternative -- typically a less-usable text version of the content or features. Not exactly _quid-pro-quo for your users.
+
+Macromedia has taken great steps forward in accessibility with their latest version: Flash MX. Now, when developing movies, the developer can decide of an object should be visible or not to folks using an assistive reading device. It's also possible to provide the equivalent alternative text for a screen element, as well as a discoverable keyboard shortcut for controls that typically require mouse-based interaction.
+
+Macromedia has produced a decent guide to these procedures on their site at <a href="http://www.macromedia.com/macromedia/accessibility/">http://www.macromedia.com/macromedia/accessibility/</a>. But for a more nuts-and-bolts guide, see the O'reilly article, <a href="http://www.oreillynet.com/pub/a/javascript/2002/11/08/flashmx.html">Flash MX Accessibility Issues</a>.
+&#8203;

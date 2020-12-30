@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "The Psychology of Navigation"
+date: 2002-12-19
+author: Jeffrey Veen
+---
+I've often referred to the links in Web pages as windows -- little glimpses out to other destinations. And, as users scan a page while hunting for their next click, they use these windows to make their decisions. The more context you can offer them, I've often said, the more effective their browsing will be. This encompasses everything about the link: the text or image within the anchor, the URL in the status window, the presentation of the link (is it in a row of obvious global navigation or buried with in a paragraph?), and much, much more. My partner, Jesse, has also been thinking about this, and has crafted <a title="Digital Web Magazine - Features: The Psychology of Navigation" href="http://www.digital-web.com/features/feature_2002-12b.shtml">an essay</a> for Digital Web Magazine collecting some new thoughts.
+&#8203;

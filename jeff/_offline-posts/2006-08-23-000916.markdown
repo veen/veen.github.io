@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Idea Conference 2006"
+date: 2006-08-23
+author: Jeffrey Veen
+---
+Speaking of <a href="http://www.veen.com/jeff/archives/000915.html">interesting events</a>, my colleague Peter is helping to organize <a href="http://ideaconference.org/">Idea 2006</a> at the amazing Seattle Public Library on October 23-24. He sounds pretty excited about it:
+
+<blockquote>I know of no other conference like this one -- bringing together design practitioners from a variety of disciplines and backgrounds who are addressing the common challenge of designing in an increasing complex information world. This definitely won't be the same old thing.</blockquote>
+
+The <a href="http://ideaconference.org/program.html">list of speakers</a> certainly looks intriguing; only a handful of them actually make their living on the Web, yet nearly all spend their time thinking about the experiences people have with products or services. 
+&#8203;

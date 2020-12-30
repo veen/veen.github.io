@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "IA Jargon Watch"
+date: 2003-04-25
+author: Jeffrey Veen
+featured: yes
+abstract: Every industry has it's own coded language. Information architecture is no different.
+---
+I've spent the last week inside a massive financial services corporation doing some content inventory and architecture consulting. As we spoke to the various departments within the organization, I kept a section of my notes as a glossary, recording and defining the jargon I encountered. Here's a list of the more interesting ones...
+
+<strong>Big Bang</strong> _v._ A major launch event. "The new home page will be big banged in Q3."
+
+<strong>Boil the Ocean</strong> _v._ Try to solve too many problems with an overambitious project, typically resulting in a complete failure. Many Content Management projects end up this way when attempting to port an entire organization's content, process, and workflow into one new, massive tool. "Look, just help the HR teams get their forms online. We don't need to boil the ocean with this."
+
+<strong>Buddha Nature</strong> _n._ The One True Home of a page or resource in a Web site's structure. There may be multiple pathways for arriving at it, but it only lives in one spot. "You can get to your account statement from any banking page, but it's Buddha Nature is the Document Center."
+
+<strong>Deep Diving</strong> _v._  Giving users the ability to bookmark a page deep within the site. "We've enabled deep diving in the employee directory by changing the URL structure."
+
+<strong>Framejack</strong> _v._ to move a user horizontally through an architecture, switching the interface to another vertical, in the context of a single task. "If a user clicks on My Account while in the Checking vertical, they get framejacked to the Document Center."
+
+<strong>SME</strong> _n._ Acronym for "Subject Matter Expert". Pronounced "smee". These are domain experts, typically in specific business unit of an organization. "We'll need to talk to a few SMEs before changing the architecture of this section of the site."
+
+<strong>SUAC</strong> _v._ Acronym for "Shut Up and Color". How Marketing and Engineering departments often think (or wish) design should be done.
+
+<strong>S2BU</strong> _n._ Acronym for "Sucks To Be You". A page with an error message that communicates to the user that they are not authorized to continue an interaction. "If they aren't retired or over 55, they get an S2BU and we point them to the home page."

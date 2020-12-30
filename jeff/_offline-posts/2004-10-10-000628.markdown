@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: "What do these pictures have in common?"
+date: 2004-10-10
+author: Jeffrey Veen
+---
+<ul>
+	<li>
+		<a href="http://marc.blogs.it/platform/platform.jpg">http://marc.blogs.it/platform/platform.jpg</a> 
+	</li>
+	<li>
+		<a href="http://marc.blogs.it/participation/participation.jpg">http://marc.blogs.it/participation/participation.jpg</a> 
+	</li>
+	<li>
+		<a href="http://marc.blogs.it/mediadudes/mediadudes.jpg">http://marc.blogs.it/mediadudes/mediadudes.jpg</a> 
+	</li>
+	<li>
+		<a href="http://marc.blogs.it/voip/voip.jpg">http://marc.blogs.it/voip/voip.jpg</a> 
+	</li>
+	<li>
+		<a href="http://marc.blogs.it/mobilegeeks/mobilegeeks.jpg">http://marc.blogs.it/mobilegeeks/mobilegeeks.jpg</a> 
+	</li>
+	<li>
+		<a href="http://marc.blogs.it/scarred/scarred.jpg">http://marc.blogs.it/scarred/scarred.jpg</a></li></ul>
+
+<input type="radio" /> They were all taken by the obstreperous <a href="http://marc.blogs.it/">Marc Cantor</a>.
+<input type="radio" /> They all depict panel discussions from the same conference.
+<input type="radio" /> Everyone is male.
+<input type="radio" /> All of the above.
+
+<input type="submit" value="See What You've Won!" onClick="javascript:alert ('I was going to write a rant about tech conferences and how few women are invited to speak and the embarasing gender divide in our industry, but I\'ll let you click through those pictures again and just use your imagination.')" />
+&#8203;

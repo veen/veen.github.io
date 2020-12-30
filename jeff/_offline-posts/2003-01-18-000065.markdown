@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "dot.protest"
+date: 2003-01-18
+author: Jeffrey Veen
+---
+As we marched down Market Street in today's peace rally, I was impressed with examples of mobile technology at work. Countless camcorders capturing not only the spectacle, but ensuring fair treatment from law enforcement. People all around me were microcasting the speeches to their friends with mobile phones. I even noticed a couple of real-time streaming setups -- on guy with a Web cam, laptop, and DieHard battery sending video over an open WiFi network he had found. I would imagine lots of hiptop blogging was taking place, as well. Slowly, media becomes democratized, if only as checks and balances on big media spin.
+&#8203;

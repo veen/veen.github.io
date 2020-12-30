@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Random, mid-day instant message"
+date: 2004-01-22
+author: Jeffrey Veen
+---
+<strong>Jeffrey Veen:</strong> Es imposible encontrar el tiempo para el tren proximo en tu ciudad sin &lt;table&gt;.
+<strong>Leslie S. Veen:</strong> hmmm
+<strong>Leslie S. Veen:</strong> thx for that
+<strong>Jeffrey Veen:</strong> I wonder if spanish browsers support the &lt;mesa&gt; tag.
+<strong>Jeffrey Veen:</strong> hahahahahahahah
+<strong>Leslie S. Veen:</strong> uhmmm
+<strong>Leslie S. Veen:</strong> i don't get it
+<strong>Jeffrey Veen:</strong> &lt;table&gt;? &lt;mesa&gt;?
+<strong>Leslie S. Veen:</strong> ahhh
+<strong>Leslie S. Veen:</strong> honey
+<strong>Leslie S. Veen:</strong> you're working too hard
+&#8203;

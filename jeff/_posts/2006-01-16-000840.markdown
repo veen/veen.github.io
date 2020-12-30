@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "The Art of the Incremental Redesign"
+date: 2006-01-16
+author: Jeffrey Veen
+featured: yes
+abstract: Are we reaching a point where the maturity of our Web design can start to approach the timeless?
+---
+Michael Bierut, writing for the excellent <a href="http://www.designobserver.com/archives/009792.html">Design Observer</a>, relates his experience browsing through 80 years of the New Yorker on DVD,  "...every cover, every page, every story, every cartoon, every ad." I haven't yet seen the collection, but every account I've read gushes over what an amazing artifact it is.
+
+What strikes me from Bierut's piece, however, is how unbelievably _consistent those thousands of issues are.
+
+<blockquote>And from a design point of view? Unbelievably boring. Or, I should say, unbelievably, wonderfully, perfectly, exquisitely boring. To a field that today seems to prize innovation above all else, The New Yorker makes a case for slow design: the patient, cautious, deliberate evolution of a nearly unchanging editoral format over decades. And the case they make is &mdash; let's admit it &mdash; pretty hard to argue with.</blockquote>
+
+This reminded me of doing primary research for a history course once in musty old volumes of Time Magazine from the first World War era. It so interesting to have such a dramatic first draft of history without a blur of hindsight. But also, I was struck with how much more powerful those accounts were when set in their original typeface, following layout principles from nearly a century ago, juxtaposed against advertisements for girdles and Model-T's. It was unmistakably better than the raw text, if only to help evoke the time in which the words first were set down on the page.
+
+We've lost this on the Web, with our incessant compulsion for redesigning sites. I realize this is unavoidable -- the rapid rate of change in the browser technology we use to view our content offers constant opportunity for rethinking design. Not only that, but we've hardly exhausted the conventions for interactive design -- the New Yorker was working with about 600 years of print behind them. We've got, oh, maybe a decade?
+
+But with our content management systems and dynamic targeted advertising, every change we make to our site replicates back through history. Even a linked CSS file affords global changes. That thing you wrote back in '97 now shines through with <a href="http://www.alistapart.com/articles/fauxcolumns/">floating columns</a> and <a href="http://www.alistapart.com/articles/slidingdoors/">sliding doors</a>. What was old is suddenly new again. 
+
+But there's a bigger point to this, too. I wonder if we're at all reaching a point where the maturity of our Web design can start to approach the timeless. From a usability perspective, aren't incremental improvements are almost always appreciated more than radical refactoring?
+
+There will always be a place for innovation, of course. But maybe there's value in reconsidering the redesign for a more measured, iterative approach. Maybe it's time to slow down just a little.
+&#8203;

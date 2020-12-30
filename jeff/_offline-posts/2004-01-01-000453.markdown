@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Stating the Obvious"
+date: 2004-01-01
+author: Jeffrey Veen
+---
+But it's a message worth repeating.
+
+<cite>"The internet is a reflection of our society and that mirror is going to be reflecting what we see. If we do not like what we see in that mirror the problem is not to fix the mirror, we have to fix society."</cite>
+
+--<a href="http://news.bbc.co.uk/2/hi/technology/3292043.stm">Vint Cerf</a>
+&#8203;

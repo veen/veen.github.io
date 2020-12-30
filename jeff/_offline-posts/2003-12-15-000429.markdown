@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Happy Birthday VisVocab"
+date: 2003-12-15
+author: Jeffrey Veen
+---
+Jesse <a href="http://www.boxesandarrows.com/archives/the_visual_vocabulary_three_years_later_an_interview_with_jesse_james_garrett.php">waxes nostalgic</a> for boxes and arrows over at BoxesandArrows.com on the third anniversary of his <a href="http://www.jjg.net/ia/visvocab/">Visual Vocabulary</a>. For those of you not familiar with the tools, it is a set of standard elements that can be used to diagram interaction design flows and site architecture diagrams. I've been using it for almost as long as it has been out, and it feels like a second language to me -- an astonishingly efficient shortcut between my brain and an eventual design solution. 
+
+But remember, it's not just a bunch of shapes that makes for good deliverables -- the consistent _use of those elements is equally important. When trying to diagram a series of Web interactions, remember these heuristics:
+
+<ul>
+  <li>Express interactions as simply as possible (but no simpler).</li>
+  <li>Include a legend that explains what's what in the diagram.</li>
+  <li>Be complete. Someone should be able to build from your diagram without you being around.</li>
+  <li>Label every box with a noun, and ever arrow with a verb.</li>
+  <li>Don't cross lines. If you can't avoid it, you're breaking the first rule.</li>
+  <li>Use good visual design. Keep things aligned. Don't use more than one typeface. Make everything the same size.</li>
+</ul>
+
+Here are some excelent examples from the master himself: <a href="http://www.boxesandarrows.com/archives/images/031102_YahooMail/jjg_ymail_poster.pdf">Yahoo Mail</a> (34k PDF), <a href="http://www.boxesandarrows.com/archives/images/042902_Slate/jjg_slate.pdf">Slate</a> (41k PDF), <a href="http://www.jjg.net/ia/visvocab/metafilter_ia.pdf">Metafilter</a> (20k PDF)
+&#8203;

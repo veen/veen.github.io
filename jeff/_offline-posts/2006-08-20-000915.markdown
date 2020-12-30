@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "September conferences"
+date: 2006-08-20
+author: Jeffrey Veen
+---
+Industry events like conferences and workshops are a good bellwether for the economy. Things are getting a little crazy again but that's good -- meeting the people behind all the new ideas, blogs, products, and companies builds a strong sense of community that felt lacking a few years ago.
+
+So I'm attending and speaking more of them these days, including a couple of conferences in the new few weeks. First comes a trip to Brighton for <a href="http://2006.dconstruct.org/">d.construct 2006</a> -- which, as an interesting data point, sold out in 36 hours. I did a <a href="http://2006.dconstruct.org/podcast/">podcast interview</a> with them about some of the themes we'll be discussing there.
+
+Then, it's right back home for the <a href="http://www.carsonworkshops.com/summit">Future of Web Apps</a> summit, which is being hosted by my pal Ryan Carson. Not only has he put together a great couple of days, but he was also kind enough to hold his event just a few blocks from where I live. Nice!
+
+What else is going on? Have you been to any interesting conferences? Looking forward to any?
+&#8203;

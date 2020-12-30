@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "Six Apart Redesigns"
+date: 2005-02-15
+author: Jeffrey Veen
+---
+Blog tool developers [Six Apart][] launched a new site last night designed by [Mule Design][]. It's a great example of a simple, consistent corporate site -- especially considering the complexity and wealth of content to be found there. In particular, have a look at:
+
+- Simple architecture.
+- Clean, consistent visual design.
+- XHTML Transitional code that [validates][].
+- Flash text-replacement using [sifr][].
+- Technological eating of one's own [dogfood][].
+
+Nice work, everyone.
+
+
+[Mule Design]: http://muledesign.com/
+[Six Apart]: http://www.sixapart.com/
+[validates]: http://validator.w3.org/check?uri=http://www.sixapart.com/
+[sifr]: http://www.mikeindustries.com/blog/archive/2004/08/sifr
+[dogfood]: http://www.sixapart.com/movabletype/news/2005/02/our_new_home_powered_by_.html

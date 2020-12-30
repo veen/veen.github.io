@@ -1,0 +1,36 @@
+--- 
+layout: post
+title: "Making A Better Open Source CMS"
+date: 2004-10-03
+author: Jeffrey Veen
+featured: yes
+abstract: Most open source content management software is obtuse and complex. But it doesn't have to be that way.
+---
+Open source content management software sucks. It sucks really badly. The only things worse is every commercial CMS I've used. But it really doesn't have to be that way.
+
+I did some research recently at <a href="http://www.opensourcecms.com/">OpenSourceCMS.com</a> -- a fantastic site that lets you play with dozens of CMS installations -- and left pretty depressed. What I experienced was obtuse and complex software that was packed with gratuitous features at the expense of usability and user experience. It was software written by geeks, for geeks. This whole category of software desperately needs to be redesigned with writers, editors, designers, and site owners in mind.
+
+Here are my recommendations to the folks writing open source content management systems.
+
+<strong>Make it easy to install.</strong> Your tool will see better adoption if you stop to consider the out-of-the-box experience before you ship it. I want to download, unpack, and run an installer in my browser. Ask me a few questions, and then _you go set up the database tables and write the conf.php or whatever. Set constraints for yourself as you design this experience: 10 minutes from download to running, never send a user to the command line, never force open a text editor. It will be hard, but you're good at solving hard problems, and this is time very well spent.
+
+<strong>Make it easy to get started.</strong> Give first-time users a series of quick wins that become increasingly complex. When I first log in, I want to create a Web page. Next, I'd like to add some styles to it. Then, I'd like to make links to some other Web pages. I'll build a navigation system after that, and start to add other features eventually. But I want to feel successful with your system within a few minutes. I don't want to you to present the stunning power at my fingertips until I'm comfortable with my surroundings. Please save the content ranking, on-the-fly PDF creation, community forums, and user polls for later. I may eventually want that stuff, but not the first time I log in.
+
+<strong>Write task-based documentation _first.</strong> Most systems have installation instructions that are quite good: "First do this, then do this, this, and this." But when it comes to actually using the CMS, they revert to feature-based docs, carefully outlining what each feature does, and typically from a back-end perspective. Remember, I want to get started quickly, so give me the basics in sequential order for doing that. Do I have to create users first? Can I make a template right now?
+
+<strong>Separate the administration of the CMS from the editing and managing of content.</strong> I am proficient enough with scripting languages and basic computer science concepts. I can write my own templates, and even dip into object oriented Perl and Python if I need to. So why do all open source content management systems baffle me? I know most systems have the notion of administrator and user, I don't want to keep having to switch accounts to make changes. I mean separate them in the _interface. Remember: 98 percent of your audience will be using the CMS to manage their Web sites, not manage the system. Yet most systems are optimized for the other 2 percent. 
+
+<strong>Users of a public web site should never -- _never -- be presented with a way to log into the CMS.</strong> Every organization I have ever worked with has kept the content management interface completely separate from their public-facing Web site, yet almost every open source CMS mixes them together. These systems provide a mechanism for anyone to create an account and login to the CMS directly from the site being managed. Yes, I know I can edit the template and take this out. But the only sites that really require this functionality seem to be open source projects; this is an indication that you're badly misinterpreting your audience.
+
+<strong>Stop it with the jargon already.</strong> I don't know what a portlet is. Or a component, module, block, or snippet. The last system I evaluated had something called "<a href="http://mamboserver.com/">mambots</a>" which, to me, sounded like robotic assistance for breast feeding. Are you making up words to promote your differentiation in the market? Because it is confusing. Please just use simple words to describe the things your system does.
+
+<strong>Why do you insist Web sites have "columns"?</strong> I've used quite a few systems now that have the notion of a 3-column layout. They give me the ability to turn columns off and on, and put "portlets" into "content-slots". Where does this assumption come from? For the last two years, I haven't built a single Web site with columns -- and these are high-traffic commercial sites. All the markup gets spit out linearly, and then styled in whatever column format we want using CSS. Yet so many content management systems bake the 3-column layout so deeply into the code that it takes considerable hacking to get rid of it (I'm looking at you, <a href="http://plone.org/">Plone</a>.). It may be a couple of years before everyone can start using table-free layout, but why not set the precedent with your tools? Think how much easier your CMS will be if I could simply say, "I want these features presented in this order," and then apply a stylesheet that does _all of the presentation.
+
+I realize no CMS will work for every site. But I've lost track of how many times I've heard people tell me things like, "Yeah, we tried PHP-Nuke. But everything came out so Nuke-y looking." That suggests to me that most systems are designed with a particular genre of site in mind. Then, features and functionality are added on top of that basic framework. And the whole package is then shipped as a tangled mess of add-ons and faulty assumptions.
+
+Ultimately, a content management system should be designed to empower writers and editors to do content creation and maintenance themselves. I'd like to see it take a step further: empower designers, information architects, and site owners with the ability to make the CMS work for _them.
+
+Have you seen a product that does this?
+
+
+&#8203;

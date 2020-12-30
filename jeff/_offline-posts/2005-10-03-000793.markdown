@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Web Essentials '05: Bringing a Web conference to the Web"
+date: 2005-10-03
+author: Jeffrey Veen
+---
+Last week I spoke at <a href="http://webessentials.org/">Web Essentials '05</a>, an invigorating conference in Sydney, Australia. The folks attending were so engaged and excited; the other speakers brilliant and provocative. And our host <a href="http://westciv.typepad.com/dog_or_higher/">John Allsopp</a> took us out for post-conference surfing at Bondi. Nice!
+
+What really set this even apart, though, was the organizers' willingness to experiment with extending the conference conversation beyond the two days. I was surprised with the extent these technologies really helped bring the event together, including an aggregated "WE05" tag for <a href="http://technorati.com/tag/WE05">blog posts at Technorati</a> and <a href="http://www.flickr.com/photos/tags/we05/">photos at Flickr</a>. And, they've offered a <a href="http://we05.com/podcast/">Podcst subscription</a> to the MP3 audio of all the sessions. 
+
+In that spirit, I've made my two presentations available as PDF downloads, with associated audio links under a Creative Commons <a href="http://creativecommons.org/licenses/by/2.0/">Attribution License</a>. The audio and slides aren't synced, so you'll have to try to keep up on your own. But the end result may give you incentive to join the party next year. Enjoy.
+
+<strong>Beyond Usability: Designing the Complete User Experience</strong> <br /><a href="http://adaptivepath.com/events/workshops/we05/veen_beyond-usability.pdf"><img src="http://veen.com/images/icons/documents/small/pdf.gif" alt="PDF Icon" /> PDF Slides</a> (4.9M Download) <br /><a href="http://we05.com/podcast/mp3/we05-3-jeffrey-veen.mp3"><img src="http://veen.com/images/icons/documents/small/podcast.gif" alt="PDF Icon" /> MP3 Audio</a> (11.3M Download)  <br />
+
+
+<strong>Designing for Web 2.0 </strong> <br /><a href="http://adaptivepath.com/events/workshops/we05/veen-web2.pdf"><img src="http://veen.com/images/icons/documents/small/pdf.gif" alt="PDF Icon" /> PDF Slides</a> (3.6M Download) <br /><a href="http://we05.com/podcast/mp3/we05-15-jeffrey-veen2.mp3"><img src="http://veen.com/images/icons/documents/small/podcast.gif" alt="PDF Icon" /> MP3 Audio</a> (5.9M Download)
+&#8203;

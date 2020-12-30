@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "The Comic Experience"
+date: 2005-01-21
+author: Jeffrey Veen
+---
+<img src="http://www.veen.com/jeff/images/icon-veen-sm.gif" alt="OK/Cancel portrait of Jeffrey Veen" style="float:left; margin-right: 10px;" />While some may consider a <a href="http://www.sprouls.com/portfolio/wsjp/index.html">Wall Street Journal portrait</a> a measure of success, I personally find it much more of an honor to have my experiences <a href="http://www.ok-cancel.com/archives/week_2005_01_21.html">rendered by OK/Cancel</a>. Take _that, fancy print media people.
+&#8203;

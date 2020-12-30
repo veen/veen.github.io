@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Make $$$$ Fast!"
+date: 2003-03-26
+author: Jeffrey Veen
+---
+It was no lie. Three years ago, you could get $10M in venture funding in an afternoon with <a href="http://seattlepi.nwsource.com/business/vc233.shtml ">a good idea and a 12-slide PowerPoint deck</a>. So many people were talking about money, and chasing money, and making money, and loosing money. It was, without a doubt, absolutely insane.
+
+I was fortunate to have the occasional peek behind the green curtain of San Hill Road. <a href="http://www.augustcap.com/team/aa.shtml">Andrew</a>, the former president of HotWired, would often join me for lunch and talk about what had been happening in the industry. After Wired, he joined August Capital as a partner. We would talk about interesting stuff that was getting funded, and I would talk about user experience and who was doing it well.
+
+I'm very happy to announce that I (and you, too!) can now get a daily dose of wisdom from the partners at August over at <a href="http://ventureblog.com/">VentureBlog</a> . It gets the entrepreneurial weels turning, it does.
+
+&#8203;

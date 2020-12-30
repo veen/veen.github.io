@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Turning Up the Heat on Standards"
+date: 2003-10-17
+author: Jeffrey Veen
+---
+I've made a few changes to the sidebar on this side over the last couple of weeks. I've done some editorial work by selecting "Popular Posts" and condensing all the text I had over there to a concise "About Me" section. But more interestingly are the Web services I've leveraged to pull dynamic content. 
+
+The "Recent Photos" section is done through a javascript include that pulls in a syndicated feed from <a href="http://buzznet.com/">BuzzNet</a> of images I've snapped and uploaded with my phone. If you've not seen that service yet, I heartily recommend checking it out. They are a photoblogging service that has effectively routed around the <a href="http://www.veen.com/jeff/archives/000326.html">inane policies and limitations</a> of Sprint's PictureMail service. Now, all I do is shoot a picture, click a couple of times on my phone, and it shows up nearly instantaneously here on my site.
+
+Below that, "Heavy IPod Rotation" gives you an idea of the things I'm listening to. I installed the <a href="http://mtamazon.sourceforge.net/">MT-Amazon plugin</a> for MovableType (a 5 minute process), found a few ASINs at amazon.com (2 min), wrote a template (1 min), and rebuilt the site (22 sec). Just like that, I'm using and XML-based Web service to dynamically query a remote data repository and generate a new content feature. All without writing a single line of code. A next interesting step would be to use an Applescript on my Mac that queries ITunes for the highest listen count every time I sync my IPod, then RPC that to veen.com to update that album listing. Anyone?
+
+RDF, FOAF, RSS, SOAP... These acronyms seem to have the same effect on many technologists: eyes rolling, head shaking, and murmurs of "Ah, yes, the utopian Semantic Web. Isn't that a cute idea." Most think the notion of standardized, shared metadata being embraced by the masses is a pipe dream. My feeling is that it's more akin to <a href="http://quotationspage.com/search.php3?Search=frog&amp;x=60&amp;y=11&amp;Author=Charles+Handy&amp;C=mgm&amp;C=motivate&amp;C=classic&amp;C=coles&amp;C=lindsly&amp;C=poorc">boiling a frog</a>. You can't toss the poor beast in hot water -- he'll jump right out. But put him in water at room temperature and slowly increase the heat, and he'll never see it coming. It's standards-based services like the ones I'm playing with here that will slowly turn up the metadata heat, until the Semantic Web is boiling around us before we have a chance to scoff again.
+&#8203;

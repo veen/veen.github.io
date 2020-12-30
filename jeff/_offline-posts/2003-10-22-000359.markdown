@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Seeing Between the Lines"
+date: 2003-10-22
+author: Jeffrey Veen
+---
+I'm spending the week in New York City while working on a research project, spending days in Midtown and evenings in the Village. That makes for a lot of trips along the island, and I'm getting better and better at combining cabs and the subway system here. There are a wealth of maps on the Web, the best being directly from the <a href="http://www.mta.nyc.ny.us/nyct/maps/submap.htm">NY-MTA</a>. But while looking, I also found a number of interesting "fan" maps for the transit system. Browse around the <a href="http://www.nycsubway.org/maps/historical/">history page</a>, maps of the <a href="http://www.nycsubway.org/maps/track/">actual tracks</a>, and even <a href="http://www.nycsubway.org/maps/fantasy/">fantasy systems</a> -- how some people _wish the system was designed.
+
+My favorites:
+
+<ul><li><a href="http://www.nycsubway.org/maps/historical/irtmap.jpg">1939 Interborough Rapid Transit System</a></li><li><a href="http://www.nycsubway.org/maps/historical/bmttrol.gif">1930s Brooklyn and Queens Surface trolley lines</a></li><li><a href="http://www.nycsubway.org/maps/historical/1959_c.gif">Bauhaus Minimalism from 1959</a></li><li><a href="http://www.nycsubway.org/maps/track/smidtown.gif">Midtown tracks</a></li><li><a href="http://www.nycbloggers.com/manhattan.asp">New York City bloggers and which stop they live by</a></li></ul>
+&#8203;

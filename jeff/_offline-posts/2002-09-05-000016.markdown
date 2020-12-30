@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Would You Upgrade Already!"
+date: 2002-09-05
+author: Jeffrey Veen
+---
+For a variety of reasons that I can't bear to relate again, a <a href="http://www.upsdell.com/BrowserNews/stat.htm">significant percentage</a> of the Web's audience is <i>still</i> using a browser that is older than my <a href="http://veen.com/noah/">adorable nephew</a>. You've certainly heard about <a href="http://www.alistapart.com/stories/died/died1.html">just how bad</a> the 4.x family of Netscape browsers is when it comes to simple things such as CSS and Javascript, so I won't talk about that again, either. What I will offer, though, is hope that things are actually changing. And this hope comes from a <a href="http://home.netscape.com/detour.adp">surprising source</a>, indeed.
+&#8203;

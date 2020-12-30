@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: "Give up control"
+date: 2005-09-26
+author: Jeffrey Veen
+featured: yes
+abstract: Web design has always been about letting content adapt to it's environment.
+---
+All of these things are probably true of the work you do online:
+
+<ul><li>Your web site is a tiny piece of a much larger experience.</li>
+
+<li>Nobody sees your web site the way you expected. Few use your content the way you intended.</li>
+
+<li>Everything you create online is being ripped apart and recombined with other stuff by thousands of curious geeks. Or at least, should be.</li>
+
+<li>The easiest way to fail is by trying to control all this.</li>
+</ul>
+
+The really frightening thing is that this has _always been true on the web. We've only just begun to understand this, come to terms with it, and learn to exploit it.
+
+Anyone following the philosophical underpinnings of the <a href="http://www.flickr.com/photo_zoom.gne?id=44349798&size=o">Web 2.0 meme</a> will recognize these ideas. They originate with the zeitgeist of the Internet itself -- rough consensus and working code was the only way to build such a broad technological co-op. Tim O'Rielly often traces this to the open source movement and it's <a href="http://www.oreillynet.com/pub/wlg/3017">culture of participation</a>. 
+
+We've been tracking and contributing to these ideas for a while now at Adaptive Path -- the implications for design, architecture, and experience on the web are tremendous. In particular, my partner Peter Merholz has been thinking and writing about what he dubs the "sandbox." From his <a href="http://www.adaptivepath.com/publications/essays/archives/000501.php">essay on our site</a>, he suggested:
+
+<blockquote>The Web's lesson is that we have to let go, to exert as little control as necessary. What are the fewest necessary rules that we can provide to shape the experience? Where do people, tools, and content come together? How do we let go in a way that&rsquo;s meaningful and relevant to our business?</blockquote>

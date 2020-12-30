@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Disposable Feeds"
+date: 2005-04-24
+author: Jeffrey Veen
+---
+<img src="http://www.veen.com/jeff/images/pope-rss.jpg" style="border: 1px black solid; margin: 5px; float:left;" height="141" width="164" alt="pope-rss.jpg" />I'll admit to not using Yahoo for daily news all that much, but I was recently impressed by an unknown-to-me feature pointed out by a friend: RSS feeds for developing stories. 
+
+It had strangely not occurred to me before, but I've always given feeds a particular context and permanence -- as if they were simply a different way of representing a publication: You can read <a href="http://boingboing.net/">boingboing</a>, or subscribe to the <a href="http://boingboing.net/rss.xml">feed</a>. And larger publications often offer a narrower context for their feeds: Read the <a href="http://www.nytimes.com/">New York Times</a>, or one of their <a href="http://www.nytimes.com/services/xml/rss/index.html">more focused feeds</a>.
+
+But why limit RSS to just publications or topic areas? Technorati and Feedster have long been offering keyword-based RSS for tracking queries. Yahoo (and others) took the next logical step by blending editorial selection and feed currency. This is hardly a big leap and probably not all that new, but illustrative of how we're starting to think of feeds as occasionally having a shelf life. Feeds are great at showing change, but what happens when the subject stops changing, becomes irrelevant or redundant, or simply goes away?
+
+"Well, duh. Unsubscribe." I guess. But that just shifts the management burden back to you, the user. Think of all the little pieces of data you track, and how great it is to subscribe to future changes and updates. Last week, I would have subscribed to news on Lance Armstrong's retirement, three FedEx and one DHL deliveries, followups to nine comments I posted on other blogs, and two saved searches on Craig's List. That's a lot to manage in my feedreader, considering those items will no longer be relevant in a few days time. Stretched out across a year, and I'd be drowning in folders with hundreds of expired feeds.
+
+Eric Lunt, one of the founders of <a href="http://feedburner.com/">Feedburner</a>, has been thinking about this concept of <a href="http://www.burningdoor.com/eric/archives/001100.html">microfeeds</a> for quite a while. He wonders if the burden might shift to the publisher -- the equivalent of HTTP's codes for redirects, file not found, etc. Maybe there is a solution, coupled with new formats for temporal content, that brings disposability to aggregation. I would also wager that Eric and his colleagues are hard at work on showing publishers how <a href="http://www.burningdoor.com/feedburner/archives/000660.html">splicing custom feeds</a> for individual subscribers can help, too.
+
+Ultimately, these issues are probably just growing pains -- another step towards a future where publishers provide structured content through smart, incremental delivery as their primary offering ... or even their only offering. Regardless, get ready to spend a lot more time in your feedreader.
+&#8203;

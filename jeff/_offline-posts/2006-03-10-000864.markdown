@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Austin-bound"
+date: 2006-03-10
+author: Jeffrey Veen
+---
+It's March, and that means conference season. I've been on the road for a while now, first at <a href="http://www.searchenginestrategies.com/">Search Engine Strategies</a> (which was, um, different) and then at <a href="http://conferences.oreillynet.com/etech/">Emerging Technology</a> (which was the same). I'm heading out again tomorrow -- this time for South by Southwest. Even though the traveling can be grueling this time of year, I always look forward to returning to Austin. It's a little like a class reunion, except imagine you liked everyone you went to high school with.
+
+I'm moderating a panel this year on "<a href="http://2006.sxsw.com/interactive/programming/panels/?action=show&amp;id=IAP060004">Designing the Next Generation of Web Apps</a>" this coming Tuesday at 11:30am. In it, I will attempt to avoid using the phrase "Web 2.0" (but I have little faith that I'll be able to). Joining meve are <a href="http://abitofgeorge.com/">George Oates</a> from Flickr, <a href="http://www.sixapart.com/about/corner/index">Mena Trott</a> from SixApart, <a href="http://eric.stamen.com/">Eric Rodenbeck</a> from Stamen Design, and <a href="http://www.evhead.com/">Evan Williams</a> from Odeo. Any questions you'd like to ask them? Leave a comment.
+
+Also, Adaptive Path is <a href="http://upcoming.org/event/59613/">having a party</a> on Monday night, this time co-hosted with Odeo and Consumating. We'll be podcasting the latest user experience techniques for nerd dating. Or something. It will be fun.
+&#8203;

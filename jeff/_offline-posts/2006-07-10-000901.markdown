@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Intellectual Bargain Shopping"
+date: 2006-07-10
+author: Jeffrey Veen
+---
+<a href="http://www.muldermedia.com/">Steve Mulder</a> was giving a presentation on user behavior at <a href="https://ftponline.com/conferences/webdesignworld/2006/seattle/">Web Design World</a> in Seattle this morning when he popped up this awesome quote in a slide:
+
+<blockquote>To predict the behavior of ordinary people in advance, you only have to assume that they will always try to escape a disagreeable situation with the smallest possible expenditure of intelligence.
+
+_ - <a href="http://history.enotes.com/famous-quotes/to-predict-the-behavior-of-ordinary-people-in">Friedrich Nietzsche</a></blockquote>
+
+Still, to this day, I am presented with the tired old argument that "users are stupid" -- that the hubris of developers and designers somehow trumps investment in usable products. 
+
+I love how this quote turns the tables. Users aren't stupid, they're efficient. They're spending the least amount of effort (i.e. _intelligence) as they possible can on each step of the goal they're trying to achieve. If you make them spend more, they'll go somewhere else -- it's like intellectual bargain shopping.
+
+This helps explain simple anomalies in user behavior at your site. Why do people search for terms that are listed right in the navigation? Because it's easier to type the word you want than pick it out of a list. Why do users send support email asking question answered in the help section? It's easier!
+
+They're not stupid. They're not lazy. Don't treat them that way. 
+&#8203;

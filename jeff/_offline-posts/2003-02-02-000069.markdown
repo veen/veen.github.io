@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Good Code Cache"
+date: 2003-02-02
+author: Jeffrey Veen
+---
+<p>I'm afraid I'm not getting my hands dirty that much any more. Back in the good old days, I was marking up content and scripting pages with the best of them. But no more. These days, I find my time is better spent on strategy, interaction, and architecture. It's not that I have anything at all against writing code, I'm just not all that good at it. While I certainly understand the capabilities and limitations of procedural languages, relational databases, and elegantly-written code, I'm not the one to do it. Trust me. First year CS majors roll their eyes at my muddled attempts at hacking. That said, I've found myself on frequent occasion needing to throw together prototypes or demos for projects I've been on. When I reach for a quick solution, here are some of the sites I frequently steal from:</p>
+
+<ul><li><a href="http://www.gazingus.org/dhtml/?id=109">Gazingus.org - DHTML Menus and Collapsing Lists</a></li><li><a href="http://webmonkey.com/reference/javascript_code_library/">The Webmonkey Javascript Code Library</a></li><li><a href="http://php.justinvincent.com/">EZ-SQL: Object-based PHP Classes for talking to MySQL</a></li><li><a href="http://magpierss.sourceforge.net/">Magpie: A PHP-based RSS parser that even I can use</a></li><li><a href="http://www.oreillynet.com/pub/a/javascript/2001/08/10/form_valid.html">Client side form validation</a></li><li><a href="http://smarty.php.net/">Smarty: A PHP template engine, good for quick prototyping</a></li><li><a href="http://www.rci.rutgers.edu/~hofman/jsexp/explslider.html">Why don't HTML forms have a slider control?</a></li></ul>
+&#8203;

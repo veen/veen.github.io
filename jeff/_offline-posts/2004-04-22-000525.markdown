@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Links: 2004-04-22"
+date: 2004-04-22
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.nytimes.com/2004/04/19/sports/othersports/19LANC.html?ex=1397707200&en=5c5101cb385ad4a7&ei=5007&partner=USERLAND">Overhauling Lance Armstrong</a><br />
+<span class="link-meta">The science of shaving seconds. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://store.muledesign.com/detail/?id=1">The Feed Store</a><br />
+<span class="link-meta">Light blue is the new black. Don't be caught without one. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.456bereastreet.com/lab/developing_with_web_standards/">Developing With Web Standards</a><br />
+<span class="link-meta">"This document explains how and why using web standards will let you build websites in a way that saves time and money for the developer and provides a better experience for the visitor." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+
+    <li><a href="http://www.gucci.com/product-shots/us-english/ss04_gf_125848_F06KR_9791.html">Gucci iPod Case</a><br />
+<span class="link-meta">Almost as much as an iPod (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.adage.com/news.cms?newsId=40248">Marketers Press For Product Placement in Magazine Text</a><br />
+<span class="link-meta">I had to double-check the URL to make sure I wasn't at the Onion. Sigh. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://the.taoofmac.com/space/blog/2004-04-14.22:22">What if Mail.app were like iTunes?</a><br />
+<span class="link-meta">Oh, what a dream mail client that would be... (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+  </ul>
+
+&#8203;

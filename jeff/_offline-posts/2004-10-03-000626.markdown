@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Links: 2004-10-03"
+date: 2004-10-03
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://glowlab.blogs.com/news/2004/10/cycling_around_.html">Glowlab: Cycling Around Town</a><br /><span class="link-meta">"Urban planners in the West are hoping for a change towards cycling as it is faster than walking, and it allows people to travel farther distances in relative ease." (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+    <li><a href="http://reviews.designtechnica.com/review1539_intro7702.html">Designtechnica: Logitech Bluetooth Headset Review</a><br /><span class="link-meta">"The overall experience with the Logitech Mobile Bluetooth Headset was one of pleasure and relatively few drawbacks." (categories: <a href="http://del.icio.us/veen/gadgets">gadgets</a> )</span></li>
+    <li><a href="http://www.salon.com/news/wire/2004/10/01/obit/index.html">Woman's Obituary Endorses Kerry</a><br /><span class="link-meta">"Jane fought to live long enough to be able to vote this November. To honor her memory, please do everything you can to elect John Kerry." (categories: <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+    <li><a href="http://www.oreillynet.com/pub/wlg/5680">RSS: The Ultimate Opt-In Solution</a><br /><span class="link-meta">"I want to receive marketing, billing, and other corporate communications via RSS instead of e-mail."  Life on the bleeding edge is lonely sometimes... (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+    <li><a href="http://griffintechnology.com/products/ibeam/">Griffin Technology: iBeam</a><br /><span class="link-meta">Turn your iPod into the world's most expensive AA battery. (categories: <a href="http://del.icio.us/veen/gadgets">gadgets</a> )</span></li>
+    <li><a href="http://dublincore.org/tools/">Dublin Core Tools and Software</a><br /><span class="link-meta">Stuff for managing metadata (categories: <a href="http://del.icio.us/veen/metadata">metadata</a> <a href="http://del.icio.us/veen/software">software</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+    <li><a href="http://a.wholelottanothing.org/archives.blah/008039">No on 36: Help save Oregon marriages</a><br /><span class="link-meta">Matt Haughey for President of Oregon! (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/religion">religion</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+  </ul>
+&#8203;

@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "But what do facets look like?"
+date: 2002-10-16
+author: Jeffrey Veen
+---
+There's a good pointer over on <a href="http://www.iaslash.org">IA Slash</a> to an article by Fred Leise on "<a href="http://www.contextualanalysis.com/publications-usingfacets.htm">Using Faceted Classification to Assist Indexing</a>. The piece dose a nice job of pointing out how to start with from the bottom up with content (or whatever you're indexing) to determine its attributes, and from there develop a classification system. I like that a lot, because even though it can be more difficult to maintain, it leads to both comprehensive analysis and much more flexible systems. And both of these things make innovation more likely. BUT -- I'm still looking for resources on how to design user interfaces to support these systems. I <a href="http://www.adaptivepath.com/publications/essays/archives/000034.php">wrote a few thoughts</a> about that a while back, but we still seem to be dancing around the issue. The best classification system in the world is pointless if people can't figure out how to use it.
+&#8203;

@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Dreadful Usability as Marketing Tool"
+date: 2004-10-14
+author: Jeffrey Veen
+---
+<img src="http://veen.com/jeff/images/coming-soon.jpg" width="500" height="150" alt="A screenshot of a terrible, terrible interface." style="border: 1px solid black;" />
+
+I want to connect to the Wifi at Logan Airport in Boston. Some proxy jacks my connection when I open up my machine and says it costs $9, but will last you a day. Sigh. Why don't airports realize that a "day" of connectivity is, in reality, a "single use" for most travelers. I'd buy an hour to grab email and respond to a few. I'd do that for $1.99. But not $9. That's a lot to pay for 15 new messages and 27 new spams.
+
+But! Hurray! They have roaming agreements with other carriers, and I've got some sort of TMobile monthly deal. So I struggle through the inane Flash-based interface to get to the login screen. But I can't click on the username or password field. What's up? I'm getting frustrated. Is this some kind of Flash form that won't work in Safari? I've never heard of such a thing. What's going on?
+
+Click. Click. clickclickclickclick. Crap! We're boarding soon. What do I do? I know, I'll launch another browser. Maybe Firefox will let me log in. Maybe this is just dumb, non-standard design that is choking up Safari.
+
+Oh. Wait.
+
+This is a marketing thing. A marketing thing! They're showing me how I will be able to log in to the roaming version of their service _as soon as they eventually launch it. But until then, it's disabled. This is a carrot on a string; a tantalizing glimpse at a feature I want to use, presented as a broken interface that I frustratingly pounded on until giving up. What a great experience! You've endeared me as a customer! I'm being ironic!
+
+Disabled form elements are an interaction device for communicating sequence. Choose an automobile manufacturer from the first dropdown menu, and the second lights up with options for selecting the models from that auto maker. Those choices need to be made in that order, and the order can be enforced by making the second choice impossible at first.
+
+Using disabled form elements like the Logan Airport has is the equivalent of saying, "Hey, check this out! Won't it be awesome when you can do this someday, sucker?"
+
+My design advice? Um, never do this. Ever.
+&#8203;

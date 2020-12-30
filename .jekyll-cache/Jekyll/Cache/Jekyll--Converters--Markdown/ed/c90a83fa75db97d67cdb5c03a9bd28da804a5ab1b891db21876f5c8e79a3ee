@@ -1,0 +1,16 @@
+I"X<p>I heard Jimmy Wales, the founder of <a href="http://wikipedia.org/">Wikipedia</a>, speak recently as part of the <a href="http://longnow.org/">Long Now Foundation</a>’s seminar series. He was an engaging and impassioned speaker and I recommend hearing him talk about his goal of making all of humankind’s knowledge accessible around the world.</p>
+
+<p>I found Wales particularly interesting as he put to rest Wikipedia’s notoriety as a prototypical Web 2.0 application, especially when people assume that the moniker Web 2.0 refers to a set of technologies. There are virtually no technical innovations, he explained, as most of the underlying pieces were invented over a decade ago: <a href="http://c2.com/ward/">Ward Cunningnam</a> invented the wiki over 10 years ago, for example.</p>
+
+<p>Rather, Wikipedia is a _social innovation and Wales used restaurant design as a metaphor. Your new dining establishment intends to sell steaks, so therefore you’ll need to provide sharp knives to your customers. Knives are also weapons and people could stab one another with them, so rather than booths and tables, you’d better lock your customers in individual cells to prevent that behavior.</p>
+
+<p>Absurd, of course. Society has built up a collective set of agreements to ensure this sort of thing doesn’t occur. Community software, however, often resorts to those sort of draconian constraints to require or forbid specific activity.</p>
+
+<p>The success of Wikipedia can be traced back to exploiting the community trust, and backing it by social norms that have emerged as the site has grown and evolved.  But more interesting is the attenuation that the community has developed for these emergent patterns and the methods they use to build on them.</p>
+
+<p>Take the issue of deleting articles. It would be relatively easy to develop a system of user voting that could automate the weeding and pruning across the vast body of content. Instead, Wikipedia offers an area for debate that itself an editable article; users can make their case as a bulleted list on a wiki page until an admin deems the issue resolved for now. Wales admits it is a “messy” approach, and one that is straining under scale. But it’s also the way the real world tends to work - people come to conclusions by talking to each other and working through issues.</p>
+
+<p>These patterns of community design also repeat. In an almost off-hand comment, Wales mentioned that the Hungarian language group had just had to ban its first contributor, “which typically happens when the community has generated about 10,000-15,000 articles.” People in communities behave in unexpected ways, but they do so in regular and understood intervals.</p>
+
+<p>Not surprisingly, Wales is taking this learning and bringing it to the commercial world. His <a href="http://www.wikia.com/wiki/Wikia">Wikia</a> project is an attempt to leverage these community patterns into the realms of online personals or fan-generated content for media properties. It will be interesting to see if all this applies when the content doesn’t have the same noble goal of an encyclopedia for the world.</p>
+:ET

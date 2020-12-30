@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Maps and Numbers"
+date: 2003-11-25
+author: Jeffrey Veen
+---
+I've written before about <a href="http://www.veen.com/jeff/archives/000132.html">lying with statistics</a> -- it's a particular obsession of mine ever since I read <a href="http://www.edwardtufte.com/tufte/books_vdqi">Tufte's books</a> years ago and began to understand how information design affects the transition from data to information to knowledge. The problem really isn't lying so much as it is an unknowing misrepresentation of "truth" based on a lack of clear thinking applied to design skills. 
+
+Case in point: have a look at the <a href="http://vote2003.ss.ca.gov/Returns/gov/mapB.htm">map of California's recall election results</a>, published as an official document by the Secretary of State. Then, take the time to read through Jonathan Corum's fantastic analysis of <a href="http://www.style.org/mappingvotes/">mapping statistics to area</a>, which the map does. His alternative visual representations of the election results are beautiful _and paint a far more accurate picture of how votes were cast by Californians.
+
+I don't suppose Microsoft could add a "fair and balanced representation" option to the charting features in Excel? (via _<a href="http://a.wholelottanothing.org/archives.blah/007589">Mr. Haughey</a>)
+&#8203;

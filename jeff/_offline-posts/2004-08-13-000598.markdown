@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Search Doesn't Have To Suck"
+date: 2004-08-13
+author: Jeffrey Veen
+---
+Over the past year, I&#8217;ve evaluated the search experiences on a number of popular content sites. With the help of author and interface designer <a href="http://www.tothepoint.com/">Darcy DiNucci</a>, I picked apart the search and result designs from sites like <a href="http://apple.com/">Apple.com</a>, <a href="http://www.nasa.gov/">NASA.gov</a>, <a href="http://www.schwabfoundation.org/">SchwabFoundation.org</a>, and a variety of others. We focused on content sites, rather than e-commerce or Web applications, and we avoided general Web search engines entirely.
+
+What we found won't surprise you: search sucks on most sites. But we also drew a number of best practices from our research along with a bunch of advice for what to avoid. I summarized them in an essay on the Adaptive Path site titled, "<a href="http://adaptivepath.com/publications/essays/archives/000341.php">8 Quick Ways to Fix Your Search Engine</a>". 
+
+All of the research, findings, and analysis are compiled in a report that you can learn more about <a href="http://adaptivepath.com/publications/reports/search/">here</a>. You download a free excerpt of the report there, and see a few screenshots of pages. And you can buy it online for US$149, and knock 15 percent off of that by using discount code SEARCHDEAL when checking out. What a deal!
+
+I'm eager to hear any comments or criticisms, since this was a big, messy pile of work that took a lot of time and effort to pull together. But I'm really proud of the results, and am confident that people working on content Web sites will find them useful.
+&#8203;

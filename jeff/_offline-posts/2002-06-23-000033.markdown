@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Best Practices in Multifaceted Navigation Systems"
+date: 2002-06-23
+author: Jeffrey Veen
+---
+Faceted classification systems seem to be all the rage these days in the Information Architecture community. I [collected some observations][] on how to develop interfaces for these kinds of structures. There's a [followup conversation][] happening on Elegant Hack.
+
+[followup conversation]: http://www.eleganthack.com/?p=1062
+[collected some observations]: http://www.adaptivepath.com/publications/essays/archives/000034.php

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Google is watching"
+date: 2005-04-07
+author: Jeffrey Veen
+---
+Recently, <a href="http://a.wholelottanothing.org/">Matt</a> has been collecting and posting the interesting things showing up in the new satellite imagery on Google Maps. Just today, he and <a href="http://waxy.org/">Andy</a> point out a couple of <a href="http://a.wholelottanothing.org/2005/04/i_dont_know_why_1.html">beautiful evaporation pools</a>. Matt goes on to describe with impressive detail exactly how the chemistry of the pools differ. Satellite analysis by an armchair scientist.
+
+At the same time, the new Google feature is making people not a little uncomfortable. A friend yesterday said she always knew the machines buzzing around up there had cameras, but it was a little much to see her car in the driveway. How would it feel, for example, to be caught <a href="http://maps.google.com/maps?q=Truckee,CA&ll=39.030079,-119.976400&spn=0.006523,0.010986&t=k&hl=en">vacationing on Lake Tahoe</a>. Parodies have been quick, as the fine folks at <a href="http://www.defectiveyeti.com/archives/001238.html">Defective Yeti</a> point out.
+
+But privacy goes both ways, doesn't it? Ultimately Orwell was right: everything we do will be watched. But he was wrong about the government building it. We did it ourselves. Which means where Matt sees chemistry, I see environmental accountability. Where others see surveillance, I see corporate whistle-blowing. It reminds me of the <a href="http://www.surfrider.org/">Surfrider Foundation</a>'s project to get kayakers in the San Francisco Bay to cameraphone the bilge coming out out of container ships. What happens when thousands of grassroots activists can click-and-drag through the remote places in this country? Clearcut! Oil spill! You can't dump that there -- we're watching!
+
+Either way, mountains of "public" data being made accessible to everyone through an intuitive user experience (and it _is the <a href="http://www.kottke.org/05/04/google-maps-and-user-experience">experience that makes the difference</a>) will raise issues we haven't even imagined. I feel like we've only just scratched the surface.
+
+<strong>Update:</strong> <a href="http://www.shreddies.org/gmaps/">Google Sightseeing</a> is a blog collecting interesting satellite images from the service.
+&#8203;

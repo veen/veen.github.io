@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Links: 2004-11-05"
+date: 2004-11-05
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.glassdog.com/archives/2004/11/03/now_what.html">glassdog: Now what?</a><br /><span class="link-meta">"We have to take back the idea of ‘values’ and define it correctly, not as a set of fears about God’s retribution, but as a set of hopes about humanity." (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/propaganda">propaganda</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://home.hamptonroads.com/stories/story.cfm?story=77121&ran=127663">Beach runners can't wear yellow LiveStrong bands</a><br /><span class="link-meta">"Ken Tilley , executive director of the Virginia High School League , said a finger or hand from an opposing player could get stuck in the bracelet." (categories: <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/sports">sports</a> )</span></li>
+    <li><a href="http://www.lowculture.com/archives/002395.html">Hooray for Charts!</a><br /><span class="link-meta">low culture demonstrates the astonishing lack of information design skills in the media today. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+    <li><a href="http://www.cooper.com/content/insights/newsletters/2004_issue04/Ten_ways_to_kill_design.asp">Kim Goodwin: Ten Ways to Kill Design</a><br /><span class="link-meta">"Building better, more innovative, and more profitable products requires organizational change on a deep and difficult level." (categories: <a href="http://del.icio.us/veen/business">business</a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://www.nydailynews.com/news/gossip/story/244172p-209278c.html">Jon's too hot for Wal-Mart</a><br /><span class="link-meta">Stewart's "America" banned. Better idea: put it on sale, keep the bonfire going in the parking lot. (categories: <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+  </ul>
+&#8203;

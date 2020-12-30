@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Make Magazine: Dangerous and Illegal?"
+date: 2005-02-13
+author: Jeffrey Veen
+---
+The first issue of <cite><a href="http://makezine.com/">Make</a></cite> showed up the other day, and I can't put it down. <a href="http://www.oreillynet.com/pub/au/26">Dale Dougherty</a> and his colleagues at O'Reilly have created fantastic handbook to hacking the world around us. It's reminiscent of the hipster do-it-yourself pub <cite><a href="http://www.readymademag.com/">Readymade</a></cite>, but with <a href="http://makezine.com/01/diy_mesh/">mesh wifi networks</a>, rather than <a href="http://www.readymademag.com/feature_1_newspin.php">fruit bowls made of vinyl records</a>.
+
+I think my first indication that I was a fan, though, was in the masthead. Below the list of contributors was this note:
+
+<blockquote>
+
+Technology, the laws, and limitations imposed by manufacturers and content owners are constantly changing. Thus, some of the projects described may not work, maybe inconsistent with current laws, or may damage or adversely affect some equipment.
+
+</blockquote>
+
+Now if that doesn't get your inner geek excited, I don't think anything will.
+&#8203;

@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Playing With Links"
+date: 2003-12-09
+author: Jeffrey Veen
+---
+I've taken the links from the right column of this site and moved them inline with content items. This gives me a little more flexibility (I'm planning on adding both category links and descriptions) and makes it easier to chunk them by date. The switch seems to make the site feel "fresher", but at the same time, makes the quality of content seem a little less valuable. At times, there appears to be nothing more than a day-by-day collection of links here, since posted entries can easily get pushed down below the fold. I'll see how this feels over time.
+
+I'm also using a new method for posting links, rather than the javascript include I wrote about earlier. Now, I've written a small Perl script that pulls the links from <a href="http://del.icio.us">del.icio.us</a> via its <a href="http://del.icio.us/doc/api">API</a>, then passes them through an XSL processor to transform them to HTML. The output is pushed to MovableType through it's XML-RPC interface. Sounds complicated, but it really isn't. It's all thrown together with a few modules and a couple of lines of script. I'll post it here after I clean it up.
+&#8203;

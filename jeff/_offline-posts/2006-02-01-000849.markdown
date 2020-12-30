@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "San Francisco Web Innovators Group"
+date: 2006-02-01
+author: Jeffrey Veen
+---
+Doing interesting Web stuff in the SF Bay Area? The SFWIN is meeting tomorrow (2 Feb 2006) at <a href="http://maps.google.com/maps?oi=map&amp;q=363+Brannan+Street,+San+Francisco,+CA">Adaptive Path's offices</a> at 6PM. From their announcement:
+
+<blockquote>We are a group of like minded people in the technology industry who are getting together once a month for drinks, conversation and to get to know one another. We like the TechCrunch barbecues on the Peninsula, but we need something closer to the city where we live and work! Whether you're in a startup, or an established company, if you're working on the cutting-edge we hope you'll join us. And feel free to invite other people who you think should be included.</blockquote>
+
+More information can be found on their <a href="http://wsfinder.jot.com/WikiHome/SF+Web+Innovators">wiki</a>. Looks to be a great group of people. Hope to see you there.
+&#8203;

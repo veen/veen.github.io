@@ -1,0 +1,40 @@
+--- 
+layout: post
+title: "Links: 2004-08-10"
+date: 2004-08-10
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.forbes.com/bow/b2c/review.jhtml?id=996">Forbes.com Best of the Web</a><br />
+<span class="link-meta">Review complains that, "The site lets you subscribe to RSS feeds, a complicated, XML-related way of reading news which doesn't serve much purpose here." (categories: <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+
+    <li><a href="http://www.macrabbit.com/cssedit/">MacRabbit - CSSEdit</a><br />
+<span class="link-meta">Cool little app. Well designed site. Awesome 'platform and spotlight' navigation system. (categories: <a href="http://del.icio.us/veen/css">css</a> <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+
+    <li><a href="http://www.themorningnews.org/archives/opinions/roundtable_mp3_bloggers.php">The Morning News - Roundtable: Mp3 Bloggers</a><br />
+<span class="link-meta">"We gathered six of our favorite mp3 bloggers to chat about the scene." (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.5ives.com/archives/002973.php">5ives: Five things you must abandon immediately</a><br />
+<span class="link-meta">Merlin keeps the kids in check. (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.businessweek.com/technology/content/aug2004/tc2004089_3601_tc024.htm">BusinessWeek: Blogging for Business</a><br />
+<span class="link-meta">"With readers flocking to their Web postings, execs are finding blogs useful for plugging not just their products but their points of view" (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/business">business</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.salon.com/tech/feature/2004/08/09/six_apart/">Salon.com: Blogging grows up</a><br />
+<span class="link-meta">Six Apart, received venture financing and they decided it was time to get serious. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/business">business</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://sports.espn.go.com/espn/page3/story?page=atbatsongs/">Name that tune in MLB ...</a><br />
+<span class="link-meta">A listing of songs chosen by baseball players to announce their trip to the plate. (categories: <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/sports">sports</a> )</span></li>
+
+    <li><a href="http://www.contactmusic.com/new/xmlfeed.nsf/0/93FE2E466738DC6280256EE10049B348!opendocument">Madonna's Bike Crash</a><br />
+<span class="link-meta">Tagged by a cab in Central Park: "Learn how to drive, you moron!" (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/news">news</a> )</span></li>
+
+    <li><a href="http://www.theonion.com/news/index.php?issue=4031">The Onion: CIA Asks Bush To Discontinue Blog</a><br />
+<span class="link-meta">"We're not trying to stifle the president's creativity. We think it's great he's taking an interest in writing." (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.downhillbattle.org/labs/battletorrent/#Downloading_Torrents">Battle Torrent - Simplifying the BitTorrent experience</a><br />
+<span class="link-meta">Someone finally realizes that technology is only as good as its adoption. (categories: <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+
+  </ul>
+
+&#8203;

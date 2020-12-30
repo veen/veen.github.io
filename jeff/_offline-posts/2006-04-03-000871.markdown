@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: "Podcast: Designing the Next Generation of Web Apps"
+date: 2006-04-03
+author: Jeffrey Veen
+---
+<a href="http://www.flickr.com/photos/veen/112498381/"><img src="http://static.flickr.com/47/112498381_2593d36443_m.jpg" width="240" height="180" alt="Live! On stage!" style="float: left; border:solid black 1px; margin-right: 8px;" /></a>
+
+I had a great time moderating a panel at <a href="http://www.sxsw.com/">South by Southwest</a> this year. The subject was web applications -- specifically the changes we've seen recently in the new technologies, design directions, and economic factors of building stuff online. So I asked some really smart people to join me to discuss what's been happening and what they've been thinking about. Thanks again to  <a href="http://abitofgeorge.com/">George Oates</a> from Flickr, <a href="http://www.sixapart.com/about/corner/index">Mena Trott</a> from SixApart, <a href="http://eric.stamen.com/">Eric Rodenbeck</a> from Stamen Design, and <a href="http://www.evhead.com/">Evan Williams</a> from Odeo.
+
+Here are the notes I prepared before the panel. We didn't get through it all; we could have kept going all afternoon. At the bottom, there are links to the slides I showed and a podcast at the SxSW site.
+
+--
+
+We're here to talk about the shift towards new types of interactivity in Web apps. Well, not so much new but newly popular. I'd like to discuss the implications of these shifts in some of the basic way we develop our applications. In particular:
+
+Amateurization:  The web has excelled at putting powerful tools in the hands of amateurs. Look at blogging, for example. It has removed the friction in publishing to the point of making it a commodity; I hardly ever pay for the words I read these days. How does that change the relationship between "producer" and "consumer" in the work we do?
+
+Algorithmic Editorializing: I like how Flickr uses a bunch of little decisions written in code to create an "editorial" product. Have a look at "<a href="http://flickr.com/explore/interesting/">interestingness</a>," which takes a bunch of criteria -- like how many people have viewed a photo or marked it a favorite -- and uses them to pull cool stuff out of the constant stream of new images.
+
+The Role of Design: User generated content and architecture are creating an architecture of participation that makes traditional design techniques obsolete. Or at least that idea keeps popping up. How does this influence the way you all craft features?
+
+Collaboration: How are your teams working together? Are you writing a detailed functional specs and handing them off to "engineering"? When we built measure map with was design, development, business, and everything all at once with everyone involved from the beginning. How are you doing this?
+
+Small Teams: I keep hearing people advocate for tiny focused teams, but how on earth does this scale beyond simple apps? Ev is managing a bunch of developers at Odeo. Mena's company has grown to support a bunch of products with international versions? Any best practices?
+
+Release cycles: I'm curious how you guys push stuff out. I've heard Cal say that Flickr does 6-7 releases a day some times. With Measure Map, it was Mondays and Thursdays only, because we couldn't maintain the discipline of keeping our releases straight if we pushed whenever. What do you guys thing of this? Eric, how does this translate to the client services world?
+
+Documentation: I've almost entirely given up trying to document Ajax interactions. Rather, we start with sketches and then just build, because we can tell how things will work until we can play with them. Is this just because interaction design is immature? Or is this a better way to work with teams?
+
+Accessibility: It's one thing to develop alternative versions of content and services on the Web. But now many "Rich Internet Apps" are using styles of interaction that aren't bothering to bridge that gap. What's going to happen?
+
+<strong>Download:</strong> <a href="http://www.veen.com/jeff/veen-sxsw06.pdf">PDF</a> of slides (3.6 meg)<br />
+<strong>Listen:</strong> <a href="http://server1.sxsw.com/2006/coverage/SXSW06.INT.20060314.NextGenerationofWebApps.mp3">Podcast</a> of panel discussion @ sxsw.com</strong> (29.8 meg)
+
+
+&#8203;

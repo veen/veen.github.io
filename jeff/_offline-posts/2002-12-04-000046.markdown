@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Looking for a good home"
+date: 2002-12-04
+author: Jeffrey Veen
+---
+A <a title="My Bug is for sale" href="http://veen.com/forsale/bug/">very good friend of mine</a> is looking for a new place to live.
+&#8203;

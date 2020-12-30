@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "DesignWhys by Eric Eaton"
+date: 2002-12-11
+author: Jeffrey Veen
+---
+Eric and I worked together at Wired Digital for many years. We argued all the time, we shared a brain for a while, and became good, good friends. He and I build interfaces and architectures for WebMonkey, Wired News, HotBot, and countless other projects. After Lycos gutted our company, Eric moved to an island off the coast of Maine, where I try to get at least once a year to kayak and talk about design for a few days. I don't think I'll make it this year, but at least I'll have his new book, <a title="" href="http://www.deliberate-design.com/designwhys/index.html">DesignWhys: Designing Web Site Interactive Elements</a>. Go have a look.
+
+
+&#8203;

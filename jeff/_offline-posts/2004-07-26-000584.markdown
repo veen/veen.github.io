@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Links: 2004-07-26"
+date: 2004-07-26
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.mp3blogs.org/">MP3Blogs Aggregator</a><br />
+<span class="link-meta">Like my wget hack, but with context! (categories: <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.velonews.com/race/int/articles/6674.0.html">After six, what's next for Armstrong?</a><br />
+<span class="link-meta">Will he or won't he go for seven? (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/news">news</a> )</span></li>
+
+    <li><a href="http://quote.bloomberg.com/apps/news?pid=10000085&sid=aeC7sUMNJO0k&refer=europe">Armstrong's 6th Tour de France Win Likely to Boost Endorsements</a><br />
+<span class="link-meta">The feel-good story of the century also brings in about $16.5 million a year (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.theonion.com/news/index.php?issue=4029&n=3">The Onion: Majority Of Americans Out Of Touch With Mainstream</a><br />
+<span class="link-meta">71 percent of U.S. citizens polled had no interest in NASCAR racing; 69 percent said they did not have a single Hispanic friend (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.engadget.com/entry/4970876118818521/">Sony VAIO R series Media Center PC</a><br />
+<span class="link-meta">Stunningly beautiful, and it's got a dang hole in the middle (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1000581723">Complaints Lead Newspaper Group to Drop 'Doonesbury'</a><br />
+<span class="link-meta">Newspapers continue their slide into oblivion (categories: <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://fury.com/images/weblog/google_circa_1960.jpg">Google Circa 1960</a><br />
+<span class="link-meta">HAHAHAHAHA (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+  </ul>
+
+&#8203;

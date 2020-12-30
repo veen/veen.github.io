@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Links: 2004-10-11"
+date: 2004-10-11
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.npr.org/features/feature.php?wfId=4062797">Library of Congress Seeks Digital Preserves</a><br /><span class="link-meta">"The Digital Information Infrastructure and Preservation Program seeks to preserve material that was 'born digital.'" (categories: <a href="http://del.icio.us/veen/history">history</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+    <li><a href="http://www.michelinakis.gr/Dimitris/cms/">Open Source Content Management Systems: An Argumentative Approach</a><br /><span class="link-meta">Dimitrios Michelinakis: "This report evaluates seven open source CMS products. The comparison is based." on eight categories as seen from a business perspective. (categories: <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/opensource">opensource</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+    <li><a href="http://www.pixelcharmer.com/fieldnotes/archives/process_living/2004/000549.html">Pixelcharmer: Murder Of Music Laid To Machines</a><br /><span class="link-meta">"[T]alking pictures, radio and the phonograph have 'murdered' music, at the same time failing to compensate musical genius adequately..." (categories: <a href="http://del.icio.us/veen/copyright">copyright</a> <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://www.newsfirerss.com/">NewsFire. Mac RSS with Style.</a><br /><span class="link-meta">Really Simple Software for Really Simple Syndication. Nice clean interface and a lack of any ornimental features. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/rss">rss</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+    <li><a href="http://jotspot.com/">Jotspot</a><br /><span class="link-meta">"JotSpot makes every page editable, directly by you and the people you let access the site." Taking the geek out of wiki, and tying it into email. (categories: <a href="http://del.icio.us/veen/social">social</a> <a href="http://del.icio.us/veen/software">software</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+    <li><a href="http://37signals.com/papers/introtopatterns/">37signals: An Introduction to Using Patterns in Web Design</a><br /><span class="link-meta">"To make better sites — sites that are functional, beautiful, and \"usable\" — we have to break our design problems up into small independent chunks based on the real issues within our requirements." (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/standards">standards</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+    <li><a href="http://glowlab.blogs.com/news/2004/10/cycling_around_.html">Glowlab: Cycling Around Town</a><br /><span class="link-meta">"Urban planners in the West are hoping for a change towards cycling as it is faster than walking, and it allows people to travel farther distances in relative ease." (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+  </ul>
+
+&#8203;

@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "All I want to do is wash my hands"
+date: 2005-05-07
+author: Jeffrey Veen
+---
+<a href="http://www.flickr.com/photos/veen/12813672/"><img src="http://photos10.flickr.com/12813672_f0ecd7d671_m.jpg" alt="The unusable faucet" style="border: 1px solid black; float: left; margin: 5px 5px 0 0;" /></a>
+
+This is the faucet in the restroom at <a href="http://westelm.com/">West Elm</a>, the modern furniture spin-off of Pottery Barn. I was unable to get water to come out for 3 minutes. The top spins allowing control over hot/cold settings, but neither pushing nor pulling it would start the water. I tried yanking on the spout, but nothing happened. So I twisted the whole thing and it started making a scraping noise and coming apart. Yikes.
+
+But as I was doing this, I inadvertently covered up the little holes in the base -- motion sensors. Water poured all over my arm. 
+
+The problem is, of course, that the faucet's spinning temperature control is the only thing communicating function while the motion sensor is designed to be very subtle, rather than the black infra-red lens we're used to seeing. Add these together, and form trumps function. 
+&#8203;

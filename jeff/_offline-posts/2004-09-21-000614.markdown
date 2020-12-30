@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The Democratization of Publishing"
+date: 2004-09-21
+author: Jeffrey Veen
+---
+"When my underemployed freelance writing friends in New York saw Blogger, they took to it like poor people to crack."
+
+ - Jackson West, Editor, <a href="http://sfist.com">sfist.com</a>, at the Online News Association Meeting
+&#8203;

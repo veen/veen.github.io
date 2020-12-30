@@ -1,0 +1,96 @@
+#!/usr/bin/perl
+#
+# Post Delicious Links to MovableType with XPath
+# (MT installed on local machine)
+#
+# Jeffrey Veen
+# jeff at veen dot com
+#
+# 10 December 2003
+#
+# Distributed under the Creative Commons "Share Alike" license.
+# http://creativecommons.org/licenses/sa/1.0/
+#
+###
+
+# load modules
+
+use POSIX;
+use lib "/path/to/your/mt/lib"; # change to your installation
+use MT;
+use MT::Entry;
+use XML::XPath;
+
+
+# set up local variables - change to suit your needs
+
+my $MTauthor = "1";
+my $MTblogID = "2";
+my $MTconfig = "/path/to/your/mt/mt.cfg";
+my $delUser  = "veen";
+my $delPW    = "****";
+
+# get today's date and format it
+
+my $date=strftime( "%Y-%m-%d", localtime());
+
+
+# go get the xml file
+
+my $xml = `curl -s -u $delUser:$delPW http://del.icio.us/api/posts/get?dt=$date`;
+
+# get a new XPath object
+
+my $xp = XML::XPath->new(xml => $xml);
+
+
+# see if anything was posted to day
+
+if ($xp->exists('/posts/post')) {
+
+my $title = "Links: $date";
+my $guts  = "<ul>\n";
+
+# grab XML values and write HTML
+
+	foreach my $posts ($xp->find('//post')->get_nodelist){
+	
+		$guts .= "    <li><a href=\"" . $posts->find('@href') . "\">";
+		$guts .= $posts->find('@description')  . "</a><br />";
+		$guts .= "_Posted: "   . $posts->find('@time');
+		$guts .= ' (categories: ';
+
+# loop through category tags and build a link for each
+
+		foreach my $tag (split(/ /, $posts->find('@tag'))){
+			$guts .= "<a href=\"http://del.icio.us/$delUser/$tag\">$tag</a> "
+		}
+		$guts .= ")</li>\n";
+	}
+	$guts .= "  </ul>\n";
+
+# post to MT
+
+	my $mt = MT->new( Config=>$MTconfig) or die MT->errstr;
+	my $entry = MT::Entry->new;
+
+	$entry->blog_id($MTblogID);
+	$entry->status(MT::Entry::RELEASE());
+	$entry->author_id($MTauthor);
+	$entry->title($title);
+	$entry->text($guts);
+	$entry->convert_breaks(0);
+	$entry->save
+	   or die $entry->errstr;
+
+# rebuild the site
+
+	$mt->rebuild(BlogID => $MTblogID )
+	  or die "Rebuild error: " . $mt->errstr;
+
+# ping aggregators
+
+	$mt->ping($MTblogID);
+	
+} # end of "check if there are posts"
+

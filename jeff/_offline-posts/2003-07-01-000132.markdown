@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Lies and Statistics"
+date: 2003-07-01
+author: Jeffrey Veen
+---
+The ecommerce trade pub InternetRetailer.com published <a href="http://www.internetretailer.com/dailyNews.asp?id=9670">a brief roundup</a> of the latest computer manufacture Web site traffic statistics today. The numbers themselves aren't all that interesting, but a subtle point in the second paragraph caught my attention.
+
+The article relates that Apple.com attracted the most unique visitors of any hardware vendor last week. Being an aficionado of their hardware, I find a smug satisfaction that the vendor with only 2 percent market share has such a popular Web site. But the next statistic stands out. The article says, "Apple and HP reversed rolls, however, in terms of visit time per person." In fact, Apple has the <cite>lowest</cite> page views per user of all sites polled. The assumption here (fostered by the fact that minutes per visit was factored into the report's "Top Five") is that a good site will not only attract viewers, but encourage them to stay as long as possible. 
+
+But consider your inevitable trips to a PC manufacturer's Web site. I visit them to download occasional updates, visit the tech support knowledge base, or oogle new products. In all of those cases, the <cite>fewer</cite> pages I need to wade through, the better. Get me the information that satisfies my goal as quickly as possible, with the fewest clicks as possible, and you've earned my respect. God forbid you've tried to make your site "sticky" in a desperate attempt to divert my attention from my intended task.
+
+We've been talking a lot about metrics and user experience at Adaptive Path lately, and have started sharing those ideas at our workshops. What we consistently find is that metrics are meaningless unless you're asking the right questions. Or, as Mark Twain <a href="http://www.bartleby.com/66/99/16799.html">paraphrased</a> in his autobiography, "There are three kinds of lies: lies, damned lies and statistics."
+&#8203;

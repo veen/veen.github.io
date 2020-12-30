@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Skip Always"
+date: 2004-11-03
+author: Jeffrey Veen
+---
+There's a great post at HotelChatter about which hotels offer the <a href="http://www.hotelchatter.com/story/2004/11/2/201522/957/Title/Best_WiFi_Hotels_2004">best Wifi service</a> in the industry. And while I'm trying desperately hard to just stay home these days, when I do travel I want the experience to be as absolutely hassle-free as possible. If one more hotel desk receptionist tells me, "Oh yes, your room has an internet connection, in fact, you can use the in-room phone for any kind of call" I will scream. Probably at them.
+
+Anyway, turns out Kimptons is the best, and HotelChatter relates a great anecdote of an engineer being dispatched to a low-signal room with a Linksys bridge to boost it to full strength. Nice. My experiences at Kimptons have been equally impressive, and I clicked through the story to <a href="http://www.kimptonhotels.com/">their Web site</a>, only to find ... a Flash-based splash page with thumping techno music. Sigh. 
+
+<img src="http://veen.com/jeff/images/skip_always.jpg" width="150" height="51" alt="Button labeled 'Skip Always'" style="border: black solid 1px; float: left; margin-right: 10px;" /> Yet, next to the obligatory Skip Intro button is one labeled Skip Always, ostensibly triggering a cookie that allows perpetual direct access to the actual home page. It's as if a sly interface designer is telling us, "Yeah, we hate useless pages like this too. But the CEO loves it. Sorry."
+&#8203;

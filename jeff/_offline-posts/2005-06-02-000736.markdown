@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "The Big One"
+date: 2005-06-02
+author: Jeffrey Veen
+---
+Living in San Francisco means living with the assumption that the ground may start shaking at any moment. I live in a building made of giant steel girders bolted into the bedrock at the top of a hill. Comforting, sure. But even so, a hundred years ago and three blocks away, my neighborhood looked like <a href="http://www.gliff.org/usgs/listing/8073">this</a>.
+&#8203;

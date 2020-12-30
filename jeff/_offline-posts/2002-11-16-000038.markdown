@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Make Them Do All The Work"
+date: 2002-11-16
+author: Jeffrey Veen
+---
+There's an interesting thing about a lot of the services companies build on the Web -- they shift the burden of data entry from a customer support representative to the end user. Think about buying an airline ticket. <i>You</i> search for fares. <i>You</i> enter your personal data. <i>You</i> print out the confirmation.  It's a benefit for both companies (they can cut down on support personel) as well as users (they can control and verify the data being entered) -- but only if the site is designed carefully. Lane <a href="http://www.adaptivepath.com/publications/essays/archives/000063.php">takes a look at this issue</a> in the latest Adaptive Path essay.
+&#8203;

@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Show and tell"
+date: 2005-08-03
+author: Jeffrey Veen
+---
+I haven't been traveling much in the last 9 months -- rare for my usually hectic schedule. Instead, I've been working with a small group of insanely talented people on a new web-based product. It has been exciting -- and very different. Long days and nights of design and development, and learning so much about both. 
+
+But now we've got something that works and a few people are even using it, so I'm planning some trips to show it off. I'll be at the <a href="http://adaptivepath.com/events/2005/august/">Adaptive Path User Experience Week</a> in Washington DC 22-25 Aug, then <a href="http://www.we05.com/">Web Essentials</a> in Sydney, Australia, 29-30 Sept, and also <a href="http://www.ftponline.com/conferences/webdesignworld/2005/boston/">Web Design World</a> in Boston, 21-14 Dec.
+
+Hey, if you're going to any of these events, add a comment...
+&#8203;

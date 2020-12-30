@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Finding Good Subjects"
+date: 2003-04-03
+author: Jeffrey Veen
+---
+There are few truisms in user research and experience design, but there are a few I believe. For example, the quality of your research and analysis is directly related to the effort you spend finding the right users. My partner Peter explores this issue in our site's latest essay, "<a href="http://www.adaptivepath.com/publications/essays/archives/000102.php">Finding the Right Users </a>".
+&#8203;

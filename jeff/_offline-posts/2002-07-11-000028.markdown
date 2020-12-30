@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "More on interviewing"
+date: 2002-07-11
+author: Jeffrey Veen
+
+---
+If you read Mike's essay on interviewing techniques, you might
+find [Karen Holtzblatt's piece][] interesting as well. In it, she makes the case that fewer sessions with users can still be useful -- something we are
+asked all the time when proposing research to clients. How can you get
+valid results from 10 people, the wonder. Turns out folks aren't all
+that different, especially when you focus on the similarities in how
+they work, rather than the obvious differences in the population. An
+interesting read and good ammunition when proposing low-cost user
+research for a Web project.
+
+[Karen Holtzblatt's piece]: http://www.incent.com/community/design_corner/population.html

@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Wireless in SF"
+date: 2002-07-30
+author: Jeffrey Veen
+---
+A bright and sunny day in San Francisco, sitting under a tree on Market at Sansome outside our office, scanning the airwaves for open WiFi. Looks like this technology might just be <a href="http://veen.com/jeff/80211.gif">catching on</a>.
+&#8203;

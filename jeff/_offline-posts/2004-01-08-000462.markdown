@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Links: 2004-01-08"
+date: 2004-01-08
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://sippey.com/2004/blog-snaps/">weblog snapshots</a><br /><span class="link-meta">It's an honor just to be nominated. (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/design">design</a> )</span></li>
+    <li><a href="http://www.mobilewhack.com/accessories/usb/keyspan_usb_server.html">Keyspan USB Router</a><br /><span class="link-meta">What a fantastic addition to the office this would be. (categories: <a href="http://del.icio.us/veen/gadgets">gadgets</a> )</span></li>
+    <li><a href="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/01/02/BAG2K42A441.DTL&type=news">S.F. man is homeless -- by choice</a><br /><span class="link-meta">$700k in the bank. Family members tried to get him inside. "You can't make me." (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.miskatonic.org/library/facet-web-howto.html">How to Make a Faceted Classification and Put It On the Web</a><br /><span class="link-meta">A step by step guide (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/ia">ia</a> )</span></li>
+    <li><a href="http://www.blogdigger.com/index.html">Blogdigger</a><br /><span class="link-meta">Yet Another RSS Search Engine (categories: <a href="http://del.icio.us/veen/rss">rss</a> <a href="http://del.icio.us/veen/blog">blog</a> )</span></li>
+  </ul>
+
+&#8203;

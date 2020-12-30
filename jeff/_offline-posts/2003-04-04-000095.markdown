@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Back to Backgrounds"
+date: 2003-04-04
+author: Jeffrey Veen
+---
+Repeating background images used to be an immediate sign of design naivete. Right about 1997 there was an epidemic of <a href="http://www.sfsu.edu/~jtolson/textures/sort/mixed/interest.htm">tiled fractal backgrounds</a>, animated horizontal rules, and the plunk-plunk-plunk of bad midi audio. 
+
+Understandably, many designers approached this new medium with a sense of awe and wonder, followed quickly with a giddy sense of the possibilities. The result, of course, was an exploitation of technology for technology's sake. Thankfully, the times have changed. Examples of browser-feature abuse are the exception, rather than the norm. In fact, the simple tiled background image is making something of a comeback in well-designed sites. 
+
+Have a look at <a href="http://www.whatdoiknow.org/">What do I Know?</a>, a site created by designer Todd Dominey. Compare that to Matt Haughey's <a href="http://a.wholelottanothing.org/">A Whole Lotta Nothing</a>. See how they both use subtle repetition of background patterns to create a sort of frame around the site? 
+
+Want to try it yourself? You can find dozens of these patterns at Travis Beckham's <a href=" http://www.squidfingers.com/patterns/">squidfingers</a> site.
+&#8203;

@@ -1,0 +1,36 @@
+--- 
+layout: post
+title: "Will you be my friend?"
+date: 2004-03-29
+author: Jeffrey Veen
+featured: yes
+abstract: What could social media become if we developed standards for modeling relationships?
+---
+
+Have you clicked "no" yet? You know, you get that email that says so-and-so has asked to be your friend at yet-another-social-networking-site.com, you jump over there, and realize you don't really know this person. Maybe they're a friend of a friend you've never heard of, or a link-status junkie trolling for new friends. Do you let your ego take over and bump your social network up a point or two? Or do you turn your back on this stranger, the digital equivalent of averting your eyes when someone you don't know smiles at a party.
+
+Sure, you're my friend. But so what? What possible value is there in codifying my connections to others? I get a nostalgic kick out of seeing who signed my high school year book, but that's about it. And now aren't we doing the same thing online?
+
+I found a glimmer of hope for social networks recently when I stumbled across <a href="http://www.crystalflame.net/2004/02/filster_tying_s.html">this procmail script</a>. It's a whitelist generator based on your Orkut network. That is, the script scrapes your list of friends at that site (violating the TOS of course) and uses what it finds to poke holes in your spam filters. So if you're my friend, your email will always get to me, regardless of what your put in it.
+
+What else should my friend-list do for me? Matt Haughey braindumped a bunch of scenarios in <a href="http://a.wholelottanothing.org/features.blah/entry/007633">an essay</a> a few months ago. Collaborative driving directions, group media recommendations -- all good stuff. I'd like:
+
+- **Addressbook** My phone number and address should stay current in the phones, address books, and email apps of my first degree, and theirs in mine. And let me request that data from my second degree.
+
+- **Media discovery** My first degree's preferences (RSS/iTunes most played/Tivo Thumbs-up) should be used as a collaborative filter for new feeds, links, music, and shows in my Now Playing.
+
+- **Mobile apps** My first degree may ask my phone where I am, sometimes. Much like iChat allows my first degree to ping me, sometimes. Ever play the proximity game with your mobile phone? "Where's the bar?" "Well, where are you?" But I also I want to decide who rings, who goes to voicemail, who goes to email, and who goes to /dev/null. And let's not forget that <a some folks are more first degree than others.
+
+You see? It's the *applications* that are interesting, not the infrastructure. And Orcut, Friendster, and Tribe.net are all just infrastructure. They're big databases full of relationships, but very little else. On top of that, the standards are all in place. It's as if these big repositories of data are being handed free APIs: <a href="http://www.foaf-project.org/">FOAF</a>, <a href="http://www.ietf.org/rfc/rfc2445.txt">iCal</a>, <a href="http://www.ietf.org/rfc/rfc2426.txt">vCard</a>, et al.
+
+The interesting thing is that the social network sites own the *contract* between you and your so-called-friends. Sure, I can publish a FOAF document saying I know <a href="http://www.microsoft.com/billgates/">Bill</a>, <a href="http://tim.oreilly.com/">Tim</a>, and <a href="http://www.oprah.com/">Oprah</a>. But that's meaningless, of course, unless Tim, Bill, and Oprah also agree. It's services like Orkut that aggregate these agreements.
+
+For example, when I plan a trip, I try to find out who else will be around so I have people to hang out with. So my <a href="http://www.apple.com/ical/">calendar</a> should ask <a href="http://upcoming.org/">Upcoming.org</a>, "Hey, Jeff says he's friends with Tim.  Will he be in New York for <a href="http://www.goodexperience.com/gel/">GEL</a>?"
+
+Ongoing should say, "Well, let me check. Hey Orkut, are Tim and Jeff friends?"
+
+And Orkut should reply, "Yeah, Tim says he knows Jeff. Go ahead and give him access to Tim's travel calendar. Oh, and here's the email address Tim actually reads."
+
+Now, hook up the same pipes to <a href="http://www.audioscrobbler.com/">AudioScrobbler</a>, <a href="http://del.icio.us">del.icio.us</a>, <a href="http://mailblocks.com">Mailblocks</a>, <a href="http://www.blogrolling.com/">BlogRolling</a>, and any other site that connect me to others. This, by the way, is more or less what Amazon, Verisign, and your Web browsing software all do when you type in your credit card data. Two distinct parties ask a trusted third-party to validate a relationship. 
+
+Sure, it's a lot of work -- I've worked on <a href="http://www.w3.org/Style/CSS/members.php3">committees developing standards</a> before. It's very, very difficult to get the kids to play together. But the pieces are all there. And the first one to connect the dots will win...

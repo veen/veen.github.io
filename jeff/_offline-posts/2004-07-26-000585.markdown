@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Technorati Redux"
+date: 2004-07-26
+author: Jeffrey Veen
+---
+I recently spent a couple weeks working with the folks over at <a href="http://www.technorati.com/">Technorati</a> on some changes to the user experience on their site. Today, in conjunction with a <a href="http://www.sifry.com/alerts/archives/000359.html">partnership with CNN</a>, they've launched some of the work we did. Notably, they've re-skinned the site with a standards-compliant visual design created by <a href="http://bigempty.com/">Tim Gasparak</a>, a good friend and frequent collaborator with Adaptive Path.
+
+I'll point out some of the more interesting usability enhancements we developed as the team rolls them out. But for now, keep your eye on this tool. They've got some amazing stuff planned.
+&#8203;

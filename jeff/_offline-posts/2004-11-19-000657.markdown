@@ -1,0 +1,40 @@
+--- 
+layout: post
+title: "My Whole Life in Happy Little Folders"
+date: 2004-11-19
+author: Jeffrey Veen
+---
+<img src="http://veen.com/jeff/images/opml.jpg" width="261" height="251" style="float: left; padding: 5px;" />
+
+I think RSS and blogs and news aggregators had finally gotten the best of me. There were literally hundreds of subscriptions haunting me each day; a bright red counter showing unread posts creeping up into the thousands. As my partner Lane puts it, "I feel like I make things un-bold for a living now." He's referring to the unending accumulation of things that need to be changed from "new" to "read" -- email, lists, blogs, comments ... even new music and the junk on our Tivos.
+
+So I switched off the preference to show unread things in the dock. Whew. Then I pruned aggressively. I created a simple classification system for the feeds I was left with, with nothing floating around outside, mostly because I cheated with a miscellaneous category -- a digital junk drawer -- the librarian's bane.
+
+But I don't really care. Reading blogs is only partially about staying abreast of current events, be it Fallouja or validating XHTML. Sometimes, it's just about looking for inspiration, being entertained, or simply wasting time. And that is exactly how I like to classify stuff.
+
+Here's what the folders contain:
+
+<ul><li><strong>dont' miss</strong> Couple of news sources, feeds for where my friends are going via <a href="http://upcoming.org/">upcoming.org</a>, Netflix queue, and <a href="http://www.5ives.com/">Merlin's 5ives</a>. Gotta get my Tivo 'Now Playing' in here.</li>
+
+<li><strong>family</strong> Feeds from <a href="http://www.veen.com/leslie/">Leslie</a>, <a href="http://greg.veen.com/">Greg</a>, and <a href="http://www.veen.com/amy/">Amy</a>, plus their flickr photos.</li>
+
+<li><strong>friends</strong> Feeds from people I hang out with, industry and othewise.</li>
+
+<li><strong>ego</strong> Subscriptions to searches on my name and urls with services like <a href="http://www.technorati.com/">Technorati</a>, <a href="http://www.pubsub.com/">PubSub</a>, and <a href="http://bloglines.com/">Bloglines</a>. Also, feeds on veen.com comments and traffic statistics. I like to know what people are saying about me, don't you?</li>
+
+<li><strong>work</strong> Project feeds from <a href="http://basecamphq.com/">Basecamp</a>, internal wiki changes, recent documents uploaded to our intranet. Feeds from my coworkers and partners like <a href="http://stopdesign.com/">Doug</a> and <a href="http://www.giantant.com/antenna/">Nadav</a>.</li>
+
+<li><strong>tools</strong> Things I use that get updated a lot: <a href="http://blog.del.icio.us/">del.icio.us</a>, <a href="Flickrblog">Flickr</a>, <a href="http://www.burningdoor.com/feedburner/">Feedburner</a>, <a href="http://sixapart.com/">Six Log</a>, <a href="http://everything.basecamphq.com/">Basecamp</a>, etc. If you make something on the Web that has an audience, you better get it together and publish a feed. Seriously.</li>
+
+<li><strong>peloton</strong> Some domestic but mostly European cycling. Racing coverage and a couple fan blogs.</li>
+
+<li><strong>music</strong> A variety mp3 blogs, my favorites: <a href="http://teachingtheindiekidstodanceagain.blogspot.com/">Teaching The Indie Kids to Dance Again</a>, <a href="http://www.largeheartedboy.com/blog/">largehearted boy</a>.</li>
+
+<li><strong>pix</strong> Beautiful work from <a href="http://bigempty.com/">Tim</a>, <a href="http://hchamp.com/">Heather</a>, <a href="http://www.tenyearsofmylife.com/">Matt</a>, and all my cameraphone-wielding friends at Flickr.</li>
+
+<li><strong>if only there was time</strong> <a href="http://www.boingboing.net/">boing boing</a>, <a href="http://www.engadget.com/">Engaget</a>, <a href="http://www.themorningnews.org/">TMN</a>, stuff about content management, search engine stuff, <a href="http://www.zeldman.com/">Zeldman</a> and scores of other CSS/XHTML/design/validate/tips-n-tricks, a bunch of del.icio.us subs, lots and lots of sundry feeds picked up along the way.</li></ul>
+
+<strong>update:</strong> Yes, I realize "peloton" is spelled wrong in the screenshot. I studied Espa&ntilde;ol in school, so cut me some slack.
+
+<strong>update 2:</strong> Since you asked, here's a heavily-edited <a href="http://veen.com/jeff/code/veen.opml">OPML file</a> of the blogs I read. It can be imported to most every RSS aggregation software. If you view it in your browser, odds are it will be blank. Save as...
+&#8203;

@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Tagging in Mail.app"
+date: 2005-08-29
+author: Jeffrey Veen
+---
+An interesting new utility, <a href="http://www.indev.ca/MailTags.html">MailTags</a>, has been released by Indev Software recently that allows for tagging in Apple Mail.app. That is, an email comes in and you can use a side bar to give it a quick tag -- much like Flickr, gmail, or del.icio.us. And it does a whole lot more than that with contextual menu support, due dates, priorities, Spotlight integration: lots of candy for the <a href="http://www.43folders.com/">organizing geeks</a> among us.
+
+Tagging is interesting to me when organizing personal data. I've always kept mail in folders; sometimes by date and sometimes by project. I've done the same for documents on my computer. But that's ultimately limiting. What if a message is about projectFoo and interfaceDesign? Tagging these things will multiple, arbitrary descriptions gets around that. Or at least starts to provide an alternative.
+
+To be fair, MailTags isn't designed to do tagging the way most folksonomies are designed -- the unstructured tags are more "comments" than true tags. But it is certainly helps with searching, and is start towards new ways of navigation our data in the future.
+
+Anyway, I haven't spent that much time with MailTags yet, but I'm a huge fan of their earlier work, <a href="http://www.indev.ca/MailActOn.html">Mail Act-On</a>, which allows any Mail.app filter or script to be assigned to a key. Wow, what a time saver...
+&#8203;

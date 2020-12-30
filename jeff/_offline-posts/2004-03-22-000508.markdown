@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Can't We Just Make Stuff Simpler?"
+date: 2004-03-22
+author: Jeffrey Veen
+---
+Jason Fried of 37signals rants that <a href="http://www.37signals.com/svn/archives/000600.php">Web design is heading in the wrong direction</a>. From his perspective, the conversation in our discipline has shifted to tools -- CSS, content management, search engines -- and away from actually helping people get things done. He's right, of course, except for the bit about this being something new. For as long as I've been writing about the Web, the most popular pieces are always about "tips and tricks" and not the more in-depth, thinky stuff.
+
+What I'm currently obsessing over is how these tools can be simplified in ways that allow designers to Do The Right Thing. For example, so many content management systems are so atrociously complex and poorly designed, that they actually wrest control _away from the people responsible for users' experience. It's the same with architecture and design, frankly. Most people who are in the position to fund projects and approve work are terrified by things that are just too simple. For some reason, most folks associate complexity with power, when the opposite is often true. I hear this often when presenting design solutions. "Why, I could have done that!" To which I reply, "So why didn't you?"
+&#8203;

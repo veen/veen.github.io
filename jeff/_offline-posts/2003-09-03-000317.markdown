@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Just ask for Jim"
+date: 2003-09-03
+author: Jeffrey Veen
+---
+Tonight, while getting some work done in a hotel, the "High Speed Broadband Immersive Connection to the Future of Productivity!!!" stopped working. I called down to the front desk and asked what was up with the net connection. They didn't know, but had an 800 number that might. I dialed.
+
+<cite>Some guy:</cite> Hello?
+<cite>Me:</cite> Um.
+<cite>Some guy:</cite> Hello? This is Jim. Who is this?
+<cite>Me:</cite> Um. So, I'm calling from a hotel and was told you might be able to help me with the connection to the Web?
+<cite>Jim:</cite> What hotel?
+<cite>Me:</cite> The Hudson.
+<cite>Jim:</cite> Hold on, lemme kick the router.
+<cite>Me:</cite> ...
+<cite>Jim:</cite> How's that.
+<cite>Me:</cite> *click* Yup. Works now.
+<cite>Jim:</cite> Yeah, that's what I thought. Why we don't just buy some new Cisco boxes is beyond me. Anything else?
+<cite>Me:</cite> Um. No. Thanks Jim. Bye.
+&#8203;

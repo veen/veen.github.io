@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: "Who is John Snow?"
+date: 2008-07-07
+author: Jeffrey Veen
+featured: yes
+abstract: Tracing the origins of epidemiology and data visualization to a SoHo pub
+---
+
+Last month, while attending the fantastic<a href="http://www.vivabit.com/atmedia2008/london/"> @Media conference</a> in London, we paid a quick touristy visit to a street corner in the heart of Soho. There, we found a small monument - an old hand-drawn water pump on a stone pedestal, its handle notably missing. We climbed up on it, had our photo taken, then ducked across the street for a pint in an old pub named <a href="http://www.ph.ucla.edu/epi/Snow/snowpub.html">The John Snow</a>.
+
+The pub's name was interesting to me for a couple reasons. I had just finished the Steven Johnson book, "<a href="http://www.amazon.com/exec/obidos/ASIN/1594489254/hotwiredstyle">The Ghost Map</a>," a riveting account of the neighborhood's 1854 cholera outbreak. Johnson tells the story of <a href="http://en.wikipedia.org/wiki/John_Snow_(physician)">Dr. John Snow</a>, who had lived near where we had our picture taken, and how he followed a hunch that the disease could be spread by water, rather than being airborne. After days of investigation, Snow proved to London's health commission that this Broad Street well was the source of the outbreak, convincing them to remove the handle. It was an early instance of science and evidence winning against superstition and prejudice. 
+
+But even more interesting to me was one of the tools he used in his work - a data visualization showing cholera deaths marked on a map correlated to the location of the pump. In the speech I gave that week, I pointed out how his graphic techniques are still a model for good design over 150 years later. Contrary to the popular myth, Snow didn't create that famous map; he was working from an existing visualization <a href="http://www.ph.ucla.edu/epi/snow/mapmyth/mapmyth3.html">first drawn by sanitation engineer Edmund Cooper</a> months earlier. Snow did, however, redesign the work by carefully eliminating elements and emphasizing the casualty data until the narrative of what had happened was perfectly clear. You can't look at that map without thinking, "Yikes! Stay away from that pump!" Snow's early geo-mashup can still inspire.
+
+<p  style="text-align:center;"><a href="http://en.wikipedia.org/wiki/Image:Snow-cholera-map-1.jpg" title="John Snow's Map"><img src="http://farm3.static.flickr.com/2369/2645787305_f14952fca9_o.png" width="500" height="162" alt="John Snow's Map" style="border:solid 1px black;margin-right:10px" /></a></p>
+
+So back to the eponymous pub. As we stood near the crowded bar, I decided to do a little experiment. Even though there was a plaque on the wall detailing the establishment's history and namesake, I started asking the folks around me, "Hey, why is this place called 'The John Snow'?" hoping to find fans of the historic story - or maybe even someone interested in the visualization. Instead, here's what I got:
+
+The tall Irish guy with a ponytail: "No bloody idea, brother."
+
+The group of women laughing in the corner: "Oh, he's some wanker on the telly who bought this place years ago." (They were thinking of this <a href="http://en.wikipedia.org/wiki/Jon_Snow">Jon Snow</a>, who is actually quite respected.)
+
+The bartender, who came close, but really should know better: "Before this was a pub, there was a hospital here and he was the doctor in charge of it."
+
+How quickly history fades - especially after a few drinks.
+&#8203;

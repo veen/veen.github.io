@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Damage in Web Design"
+date: 2004-07-18
+author: Jeffrey Veen
+---
+When something stands between your users and their goals, one of two things typically happens. If they truly wish to accomplish their goal with your site, they will perceive a new feature on your site as damage, they will find a way to route around that damage. If they are ambivalent about you or know of an alternative, they will just leave.
+
+Let me give you a couple recent examples. The New York Times has had a registration system for years now, and now a number of other traditional news outlets are starting to follow suit, including many local newspapers. The reason is simple enough -- the financial model behind advertising-supported content on the Web has continued it's relentless downward slide, spurring these organizations to collect more and more demographic information about its audience. Obviously, it won't work. The only time users will cough up their data is when a site offers to return value, and the only proposition these sites provide is one of increased advertising.
+
+<a href="http://simon.incutio.com/archive/2004/07/16/registration">Simon Willison</a> discusses this in more depth and points to how users are routing around the damage of feckless registration with <a href="http://bugmenot.com/">BugMeNot</a>, an repository of shared usernames and passwords. Of course, the newspapers are now threatening legal action, rather than realizing they've done something to piss off their audience. It is apparently easier and more cost effective to pay lawyers rather than develop innovative content and services to enhance the online media experience.
+
+Equally as baffling is the recent redesign of the previously invaluable <a href="http://allmusic.com">All Music Guide</a>. I haven't seen the sort of <a href="http://www.waxy.org/archive/2004/07/12/new_all_.shtml">user outcry</a> since, frankly, we used to try to redesign <a href="http://web.archive.org/web/19971212072743/http://www.hotwired.com/">HotWired.com</a> back in the early days of the Web. These days, when large sites unveil redesigns, they consist of standards compliant interfaces, user centered architectures, and dramatic increases in speed and ease of use. AMG did almost the exact opposite, creating a jumbled and plodding site with obfuscated code developed explicitly for Internet Explorer on Windows. Say what you will about browser market share and development costs, but if the opinions of the blog community are any indication, users must be abandoning this resource in droves. Thankfully, AMG licenses it's content widely, and the newly relaunched <a href="http://mp3.com/">MP3.com</a> offers a usable, clean, and downright cool interface to the Guide. And, as users avoid damage once again, traffic must be through the roof.
+
+Bad design is based on the arrogant and extremely difficult attempts to modify user behavior. Good design derives innovation from existing user behavior. Guess which one succeeds more often?
+
+<strong>Update:</strong> How's this for routing around damage? Adrian Holovaty has written a <a href="http://www.holovaty.com/blog/archive/2004/07/19/2210">plugin for Mozilla</a> that makes AMG suck less. It's amazing what folks will do to thwart bad marketing and design decisions.
+&#8203;

@@ -1,0 +1,43 @@
+--- 
+layout: post
+title: "Case Study: Intranets, Usability, and Value"
+date: 2004-11-13
+author: Jeffrey Veen
+featured:
+abstract: 
+---
+<blockquote>I've long been a fan of the case studies in the <a href="http://harvardbusinessonline.hbsp.harvard.edu/b02/en/hbr/hbr_home.jhtml">Harvard Business Review</a>. Typically, the publication sets out a scenario, then asks other to comment on how they would approach the fictional problem. And I've also always wondered why nobody has applied that model to the problems we face day to day on the Web.
+
+To remedy that, I wrote up the fairly typical business case below. Then, I asked Scott Hirsch to react to the scenario. He's an MBA from the Haas School of Business and co-author of the Adaptive Path report "<a href="http://adaptivepath.com/publications/reports/businessvalue/">Leveraging Business Value: How ROI Changes User Experience</a>." His comments follow, and be sure to add yours in the <a href="http://www.veen.com/jeff/archives/000653.html#comments">comments</a>.</blockquote>
+
+
+Tracy Jens is the Product Manager for intranet applications at GMS Corporation, a financial services company with 85,000 employees in dozens of geographically disperse offices. The company's intranet is maintained and developed largely by the human resources department, to whom Tracy reports.
+
+Recently, she was asked to a meeting by Ren&eacute; Phillips, the Director of corporate HR  for GMS. "I can't believe how much I'm spending on that call center," Ren&eacute; told Tracy. "Our employees call up for the simplest stuff -- finding a form to download, resetting their password, enrolling in the new online payroll system. If you could do something to reduce the volume of calls by even 15 percent, it would save us a million bucks next year." 
+
+Tracy's first stop is Bruce Margo, the director of IT. She tells him about the conversation with Ren&eacute;, and asks for his opinion. "Well," he responds, "we've got that license to Interwoven that we're not using, and I could free up four guys to help you build something. I'll give you eight weeks of their time, but we'll need a really detailed functional specification of what you'll need before they can start."
+
+Next, Tracy visits a few departments within the company. Over and over, she sees employees coping with the existing intranet by routing around the problem entirely. Most departments have their own server running a variety of software packages to help them get their work done. Some have installed wikis, others use Front Page to update their department home page, and still others simply rely on emailing documents back and forth.
+
+"Oh sure," says Bruce back at headquarters, "We sent a spider around once and uncovered something like 1600 servers inside the firewall. What a mess."
+
+As Tracy sits down to write a project plan, she considers the problems the company is facing: Almost all the information employees are looking for exists _somewhere, but nobody can find anything. She could try to solve this problem with a content management system, but will employees adopt the new tools? And will departments want to give up the control they have over the local servers they have? And how will she show measurable change if she does implement new systems? After all, she wants credit for saving HR all that money at the call center.
+
+<hr noshade="noshade" />
+
+_Scott responds:
+
+<strong>Operation GMS Freedom </strong>
+
+Tracy is in a good position. Although she faces a wicked problem that touches most of the GMS organization, the business value of effectively solving this problem is considerable and would quickly elevate her to superstar status. However, there are risks of failure, particularly from internal sabotage and resistance against any proposed solution that is not as flexible or useful as the many workarounds that departments have built themselves. Her plan of attack in the "war on error" should be three-pronged, focusing on coalition building, intelligence gathering, and scenario planning (sound familiar? -- this metaphor has really gotten away from me).
+
+First, she needs to do some coalition-building. Most of the problems she describes are organizational, not technological, and she should avoid the alluring but simplistic view that finding the "right" CMS solution will make all her problems go away. This stratregy is as problemmatic as finding so many weapons of mass destruction. Building a coalition of stakeholders from HR, IT, busniess units, and a few geos will go a long way to avoiding a post-project insurgency -- she can't declare "mission accomplished" after the technical problems are solved. There is a lot of organizational work that will need to be done as well..
+
+Second, Tracy should use her coalition to gather intelligence from the field. In particular, stakeholders should identify common ground: pieces of the intranet that need to work well for everyone. Her call center can be a great source of intelligence to identify common ground. Ask them: what are the most common questions, information needs, and technical problems? Agreement on common ground is the beginning of defining the business requirements for what the CMS can solve. However, she also needs to examine the specific knowledge management solutions that some departments have built for themsleves -- the key questions here will be: in what situations does local control offer a more effective way to solve problems? what are some lessons that GMS can learn globally from these local experiments?
+
+Finally, Tracy's challenge is to scope out a plan for not only winning the war, but also winning the peace. All too often an intranet redesign fails because users don't adopt the new mechanisms for creating and distributing content -- this can be mitigated by choosing early projects that focus on commonly recognized quick wins. Her plan should have a long-term vision, but it should be implemented in small increments that instill a sense of confidence and value among users throughout the redesign. Small increments allow for course corrections toward the long-term vision.
+
+On the question of measuring value, the case answers its own question. Intranets are supposed to foster efficiency and improve productivity -- the highest level metric to demonstrate productive user behavior is call center utilization. However, there is a stickier value question: the determination of whether or not Interwoven is the right tool to achieve the long-term vision. Since the license has already been purchased, there will be pressure to stay the course and use Interwoven as the platform for the redesign. However, it is important to recognize that this investment is a sunk cost. Throughout this process, Tracy and her coalition need to be willing to abandon out-dated models of thinking that are not working. If she's willing to take on these challenges, Tracy can kerry GMS to victory.
+
+
+&#8203;

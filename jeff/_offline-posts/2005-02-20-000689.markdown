@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Scrubbing Innovation into Interaction: Ajax"
+date: 2005-02-20
+author: Jeffrey Veen
+---
+If you do design or development work on Web-based applications, some of your basic assumptions are going to have to change -- that is, if they haven't already.  Stop what you're doing and read Jesse James Garrett's new essay, "<a href="http://www.adaptivepath.com/publications/essays/archives/000385.php">Ajax: a New Approach to Web Applications</a>."
+
+Jesse's referring to a style of interaction that has become recently popularized, even if the technology -- which exploits the clumsily-named XmlHttpRequest Object -- has been around for years. The recent attention is largely due to applications being developed at Google, where they seem to have embraced the Ajax (short for for Asynchronous JavaScript + XML) framework whole-heartedly.
+
+You can see this in action at <a href="http://maps.google.com/">Google Maps</a>. It's a spectacular display of seamlessness in user experience, too the point where it almost disappears. The app is just so useful and usable that it's easy to forget the gee-whiz technology. A more pedestrian yet realistic example can be found on Dunstan Orchard's blog, <a href="http://1976design.com/blog/">1976design</a>. Type a character or two into the search box on the left, watch a list of results appear. Type another character or two, see the list get shorter. You're doing filtered search iteration, without ever leaving the page.
+
+In a presentation I frequently give, I show a few examples of winnowing search criteria using faceted navigation. The sites are frustrating, though, because they either require users to drill down through a series of pages (the Sears <a href="http://www.sears.com/sr/javasr/search.do?BV_UseBVCookie=Yes&vertical=APPL&cat=Dishwashers&subcat=Built-In+Dishwashers&displayTarget=Subcategory">appliance finder</a>) or make use of Flash to send data back and forth (the Fisher Bike "<a href="http://fisherbikes.com/matchmaker/">Matchmaker</a>"). 
+
+With Ajax, we can create Web-based experiences that feel fluid _and native. We won't have to rely on clunky navigation or plugins to enable users to achieve their goals. And, thankfully, we'll be able to describe the technique we're using in just two syllables.
+&#8203;

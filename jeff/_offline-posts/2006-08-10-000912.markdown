@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Social Security"
+date: 2006-08-10
+author: Jeffrey Veen
+---
+I work at a big company now, and that means I wear a little plastic ID badge with my picture on it. I can use this to beep through locked doors and get into buildings on the corporate campus.
+
+Recently, a bunch of signs were posted on locked doors saying "No Piggybacking - don't let people in without a badge." I'm guessing this is a way of increasing security. I shouldn't let anyone come when I open the door if they don't have a badge.
+
+Except that I don't want to enforce this. If I open a door and someone steps in behind me and isn't wearing a badge, what should I do? Should I tell them not to? And what if they come in anyway? Am I supposed to physically stop them? Should I call security? Frankly, the whole thing is so socially awkward that I do nothing.
+
+I have a friend who does network administration for large companies. Years ago, he got a frantic call from a Vice President in Marketing saying he was in Japan, standing in front of a room full of people, and his password wasn't working. He had the login name, and even mentioned his assistant's name and how he couldn't reach her. "Quick! Could you just reset my account before this whole deal goes to hell?"
+
+Later, when the FBI came to interview my friend, he found out he'd been socially hacked by the infamous <a href="http://en.wikipedia.org/wiki/Kevin_Mitnick">Kevin Mitnick</a>. Modern thieves, it turns out, don't need packet sniffers or brute force attacks to be successful. The weak link is usually just a person who already has access. Social engineering can be way easier than the technical variety.
+
+Security is really hard, and I was reminded of all of this when the piggybacking signs went up at work. Even the most advanced systems can thwarted by people just wanting to be friendly. 
+&#8203;

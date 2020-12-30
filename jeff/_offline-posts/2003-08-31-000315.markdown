@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "My Mac Milestones"
+date: 2003-08-31
+author: Jeffrey Veen
+---
+It's been nearly nine months since my switch back to the Mac, and I've certainly reached the point where the system is wired into my brainstem. That's the magical time when you simply stop thinking about using your computer and start acting on reflex -- like playing a musical instrument or (heh) riding a bike. I can remember years ago, while laying out pages at a newspaper in Santa Barbara, when Quark XPress like a well-worn and comfortable tool. I knew every key-command innately and could fly through tasks in seconds. <a href="http://www.omnigroup.com/applications/omnigraffle/">OmniGraffle</a> is starting to feel that way now. As is the twitching reflex of <a href="http://www.obdev.at/products/launchbar/">LaunchBar</a>.
+
+But, like most people, I split most of my time between my email client and browser. For mail, I've left Entourage to return to Mail.app. I simply prefer a suite of simple, integrated tools to a monolithic application. Mail.app, ICal, Addressbook, and IChat have their fair share of limitations, but they're stable enough and I find a refreshing comfort in the constraint they impose.
+
+For browsing, the choice is getting easier and easier. Safari has been moving steadily up in market share, and it's not hard to see why. I've only found a couple of sites that cause problems (I can't log into Expedia, for example) but I can't remember it crashing, and the integration with other apps and the OS are seamless to the point of convenient invisibility. I'm not alone in this preference, either.  Eric Bangeman has a fantastically detailed examination of the current Mac browser world on <a href="http://arstechnica.com/reviews/003/software/mac/browser/mac-browsers-1.html">Ars Technica</a>.
+&#8203;

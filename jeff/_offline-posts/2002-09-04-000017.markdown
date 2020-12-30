@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Standards (Still) Matter"
+date: 2002-09-04
+author: Jeffrey Veen
+---
+The Web is approaching adolescence, having just turned 10 years old, and yet the basic standards on which it was built still cannot be taken for granted. Sigh. Will there ever be a day when we can just assume that browsers will render our code correctly? Can we imagine a future in which we don't budget an extra 40 percent to ensure our Web projects work on multiple browsers? I'm still somehow optimistic, and thankfully so is the <a href="http://webstandards.org/">Web Standards Project</a>. I've worked with them on and off (well, frankly, mostly off. But I'm a busy guy. Really.) over the years and am still amazed by their dedication and perseverance. Digital Web Magazine features an <a href="http://www.digital-web.com/features/feature_2002-09.shtml">excellent article</a> by Jeffrey Zeldman on how the millions that are spent on current Web sites is being thrown away. There's also an <a href="http://www.digital-web.com/interviews/interview_2002-09.shtml">interview</a> with Steve Champeon (who, BTW, edited <i><a href="http://veen.com/artsci/">Art &amp; Science</a></i>) and Shirley Kaiser from the WSP Steering Committee. Good reading. Go be inspired.
+&#8203;

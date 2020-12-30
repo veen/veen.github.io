@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Blinking Out Design"
+date: 2005-03-28
+author: Jeffrey Veen
+featured: yes
+abstract: Trying to figuring out how to harness the flash of inspiration
+---
+One of my colleagues at Adaptive Path often refers to design as being _derived from user research. I can certainly see how one would come to that conclusion. In many of our projects, we'll do a bunch of user interviews, generate a model based on the analysis of the transcripts, and map an architecture to that model. That becomes a foundation for the web site, and thus the user experience.
+
+I believe in this approach, but it's just not at all how I work. Rather, I find my designs are more often _inspired by research. I find that the best designs I've created are produced more like writing songs or short stories than conducting an experiment using the scientific method. They just _hit me.
+
+So it was revealing to read Malcolm Gladwell's "Blink" in which he discusses split-second decisions. (There are <a href="http://www.metacritic.com/books/authors/gladwellmalcolm/blink">countless reviews</a> that can give you more background.) What I found particularly interesting is how the scenarios he describes map to my own design experiences. He writes about art historians who were able to instantly determine that a statue was fake. Or the Army general would could make battle-winning decisions on the fly without the advanced data gathering tools his opponents had access to. Or the psychologists who could mind-read emotions by watching muscles twitch in people's faces.
+
+And I sort of realized that I do design that way. I build up a tremendous amount of background data, let it synthesize, then "blink" it out as a fully-formed solution. It typically works like this:
+
+- Talk to everybody I possibly can about the problem.
+- Read everything that would even be remotely related to what I'm doing. Hang charts, graphs, diagrams, and screenshots all over my office.
+- Observe user research; recall past research.
+- Stew in it all, panic as deadline approaches, stop sleeping, stop eating.
+- Be struck with an epiphany. Instantly see the solution. Curse my tools for being too slow as I frantically get it all down in a document.
+- Sleep for three days.
+
+The key to this, really, is in the fourth step: stewing in it. That is, gathering as much data as possible, whether it appears to be related or not, and just letting my mind soak it in. One of the <a href="http://www.peterme.com/archives/000457.html">criticisms</a> levied against Gladwell is that he appears to suggest that snap decisions work really well except when they fail. Fair enough. But he does offer examples as to why this happens -- preparation. The art historians had spent decades surrounded by historic art. The general had studied every conflict and strategy in the history of warfare. 
+
+This leads me to believe that doing research in web design -- for me at least -- has more to do with <a href="https://en.wikipedia.org/wiki/Method_acting">Method Acting</a> than ethnography. Robert De Niro used this technique as he prepared for his roll as Travis Bickle in Taxi Driver, spending a month pulling late night shifts as a cab driver. He did this not to mimic those in the profession, but to be able to react on screen in a way that they would. Applied back to design: Rather than figure out how to design _for_ your audience, design for yourself after becoming _like_ your audience. At that point, I find, snap decisions become good decisions.
+
+The problem, of course, is doing this commercially - doing it on cue. How do you write a proposal that suggests that I'm going to "do a tremendous amount of homework, then just wait for the answer. Oh, and it's going to be really, really painful as we wait. Really painful. Sorry."

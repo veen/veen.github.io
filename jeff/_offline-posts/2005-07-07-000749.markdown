@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Tag clouds and cynical bloggers"
+date: 2005-07-07
+author: Jeffrey Veen
+---
+<a href="http://tagcloud.com/">TagCloud</a> is a relatively new service that attempts to automate the creation of <a href="http://en.wikipedia.org/wiki/Folksonomy">folksonomies</a>. The service starts off by asking for feed URLs, or an OPML file, and then chews through the content doing some sort of word frequency analysis. Then, it spits out a "cloud" of terms sized by usage. The result is very much like the way  Flickr, del.icio.us, or Technorati display popular tags -- except these terms should be linking to interesting topics made up of posts from_ just your feed subscriptions.
+
+<img src="http://veen.com/jeff/images/tagcould-apparently.jpg" alt="My tag cloud, wiht the term 'apparently' highlighted" />
+
+So I've been following mine for a few days now, and for the most part my cloud fills with the usual suspects: weblog, google, ipod, armstrong. But occasionally something pops out based on a news story or trend that the blog community picks up on. In fact, there must have been a recent wave of skepticism in the feeds I read, as the term "apparently" appeared my cloud. Clicking through where dozens of usage of the word by bloggers not fully believing the things they were linking to:
+
+"...apparently, the Bush administration is now trying to..."
+
+"...podcasting is apparently jumping to traditional media..."
+
+"...apparently, it's now even illegal to _think about making P2P software..."
+
+Which makes me wonder, do I read a particularly cynically blogroll? Or is this a characteristic of the medium in general?
+&#8203;

@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Redesigning"
+date: 2003-08-16
+author: Jeffrey Veen
+---
+
+I've updated the design of this site over the weekend, solving a couple of problems that have been bugging me. This new layout should make it easier to distinguish between individual posts; the last version had visual hierarchy issues that would cause short entries to feel messier than I was comfortable with. I'm also using a modification of <a href="http://www.stopdesign.com/also/articles/replace_text/">Doug Bowman's image replacement trick</a> (and, of course, I've stolen more of his icons). The icon and logo text at the top of this page is a background image on a structural header element, the text of which is not being displayed. The page currently validates as xHTML 1.0 Strict, though could use more work in terms of accessibility, as well as all of those crazy hacks to hide CSS from broken browsers.
+
+I've also turned on comments against my better judgment. I've had a number of requests over the last couple of months asking for this feature, and I've been hesitant to enable this, simply because I'm always lacking free time for things like this. I don't want to get myself into a situation where I'm unable to participate or manage a discussion happening on my own Web site. We'll see how it goes.
+
+
+&#8203;

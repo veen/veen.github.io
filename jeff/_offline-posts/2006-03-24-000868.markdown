@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "The Rhythm of Blogging"
+date: 2006-03-24
+author: Jeffrey Veen
+---
+_Alternate Title: In which Jeff tries to justify the guilt he's feeling over not posting enough
+
+I've been going through some stops and starts with my writing over the last few months. Looking at my recent posting history, I see little clusters of activity - moments of energy - that punctuate 10-14 day lulls. 
+
+The reasons aren't a secret. The <a href="http://www.veen.com/jeff/archives/000855.html">Measure Map acquisition to Google</a> took every ounce of attention, and the transition into our new roles has been just a bit overwhelming as well. On top of that, I'm still feeling around for a comfortable public voice at my new job. I'd been working for myself for many years, with little regard for the source or ownership of my ideas. Not complaining; it's just different.
+
+Looking back on my traffic patterns over the last few months is revealing. I'd expected there to be a slow decay in visitors, but that really hasn't happened. There are obvious peaks around each post, but with a steady and slowly growing base of traffic running constantly under that.
+
+The consistency comes from my feed. Over 75 percent of my traffic comes from my subscribers. This is, frankly, liberating when it comes to post frequency. I feel assured that I can maintain a healthy audience by simply turning bold in their aggregator once in a while. It's sort of like the relevant permission-based marketing that much of the business world is just barely aware of these days.
+
+But what's more interesting is the constant stream of new visitors to "evergreen" posts in my archives. These posts - a sort of greatest hits of my blog - are well positioned in search results for relatively popular queries. (In the world of search engine marketing that I'm learning about now, these would be _well-optimized organic refers ... I think.) This traffic, too, comes at a constant steady stream, but with the same sort of occasional peaks. These bursts of traffic, however, are externally driven - someone will discover an old post of mine, they'll find it valuable, and they'll share it with their audience through a link. And all of that new traffic translates into a slowly-growing base of new feed subscribers.
+
+While not earth-shatteringly new, these patterns are certainly reassuring. So much is made of consistency in publishing these days. And yeah, I'm sure if you wanted to grow an economically-sustainable publishing network like FMpub or Gawker, then you'd really want to crank up the content to get as much traffic as possible. But it's nice to know that hobbyists can keep - and grow! - an audience simply when the mood strikes us.
+
+Oh, and these are the top five evergreen posts I was mentioning:
+
+<ul><li><a href="http://www.veen.com/jeff/archives/000573.html">MP3 Blogs and wget</a></li>
+<li><a href="http://www.veen.com/jeff/archives/000622.html">Making A Better Open Source CMS</a></li>
+<li><a href="http://www.veen.com/jeff/archives/000483.html">Seven Steps to Better Presentations</a></li>
+<li><a href="http://www.veen.com/jeff/archives/000747.html"><cite>The Art and Science of Web Design</cite> Turns Five</a></li>
+<li><a href="http://www.veen.com/jeff/archives/000803.html">Banana Republic designs for Web 1.0</a></li></ul>
+&#8203;

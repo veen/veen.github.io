@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Interview: Fireside chat with 37signals"
+date: 2006-07-18
+author: Jeffrey Veen
+---
+The guys over at 37signals invited me to a little "Fireside Chat" with <a href="http://www.subtraction.com/">Khoi Vinh</a>, design director over at the New York Times. Khoi and I have had remarkably similar experiences in our careers - founding small consulting companies,  focusing on design of social media, and recently moving into large organizations. 
+
+Matt and Jason asked us lots of questions about doing design work at places like the Times and Google. In particular, they were interested in how much "real work" we still do, and how much time is spent in meetings. 
+
+The transcript of our chatroom interview is <a href="http://37signals.com/svn/archives2/fireside_chat_with_khoi_vinh_and_jeffrey_veen_inhouse_vs_on_your_own.php">here</a>.
+&#8203;

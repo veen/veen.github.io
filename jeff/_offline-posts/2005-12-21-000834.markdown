@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: "Linking to feeds: Another approach"
+date: 2005-12-21
+author: Jeffrey Veen
+---
+A while back on this blog, I asked for help in designing the most usable way to present links to a feed. (see: "<a href="http://www.veen.com/jeff/archives/000733.html">The Usability of Subscribing to Feeds</a>," 26 May 2005) That is, considering the <a href="http://rssdiary.marketingstudies.net/content/according_to_forrester_6_use_rss.php">vast majority aren't even aware of what RSS is</a>, why are we peppering our pages with little orange icons that link to garbled-looking XML markup?
+
+There was a fantastic discussion in the comments, and we took much of that to heart when we started developing feeds for statistics on <a href="http://www.measuremap.com/">Measure Map</a>. And after much iteration and discussion, we decided to implement something a little different, and see how it goes.
+
+Our first decision was to include a tiny XML icon in the page navigation at the top of the interface. 
+
+<a href="http://www.flickr.com/photos/veen/76066703/"><img src="http://static.flickr.com/41/76066703_8335ffe307_o.jpg" width="293" height="39" alt="Linking to feeds in Measure Map"  style="border: 1px solid black;" /></a>
+
+We chose this strategy for two reasons. 
+
+<ul><li>We are pretty confident that our users would recognize the orange icon. To even make use of Measure Map, one must have a blog. In the act of setting up and maintaining a blog, it seems a reasonable bet that our users have had some familiarity with feeds. So we're making assumptions about our audience -- usually a risky strategy -- but one OK about.</li>
+
+<li>We're planning on offering _lots of feeds. There will eventually be four or five feeds for every page in the application, and as we were designing for that, the interface started filling up with little orange icons. So why not condense them down into one element in a consistent place on every page?</li></ul>
+
+<a href="http://www.flickr.com/photos/veen/76064195/" title="Click for Larger Image"><img src="http://static.flickr.com/38/76064195_8b35f6153b_m.jpg" width="240" height="111" alt="Measure Map feeds page" style="border: 1px solid black; float: left; margin-right: 6px;" /></a>
+
+But, what does that icon do? Here's where we struggled with convention. Typically, people either click on the icons or drag them to an aggregator. Some folks right-click and copy the feed's URL. We decided not to link feeds directly from the icon, but instead offer up a page that shows _all the feeds a user can subscribe to.
+
+Our inspiration was <a href="http://www.nytimes.com/services/xml/rss/index.html">this page</a> on the New York Times site. I've always liked this approach because you can add lots of context and help around the little icons. But maybe even more importantly, it goes a long way in helping people discover all the feeds a site offers. I knew about the top news stories feed at the Times, but didn't know they offered a "Most Emailed Stories" feed. Cool.
+
+The only other thing we wanted to add to this page was a little drop-down menu for auto-subscribing. These have been showing up in all sorts of places recently, most notably in the nicely redesigned "Browser Friendly Feeds" over at Feedburner. (Here's a <a href="http://www.feedburner.com/fb/i/bf/new_style_zoom.gif">screenshot</a>.) While I don't really relish the idea of adding _every single online aggregator to my pages, the one-click subscribe function is nice. We opted not to do this, however, since most online aggregators do such a poor job with privacy and your feeds. We aim to keep your stats private; you wouldn't want those numbers inadvertently showing up in a BlogLines search, right?
+
+It will be interesting to see how our users respond to this. Worst case, we mismanage the expectations they have for feed icons. Part of me feels like that isn't really such a big deal. Especially considering the experience we can design on that feeds page.
+
+Anyway, there's a little view into our design process and why we chose this approach to feed linking. And to answer the inevitable questions: yes, we're sending out invitations to Measure Map as fast as we possibly can. I promise.
+&#8203;

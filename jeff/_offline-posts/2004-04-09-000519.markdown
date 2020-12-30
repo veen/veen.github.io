@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: "Links: 2004-04-09"
+date: 2004-04-09
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.steptwo.com.au/columntwo/archives/001185.html#001185">Why are case studies at conferences often so dull?</a><br />
+<span class="link-meta">"What is the purpose of standing here giving this talk?" (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/presenting">presenting</a> )</span></li>
+
+    <li><a href="http://www.americanprogress.org/site/pp.asp?c=biJRJ8OVF&b=44887">Claim vs. Fact: Condoleezza Rice's Opening Statement</a><br />
+<span class="link-meta">The Center for American Progress takes Rice to task. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.negativland.com/albini.html">The Problem With Music</a><br />
+<span class="link-meta">"The band members have each earned about 1/3 as much as they would working at a 7-11, but they got to ride in a tour bus for a month." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://music.cs.uiuc.edu/">Music Recommendation System for iTunes</a><br />
+<span class="link-meta">Automatically uploads your song ratings, returns recommendations (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://a.wholelottanothing.org/archives.blah/007788">Tools for future-proofing MT</a><br />
+<span class="link-meta">Matt explains how to migrate to more usabile Movable Type URLs. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+
+    <li><a href="http://photomatt.net/archives/2004/04/07/mosaic/">Moving Image</a><br />
+<span class="link-meta">A mosaic of soldiers who have died in Iraq. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/04/04/CM100MAIN.DTL">Top 100 Bay Area Restaurants</a><br />
+<span class="link-meta">As a general rule, the tight economy has meant improved service, menus that have become safer and prices that have remained relatively stable. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.vanderwal.net/random/entrysel.php?blog=1473">Missing the Bay Area</a><br />
+<span class="link-meta">Thomas understands San Francisco. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+  </ul>
+
+&#8203;

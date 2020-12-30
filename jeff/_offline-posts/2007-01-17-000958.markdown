@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Amateurs into experts"
+date: 2007-01-17
+author: Jeffrey Veen
+---
+<a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FOne-Cares-What-You-Lunch%2Fdp%2F032144972X%2Fsr%3D8-2%2Fqid%3D1169064776%2F&amp;tag=hotwiredstyle&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><img src="http://farm1.static.flickr.com/145/360848280_1f7dff37be_m.jpg" alt="An image of Maggie Mason's book 'No One Cares What You Had for Lunch: 100 Ideas for Your Blog'" style="float:left; margin-right:10px;"></a>Back when I was a consultant, I was fortunate enough to work on number of <a href="http://adaptivepath.com/services/casestudies/blogger/">projects</a> dealing with blogging. Most of that effort was directed at the usability of publishing online. In fact, that was probably the biggest innovation that blogging brought to the web: getting rid of the _requirement of FTP and HTML to update a site.
+
+But that was then. Now, all that effort the tool companies put into making blogging software usable has made the power of publishing available to anyone and everyone - there are <a href="http://www.sifry.com/alerts/archives/000443.html">millions and millions of blogs</a> online having a tremendous influence on how we consume and produce media. This has had an interesting if unanticipated affect: now that it's so easy to write online, what should I write about?
+
+SixApart clearly saw this as an opportunity when they developed <a href="http://www.vox.com/">Vox</a>, blogging software that actively <a href="http://www.kottke.org/06/06/vox-question-day">offers suggestions</a> about what to write about each day. This has happened in print, as well. My good friend Maggie Mason recently wrote a book titled, "<a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FOne-Cares-What-You-Lunch%2Fdp%2F032144972X%2Fsr%3D8-2%2Fqid%3D1169064776%2F&amp;tag=hotwiredstyle&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">No One Cares What You Had for Lunch: 100 Ideas for Your Blog</a>" - an excellent collection of inspiration aimed at turning new bloggers into regular writers.
+
+I think there's a bigger trend here. Clearly, the early web was effective at taking things that professionals always did and shifted the power to amateurs. But this next phase is about helping all those amateurs with their newfound access and turning them into experts. This isn't just limited to blogging, of course. Travelocity and Expedia made us all into travel agents; <a href="http://www.flyspy.com/">Flyspy</a> and <a href="http://www.farecast.com/">Farecast</a> want make us really good at it.
+
+It makes me wonder what else we might get good at?
+&#8203;

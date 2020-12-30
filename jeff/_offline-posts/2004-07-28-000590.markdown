@@ -1,0 +1,30 @@
+--- 
+layout: post
+title: "User Experience is More Than Design"
+date: 2004-07-28
+author: Jeffrey Veen
+---
+The Wall Street Journal's venerable Walt Mossberg <a href="Network Walkman NW-HD1">spends some time</a> with the unattractively-named Network Walkman NW-HD1 from Sony, and compares it to Apple's fourth generation iPod. And he finds that the product's name is the least of its problems:
+
+<blockquote>While the new Sony is smaller than the iPod and has much better battery life, it is markedly inferior overall. </blockquote>
+
+What's interesting about Mossberg's assessment is that he honestly could care less about the technical specifications that most product marketing so rabidly promotes. Sure, the battery lasts much longer than the iPod's 12 hours, but how often does that really make a difference? On that nonstop flight to Sydney, maybe. But day to day, features like transferring your songs to the player are more important. And here, the Walkman falls woefully short:
+
+<blockquote>For my test, I used a very modest collection of 431 standard MP3 files. SonicStage 2 refused to transfer 15 of the files, posting a nonsensical error message. After that, it took an agonizingly long two hours and 13 minutes to transfer the remaining 416 tracks to the Walkman. By contrast, Apple's iTunes software transferred all 431 songs to an iPod in about four minutes.</blockquote>
+
+This because Sony's mp3 player can't actually play mp3s -- it coverts everything to some strange proprietary file format first. And once your music is finally on the thing, you've got to figure out how to make it play:
+
+<blockquote>There's a button on the player called "Mode," but to set the "Play Mode," which controls the order in which songs are played back, you have to press a separate button called "Menu." By contrast the Mode button switches the screen display between artists, albums, genres and so forth.</blockquote>
+
+I can't even figure out what Mossberg is talking about; imagine what it must be like to switch to a new album while driving?
+
+The point here, of course, is that technology is only one measure of success when it comes to product design, be it on the Web or in the physical world. When I speak about the factors involved in evaluating effective Web design, I often pull up this image:
+
+<div style="text-align: center"><img src="http://www.veen.com/jeff/~/www/jeff/images/venn.jpg" height="360" width="370" alt="Venn Diagram" /></div>
+
+Clearly, both Apple and Sony understand the importance of the bottom circle; the desirability of their products is undeniable. But desirability from a design perspective is only part of the equation. Apple understood that bringing the same deep commitment to user experience to the technological and financial aspects of the product were also required. If you have an iPod, it shows every time you use it. Plug it in and iTunes launches. You'll see that it has the same attention to detail as the hardware, with consistency in interaction and labeling. Your gadget will automatically sync, so now all the music you've ripped or downloaded recently can come with you. It uses Firewire, so it takes no time at all. Click on the iTunes Music Store and the same interface takes you through the intuative shopping process. Compare that to the Sony experience:
+
+<blockquote>I couldn't figure out how to make it shuffle through the entire song library, even after poring through the 45-page manual. Two Sony officials gave us conflicting advice on how to do this, but their advice didn't square with the manual, which is full of discussions about things like "play units."</blockquote>
+
+I don't deny I'm both a fan of and an apologist for Apple. But the Sony experience described in the Journal just makes me shake my head. Bad technology decisions marketed poorly are as much a part of the user experience as architecture and interface design.
+&#8203;

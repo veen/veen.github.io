@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: "...cosa sia il web design"
+date: 2002-07-16
+author: Jeffrey Veen
+---
+I was in Milan, Italy, not too long ago to speak at a conference and hang out with some friends who are working there. After the conference, I did an interview for Web Marketing Tools, an Italian publication that covers more of the business stuff in this industry. The article came out this month and, uh, I think it's pretty good. (Although Babelfish translates my title while I was at HotWired as "President". Don't know if that was the journalist or the translation technology, but that certainly wasn't the case.) Anyway, if you're good with Italian, <a href="http://www.wmtools.com/articolo.asp?ID=1118">check it out</a>. Or, have a laugh at the automatic <a href="http://fets3.freetranslation.com:5081/?Sequence=core&amp;Language=Italian/English&amp;Url=http%3a//www.wmtools.com/articolo.asp%3fID%3d1118">translation</a>.

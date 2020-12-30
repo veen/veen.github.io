@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "More on chartjunk and the CPU Monitor"
+date: 2003-02-10
+author: Jeffrey Veen
+---
+My <a href="http://www.veen.com//jeff/archives/000071.html">earlier post</a> on the densely designed Apple CPU Monitor prompted Gabriel Radic, whom I met last year in London, to take a crack at a redesign. Nice work, even if "Iddle" only has one "d". ;)
+
+<img src="images/chartjunk_radic.png" alt="Gabriel Radic's CPU Monitor" />
+
+Shortly after I read Gabriel's email, fellow tall guy <a href="http://a.wholelottanothing.org/">Matt Haughey</a> sent along a pointer to <a href="http://www.iconfactory.com/ip_home.asp">iPulse</a>. This, my friends, is information design on steroids. The data-per-pixel of this little app is astonishing. Though, I do find myself peaking frequently at the docs to remember just what the heck blue stands for.
+
+<a href="http://www.iconfactory.com/ip_home.asp" border="0"><img src="images/ipulse.png" alt="iPulse" /></a>
+
+All of this begs the question: how does one hack CPU Finder? The extent of my app customization extends only to ResEdit, and that's certainly pre OS-X.
+&#8203;

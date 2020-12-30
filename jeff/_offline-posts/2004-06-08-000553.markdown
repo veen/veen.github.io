@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Links: 2004-06-08"
+date: 2004-06-08
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/05/30/BUGO76TL221.DTL">Bloggers find ways to profit</a><br />
+<span class="link-meta">The ROI of your personal Web site. Also: Matt and Jason, together again! (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.serversunderthesun.com/tin/">Tin Foil Prank!</a><br />
+<span class="link-meta">The attention to detail is impressive. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.suntimes.com/output/news/cst-nws-gun30_p1.html">How it feels to get shot</a><br />
+<span class="link-meta">Experts agree. It "hurts like hell." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/news">news</a> )</span></li>
+
+    <li><a href="http://www.baseballlibrary.com/baseballlibrary/features/flashbacks/06_04_1974.stm">The 10-Cent Beer Night fiasco</a><br />
+<span class="link-meta">30 years ago tonight, things went crazy in Cleveland (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/sports">sports</a> )</span></li>
+
+    <li><a href="http://www.boomspeed.com/evilflip/LifeExplained.jpg">The Meaning of Life</a><br />
+<span class="link-meta">Could it really be that simple? (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://social.itp.tsoa.nyu.edu/mt/confectious/archives/000157.html">Car hacks, gender trouble, sensitive values and the improbable truth</a><br />
+<span class="link-meta">egoodman on designing digital cars (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+
+    <li><a href="http://www.7nights.com/asterisk/archives/web_standards_roi.php">Web Standards ROI</a><br />
+<span class="link-meta">With actual numbers! (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+
+  </ul>
+
+&#8203;

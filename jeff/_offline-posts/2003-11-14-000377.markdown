@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "The Value of Experience"
+date: 2003-11-14
+author: Jeffrey Veen
+---
+We've been doing a lot of work lately at Adaptive Path on valuing user experience investment. That is, just what return can you expect for every dollar you put towards making your Web site more usable, intuitive, and desirable? <a href="http://www.adaptivepath.com/team/scott.php">Scott Hirsch</a>, a business analyst and freshly minted MBA, has been working with us on these projects, and has <a href="http://www.adaptivepath.com/publications/essays/archives/000276.php">written up some thoughts</a> for an essay on our site.
+&#8203;

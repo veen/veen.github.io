@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Microsoft and Feed Reading"
+date: 2006-11-21
+author: Jeffrey Veen
+---
+<a href="http://jkontherun.blogs.com/jkontherun/2006/11/rss_feed_readin.html">Overview: reading RSS feeds in IE7 and Outlook 2007</a> - Kevin C. Tofel takes a look at how Microsoft is approaching feed reading in their latest products. He concludes, "If you can get by on the basics and you live in Outlook, this might work for you." He also points out some pitfalls of managing subscriptions between the two apps.
+
+I haven't used the new features in IE or Outlook, so I can't really tell what Microsoft's strategy is regarding feeds. It looks like they're offering users a choice: feeds as smart web pages or feeds as site updates in your email. And depending on where you spend your time, either might be more appropriate.
+
+Personally, I'm more interested in feed reading as social glue - a mechanism not just for keeping current, but for discovering unique content and attenuating on new sources by using your friends as a filter. That's the direction online readers such as <a href="http://www.rojo.com/">Rojo</a>, <a href="http://www.bloglines.com/">Bloglines</a>, and <a href="http://www.google.com/reader/">Google Reader</a> have all been heading, along with aggregators such as <a href="http://delicious.com">Delicious</a>, <a href="http://technorati.com/">Technorati</a>, and even <a href="http://techmeme.com/">Techmeme</a> and <a href="http://digg.com/">Digg</a>.
+
+All the infrastructure, standards, and software dedicated to RSS and Atom have enabled astonishing efficiencies in consuming content - so much so that it's easy to get overwhelmed with stuff to read. As we continue to rely on social networks as filters, it will be interesting to see how desktop clients such as Microsoft's - as well as feed integration in Safari and Firefox - are able to respond to what's happening with web-based readers.
+&#8203;

@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Switched"
+date: 2003-01-05
+author: Jeffrey Veen
+---
+Count me among the converted. Or, rather, the returning prodigal son. I'd been using computers from Apple since 1982, when I originally switched from Commodore. That relationship lasted through high school, college, my early journalism career, and into my days doing design and production at Wired. And then it just wasn't realistic. Using a Mac to do Web development in 1998 was hard. The browsers were slow, and features lagged behind their PC peers. I went to a Dell notebook, and missed my Mac terribly. Well, enough of that. This post comes from a 1Ghz Titanium G4 running OS X. Not only couldn't I be happier, but I honestly have not yet found the limits to how beautiful the hardware, software, and integration is. It's good to be back.
+&#8203;

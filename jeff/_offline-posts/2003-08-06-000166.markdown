@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Branding Ourselves"
+date: 2003-08-06
+author: Jeffrey Veen
+---
+Tog is funny. He's a big, loud, jolly sort of guy -- the one you want to sit by at dinner parties, because he will inevitably be the center of attention. I've gotten to know him and his wife a bit through the speaking I've done on the Nielson/Norman Group User Experience Conferences, and have always enjoyed talking about our discipline -- particularly it's history and evolution. Tog has been doing this stuff for 25 years.
+
+On his website this week, Tog goes off on the lack of respect Interaction Designers have garnered in our industry. And I agree, though we would take a significantly different approach to how the situation could change. I believe that those of us who do "design" for this interactive media don't necessarily need better branding, as Tog advocates. He suggests that we should follow the steps taken a decade ago by the "Human Interface Testers" who eventually turned themselves into "Usability Professionals." That's fine, of course, and was a good move for those folks. But I'm more interested in moving our discipline into the strategic areas of business and making ourselves relevant rather than simply repackaging what we do under a new name. At Adaptive Path, we've been working hard to broaden the definition of design. Rather than emphasizing layout, visual identity, architecture, nomenclature, et al, we've been talking more and more about the value of what we do, and how good user-centered design will result in more effective and sustainable business models. It's not just how a Web site works for users, it's how it represents the business goals of our clients, and matches the needs of their audience. That's a much bigger picture than simple "interaction design."
+
+So go read <a href="http://www.asktog.com/columns/057ItsTimeWeGotRespect.html">Tog's column</a>. But also read <a href="http://www.girlwonder.com/archives/000776.html">Molly's response</a>. And think about how your skills can affect your business, and not just its Web site.
+&#8203;

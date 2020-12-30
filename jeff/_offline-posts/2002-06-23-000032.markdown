@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "Design in the land down under"
+date: 2002-06-23
+author: Jeffrey Veen
+---
+I spent a week in Sydney hanging out with Australian Web designers and IAs. Quite possibly the nicest and most inviting group of people I've met in a long time. For those of you who were there, my [notes][] from the Neilson/Norman Group UE2002 Conference are online.
+
+[notes]: http://adaptivepath.com/presentations/ue2002/

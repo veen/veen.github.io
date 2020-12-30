@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "That was then..."
+date: 2003-07-24
+author: Jeffrey Veen
+---
+Last week, I did an <a href="http://www.digital-web.com/interviews/interview_2003-07b.shtml">interview</a> with Craig Saila at Digital Web Magazine. He asked me what things were like back in the early days of HotWired, and how things have changed. I couldn't really do justice to the question in an email-based interview, but it got me thinking about what's been happening over the last 10 years (10 years! It's been 10 years since my first Web site!). Here's what I said:
+
+<cite>"That time was something unique. It would be like  trying to compare what is happening in music today to what was going on in San Francisco in 1969. Sure, there are influences everywhere, and  lots of interesting things going on now. But that was a particular  time and a particular place. And that's not just nostalgia, either. It  was also an incredibly difficult time, full of huge personalities and  a complete disregard for anything that came before."</cite>
+
+I got an email the other day from my former coworker at HotWired (and current partner at Adaptive Path) <a href="http://adaptivepath.com/team/mike.php">Mike</a>. He sent a link to a picture he took in the crazy days of the bubble, and it sums up a lot. <a href="http://www.tired.com/WWWW-Yahoo.jpg">Have a look</a>.
+&#8203;

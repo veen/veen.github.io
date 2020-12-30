@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Deconstructing Dessertexperts.com"
+date: 2003-01-24
+author: Jeffrey Veen
+---
+Chocolate manufacturer Hershey's Foods Corp. has a professional foodservice industry portal at DessertExperts.com. There, you can find "Trend Insights," "Sales Builders," and a variety of other treasures, including what is quite possibly the most astounding examples of over-engineering a problem I've yet encountered. Within their dessert recipe index, you'll find what they call a "<a href="http://www.dessertexperts.com/dessertexpert/recipe.asp?Num=13135#calc">Profit Calculator</a>." It works like this: enter the amount the food you are serving costs. Then, enter the amount you are charging. Then, click the link titled "Calculate Profit." Guess what happens next? That's right. It subtracts them for you! For all those food service professionals not quite through the second grade...
+&#8203;

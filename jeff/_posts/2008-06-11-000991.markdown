@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Introducing the Start Conference"
+date: 2008-06-11
+author: Jeffrey Veen
+featured: yes
+abstract: A place for all the harrowing stories of starting a new company
+---
+<a href="http://thestartconference.com/"><img src="http://farm4.static.flickr.com/3272/2569976629_687a617b8a_m.jpg" width="240" height="80" alt="The Start Conference" style="float:left; border:0; margin-right:10px"/></a>
+
+When I recently decided to <a href="http://www.veen.com/jeff/archives/000985.html">leave my job</a>, I began a little personal project I called "100 Lunches." I wanted to sit down with a bunch of people over a meal and just listen. What was interesting to them these days? What where they building? Were they nervous about the state of the industry? Excited by all the new opportunity?
+
+As I started the project, I quickly realized that the stories I was hearing needed a wider audience. My friends and colleagues told tales of late nights, harrowing server crashes, exhilarating growth, and touching emails from their users. Not one of them knew what they were getting into, nor would any of them change their paths.
+
+Wouldn't it be great, I thought, if everyone could hear these amazing start up stories?
+
+So I got together with my long-time friend and business partner <a href="http://adaptivepath.com/aboutus/bryan.php">Bryan Mason</a> and started planning. We decided to get a great group of entrepreneurs, investors, and other people associated with new web companies together for a day of discussion and advice. And that's how the <a href="http://thestartconference.com/">Start Conference</a> came to be. 
+
+So here's the deal: On August 7, we'll spend the day at the beautiful Fort Mason Center talking about starting companies. We've got a lot of fun things planned, including a fantastic party on the Bay afterwards. And we're making it cheap - just $200. We didn't want to turn this into a conference filled with investors hunting for the next big thing. We wanted something for people who make web apps and dream of starting their own thing. (Also, we understand that you probably won't want to submit an expense report for a conference that encourages you to quit your job.)
+
+If you've ever thought of staking out on your own, we hope you'll join us. It's going to be great fun.
+
+_All the details are on the <a href="http://thestartconference.com/">Start Conference web site</a>. If you have any questions, let us know in the comments here.
+&#8203;

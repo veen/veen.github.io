@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Unfit for Human Consumption?"
+date: 2003-07-29
+author: Jeffrey Veen
+---
+It's no secret that many in the User Experience field perceive Jakob Neilson as a double-edged sword. While Neilson has undoubtedly been an outspoken evangelist for our discipline, his message is often clouded by exaggerations, suspect statistics, and self-promotion.
+
+Complaining about Neilson is one thing, but a careful deconstruction of his work is rare. Peter Merholz, working with newly-minted MBA Scott Hirsch, has taken up this very task with the NN/G report, "<a href="http://www.nngroup.com/reports/roi/">Usability Return on Investment</a>". Their review, running on Boxes and Arrows this month, does a rigorous job of evaluating both the methods and claims of the report.
+
+Their findings? Not surprisingly, Peter and Scott come to the conclusion that your money and time would certainly be better spent elsewhere.
+
+<cite>"It is likely that a manager with any real or intuitive sense of hypothesis testing, financial benchmarking, and calculating ROI will be skeptical of the report's validity because of the weak methodology, specious accounting, and sampling bias issues already discussed."</cite>
+
+<a href="http://www.boxesandarrows.com/archives/report_review_nielsennorman_groups_usability_return_on_investment.php">Read the review</a>.
+&#8203;

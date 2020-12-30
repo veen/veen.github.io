@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Things Get Smart"
+date: 2003-10-22
+author: Jeffrey Veen
+---
+What happens with _everything gets smart? As Moore's Law curves towards ever cheaper, smaller, and more powerful processing, the notion of ubiquitous computing starts to feel inevitable. Some day soon, all the objects around us may start to exhibit signs of life. My business partner Mike defines this as _animism, or,
+
+"[T]he belief that all objects have will, intelligence, and memory and that they interact with and affect our lives in a deliberate, intelligent, and (in a sense) conscious way."
+
+And, more importantly, what are the design implications in these systems? How will we approach interoperability of everything, and still retain a design sense, not to mention privacy and security. Mike is asking these questions in his <a href="http://www.adaptivepath.com/publications/essays/archives/000272.php">latest essay</a> on AdaptivePath.com.
+&#8203;

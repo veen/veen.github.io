@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Size Matters: Rendering a Folksonomy"
+date: 2005-01-13
+author: Jeffrey Veen
+---
+There has been no shortage of <a href="http://www.adaptivepath.com/publications/essays/archives/000361.php">discussion</a> and <a href="http://falsepositives.blogspot.com/2005/01/folksonomies-on-slashdot-revised.html">debate</a> about the merits of user-generated, bottom-up, tag-based metadata. And while it's certainly been interesting on a sort of academic level, though to be honest, I'm more interested in following how these simple new ideas bubble up in practice rather than in theory.
+
+For example, most instances of tags-as-metadata (or, yeah, "<a href="http://www.vanderwal.net/random/category.php?cat=153">folksonomy</a>") come into their own not just as simple, flattened metadata, but as a dynamic navigation system. So how do you present all these tags as a navigation device? If you're familiar with the photo-sharing app Flickr, you've probably seen this <a href="http://flickr.com/photos/tags/">popularity-as-font-size</a> approach. It's cool in a sort of voyeuristic way, and is designed to foster a feeling of, "Huh, so that's what people are taking pictures of." Which, as of this writing, is an unsurprising "2004 cameraphone wedding vacation."
+
+<a href="R&eacute;gine Debatty"><img src="http://veen.com/jeff/images/tags-in-blog.jpg" width="476" height="123" style="border: 1px solid black" alt="Screenshot of navigation system at Near Near Future." /></a>
+
+But what happens when this clustered visual approach is turned around and applied to a controlled, personal vocabulary of, say, blog categories? The image above shows the navigation for <a href="http://www.we-make-money-not-art.com/">Near Near Future</a>, a blog by R&eacute;gine Debatty, where the number of entries in each topic relates to the size of the link. It's a simple step, but it starts to find a middle ground between the professional and the public. Or, a hint of what Lou Rosenfeld <a href="http://louisrosenfeld.com/home/bloug_archive/000330.html">anticipates</a> when wrote, "[I]t's exciting to consider how these two approaches might fit together and function as a whole."
+
+Of course, Lou was referring to the process and spirit of each system blending and learning from one another. However, this simple example demonstrates how quickly and effectively cross-pollination can happen. More to come, I hope.
+&#8203;

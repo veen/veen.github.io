@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "UX in Washington DC"
+date: 2002-08-28
+author: Jeffrey Veen
+---
+I'm spending the week with my partners in our nation's capitol for the second leg of our <a href="http://adaptivepath.com/events/">2002 User Experience Tour</a>. We've had a great time meeting folks and talking shop. If you'd like a look at the materials we've been using, head on over to our <a href="http://adaptivepath.com/workshops/tour2002/">workshop page</a>.
+&#8203;

@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Lick Me, I'm a Macintosh"
+date: 2003-10-01
+author: Jeffrey Veen
+---
+<cite>And there it is. The welcome screen. An exquisite downtempo chill soundtrack and the world "Welcome" swimming over the monitor in a number of different languages and you think, what the hell is this? Where's the pain? Where's the hassle and the misaligned factory molding and the broken keyboard and the 3,000 setup steps and the sense that I'm drowning in a sea of programmer jargon and plastic waste and ubergeek hell? This is what Apple does...</cite>
+
+San Francisco Chronicle columnist Mark Morford on why <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2003/10/01/notes100103.DTL">user experience is important to Apple</a>.
+&#8203;

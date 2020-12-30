@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Links: 2004-05-30"
+date: 2004-05-30
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.cahighways.org/maps-sf-fwy.html">San Francisco Bay Area Freeway Development</a><br />
+<span class="link-meta">See how close they came to completly tearing apart the city. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.csmonitor.com/2004/0510/p11s02-stct.html">Christian Science Monitor: "E-serenity, now!"</a><br />
+<span class="link-meta">"Information environmentalists" argue we need more mental greenspace. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.wired.com/news/medtech/0,1286,63562,00.html">Wired News: Doped Athletes Seek Natural Boost</a><br />
+<span class="link-meta">"These [Olympics] are going to be just as drug-laden as previous games." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.crookedtimber.org/archives/001941.html">Crooked Timber: Heavy Lifting</a><br />
+<span class="link-meta">Isn't it ironic? No. No it is not. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.toothpastefordinner.com/052804/see-into-the-future.gif">See Into The Future</a><br />
+<span class="link-meta">Virtual communities, defined. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.mcsweeneys.net/2004/5/26moe.html/">Pros and Cons of John Kerry's Top Twenty Vice-Presidential Candidates</a><br />
+<span class="link-meta">So. Funny. So. Very. Funny. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.washtimes.com/national/20040524-103201-1169r.htm">Dictionaries take lead in redefining modern marriage</a><br />
+<span class="link-meta">"Advocates of traditional marriage who once relied on dictionary definitions to bolster their case for the preservation of 'one man-one woman' marriage might have to cite another authority." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/religion">religion</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+
+&#8203;

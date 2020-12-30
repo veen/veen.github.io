@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "More on facets..."
+date: 2002-06-25
+author: Jeffrey Veen
+---
+Another discussion has sprung up about my article on designing UIs for
+faceted classification systems, this time on [IASlash][]. If you're
+wondering what all the fuss over facets is about, there's a great overview
+on kmconnection.com. Go read [Faceted classification of
+information][] and then talk to a librarian.
+
+
+[IASlash]: http://web.archive.org/web/20040810230546/http://www.iaslash.org/node.php?id=4528
+[Faceted classification of information]: http://web.archive.org/web/20020706062847/http://www.kmconnection.com/DOC100100.htm

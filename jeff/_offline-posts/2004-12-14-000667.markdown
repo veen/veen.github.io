@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "The Do-It-Yourself Portfolio"
+date: 2004-12-14
+author: Jeffrey Veen
+---
+<a href="http://www.gomotron.com/ipod.html"><img src="http://veen.com/jeff/images/mini-commercial.jpg" width="125" height="93" style="float: left; margin: 5px; border: 1px solid black;" alt="Screengrab of George Masters' home-made iPod commercial." /></a>Recently, a 36-year-old high school teacher from Orange County named George Masters posted a <a href="http://www.gomotron.com/ipod.html">iPod Mini Ad</a> on his web site. It's a piece he created on his desktop Macintosh computer, in his spare time. It's not bad, and created a bit of a stir -- to the extent that Wired News <a href="http://www.wired.com/news/mac/0,2125,66001,00.html">wrote a story</a>. The story has advertising executives nervously gushing, "wow! it's great and we love this stuff and the internet, boy-o-boy is it sure changing things." You can almost taste the fear in their statements.
+
+But why did George spend all that time putting this thing together? According to the Wired article, "He posted the ad, he said, for feedback. And if anyone wants to hire him, he'll consider all offers."
+
+Of course! The hail-mary-4th-and-long portfolio piece. Make something good for free, put it out there, see what happens. It worked for <a href="http://fp1.antelecom.net/dumptv/mattrey/">Matt and Trey</a>, right?
+
+Sometimes I get questions from young designers about breaking into the business. As with any career, there is a chicken-and-egg problem of getting started without being able to get started. That is, how do you get experience if nobody with hire you without experience?
+
+I tell them to do what George did. Go make experience. Build web sites. Do it for free. But here's the catch: you can't and shouldn't build "portfolio" pieces. No one wants to see the amazing design you designed for your database of MP3s. It's just not interesting to build a web-based application for tracking your homework assignments.
+
+You need to demonstrate how you deal with constraint and the best way to get that is to work with clients. Good design, after all, provides a solution that satisfies both the needs of the audience with the requirements of the organization. So find a non-profit, volunteer your time, and redesign their Web site. There are few groups that would turn down pro-bono efforts to make their site more effective. Be creative not just in visual identity, but in new functionality. Design their home page with a blog, and show them how easy it can be to add fresh new content every day. Create a simple PayPal online donation system. Now you're building a portfolio.
+
+How can you find an organization like this? They're all around you: <a href="http://www.marketstreetcycling.com/">clubs</a>, <a href="http://glide.org/">religious groups</a>, <a href="http://www.openhand.org/">community services</a>. Find an interesting problem to solve, and think small. It's easier to get started with smaller groups, and you'll have more opportunity to show off your work.
+
+George Masters, of course, realizes that he wasn't working under constraint with his iPod commercial:
+
+<blockquote>"It's off-brand but that's the point," he said. "That's the fun of being one guy. You're not limited by a style guide or a creative director. You can branch out and think different."</blockquote>
+
+He didn't have a creative director telling him to focus the commercial to just one idea (which it needs). There was no brand manager shaking her head when she saw the pastel stripes on the Apple logo (which is bad). And Steve Jobs didn't glance at it and scream, "It's crap! Start over!" (which it's not, but that's Steve.)
+
+But if you're just getting started, constraint is crucial. After all, if you are going to practice, it has got to be in the real world.
+&#8203;

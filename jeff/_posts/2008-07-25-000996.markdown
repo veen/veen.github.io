@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Conference hack: Embracing the backchannel at Start"
+date: 2008-07-25
+author: Jeffrey Veen
+featured: yes
+abstract: What does audience participation mean in an age of connected devices?
+---
+I had a very interesting experience a few months ago while participating in a panel discussion. Once again, I realized that the content on stage is merely the spark of a broader conversation, and that the backchannel is rapidly becoming the whole point. So we've decided to try an experiment at the <a href="http://thestartconference.com/">Start Conference</a> in a couple weeks to see how we might hack traditional presentations.
+
+But let me back up a bit first. I was on a panel at this year's South by Southwest talking about the role of analytics in design. With me were two veterans of the advertising industry who's work included some of the biggest ad campaigns of the past few years - some really amazing stuff. I started the conversation by saying how the remarkable amount of audience data available to us gives designers tremendous power to affect user experiences. My collegues suggested my approach sucked the creativity out of design. I countered that they were mistaking preferential research from behavioral. The argument heated up.
+
+While this was happening, my phone was buzzing non-stop. I slipped it out of my pocket to discretely turn it off, but noticed a stream of Twitters going by - many from audience members in the room. So I set the phone down on the table in front of me and kept an eye on it. I'm so glad I did.
+
+As the conversation on stage continued, the stream of questions and comments from the audience intensified. I changed my tactics based on what I saw. I asked questions the audience was asking, and I immediately felt the tenor of the room shift towards my favor. It felt a bit like cheating on an exam.
+
+I guess it really wasn't cheating, but it does illustrate one of the frustrations I've had at conferences lately. Most of the events I attend have a rich conversation happening in the room, yet the only people not able to participate are those on stage. A couple times, I've seen organizers project a live IRC channel, but that usually bring out the worst in people ("First!!!111") - and is terribly distracting. So I've been wondering for a while if there was something smart we could do at our conference.
+
+Apparently, Bryan had the same idea. As we were planning Start, he said, "We should have someone onstage the whole time to represent the audience. Like an <a href="http://en.wikipedia.org/wiki/Ombudsman">ombudsman</a> does for a newspaper."
+
+So we decided to put a desk on stage and have our friend <a href="http://abitofgeorge.com/">George Oates</a> fill that roll. She'll be on Twitter, IM, and email listening to what people are talking about. (We'll also have volunteers collecting index cards for those not wanting to be online during the sessions.) And she'll synthesize questions, interrupt us if we get boring, and call bullshit if something sounds like it. George has been the designer at <a href="http://www.flickr.com/people/george/">Flickr</a> since it started; her personality has always shown through there, and will be a great fit for what we're trying to do.
+
+What do you think? I've never really seen a conference do something like this before. Have you? 
+&#8203;

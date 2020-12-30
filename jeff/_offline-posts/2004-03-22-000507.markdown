@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "It's A Living"
+date: 2004-03-22
+author: Jeffrey Veen
+---
+From the small print on a health insurance form:
+
+<blockquote> I (we) understand that the following occupations are generally unacceptable: asbestos/toxic chemical workers, athletes (semi-pro and professional), explosives workers, deep-sea fisherman, off-shore oil workers, flight instructors, crop dusters, stunt or test pilots, under-ground miners, salvage and rescue underwater divers, stunt person, pyro-technician, rodeo performers, ski patrol, riggers, jockeys, and loggers or lumber industry.</blockquote>
+
+Good thing "User Experience Professional" isn't on the list, or there wouldn't be _any good jobs...
+&#8203;

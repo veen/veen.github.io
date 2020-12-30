@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Blogging as open source fact checking"
+date: 2006-10-10
+author: Jeffrey Veen
+---
+For 21 years, Tom Brokaw was the anchor of the NBC Nightly News -- a tenure which saw some dramatic shifts in how people consume media. I saw him speak yesterday, and he talked a bit about when he started in the business; how there where just a couple middle-aged white guys giving news about what was happening on the eastern seaboard. Over those years, reporting the news got more complex, more diverse, and more democratic.
+
+Someone from the audience asked about how the blogosphere has changed the way the nightly news is considered. Brokaw answered unsurprisingly, saying that he believed people were capable of taking a more active role in discerning the trustworthiness of amateur media. But he also talked about the fear that rippled through his newsroom as his contemporary on CBS News, Dan Rather, was <a href="http://en.wikipedia.org/wiki/Rathergate">being taken down</a> by a thousand passionate blogging fact-checkers. "It cost him his job -- his whole career, really," Brokaw said.
+
+And that's the intriguing part. It's not that the blogosphere is going to remake media in it's image. It's only marginally interesting that <a href="http://www.alexa.com/data/details/traffic_details?compare_sites=suntimes.com&range=6m&size=medium&y=r&url=boingboing.net">Boing-Boing gets more traffic than the Chicago Sun-Times</a>. Those blogs may be the ones grabbing headlines, but there is only a handful of people in that rarified air. No, what's interesting is the way collective blogging is affecting the traditional sources of news in subtle but important ways. 
+
+The open source software community often quotes the <a href="http://swik.net/linus's-law">Linus Law</a>. "With enough eyeballs, all bugs are shallow." That is, having multiple people poring over your lines of code is an excellent way find errors. It's not like a thousand people are collaboratively writing database software, but all those people are looking over the shoulders of the few who are.
+
+Blogs are doing that to media. Enough eyeballs are proving it trivially easy to point out shoddy reporting. Dan Rather may have been an early, high-profile prototype, but there are increasingly frequent case studies. Reuters faced this in the Hezbollah Photoshop scandal (examples <a href="http://littlegreenfootballs.com/weblog/?entry=21956_Reuters_Doctoring_Photos_from_Beirut&only">here</a> and <a href="http://mypetjawa.mu.nu/archives/184206.php">here</a>); countless <a href="http://technorati.com/blogs/Apple">Apple blogs</a> endlessly debate every scrap of evidence leaked from that company while traditional Macintosh publications whither.
+
+How these organizations respond may very well point to their future success. Will they see these legion bloggers as adversaries? (Think of how Microsoft "competes" with Linux.) Or will they find inspiration in, say, the <a href="http://digg.com/">Digg model</a>, harnessing countless tiny points of participation to harness the collective intelligence of their audience and feeding it back into their product?
+
+Just a hunch, but I'd bet on the latter.
+&#8203;

@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: "The Perfect Advice"
+date: 2004-07-15
+author: Jeffrey Veen
+---
+During a recent user research interview, the subject said something that may very well be the most sage advice I've ever heard. If all designers and information architects just did this, our work would be done.
+
+<blockquote>"It would be good if you put everything somewhere."</blockquote>
+
+&#8203;

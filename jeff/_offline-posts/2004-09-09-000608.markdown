@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "What is a hack, really?"
+date: 2004-09-09
+author: Jeffrey Veen
+---
+I got a note from Merlin recently letting me know about his new site, <a href="http://43folders.com/">43 Folders</a>. He calls it "A bunch of tricks, hacks &amp; other cool stuff", which sounds like a pretty wide net to cast. In reality, he's focused on the intersection of productivity, web resources, and Mac OS X optimizations. He's definitely off to a great start. Go sub his feed.
+
+His announcement got me thinking, though, about the nature of hacks. Hacks may not be the Next Big Thing, but they certainly abound these days. Witness the <a href="http://hacks.oreilly.com/">line of books</a> from O'Reilly, and the increasing references to "<a href="http://www.oblomovka.com/entries/2003/10/22">life hacks</a>".
+
+So what are hacks, really? The <a href="http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=hacks">dictionary definition</a> is simple enough: "to cut or sever with repeated irregular or unskillful blows", and the  term "hacker" traces its origins to making rough furniture with a hatchet and a stump. That seems to fit nicely -- a very quick solution that solves a particular problem good enough.
+
+Ironically, hack has also come to mean, well, the opposite. In the <a href="http://www.catb.org/~esr/jargon/html/H/hack.html">Jargon File defines it</a> as, "An incredibly good, and  perhaps very time-consuming, piece of work that produces exactly what is needed" and hacker as "one who programs enthusiastically (even obsessively)." I wonder how we got from rough quick solutions to elegant, professional results...
+
+But I think my <a href="http://www.catb.org/~esr/jargon/html/meaning-of-hack.html">personal favorite</a>, though, is, "an appropriate application of ingenuity." In that facet of meaning, the result isn't so much about the amount of time that went into the result, but the result itself. So it really doesn't matter whether the process created "a quick-and-dirty patchwork job or a carefully crafted work of art, you have to admire the cleverness that went into it."
+
+And I think that's where Merlin is, too. Just looking for that clever hack for us all to admire.
+&#8203;

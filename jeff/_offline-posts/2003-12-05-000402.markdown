@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Can You Hear Me Now?"
+date: 2003-12-05
+author: Jeffrey Veen
+---
+My <a href="http://greg.veen.com">brother</a> has apparently been moonlighting for Verizon.
+
+<img alt="Photo of Greg Veen" src="http://www.veen.com/jeff/archives/images/verizongreg_sm.jpg" style="border: solid black 1px;" />
+&#8203;

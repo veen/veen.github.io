@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "WalMart Doesn't Trust You"
+date: 2003-12-22
+author: Jeffrey Veen
+---
+Speaking of music and the music industry, a number of sites are linking to the WalMart Music Download site's <a href="http://musicdownloads.walmart.com/catalog/servlet/EulaServlet">End User License Agreement</a> today. It's quite a work of prose, and virtually eliminates any and all rights you -- their customer -- may have possibly ever had. Scroll down to paragraph five for this especially audacious bit:
+
+<cite>All Products are sublicensed to you and not sold, notwithstanding the use of the terms "sell," "purchase," "order," or "buy" on the Service or in this Agreement.</cite>
+
+That's right. If you choose to "buy" what they're "selling" at WalMart, they'd like to to know that you're actually "sublicensing." That is, your 88 cents per track is merely a rental fee. One which they may revoke at any time.
+
+Happy holiday shopping!
+&#8203;

@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The Lowly Apostrophe"
+date: 2003-10-07
+author: Jeffrey Veen
+---
+Recently, several readers notified me of a problem with the rendering of my headlines -- notably the apostrophe's were showing up as their escaped entities (&amp;apos;) rather than the proper punctuation. I struggled with this one for a while, then finally noticed a copy-and-past error in my MovableType template. I had been requesting headlines be XML encoded. While required for my RSS feed, that's not the case on xHTML. As it is, only Microsoft's Internet Explorer for Windows fails to render the entity.
+
+Coincidentally, I ran across the very interesting <a href="http://www.apostrophe.fsnet.co.uk/">Apostrophe Protection Society</a>, which is dedicated to "preserving the correct use of this currently much abused punctuation mark in all forms of text written in the English language." It's a pet peeve of mine, mostly because I get it wrong in my writing so often.
+&#8203;

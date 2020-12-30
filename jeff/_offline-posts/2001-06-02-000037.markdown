@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Talking Shop"
+date: 2001-06-02
+author: Jeffrey Veen
+
+---
+I did an [interview][] with iBizInterviews.com. We talked about the book, Adaptive Path, and the future of tools that help us do design.
+
+[interview]: http://web.archive.org/web/20010602090410/http://www.ibizinterviews.com/jeffv1.htm

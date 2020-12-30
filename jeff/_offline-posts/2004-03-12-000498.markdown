@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Geeks Gone Wild"
+date: 2004-03-12
+author: Jeffrey Veen
+---
+<p>I'm off to <a href="http://www.sxsw.com">Spring Break for Web People</a> to see friends, fill my head with ideas, and fill my belly with great food. I'll be speaking on a panel titled, "<a href="http://sxsw.com/interactive/panels/index.php?action=detail&con=ia&id=10&PHPSESSID=76e08b4fd5e313659498c6fa531a4e6b">Accessibility is for Everyone</a>" with a bunch of people far more qualified than I am, as well as my own session, "<a href="http://sxsw.com/interactive/panels/index.php?action=detail&con=ia&id=64&PHPSESSID=76e08b4fd5e313659498c6fa531a4e6b">The Frontiers of User Experience</a>." If you're at the event, look for me in your iChat Rendevous window.</p>
+&#8203;

@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "San Antonio"
+date: 2003-01-07
+author: Jeffrey Veen
+---
+I'm traveling to San Antonio, Texas, tomorrow to speak at the <a href="http://www.netaonline.org/">National Educational Telecommunications Association's</a> annual conference. I'll be presenting work I've been doing with PBS along with Carolyn Gibson Smith, the director of member station services for Public Broadcasting's online division. Two questions about San Antonio: What's the best BBQ I can possibly eat? And is the River Walk akin to San Francisco's Fisherman's Wharf (that is, no self-respecting local would be seen there)?
+&#8203;

@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: "The Rules of Unix"
+date: 2004-01-08
+author: Jeffrey Veen
+featured: yes
+abstract: The fundamentals of the one of the oldest operating systems hold true today
+---
+<p>Last Fall, Eric Raymond published "<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0131429019/hotwiredstyle">The Art of Unix Programming</a>" -- a book I'm going to have to buy, since it's 500 pages are just too much for the screen. In the first chapter, he lists the rules that make up the Unix philosophy, and reading through them, I was struck by their application to what I do -- IA, UX, design, et al.</p>
+
+<p>Rule 10 is interaction design. Rule 14 is why we use <a href="http://smarty.php.net/">templates</a> to spit out HTML. Rule 4 is how CSS works. Rule 13 is my <a href="http://adaptivepath.com/publications/essays/archives/000279.php">resolution for this year</a>, restated. Rule 16 is why we started <a href="http://adaptivepath.com/">this</a> company.</p>
+
+	 - Rule of Modularity: Write simple parts connected by clean interfaces.
+	 - Rule of Clarity: Clarity is better than cleverness.
+	 - Rule of Composition: Design programs to be connected to other programs.
+	 - Rule of Separation: Separate policy from mechanism; separate interfaces from engines.
+	 - Rule of Simplicity: Design for simplicity; add complexity only where you must.
+	 - Rule of Parsimony: Write a big program only when it is clear by demonstration that nothing else will do.
+	 - Rule of Transparency: Design for visibility to make inspection and debugging easier.
+	 - Rule of Robustness: Robustness is the child of transparency and simplicity.
+	 - Rule of Representation: Fold knowledge into data so program logic can be stupid and robust.
+	- Rule of Least Surprise: In interface design, always do the least surprising thing.
+	- Rule of Silence: When a program has nothing surprising to say, it should say nothing.
+	- Rule of Repair: When you must fail, fail noisily and as soon as possible.
+	- Rule of Economy: Programmer time is expensive; conserve it in preference to machine time.
+	- Rule of Generation: Avoid hand-hacking; write programs to write programs when you can.
+	- Rule of Optimization: Prototype before polishing. Get it working before you optimize it.
+	- Rule of Diversity: Distrust all claims for "one true way".
+	- Rule of Extensibility: Design for the future, because it will be here sooner than you think.
+
+<p>He elaborates on them <a href="http://www.faqs.org/docs/artu/ch01s06.html">in the rest of the chapter</a>. The whole book is <a href=""">here</a>.</p>
+&#8203;

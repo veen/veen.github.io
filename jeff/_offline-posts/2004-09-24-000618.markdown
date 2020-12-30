@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "You Have 0 Minutes of Charge Remaining"
+date: 2004-09-24
+author: Jeffrey Veen
+---
+<a href="http://www.veen.com/jeff/images/battery-chart.jpg"><img src="http://www.veen.com/jeff/images/battery-chart_sm.jpg" alt="A chart of battery levels" style="float: left; border: solid black 1px; margin: 5px 10px 10px 0;" /></a>I have a feeling -- call it a hunch -- that the battery in my Powerbook might be experiencing some performance issues. I downloaded <a href="http://www.macupdate.com/info.php/id/8896">XCharge</a>, let it run, and found <a href="http://www.veen.com/jeff/images/battery-chart.jpg">the following</a>. I'm no expert, but my analysis of the data suggests there are problems. Time for a new battery, I reckon.
+&#8203;

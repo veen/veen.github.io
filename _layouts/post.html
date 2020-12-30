@@ -1,0 +1,29 @@
+---
+layout: base
+---
+  <article>
+      <h1> {{ page.title | smartify }}</h1>
+      
+      <section class="byline">
+          
+          by <a href="{{site.url}}">Jeffrey Veen</a>
+          
+          <!-- Publish date-->
+          {{ page.date | date_to_string }} 
+          
+          <!-- Unidocde "mid-dot"-->
+          &middot; 
+          
+          {% comment %}  Word count, from: https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/  {% endcomment %}
+          
+          {% assign words = content | number_of_words %} {{ words | divided_by:180 }} minute read
+          
+      </section>
+
+       {{ content }}
+
+  </article>
+
+<!--<span class="link-to-home"><br>Read <a href="{{ site.url }}">more &rarr;</a></span>-->
+
+

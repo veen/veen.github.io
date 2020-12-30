@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Blog reactions"
+date: 2006-11-19
+author: Jeffrey Veen
+---
+I'm trying Technorati's new "Link Count Widget" on my blog -- it's a bit of Javascript that adds the number of other sites linking to each post. It's a nice way if reinforcing the notion that blog posts don't exist in isolation, but are often part of a larger conversation.
+
+Tantek describes the feature in more detail <a href="http://technorati.com/weblog/2006/11/209.html">here</a> and you can get the code <a href="http://technorati.com/tools/linkcount/">here</a>.
+&#8203;

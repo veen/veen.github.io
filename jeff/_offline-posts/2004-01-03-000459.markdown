@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Links: 2004-01-03"
+date: 2004-01-03
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/01/01/DDGNR41E2B1.DTL">SF Chronicle list of free music downloads</a><br /><span class="link-meta"> (categories: <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+    <li><a href="http://www.rpbourret.com/xml/XMLAndDatabases.htm">XML and Databases</a><br /><span class="link-meta">A nice primer on the subject (categories: <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/standards">standards</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+    <li><a href="http://www.informationdesign.org/">InfoDesign: Understanding by Design</a><br /><span class="link-meta">New design, new features, new feeds (categories: <a href="http://del.icio.us/veen/design,">design,</a> <a href="http://del.icio.us/veen/ia">ia</a> )</span></li>
+    <li><a href="http://beta.plink.org/">PLINK - People Link</a><br /><span class="link-meta">FOAF aggregator and explorer (categories: <a href="http://del.icio.us/veen/foaf">foaf</a> <a href="http://del.icio.us/veen/semweb">semweb</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+  </ul>
+
+&#8203;

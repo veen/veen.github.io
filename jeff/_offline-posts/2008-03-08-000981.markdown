@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "At South by Southwest"
+date: 2008-03-08
+author: Jeffrey Veen
+---
+Just a quick note to say that I'll be part of the Great Geek Migration down to Austin, TX this week for South by Southwest. By all accounts, it should have the largest turnout to date.
+
+I'll be on a panel lead by Clement Mok, a designer I've long admired. We're going to be discussing the role of analytics and measurement in the creative process. This is a topic I've wrestled with in a number of different ways throughout my career - whether it be user research, technical limitations, or quantitive analysis. There never seems to be an end to the constraints designers face. Maybe that's a good thing? That's what we'll be talking about.
+
+Also - and this is very exciting - I'll be announcing a very exciting new thing we're working on at Google. I may even be handing out invites to a private beta if you're there. So come!
+
+The session is on Saturday at 3:30pm and is called "<a href="http://2008.sxsw.com/interactive/programming/panels_schedule/?action=show&id=IAP060572">The Elephant in a Creative Designer's Living Room</a>."
+&#8203;

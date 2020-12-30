@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "The Merlin Show"
+date: 2007-02-27
+author: Jeffrey Veen
+---
+<a href="http://www.themerlinshow.com/ep/003-interview-jeffrey-veen" title="Merlin Mann and Jeffrey Veen on The Merlin Show"><img src="http://farm1.static.flickr.com/139/405471826_428bb7401b.jpg" width="500" height="275" alt="Merlin Mann and Jeffrey Veen on The Merlin Show" style="border:solid black 1px;"/></a>
+
+Merlin Mann and I worked together at Adaptive Path a bunch of years ago. We had fun. Lots of fun. So much fun that sometimes we didn't quite get enough work done. But that didn't stop us from _endlessly talking about our work and how we could do it better if we just had the perfect little app for our Macs and the <a href="http://www.43folders.com/2004/09/03/introducing-the-hipster-pda/">appropriately-sized index cards held together with binder clips</a>. Good times.
+
+You probably know Merlin from <a href="http://www.43folders.com/">43Folders</a>, but you should also know about his new video podcast called "<a href="http://www.themerlinshow.com/">The Merlin Show</a>."
+
+Not too long ago, Merlin came over to the Google campus and we talked about work and about having fun. We also talked about why notebooks with graph paper rule and my ridiculously enormous hat size.
+
+You can watch it <a href="http://www.themerlinshow.com/ep/003-interview-jeffrey-veen">here</a>, or subscribe directly in <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=217111155">iTunes</a>.
+&#8203;

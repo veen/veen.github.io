@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "Doing A Content Inventory"
+date: 2002-06-23
+author: Jeffrey Veen
+---
+An essay for the Adaptive Path site on [how to get started on a migration to a content management system][1]. We've included an Excel template that we've used on a few content inventories. Recursive publishing: most of the essay is included as contextual annotations within the spreadsheet. Just mouse over the column headers.
+
+[1]: http://www.adaptivepath.com/publications/essays/archives/000040.php

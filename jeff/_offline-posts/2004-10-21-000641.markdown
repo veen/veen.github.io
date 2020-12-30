@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Creative Commons Launches"
+date: 2004-10-21
+author: Jeffrey Veen
+---
+A couple months ago, <a href="http://a.wholelottanothing.org/">Matt Haughey</a> dropped by the Adaptive Path offices and asked us for help with Creative Commons site. They had just started work on a great new promotion with Wired Magazine, including a <a href="http://creativecommons.org/wired/">CC-licensed compact disc</a> in every issue going out to subscribers. Big names, too, including David Byrne and the Beastie Boys.
+
+We jumped at the chance, of course, since we're big supporters of their effort to provide flexibility within the often overly-restrictive copyright law. The project was interesting from an audience point-of-view, as well. The Creative Commons site as historically been a site for copyright lawyers and policy wonks, but with a unique blend of artists looking to license their work. And with the Wired publicity, the audience would broaden even more.
+
+So we did one of my favorite design techniques: we stripped absolutely everything away, and started putting them back on the page one-by-one. With each element, we spent time justifying it's existence through discussions with the executives at CC and our own experience. It was a painful process -- a site of any age builds up cruft based on organization culture -- but in the end, well worth it. 
+
+A round of usability testing yielded even further tweaks, as well as a some startling observations. Case in point: nearly every user asked "This sounds great, how much does it cost?" Changing the tag-line to include the word "nonprofit" instantly realigned new users' expectations with the organizations goals.
+
+Finally, Matt commissioned Doug Bowman of <a href="http://stopdesign.com/">stopdesign</a> for new icons. The two graphics on the home page are his handiwork.
+
+<a href="http://creativecommons.org/">Have a look</a>, and let us know what you think in the comments.
+
+
+&#8203;

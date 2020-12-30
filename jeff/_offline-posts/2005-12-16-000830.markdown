@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "And we're back..."
+date: 2005-12-16
+author: Jeffrey Veen
+---
+Hackerz! Script vulnerabilities! Other terrible things that happen to your domain only while you're traveling...
+
+So yeah, veen.com was down for most of the week, reeling from some very bad things that happened in our account. I found this out while waiting for a flight to Boston, just as the agent made the boarding call. That right there pretty much defines the feeling of helplessness.
+
+Our ISP grudgingly turned us back on today, though not without a stern warning about keeping our web-based scripts at their latest versions. Email is slowly catching up, but if those of you who wrote and haven't heard back may want to send another note.
+
+Happy holidays! 
+&#8203;

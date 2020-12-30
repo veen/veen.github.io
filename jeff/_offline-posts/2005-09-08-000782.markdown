@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Who will build Web 2.0?"
+date: 2005-09-08
+author: Jeffrey Veen
+---
+Anil Dash makes some excellent observations in his latest post on <a href="http://www.dashes.com/anil/2005/09/06/web_development">Web Development Trends for 2006</a>. All of them are astute, and serve as an accurate wake-up call for those just becoming enamored with new technologies.
+
+But what resonates with me is his advice to those bemoaning these trends as rehashing of existing technologies -- the latest bandwagon to jump on; the new thing to throw money at.
+
+<blockquote> No whining, just go do some reading. Buy some O'Reilly books or Google up some docs online, and then get hacking. By the time you're good enough to start posting your sample applications, employers will be searching for your blog just to find the talent they need.</blockquote>
+
+Yeah, no kidding. We're rediscovering what the web is good for. The hard problems aren't solved yet. We've got a lot of work to do. Please help.
+&#8203;

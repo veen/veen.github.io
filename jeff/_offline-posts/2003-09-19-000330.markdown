@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "More Clear, Concise Instructions"
+date: 2003-09-19
+author: Jeffrey Veen
+---
+<img src="http://veen.com/jeff/images/please_flush.jpg" alt="Plese Flush" />
+&#8203;

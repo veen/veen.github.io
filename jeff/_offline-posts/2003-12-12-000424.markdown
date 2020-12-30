@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Publishing Links With Perl"
+date: 2003-12-12
+author: Jeffrey Veen
+---
+In the continuing saga of publishing my <a href="http://del.icio.us/">del.icio.us</a> links, I've taken a turn towards Perl. For those of you following along, I started by pointing <a href="http://www.feedroll.com/">Feedroll</a> at the <a href="http://del.icio.us/rss/veen/">auto-generated RSS</a>, then used a Javascript include to show them here. That was cool, but I decided <a href="http://www.kottke.org/">Jason</a> was probably on to something by publishing to them in-line. So I took a stab at XSLT, transforming the output of the del.icio.us <a href="http://del.icio.us/doc/api/">API</a> into XHTML, then inserting that into MT. That worked ok, too, and you can see the Perl script I used <a href="http://veen.com/jeff/code/postLinks-XSL.txt">here</a>, along with the XSLT stylesheet <a href="http://veen.com/jeff/code/links.xls.txt">here</a>. But it felt convoluted. Too many dependencies. This talks to that which parses this into that, etc. 
+
+While I like XSLT a lot, I found that by using the Perl <a href="http://search.cpan.org/~msergeant/XML-XPath-1.13/XPath.pm">XPath module</a>, the script almost wrote itself. Anyone familiar with URLs will pick up XPath in an instant. You just enter the path of /the/tag/you/want/, ask for either the text() inside the tag or one of its @attribute, then stuff it in a variable. Easy! So <a href="http://veen.com/jeff/code/postLinks-XPath.txt">here</a> is the script I'm using now. It pulls the XML over (now with verification that links were posted), turns it into XHTML, then sticks it into MovableType and rebuilds the site. You could easily just chop off the MT stuff at the end and just write it to a file, as well. Bear in mind that this represents about twice as much Perl as I've ever written before. But it seems to work. Comments please.
+&#8203;

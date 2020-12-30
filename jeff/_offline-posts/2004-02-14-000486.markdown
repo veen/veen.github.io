@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Links: 2004-02-14"
+date: 2004-02-14
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://wiki.oreillynet.com/etech/pub?SessionNotes">Etech: SessionNotes</a><br /><span class="link-meta">Links to notes take during Emerging Technology Session last week (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://www.soople.com/">Soople: easy search in Google</a><br /><span class="link-meta">Web forms for advanced queries (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/search">search</a> )</span></li>
+    <li><a href="http://social.itp.tsoa.nyu.edu/mt/confectious/">confectious</a><br /><span class="link-meta">Liz Goodman's blog (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/people">people</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://simon-cozens.org/programmer/secret-software.html">Simon Cozens: Secret Software</a><br /><span class="link-meta">What's in your ~/bin? (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+    <li><a href="http://www.nelson.monkey.org/~nelson/weblog/life/techOverload.html">Nelson's Weblog: techOverload</a><br /><span class="link-meta">I, too, can barely keep my eyes open (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/personal">personal</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+    <li><a href="http://www.pixelcharmer.com/fieldnotes/archives/process_designing/2003/000348.html">Faceted Movable Type</a><br /><span class="link-meta">Using MT to create a faceted navigation system (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/ia">ia</a> )</span></li>
+    <li><a href="http://www.w3.org/2004/01/sws-pressrelease">W3C Issues RDF and OWL Recommendations</a><br /><span class="link-meta">After years of work, the first infrastructure pieces start to emerge (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/rdf">rdf</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+    <li><a href="http://www.technorati.com/cosmos/products.html">Technorati Top Products</a><br /><span class="link-meta">Dave's etech hack: Link Cosmos plus the Amazon API (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/metadata">metadata</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+    <li><a href="http://developers.technorati.com/wiki/xhtmloutlines#head-d79da395b5d7a09c6439a5f2660d8c568186ab7e">XOXO</a><br /><span class="link-meta">eXtensible Open XHTML Outlines (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/metadata">metadata</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+  </ul>
+&#8203;

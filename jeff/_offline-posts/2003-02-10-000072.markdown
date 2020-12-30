@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "El Futuro de la Web en Chile"
+date: 2003-02-10
+author: Jeffrey Veen
+---
+"Si los clientes tuvieran siempre la razn, haran ellos el trabajonuevo..." The Macromedia Users Group of Chile posts <a href="http://www.mmug.cl/entrevistas.php?id=4&tod=1">an interview</a> with me.
+&#8203;

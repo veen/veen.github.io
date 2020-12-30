@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Links: 2003-12-04"
+date: 2003-12-04
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.ventureblog.com/articles/indiv/2003/000212.html#Sidebar">VentureBlog: The End Of The Laptop?</a><br /><span class="link-meta">Posted: 16:52:55 (categories: <a href="http://del.icio.us/veen/gadgets">gadgets</a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/mobile">mobile</a> )</span></li>
+    <li><a href="http://www.captnswing.net/howto/nicotine/#fink">Installing Nicotine (SoulSeek Mac OS X client)</a><br /><span class="link-meta">Posted: 20:41:01 (categories: <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+    <li><a href="http://philip.greenspun.com/teaching/6171/2003-fall/friendster">Friendster usability analysis</a><br /><span class="link-meta">Posted: 17:25:31 (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/ia">ia</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+    <li><a href="http://www.gearbits.com/archives/000386.html">GearBits: Time Warner Launches HD DVR</a><br /><span class="link-meta">Posted: 16:42:45 (categories: <a href="http://del.icio.us/veen/gadgets">gadgets</a> <a href="http://del.icio.us/veen/tivo">tivo</a> )</span></li>
+    <li><a href="http://www.velonews.com/race/int/articles/5306.0.html">Roberto Heras leaves US Postal</a><br /><span class="link-meta">Posted: 17:26:54 (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+    <li><a href="http://exslt.org/">EXSLT: a community initiative to provide extensions to XSL</a><br /><span class="link-meta">Posted: 23:15:23 (categories: <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+    <li><a href="http://salon.com/tech/col/rose/2003/12/04/rss/index.html">Salon: Who loves, you love, we all love RSS</a><br /><span class="link-meta">Posted: 16:48:51 (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+  </ul>
+&#8203;

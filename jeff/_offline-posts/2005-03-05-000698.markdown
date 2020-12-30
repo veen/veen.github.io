@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Try before you buy"
+date: 2005-03-05
+author: Jeffrey Veen
+---
+<img src="http://veen.com/jeff/images/crutchfield.jpg" width="236" height="82" alt="Crutchfield.com" style="float:left;" />
+
+Earlier today at the <a href="http://iasummit.org/">IA Summit</a>, <a href="http://uie.com/">Jared Spool</a> discussed the importance of confidence in ecommerce. That is, people are more inclined to buy if they are sure they're making the right choice. My characterization may make the idea seem trivial. It wasn't. Few of us honestly know how to design for confidence.
+
+One example Jared showed was from <a href="http://crutchfield.com">Crutchfield.com</a>. Among the many effective things the company does is provide PDF versions of the manuals for the products they sell. He explained: 
+
+<blockquote>Our subjects would download these PDFs and read through them right then. Because they knew that if they could understand the manual, they'd be able to use the camera.
+</blockquote>
+
+This reminds me of the work I did with Macromedia a few years ago. Through user research, we found that most visitors to their site came with the goal of finding software that solved a specific problem -- "I need something that lets me edit HTML." And while the macromedia.com web site was filled with marketing content extolling the features of each product, most people just downloaded a demo version. So in the course of about 3 minutes, potential customers became users. And all the users we talked to explained that their decision to buy was made ... in the support forums.
+
+These two examples suggest that today's ecommerce customers are making product judgments based on content that has historically been an afterthought. Pair that with how organizations develop these different kinds of content. I've not seen many organizations that have an integrated content strategy that develops both pre-purchase material and post-sale support. Yet increasingly, it's the support docs that give people the confidence to click the elusive "Add To Cart" button.
+
+In all of this, maybe we'll finally see tech writers getting the support and credit they've long been due.
+&#8203;

@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Link-O-Rama"
+date: 2003-11-17
+author: Jeffrey Veen
+---
+I like the sidebar links that many folks (<a href="http://www.dashes.com/links/">Anil</a>, <a href="http://www.kottke.org/remainder/index.html">Jason</a>, etc.) publish on their sites, but I'm not about to commit to that level of posting. But if I did, it would look something like this:</p>
+
+<p><a href="http://joshcagan.com/">Josh Cagan</a> may be the funniest man on the planet.</p>
+
+<p>My new governor has his <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2003/11/17/MNGEV33KQJ1.DTL">work cut out for him</a>. (note sidebar poll results)</p>
+
+<p><a href="http://www.hyperorg.com/blogger/mtarchive/002184.html">David Weinberger</a> shows just how easy it can be to lie with information design.</p>
+
+<p><a href="http://www.jjeff.com/archive/000063.html">Jeff Robbins</a> proves that even an aging, AirPort-free PowerBook can play well with 802.11 -- and not break the bank.</p>
+
+<p>The Mini Cooper of digital cameras: <a href="http://www.photographyblog.com/weblog.php?id=P1173">BenQ DC C50</a> (modern technology in a retro package)</p>
+
+<p><a href="http://dwlt.net/tapestry/">RSS Feeds</a> for comic strips.</p>
+
+<p>Software: <a href="http://www.iconfactory.com/xs_home.asp">xScope</a>, <a href="http://www.yazsoft.com/">Speed Download 2.1</a>, <a href="http://www.eastgate.com/Tinderbox/">Tinderbox 2.0</a></p>
+
+<p>
+&#8203;

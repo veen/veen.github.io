@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Google Analytics updated"
+date: 2007-06-13
+author: Jeffrey Veen
+---
+Reading through the comments on my [recent post][] about our redesign of Google Analytics, two things are pretty clear: For the most part, we did a pretty good job of making that powerful application more usable and accessible to a wider audience. And there were a handful of features from the previous version that didn't make it into the new interface that were _very_ important to a small but vocal group of users.
+
+Being able to release new versions and updates is the beauty (and, perhaps, the curse) of working with web-based applications. Tweaking features and fixing bugs can and should be a constant and iterative part of the development process. The Analytics launch is a good case study - today they've released an update that addresses most of the gap between the old and new versions, including:
+
+* Hourly traffic reports
+* Cross segmenting users by network location
+* Allowing up to 500 rows of data per page in a table
+* Clickable URLs for traffic sources
+
+There is even more, which you can read about on [this post][] to the Google Analytics Blog. Or have a look a the [release notes][].
+
+[recent post]: http://www.veen.com/jeff/archives/000965.html
+[this post]: http://analytics.blogspot.com/2007/06/you-asked-for-it-you-got-it-new.html
+[release notes]: http://www.google.com/support/googleanalytics/bin/answer.py?answer=69588

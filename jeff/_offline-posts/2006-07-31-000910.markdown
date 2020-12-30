@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Designing for all users"
+date: 2006-07-31
+author: Jeffrey Veen
+---
+In a post about the new <a href="http://code.google.com/hosting/">Google Code Project Hosting</a>, Marshal Kirkpatrick of TechCrunch <a href="http://feeds.feedburner.com/~r/Techcrunch/~3/6234775/">writes</a>:
+
+<blockquote>"So far the whole thing looks far less user-friendly than <a href="http://sourceforge.net/">SourceForge</a> but if it's targeting a technical audience exclusively that might be of less consequence."</blockquote>
+
+I'm not very familiar with Google's new entry into this space, though I've met the guys working on it. And I'm glad TechCrunch mentions user experience when evaluating it. That comment, however, fails to acknowledge that product teams need to consider _all users to be successful.
+
+I've always been frustrated with SourceForge exactly because of this issue.  The problem for me is not the repository; usability of managing distributed projects doesn't really affect me. Rather, it's that so many interesting open source projects use SourceForge to distribute their software. And that task - simply finding the latest release to download -  is really confusing, especially for people with no experience with code repositories and the shorthand used for these projects.
+
+It's a delicate balance, of course. Developers need quick access to the <a href="http://sourceforge.net/project/showfiles.php?group_id=235&package_id=253">technical guts of a project</a>. But for projects that are ultimately intended for a broader consumer audience, these sorts of sites generally don't suffice - which is why so many groups create entirely <a href="http://gaim.sourceforge.net/downloads.php">separate distribution sites</a>.
+
+I can't help but think, though, that there may be a middle ground that works for everyone.
+&#8203;

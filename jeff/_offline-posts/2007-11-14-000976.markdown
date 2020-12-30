@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Obama: Open formats for government data"
+date: 2007-11-14
+author: Jeffrey Veen
+---
+<a href="http://www.barackobama.com/"><img src="http://www.barackobama.com/images/widgets/Obama08_ThumbLogo100.gif" alt="Obama 2008 campaign logo" style="float:right;padding=5px;border:none;"></a>Senator Barak Obama visited Google today and spent about 90 minutes in our cafe talking and answering questions. He was in Silicon Valley to introduce his plan for technology and innovation, network neutrality, universal broadband, and more. Wired News has [coverage][] of everything he promised, but the thing that really stood out for me was this:
+
+>Making government data available online in universally accessible formats to allow citizens to make use of that data to comment, derive value, and take action in their own communities."
+
+It was only a quick reference in his prepared statements; he didn't elaborate on what this really means or what "universally accessible" formats would be available. But it was refreshing to hear someone in that position pick up on what those of us developing on the Web have been talking about for years. Government data belongs to us; open formats make access not just possible, but entirely realistic.
+
+Stanford law professor Larry Lessig commented on this in his [endorsement][] of the senator:
+
+>But the big part of this is a commitment to making data about the government (as well as government data) publicly available in standard machine readable formats. The promise isn't just the naive promise that government websites will work better and reveal more. It is the really powerful promise to feed the data necessary for the <a href="http://Sunlightfoundation.com/">Sunlights</a> and the <a href="http://Maplight.org/">Maplights</a> of the world to make government work better. Atomize (or RSS-ify) government data (votes, contributions, Members of Congress's calendars) and you enable the rest of us to make clear the economy of influence that is Washington.
+
+Obama's offical campaign statement on technology and innovation is available (ironically) in [PDF format][] from his web site.
+
+[coverage]: http://blog.wired.com/27bstroke6/2007/11/obama-unveils-s.html
+[endorsement]: http://lessig.org/blog/2007/11/4barack.html
+[PDF format]: http://my.barackobama.com/page/-/HQpress/111307%20Innovation%20fact%20sheet.pdf

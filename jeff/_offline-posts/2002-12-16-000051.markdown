@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Creative Commons"
+date: 2002-12-16
+author: Jeffrey Veen
+---
+<a title="Creative Commons" href="http://creativecommons.org/">Creative Commons</a> has launched today, offering you the ability to put your content under more a progressive and descriptive license than simple copyright. You may notice the graphic at the bottom of this page's right column. A similar button can be found on Adaptive Path's <a href="http://adaptivepath.com/publications/essays/archives.php">essays</a> as well. I encourage you to run through the <a href="http://creativecommons.org/license/">licensing wizard</a> and create one for yourself.
+
+
+&#8203;

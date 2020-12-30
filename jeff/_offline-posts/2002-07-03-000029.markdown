@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "Are you sure you want to click there?"
+date: 2002-07-03
+author: Jeffrey Veen
+---
+My partner at Adaptive Path, Mike Kuniavsky, offers excellent advice on [asking appropriate questions][1] during user research. Try to keep these in mind the next time you sit down with users.
+
+[1]: http://www.adaptivepath.com/publications/essays/archives/000041.php

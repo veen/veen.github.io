@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "As easy as 1, 2, 3"
+date: 2006-04-11
+author: Jeffrey Veen
+---
+Back about two years ago, I got the opportunity to <a href="http://www.veen.com/jeff/archives/000533.html">work with Blogger</a> on a redesign. Our goal was to dramatically simplify the "first post scenario" -- that is, how quickly can someone who has never even heard of blogging through a sign up process and writing something?
+
+At one of our first meetings with the Blogger team, we agreed on a goal: 3 steps. We didn't know what those steps would be, but we knew we wanted to boil the whole process down to something that sounded really _easy. After about two months of intensive design and usability, we ended up with something that both accomplished our goal and resonated with a whole new audience of bloggers.
+
+I bring this up again because of recent New York Times article, "<a href="http://www.nytimes.com/2006/04/11/business/retirement/11blogs.html">Elderbloggers Stake Their Claim</a>," which looks at people taking up blogging later in life. This quote really made me smile:
+
+<blockquote>While the 65-plus age range is notoriously tech-shy, many say that the blog-hosting companies make it simple to start and maintain one. Mr. Reichek said that when he went to Blogger.com &mdash; which is owned by Google &mdash; the site showed him how to set up a blog in easy steps.
+
+"I'm a technophobe," he said. "But 1, 2, 3 and suddenly, I've got a blog."</blockquote>
+
+Now that's satisfying user feedback...
+&#8203;

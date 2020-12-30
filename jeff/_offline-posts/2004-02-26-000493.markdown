@@ -1,0 +1,45 @@
+--- 
+layout: post
+title: "Links: 2004-02-26"
+date: 2004-02-26
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.feedburner.com/">FeedBurner</a><br />
+<span class="link-meta">RSS tracking tools. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+
+    <li><a href="http://www.veen.com/amy/archives/000492.html">Amy Veen Frazier: Filled with a different kind of passion…</a><br />
+<span class="link-meta">"I guess I just wanted a different kind of passion." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://www.cafeshops.com/biggerhand.9997048">Mike Monteiro: CafePress</a><br />
+<span class="link-meta">Limited edition. Buy now! (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://urlgreyhot.com/drupal/node/view/1440">Tracking user navigation methods by logging where users click on web pages</a><br />
+<span class="link-meta">A quantitiative approach to abstract design. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/ia">ia</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+
+    <li><a href="http://www.toronado.com/draft.htm">Toronado Draught Beer List</a><br />
+<span class="link-meta">Now *this* would make a good RSS feed. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://www.7nights.com/asterisk/archives/content_management_a_process_not_a_technology.php">Content Management - A Process, Not a Technology</a><br />
+<span class="link-meta">"Take that fifty thousand dollars you spent on a CMS and turn that into a person who 'gets' Web content." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+
+    <li><a href="http://amphetarate.sourceforge.net/api.php">AmphetaRate - Api</a><br />
+<span class="link-meta">AmphetaRate aims to be used by all news aggregators in order for all users to collaborate on finding the best personalized RSS content (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+
+    <li><a href="http://www.dailypeloton.com/displayarticle.asp?pk=5699">Landis, Pena take Tour of Algarve; Armstrong fifth</a><br />
+<span class="link-meta">Postal on form this year. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://research.tivo.com/togo/ttg.html">TiVo New Features Survey, February 2004</a><br />
+<span class="link-meta">Tell 'em you wanna burn. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tivo">tivo</a> )</span></li>
+
+    <li><a href="http://www.hchamp.com/archives/000078.html">heather champ, Tiny Mite's Tanner (aka Tigger)</a><br />
+<span class="link-meta"> (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://www.zug.com/pranks/viagra/">The Viagra Prank: Ordering Viagra Online, Then Taking It In Church</a><br />
+<span class="link-meta"> (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.tree-axis.com/pretendster/index.php?t=1077317081">Pretendster</a><br />
+<span class="link-meta">Suffer the embarrassment of a meager friend pool no longer. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+&#8203;

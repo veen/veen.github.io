@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Links: 2003-12-09"
+date: 2003-12-09
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://weblog.burningbird.net/fires/technology/the_gluttony_of_information.htm">Burningbird: The Gluttony of Information</a><br /><span class="link-meta">Posted: 16:40:45 (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+    <li><a href="http://webstandards.org/learn/interviews/tdominey/">WaSP interviews Todd Dominey on the redesign of PGA.com</a><br /><span class="link-meta">Posted: 00:43:08 (categories: <a href="http://del.icio.us/veen/css">css</a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+    <li><a href="http://daringfireball.net/2003/12/php_syntax_checking_in_bbedit">Daring Fireball: PHP Syntax Checking in BBEdit</a><br /><span class="link-meta">Posted: 00:49:43 (categories: <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/php">php</a> )</span></li>
+    <li><a href="http://www.mimesis.net/swpat/video.htm">eCommerce Patents gone nuts</a><br /><span class="link-meta">Posted: 02:35:28 (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+  </ul>
+&#8203;

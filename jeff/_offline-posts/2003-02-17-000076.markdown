@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Going Mobile"
+date: 2003-02-17
+author: Jeffrey Veen
+---
+I still find it a rare exception when a mobile Web technology proves useful. Generally, it's easier to make a call ("Can I get a table for two at 9pm tonight?"), ask a stranger ("Do you know where I can get a cab?"), or simply wait until I get home ("I wonder if it will rain tomorrow?").
+
+This weekend, however, I found something of a killer -- albeit radically specific -- app. Leslie and I were in Austin, TX for their <a href="http://www.motorolamarathon.com">marathon</a>. You might think that running gets as technical as a pair of shoes, but races are catching up with the cutting edge, and the Motorola-sponsored event was a good example. Each runner wears a tiny chip tied to a lace on their shoe. As they cross the starting line, their bib number is transmitted from the chip through a large sensor under a mat to the official time-keeping computer. That way, when the runners cross the sensor at the finish line, they get their specific time on the course, rather than the generic time since the start. You see, in big races, it can take 10 minutes or more to actually cross the start line after the gun fires. Recently, they've started placing sensors all over the course, so after the race, runners can see their "split times" and get a sense of how they did throughout the race. And for this race, these splits were <a href="http://results.doitsports.com/motorola/quick.adp?bib=4630">posted to the Web</a>, live.
+
+So as Leslie ran, I cruised around the route on a borrowed vintage Schwinn with my Treo in my pocket. I was looking to meet up with her just after the halfway point, and ride along as support for a while. I pulled up by W's <a href="http://www.texasbob.com/travel/tbt_capitol.html">old house</a>, checked the Web page, and saw that she'd be coming by in about 15 minutes. I grabbed a cup of coffee, waited a bit, and sure enough, there she was. I pedaled along side her for about an hour, giving her exact split times every time we passed a sensor, calculating her pace as we progressed, so she could set her tempo accordingly. The result? Well, freezing temps, gusting wind, and long lines at the port-a-potties kept her from her personal best -- but only by 3 minutes. We'll team up later this year and get it for sure, thanks to an old bike and cutting edge tech.
+&#8203;

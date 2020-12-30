@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Links: 2003-12-10"
+date: 2003-12-10
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.lancearthur.com/archives/000156.html">lancearthur.com: Book Club</a><br /><span class="link-meta">Posted: 05:23:55 (categories: <a href="http://del.icio.us/veen/books">books</a> )</span></li>
+    <li><a href="http://www.acm.org/ubiquity/book_reviews/v4i41_bedingfield.html">Review: Spinning the Semantic Web</a><br /><span class="link-meta">Posted: 21:31:56 (categories: <a href="http://del.icio.us/veen/books">books</a> <a href="http://del.icio.us/veen/semweb">semweb</a> )</span></li>
+    <li><a href="http://reviews.designtechnica.com/review835.html">Slim Devices Squeezebox Review</a><br /><span class="link-meta">Posted: 18:22:55 (categories: <a href="http://del.icio.us/veen/gadgets">gadgets</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+  </ul>
+&#8203;

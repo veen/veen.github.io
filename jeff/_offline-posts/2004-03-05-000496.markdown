@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Links: 2004-03-05"
+date: 2004-03-05
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.kernelthread.com/mac/oshistory/">A History of Apple's Operating Systems</a><br />
+<span class="link-meta">A fascinating look at both the interfaces and strategies from Cupertino (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+    <li><a href="http://www.musicmobs.com/">musicmobs.com :: iTunes community</a><br />
+<span class="link-meta">Share your iTunes XML (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.boxesandarrows.com/archives/planning_your_future.php">Boxes and Arrows: Planning your future</a><br />
+<span class="link-meta">Your pesonal 5-year plan (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://cellspotting.com/webpages/cellspotting.html">CellSpotting</a><br />
+<span class="link-meta">a  global location based service for mobile (GSM and soon UMTS) users. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mobile">mobile</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/03/05/ANALYSIS.TMP">Gay marriage momentum stuns both backers and foes</a><br />
+<span class="link-meta">"Gavin Newsom went from being a handsome rookie mayor to an icon on human rights, just like that." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.velonews.com/images/int/5650.6993.f.jpg">Jan Ulrich in the Vuelta a Murcia</a><br />
+<span class="link-meta">Holy crap, how much weight did he gain over the winter? (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://www.crystalflame.net/2004/02/filster_tying_s.html">Linking reputations networks to email whitelists.</a><br />
+<span class="link-meta">A procmail filter that checks incoming mail against several identity networks; (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/social">social</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+
+&#8203;

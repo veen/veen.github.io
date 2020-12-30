@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "IA in Amsterdam"
+date: 2004-06-21
+author: Jeffrey Veen
+---
+Just got into Amsterdam for the Adaptive Path workshop we're having here this week. Looking over the attendee list is getting me excited -- we'll be hanging out with people from all over the world. There is even a few folks coming down from Groningen, a city two hours north by the German border. It's where my family is from, and last time I was in Holland I spent the night in a little village not far from there. I was related to everyone, and spent a surreal day wandering around the Veen bakery, the Veen butcher shop, the Veen gas station.
+
+But anyway, if you're in Amsterdam this Tuesday, June 22, we'll be hosting the IA Cocktail Hour. And if that sounds a little too geeky, how about you just come by <a href="http://www.debalie.nl/serviceartikel.jsp?articleid=5256">De Balie Culteral Center</a> around 6pm and we'll buy you a drink?
+&#8203;

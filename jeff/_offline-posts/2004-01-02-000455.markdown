@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Links: 2004-01-02"
+date: 2004-01-02
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.eurosport.com/home/pages/V3/L0/S18/E6083/sport_Lng0_Spo18_Evt6083_Sto521681.shtml">Can Armstrong Win Six?</a><br /><span class="link-meta">Were his struggles in '03 the beginning of the end, or proper motivation for this year? (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+    <li><a href="http://www.mcsweeneys.net/2003/12/23mcintire.html">A Message From Pat Robertson and the "Vote No On Jesus" Campaign</a><br /><span class="link-meta">Why is the "religious left" an oxymoron? (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.lssu.edu/banished/archive/2004.php">2004 Banished Words List</a><br /><span class="link-meta">If I were clever, I'd use many of them in a sentence describing the annual list. (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://louisrosenfeld.com/home/bloug_archive/000233.html">Happy Birthday, Iris</a><br /><span class="link-meta">And congrats to Lou and MJ (categories: <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+    <li><a href="http://exist.sourceforge.net/">eXist: Open Source XML Database</a><br /><span class="link-meta"> (categories: <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+  </ul>
+
+&#8203;

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Bruce Sterling and the new virtual"
+date: 2005-03-15
+author: Jeffrey Veen
+---
+<a href="http://www.flickr.com/photos/kathryn/6613025/"><img src="http://photos7.flickr.com/6613025_57eb28a657_t_d.jpg" alt="Little Dinosaur" style="float: left; margin-right: 10px; border: 1px solid black" /></a>
+
+Bruce Sterling's keynote at <a href="http://2005.sxsw.com/">South by Southwest</a> is always very popular and very entertaining. This year, his topics bounced around from chemical scanners in your shower to smoking his Converse sneakers (sort of). 
+
+At one point, he talked about <a href="http://wiredblogs.tripod.com/sterling/index.blog?entry_id=1013833">Fabjects</a> --fabricated objects designed on the computer and "printed" as a physical 3D object. The idea of dropping an object printer into remote locations is a powerful one. Sit at a computer in Oslo and design new parts for a water pump in the Australian Outback. Then click print.
+
+To illustrate his point, he held a bunch of tiny Fabjects up, but they were too small to see for most of the audience. So Bruce tossed a little dinosaur into the audience and it slowly started circulating around. But then, two minutes later, the kid in front of me has a <a href="http://www.flickr.com/photos/kathryn/6613025/">camerafone pic</a> from flickr on his screen.
+
+From virtual to physical to virtual again. Almost in real time.
+
+
+&#8203;

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Links: 2004-02-06"
+date: 2004-02-06
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.mezzoblue.com/archives/2004/02/02/browser_supp/">Browser Support 2004</a><br /><span class="link-meta">Oy. I remember writing columns like this one. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://www.xml.com/pub/a/2004/02/04/foaf.html">XML.com: An Introduction to FOAF</a><br /><span class="link-meta">The vocabulary starts to tip (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/semweb">semweb</a> <a href="http://del.icio.us/veen/standards">standards</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+    <li><a href="http://stevenf.com/mt/archives/000522.php">Garageband as Karaoke</a><br /><span class="link-meta">"If alcohol is being used, consume at this point." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.parasitepals.com/">Parasite Pals Super Fun Site</a><br /><span class="link-meta">Meet Holly and her friends. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.macchampion.com/scenario_features.shtml">Scenario</a><br /><span class="link-meta">Run an Applescript on any of these events: Log-in, Log-out, Sleep, Wake, Idle Start, Idle End, HotKey (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+    <li><a href="http://www.mailbucket.org/">MailBucket</a><br /><span class="link-meta">MailBucket is an experimental public email-to-RSS gateway. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+    <li><a href="http://www.craigslist.org/pen/sad/23455209.html">Dream Job</a><br /><span class="link-meta">WAN/LAN administration? Bummer... (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.usatoday.com/life/television/news/2004-01-28-nielsens_x.htm">Nielsen ratings: 18-49-year-olds and TiVo viewers</a><br /><span class="link-meta">USAToday now publishes Tivo's "Most Recorded" along with Nielsons. See, they're not a hardware developer after all... (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tivo">tivo</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://www.w3.org/2002/09/rss2email/">Python RSS to Email Aggregator</a><br /><span class="link-meta"> (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+  </ul>
+
+&#8203;

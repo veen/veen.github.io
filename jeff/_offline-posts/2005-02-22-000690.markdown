@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Dot Com Redux?"
+date: 2005-02-22
+author: Jeffrey Veen
+---
+Waiting for my lunch order in a restaurant near <a href="http://sunsite.berkeley.edu:8085/AerialPhotos/south-park.html">South Park</a>. I overhear two people talking in a nearby booth. One guy says:
+
+"The next step is for us to put the infrastructure in place so that we can build out the taxonomy. And can you imagine how cool it will be to have an RSS feed at each node?"
+
+And the funny thing is that I can think of six companies in a two block radius that would, indeed, think that is pretty cool.
+&#8203;

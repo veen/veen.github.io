@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Welcome Home"
+date: 2002-10-04
+author: Jeffrey Veen
+---
+After bringing our <a href="http://adaptivepath.com/events/">workshops</a> across the country, we held the final one this week in San Francisco. The attendees where engaged and friendly, we had our content nearly perfected, and our guest Bob Slote was inspired. I can't wait to do these again next year.
+&#8203;

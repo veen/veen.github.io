@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Adaptive Path is looking for a CEO"
+date: 2008-04-15
+author: Jeffrey Veen
+---
+There's a job opening posted over on the Adaptive Path blog that's particularly interesting -- [they are hiring a CEO][1]. Considering the company's commitment to openness and transparency, it doesn't surprise me to see them conduct this search in such a public way.
+
+I haven't had a desk there for over two years now, but I still keep very close ties. It has been exciting to watch how my former partners Peter Merholz and Jesse James Garrett have grown the company while hanging on to the core values we started with. They' will continue to serve as co-presidents of the company, but with a new emphasis on the content of their work. I like the way Peter [talks about the change][2]:
+
+>I tend to think about it as "What do you geek out to?" When I geek out, it's to experience design practice, events programming, supporting the team. I don't geek out to Running A Business. We're looking for someone who geeks out to Running A Business, and who appreciates the impact that design can bring to the world.
+
+If you know someone (or _are_ someone) who would excel at this opportunity, contact Bryan Mason, Adaptive Path's COO, at bryan dot mason at adaptivepath dot com.
+
+[1]: http://www.adaptivepath.com/blog/2008/04/09/starting-the-ceo-search/
+[2]: http://www.peterme.com/?p=648

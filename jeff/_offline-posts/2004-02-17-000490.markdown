@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: "Links: 2004-02-17"
+date: 2004-02-17
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.cyclingnews.com/track.php?id=photos/2004/feb04/trackworldcup1/keiren7-12ride">Photo finish</a><br />
+<span class="link-meta">It doesn't get any closer than this. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://www.maya.com/web/what/mayapinions/what_mp_gould_evilgenius.mtml">Evil Genius (The Good Side of PowerPoint)</a><br />
+<span class="link-meta">More great advice on giving better presentations (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.sfbluegrass.org/festival.html">San Francisco Bluegrass & Old-Time Festival</a><br />
+<span class="link-meta">February 20-29, all over town (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://news.findlaw.com/cnn/docs/glrts/sfmayor21004ltr.html">SF Mayor's Letter to County Clerk re: Issuing Marriage Licenses</a><br />
+<span class="link-meta">"...laws that treat homosexuals differently from heterosexuals are suspect." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://news.com.com/2100-1038_3-5157640.html">Lycos restructures, cuts U.S. staff</a><br />
+<span class="link-meta">Goodbye, Webmonkey (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://www.motherjones.com/news/update/2004/02/02_400.html">Kerry vs. Bush war record</a><br />
+<span class="link-meta">"George W. Bush and John Kerry both spent their mid twenties in uniform. The similarities end there. " (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.ragingmenace.com/software/sidetrack/index.html">SideTrack</a><br />
+<span class="link-meta">Scroll with your trackpad on Powerbooks and iBooks (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+    <li><a href="http://www.technologyreview.com/articles/wo_stenger021304.asp">View from the Alpha Geek</a><br />
+<span class="link-meta">O'Reilly programmer and technology maven Rael Dornfest looks beyond Web services and social networking. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/people">people</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+&#8203;

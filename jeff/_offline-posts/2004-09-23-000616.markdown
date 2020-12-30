@@ -1,0 +1,46 @@
+--- 
+layout: post
+title: "Links: 2004-09-23"
+date: 2004-09-23
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://ranchero.com/netnewswire/beta.php">Ranchero Software: NetNewsWire 2.0 Beta</a><br />
+<span class="link-meta">A brilliant new version of NNW, including Rendevous feed sharing, syncing, and internal Web browsing. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/rss">rss</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+
+    <li><a href="http://ranchero.com/marsedit/">Ranchero Software: MarsEdit 1.0 Beta</a><br />
+<span class="link-meta">Simple, clean, usabile blog editing and writing tool. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+
+    <li><a href="http://www.pckeyboard.com/ibmlist.html">IBM and Lexmark Parts</a><br />
+<span class="link-meta">Now *that* is an ecommerce interface: Find your part number below, then call our 800 number. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://w.moreover.com/main_site/pressroom/presspages/09-21-04c.html">Moreover to inject "contextual advertising" in RSS feeds</a><br />
+<span class="link-meta">“It’s clear that the aggregated news model is rapidly becoming the preferred method of online consumer news consumption" (categories: <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/rss">rss</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://markfiore.com/">Mark Fiore's Animated Political Cartoons</a><br />
+<span class="link-meta">Fantastic Flash-based satire (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/propaganda">propaganda</a> )</span></li>
+
+    <li><a href="http://blog.del.icio.us/">del.icio.us blog</a><br />
+<span class="link-meta">A place for Joshua to make del.icio.us announcements. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/news">news</a> )</span></li>
+
+    <li><a href="http://poe-news.com/features.php?feat=31845">POE News: Rumsfeld Fighting Technique</a><br />
+<span class="link-meta">Twin Cobra Fist! Viper Fang! (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.objectpark.org/FuzzyClock.html">Objectpark: FuzzyClock</a><br />
+<span class="link-meta">A menubar clock which displays the current time in a "fuzzy", human-readable style like like "five past ten" or "a little before noon". (categories: <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+
+    <li><a href="http://bicyclesafe.com/">Bicycle Safety:  How to Not Get Hit by Cars</a><br />
+<span class="link-meta">Stay off the sidewalk. Assume you're invisible. Get out in the lane (no, really). Good advice here. (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://www.aeolian-ride.info/">AEOLIAN RIDE</a><br />
+<span class="link-meta">Ride through cities wearing giant inflatable suits. Why not? (categories: <a href="http://del.icio.us/veen/art">art</a> <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/events">events</a> )</span></li>
+
+    <li><a href="http://ifoundsomeofyourlife.blogspot.com/">I Found Some Of Your Life</a><br />
+<span class="link-meta">Guy finds memory card. Starts posting images. Writes captions. Creates universe. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/photos">photos</a> )</span></li>
+
+    <li><a href="http://www.janekim.org/">Jane Kim for San Francisco School Board</a><br />
+<span class="link-meta">A really great looking campaign Web site, and also a good candidate. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+  </ul>
+
+&#8203;

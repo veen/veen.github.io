@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "You can never be too thin..."
+date: 2003-03-10
+author: Jeffrey Veen
+---
+I was just having a look at the new superthin <a href="http://pcworld.shopping.yahoo.com/yahoo/article/0,aid,109631,00.asp">Actius MM10</a> laptop from Sharp. I used an Actius a few years ago, when I was having back trouble and wanted the lightest possible laptop to carry around. Eventually, I gave it up -- the 2.8 pound machine I had just kept falling apart, and the battery life eventually crapped out at 45 minutes.</p>
+
+<p>This new Actius doesn't appear to have solved those particular problems, but it does make me start to rethink something else entirely: where does your data live? The laptop is displayed in the article nestled in a doc that turns the machine into an external firewire drive for a desktop PC. Supplied software keeps the appropriate data in sync. Which means that this machine, more than most, can instantly serve as a remote view of your working environment.</p>
+
+<p>I've been living for the past 5 years or so with a laptop as my primary machine, with occasional stints on a desktop. That's because I travel so often. And there have been too many instances of finding myself somewhere unable to access a file I desperately need. Or a contact. Or a piece of email. Switching to IMAP helped tremendously. But what about the hundreds of megs of files on my laptop? </p>
+
+<p>Ultimately, I think I'm less interested in syncing another processor with my data, as Sharp would have me do. Rather, the keychain USB drives -- now approaching a gig -- seem like the better solution. I could just keep everyting encrypted on one of those, and work right from that device on whatever machine I was using. Backups would have to be automatic whenever I was home, though. I've lost my keys more often that I care to think about. Having a few thousand documents crammed under the cushion of an airplane seat makes me more than a little edgy...
+&#8203;

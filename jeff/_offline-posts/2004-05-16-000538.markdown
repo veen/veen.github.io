@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: "Links: 2004-05-16"
+date: 2004-05-16
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://whisper.cx/">Whisper - Quiet content management</a><br />
+<span class="link-meta">Simple PHP-based CMS. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+
+    <li><a href="http://www.poundy.com/foxnews.html">Blogging! The Latest Cyber Craze!</a><br />
+<span class="link-meta">Television news is stupid. Always. Without fail. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.hchamp.com/archives/000183.html">heather champ, Dolly parts, Townsend Street</a><br />
+<span class="link-meta">An image that made me jump back from the screen. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://www.bryanboyer.com/manage/images/gallery.php?gallery=21">Arlo at Week 27</a><br />
+<span class="link-meta">Happiest baby ever. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+    <li><a href="http://www.intersmash.com/300images/">300 Images From 1800 Sites</a><br />
+<span class="link-meta">The little UI bits that pepper our sites. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/design">design</a> )</span></li>
+
+    <li><a href="http://www.alternet.org/story.html?StoryID=18605">Smart Mobs vs. Amway: Citizens starting to take back power</a><br />
+<span class="link-meta">Meetups and swarms take on Rove's Republican pyrimid scheme. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.oreilly.com/openbook/">O'Reilly Open Books Project</a><br />
+<span class="link-meta">A chunk of ORA's library gets posted to the Web (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://news.com.com/2100-1008_3-5205574.html">Apple patented by Microsoft</a><br />
+<span class="link-meta">The US Patent Office proves its unfailing competancy once again. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://cacirecruiting.caci.com/jobpostings.nsf/949b67190f4be56a85256ccc005ce91c/6d732f0b05915a0a85256e23004fa88b?OpenDocument">Job Openings: Interrogator</a><br />
+<span class="link-meta">"Under moderate supervision, provide intelligence support for interviewing local nationals and determining there threat to coalition forces." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+
+&#8203;

@@ -1,0 +1,65 @@
+#!/usr/bin/perl
+#
+# Post Delicious Links to MovableType
+# (MT installed on local machine)
+#
+# Jeffrey Veen
+# jeff at veen dot com
+#
+# 9 December 2003
+#
+# Distributed under the Creative Commons "Share Alike" license.
+# http://creativecommons.org/licenses/sa/1.0/
+#
+###
+
+
+# load modules
+
+use POSIX qw(strftime);
+use lib "/path/to/your/mt/lib"; # change to your installation
+use MT;
+use MT::Entry;
+use XML::XSLT; # http://xmlxslt.sourceforge.net/ 
+
+# set up local variables - change to suit your needs.
+
+my $MTauthor = "1";
+my $MTblogID = "2";
+my $MTconfig = "/path/to/your/mt/mt.cfg";
+my $delUser  = "veen";
+my $delPW    = "****";
+my $xsl="links.xsl";
+
+# get today's date and format it
+
+my $date=strftime( "%Y-%m-%d\n", localtime());
+
+# go get the xml file
+
+my $xml = `curl -s -u $delUser:$delPW http://del.icio.us/api/posts/get?dt=$date`;
+
+# set up xslt stuff and transform the xml to html
+
+my $xslt = XML::XSLT->new ($xsl);
+$xslt->transform ($xmlfile);
+$guts=$xslt->toString;
+
+# post to MT
+
+my $mt = MT->new( Config=>$MTconfig) or die MT->errstr;
+my $entry = MT::Entry->new;
+$entry->blog_id($MTblogID);
+$entry->status(MT::Entry::RELEASE());
+$entry->author_id($MTauthor);
+$entry->title("Links: $date");
+$entry->text($guts);
+$entry->convert_breaks(0);
+$entry->save
+   or die $entry->errstr;
+
+$mt->rebuild(BlogID => $MTblogID )
+  or die "Rebuild error: " . $mt->errstr;
+
+$mt->ping($MTblogID);
+

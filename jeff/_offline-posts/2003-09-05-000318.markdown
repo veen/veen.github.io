@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "On Writing Short"
+date: 2003-09-05
+author: Jeffrey Veen
+---
+
+Yesterday at the conference table with a new client, we talked about their frustration with a classic problem. "Users just won't read the instructions on our forms," they complained. "It really couldn't be simpler if they would just read the three sentences at the top!"
+
+But of course we don't read instructions. It's a matter of context. When trying to get through an interaction, we're not in "reading mode" ... we're in "doing mode." 
+
+Consider the tax forms you fill out each year. That form, much like form you might encounter on the Web, needs to have correct information entered into each field and then be submitted correctly. While filling out the tax form, you've got a complete set of instructions right there with you, explaining everything that needs to happen. (Of course, those instructions are terrible, but still...)
+
+But this isn't at all the same experience we have online. Rather, we're much more like motorists behind the wheel of a car in an unfamiliar city. We have a clear destination in mind, and are making split-second decisions while negotiating a confusing new place. And we are doing a task that demands our attention at the same time. No wonder we don't read. We're just trying to get done with this nonsense as quickly as possible.
+
+The burden lies on the designers of these interfaces. We need to create experiences that allow people to intuitively know what is required of them, so they can make unconscious decisions that lead them to their goals. As <a href="http://adaptivepath.com/team/janice.php">Janice</a> says, "Look at your interface and cut every single word that isn't doing hard work."
+
+One Way. Do Not Enter. Merge. Stop writing paragraphs, and think about traffic signs. Your users will thank you.
+
+&#8203;

@@ -1,0 +1,40 @@
+--- 
+layout: post
+title: "Didactic Presentation"
+date: 2003-07-22
+author: Jeffrey Veen
+---
+Increasingly, it is becoming clear to me that <a href="http://veen.com/veen/leslie/">Leslie</a> and I have similar jobs. As she enters her third year of seminary, we've been talking about how our responsibilities line up. For example...
+
+Exegesis of authoritative texts. Leslie: The Hebrew and Greek scriptures. Jeff: W3C recommendations and drafts.
+
+Advice and guidance. Leslie: Pastoral care and counseling. Jeff: Corporate training and mentorship.
+
+Inspiration and education: Leslie: Sermons. Jeff: Keynotes.
+
+Naturally, I wouldn't even begin to suggest that what I do compares in importance to her vocation, but the similarities are helpful and often complimentary. 
+
+Case in point. Last week, I spoke at the WebVisions conference in Portland, Oregon. Since it was a keynote (as opposed to an educational session or tutorial), I focused primarily highlighting the current state of Web design. But, at the end, I borrowed some of the techniques I gleaned from Leslie's preaching class: repetition, memorable phrases, a direct call to action. The results, I felt, worked well. Here's the text I wrote out before getting on stage.
+
+--
+
+
+
+Here's a final thought. I don't care about the economy. I mean, I do, of course. I have good friends -- talented friends --  out of work right now and I wish desperately that wasn't the case. But ultimately, I don't care. And I don't care that the dot com bubble burst and that so much of what we had built has come crashing down around us. It just doesn't matter that much.
+
+What matters is that this stuff is all cyclical. Our industry is like a pendulum, and it will certainly swing back. Five years ago, every stupid idea raised $10million -- even dry cleaning on the Web got funded! Today, everyone runs screaming from the Web. But the pendulum will swing back and slow down. And life will return to normal. But ... normall will assume the Web.
+
+When normal assumes the Web, that means the stuff you and I do will be woven into the fabric of life. We will not be able to remember quite what life was like before the Web, much like many of us cannot remember life before electricity, telephones and, uh, Tivo. And that, my friends, is the biggest challenge we face. We'll be working on the fabric of life.
+
+So do me a favor. Let's stop worrying about rules and guidelines and heuristics. Instead, let's develop and hone our craft.
+
+And let's put an end to the arrogance of masturbatory design. We must stop showing off just how talented we are. The Web doesn't need artists. Right now, it needs artisans. We need to practice our craft.
+
+And that means making Web sites for people. Let's help people get stuff done. Let's make their lives better by giving them access to the accumulated knowledge of the world. We can, in fact, make the world better with our craft.
+
+But don't forget: The Web needs to be elegant. It needs to be beautiful. It needs to be desirable. But it also needs to be useful, and intuitive, and functional. 
+
+We've got a lot of work to do, and a ton of stuff to learn if we're going to make Web sites for people. But we have to. Because normal is going to assume the Web.
+
+Thank you for your time.
+&#8203;

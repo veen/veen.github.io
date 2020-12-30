@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "JJG gets a Rave"
+date: 2006-06-01
+author: Jeffrey Veen
+---
+I couldn't be happier that Jesse James Garrett has won a <a href="http://raveawards.com/">Wired Rave award</a> for his popularization of <a href="http://adaptivepath.com/publications/essays/archives/000385.php">Ajax</a>. JJG and I were both founders at Adaptive Path, which gave me the opportunity to see how he thinks and evolves ideas -- from his first chart on the <a href="http://www.jjg.net/elements/pdf/elements.pdf">Elements of User Experience</a> to the resulting <a href="http://www.jjg.net/elements/">book</a>, his <a href="http://www.jjg.net/ia/visvocab/">visual vocabulary</a> for interaction design, and his work on collaboration as <a href="http://www.adaptivepath.com/publications/essays/archives/000242.php">Pillars of Successful Teams</a>.
+
+Ajax may be Jesse's hit single; but his full catalog is truly impressive. 
+&#8203;

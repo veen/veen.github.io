@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Sort of like 'Shutdown' on the 'Start' menu"
+date: 2003-05-09
+author: Jeffrey Veen
+---
+While pulling money out of a tiny, no-name ATM in my neighborhood last night, I found what may have been the most thoughtless UI text of all time:
+
+<pre>Press Enter to Exit</pre>
+
+Accept this, grasshopper, and enlightenment is yours.
+&#8203;

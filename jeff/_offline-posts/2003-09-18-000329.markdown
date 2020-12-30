@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The Business Value of Web Standards"
+date: 2003-09-18
+author: Jeffrey Veen
+---
+So many of the arguments I've read about the benefits of xHTML and CSS focus on the technological implecations. Others simply equate validating markup with Holy Scripture, demanding perfection for no other reason than "Because you're supposed to."
+
+I've written a new essay on the Adaptive Path Web site on "<a href="http://www.adaptivepath.com/publications/essays/archives/000266.php">The Business Value of Web Standards</a>." My hope was to provide a simple, concise list of reasons why you should develop a standards-compliant site from a _financial perspective. Do the right thing, and you'll save money.
+&#8203;

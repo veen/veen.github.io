@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Sensory Augmentation"
+date: 2003-07-28
+author: Jeffrey Veen
+---
+I've recently finished a collection of essays titled "<a href="http://www.amazon.com/exec/obidos/ASIN/0375713425/hotwiredstyle/ref=nosim/">The Next Fifty Years: Science in the First Half of the Twenty-First Century</a>", edited by John Brockman. I came across an interesting piece on the future of technology in augmenting human disability. We're no stranger to this; throughout history humans have been using tools to increase strength, help the frail be more mobile, and correct vision. But modern technology makes this even more interesting and available. My father, for example, wears a tiny computer in each ear which digitizes incoming audio, processes it to accommodate his specific hearing deficiency, and then amplifies it for him.
+
+The essay goes on into much more detail about how silicon and flesh may merge in the future, and the ethical implications of that union. But I was caught by a particular thought when it came to audio devices. The next step beyond my father's hearing aide is already in common usage. Tens of thousands of people who have a particular type of hearing damage have been fitted with cochlear implants --  chips inside their ears which digitize incoming audio, then transmit those bits as electrical impulses directly to the appropriate neurons. This means that not only can the deaf regain a certain amount of hearing, but we are also on the brink of augmentation.
+
+Consider the implications. Would you be interested in having a similar chip implanted in your ears to allow you to have perfect hearing forever? Consider the benefits -- not only would audio be crystal clear for the rest of your life, but you could ostensibly "turn down" a noisy environment, or even cancel out the din of a cross country flight. Are you an audiophile? Imagine what music would sound like if it never had to be translated to analog -- the bits of a piece of music could easily be transmitted wirelessly to your audio chip, where they would be passed directly to your brain.
+
+Of course, we're a long way from any of this being reality. This <a href="http://www.wired.com/news/medtech/0,1286,53298,00.html">year-old article</a> in Wired News suggests that people with the implants are unable to distinguish between instruments when listening to music. But the technology will improve, and become both ubiquitous and inexpensive. In fact, the <a href="http://www.cochlearamericas.com/About/964.asp">50,000th person</a> received an implant this year.
+
+But would you? Cosmetic sensory augmentation may happen sooner than we think.
+&#8203;

@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Managing Content is Hard"
+date: 2004-05-05
+author: Jeffrey Veen
+---
+I've been talking to a lot of folks who have been through content management projects recently. It's easy to find them -- so many organizations are overwhelmed by the amount of content they're maintaining, as well as the constant influx of new stuff being added to their sites. Obviously, a robust market has sprung up attempting to alleviate these growing pains; there are hundreds of CMSs to chose from each with varying strengths and weaknesses.
+
+The surprising thing I keep hearing, though, is how often the projects fail. These companies spend obscene amounts of money and months of development only to shelve the solutions. Why is that? Where do these projects (and these software packages) fall apart?
+
+I <a href="http://www.adaptivepath.com/publications/essays/archives/000315.php">wrote about this recently</a> on the Adaptive Path Web site. And now we're taking the findings on the road. On May 21, I'll be leading <a href="http://adaptivepath.com/events/2004/chicago/">a day-long workshop</a> on how to manage your content. If you decide to sign up, save yourself 15 percent off the cost by using the discount code FOJV (for Friend of Jeff Veen, because each and every one of you are truly my dear friend). It's going to be a hands-on, interactive day. And a cocktail-filled night of networking afterwards. See you there!
+&#8203;

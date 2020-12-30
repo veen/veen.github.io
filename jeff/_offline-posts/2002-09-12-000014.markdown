@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "The Next Book You'll Read"
+date: 2002-09-12
+author: Jeffrey Veen
+---
+Jesse may be my partner now, but I've respected his work since the first time his <a href="http://jjg.net/ia/elements.pdf">user experience chart</a> (<img src="/images/icons/documents/small/pdf.gif" alt="PDF Icon" /> 17k) flashed across my screen. He's taken that nugget of an idea and worked it into a <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0735712026/qid=1031859660/hotwiredstyle">fully fleshed-out book</a>, and I suggest you keep your eyes open for it next month.
+&#8203;

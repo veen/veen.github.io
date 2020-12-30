@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Links: 2004-03-20"
+date: 2004-03-20
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.designbyfire.com/000068.html">An open letter to Jakob Nielsen</a><br />
+<span class="link-meta">"[I]t is good design that will save the world from bad design. Usability is one piece of that puzzle..." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+
+    <li><a href="http://loaf.cantbedone.org/">Loaf</a><br />
+<span class="link-meta">Loaf is a way to share your address book without abandoning your privacy. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/social">social</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+
+    <li><a href="http://synergy.wincent.com/">Synergy</a><br />
+<span class="link-meta">Remote control for iTunes (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.fastcompany.com/magazine/81/blog.html">It's A Blog World After All</a><br />
+<span class="link-meta">Fast Company on the power of blogs in business (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://creativecommons.org/license/music">Creative Commons Music Sharing License</a><br />
+<span class="link-meta">"Let your fans know they can legally download, file-share, and trade your music but not sell, or make any commercial use out of it." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://scplugin.tigris.org/">SCPlugin</a><br />
+<span class="link-meta">Allows acces to SVN and CVS commands from the Finder (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+    <li><a href="http://wiredblogs.tripod.com/sterling/index.blog?entry_id=258972">Bruce Sterling's SxSW Party</a><br />
+<span class="link-meta">I can personally vouch for a couple liters of the keg. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+  </ul>
+
+&#8203;

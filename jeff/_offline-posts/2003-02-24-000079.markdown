@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Getting Started in the Industry"
+date: 2003-02-24
+author: Jeffrey Veen
+---
+I can't tell you how many times I've been asked, "Say, how do I get started in this Web design/user experience/information architecture business, anyway?" Good question -- one which I've never really had an answer for. Now, I do. Our former intern at Adaptive Path, Marcus Haid, has written up his experiences on "<a href="http://www.adaptivepath.com/publications/essays/archives/000094.php">Starting a Career in User Experience</a>." Marcus can now be found at <a href="http://www.interfacesquared.com/">interface<sup>2</sup></a>.
+&#8203;

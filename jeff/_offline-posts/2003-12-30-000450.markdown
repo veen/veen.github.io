@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Links: 2003-12-30"
+date: 2003-12-30
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://semanticweb.forpoets.org/archives/self/foaf_flocking_and_the_semantics_of_starlings.htm">FOAF, Flocking, and the Semantics of Starlings</a><br /><span class="link-meta">A groundswell of semantic web activity by bloggers as the W3C bickers. (categories: <a href="http://del.icio.us/veen/metadata">metadata</a> <a href="http://del.icio.us/veen/semweb">semweb</a> )</span></li>
+    <li><a href="http://www.metacritic.com/film/titles/tripletsofbelleville/">Recommended movie: The Triplets of Belleville</a><br /><span class="link-meta">The story of a boy, his grandmother, his dog and his dream of winning the Tour de France. (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/movies">movies</a> )</span></li>
+    <li><a href="http://www.cspinet.org/new/200309301.html">Fresh Mex: Not Always Healthy Mex</a><br /><span class="link-meta">A "Vegitarian Burrito" has 1250 calories and 14 grams of fat. (categories: <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+    <li><a href="http://modulo26.net/daily/101603.php">Best Practices for Updating Your RSS</a><br /><span class="link-meta">How to signify that your blog entry has changed (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+    <li><a href="http://www.veen.com/leslie/">Leslie Veen: Feeling preachy</a><br /><span class="link-meta">Leslie launches her sermon archive (categories: <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+  </ul>
+
+&#8203;

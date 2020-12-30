@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Links: 2003-12-07"
+date: 2003-12-07
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://stevenf.com/mt/archives/000477.php">~stevenf: A Shared Blank Document (aftermath)</a><br /><span class="link-meta">Posted: 16:51:37 (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+    <li><a href="http://www.hchamp.com/printclub/">heather champ: print club</a><br /><span class="link-meta">Posted: 16:48:03 (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.stopdesign.com/log/2003/12/05/women.html">Stopdesign: Who/Where are the Women?</a><br /><span class="link-meta">Posted: 16:50:59 (categories: <a href="http://del.icio.us/veen/css">css</a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+    <li><a href="http://www.pcmag.com/article2/0,4149,1403731,00.asp">PC Magazine: Blogging Tools: Blog Tools</a><br /><span class="link-meta">Posted: 16:52:24 (categories: <a href="http://del.icio.us/veen/blog">blog</a> )</span></li>
+    <li><a href="http://revjim.net/item/9539/">MovableType to Blosxom conversion</a><br /><span class="link-meta">Posted: 08:41:47 (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+  </ul>
+&#8203;

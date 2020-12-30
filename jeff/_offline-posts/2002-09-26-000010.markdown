@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "The User Experience of URLs"
+date: 2002-09-26
+author: Jeffrey Veen
+---
+Jesse sports not only a new haircut and photo, but some great ideas on making the <a href="http://www.adaptivepath.com/publications/essays/archives/000058.php">addresses of your Web content more usable</a>. This is the classic example of a "quick win" -- a little hack you can make to your site that will reap untold rewards. Go do this now.
+&#8203;

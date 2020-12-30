@@ -1,0 +1,40 @@
+--- 
+layout: post
+title: "Getting Satisfied"
+date: 2007-09-18
+author: Jeffrey Veen
+---
+<a href="http://monstro.com/">Lane</a> comes bounding into the bar and doesn't even order a drink. He just sits down and starts talking.
+
+"So, we have this idea," he says to me, all excited and waving his hands.
+
+"Uh huh," I reply as casually as I can muster.
+
+"We want to replace every 'contact' page on the web."
+
+"Who is this 'we'."
+
+"Me and Thor and Amy."
+
+"Shouldn't that be 'Thor, Amy, and I?'"
+
+"PAY ATTENTION! This is a big idea. Every contact page. On the whole web. You know why? Because every time you have some problem with some company and you go to their contact page and then fill out some form or send them an email you get back that stupid 'Dear customer, thank you for your note' nonsense. Have you noticed that people post to their blogs full of wonder and amazement when they actually have some problem resolved by an ACTUAL person from some company? Shouldn't that be the STANDARD response? Should that be what people EXPECT?"
+
+"Well, sure," I say. "But companies can't keep up. So they outsource support and then I've got to deal with someone who doesn't really care about the product trying to help me by reading from a script."
+
+"YES! So what do you do then?"
+
+"Well, I don't even bother with that anymore. I do a search and look for someone else who had the problem and happened to write about how they resolved it."
+
+"AAAHHAAA!!!" People at other tables are glancing at us now. "That's it exactly! And you know the best places for that to happen? In forums. Where experts and geeks and novices all get together and swap workarounds and hacks and people build up reputations. So we'll take all the best features of these forums and let anyone make one for any product or service and let companies participate as well and even claim their products' boards. We're going to call it '<a href="http://getsatisfaction.com">Satisfaction</a>.'"
+
+"That's really cool."
+
+"I know! Will you be one of our advisors?"
+
+"I'd love to. Want a beer?"
+
+"Duh."
+
+_Congrats to the whole team at Satisfaction on announcing their <a href="http://www.techcrunch.com/2007/09/12/satisfaction-gets-13-million-to-crowdsource-your-help-desk/">funding</a> and launch last week. And while the conversation above may not perfectly match reality, the level of excitement certainly does. I can't wait to see what the team does next.
+&#8203;

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Ringtones and Torture Pictures Want to be Free"
+date: 2004-05-23
+author: Jeffrey Veen
+---
+Two stories, seemingly unrelated, caught my attention this weekend. They both represent desperate attempts to keeping digital technology from challenging the status quo. </p>
+
+<p>The first has to do with a simple application that allows the <a href="http://www.kansas.com/mld/kansas/business/technology/8685217.htm">conversion of mp3 files to ringtones</a>. That is, the bits and bytes of music are uncompressed and manipulated in such a way that you can stick it on your phone. This, of course, has any number of gigantic corporations freaking out. Ringtones represent a fairly new and only recently realized revenue stream -- one that is apparently only available to the likes of Sony, EMI, and Sprint, and then only if they can hold their precious file format sacred. That seems to me the equivalent of the 1850s New York Times fighting to ban pen and paper, though there were likely proponents of such legislation.</p>
+
+<p>The second story is far more troubling. In the face of the atrocities committed by US Soldiers guarding prisoners in Iraq, Secretary of Defense <a href="http://www.smh.com.au/articles/2004/05/23/1085250873479.html">Donald Rumsfeld has banned cameraphones</a>. _Banned cameraphones! This harkens directly to his testimony before Congress last week when he lamented the new digital world that allows anyone to effortlessly beam information from where ever they are. Restated: We're very truly sorry we got caught. We'll take steps to ensure we get away with this from now on.</p>
+
+<p>It's easy to be glib, of course, as I sit here typing on my laptop, listening to my iPod, Samsung 5300 in my pocket. And it's tempting to shake my head and think, "Stupid analogers. They just don't get how things work now." But the corporate world changes slowly compared to the Web, the government even slower, and the military slower still.</p>
+
+<p>Early in my days at Wired, <a href="http://www.links.net/vita/hw/louis/">Louis Rossetto</a> pulled me aside and gave me his "information wants to be free" speech. It always amazed me how often people completely misunderstood the point of that. They would tell me, "What, is he just going to give the magazine away then?" </p>
+
+<p>Sigh. Of course not. It simply means that secrets are very, very hard to keep. Especially when they're digital.</p>
+
+<p><strong>Update:</strong> <a href="http://www.theregister.co.uk/2004/05/25/iraq-camera_phone_ban/">Is the cameraphone story a hoax?</a>
+&#8203;

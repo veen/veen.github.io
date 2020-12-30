@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Robot Cross Stitch"
+date: 2008-07-22
+author: Jeffrey Veen
+---
+<a href="http://www.flickr.com/photos/veen/2692353169/" title="robot crossstitch by veen, on Flickr"><img src="http://farm4.static.flickr.com/3188/2692353169_3057ea1506_m.jpg" width="231" height="240" alt="robot crossstitch" style="float:left; margin-right:10px; border:solid black 1px;" /></a>This was a project I started a couple years back that I lost between moving, packing and unpacking. I found it a few days ago and finished stitching it over the weekend. It was inspired by my <a href="http://www.buildingaworld.com/store/home.php?cat=251">favorite t-shirt</a> back then.
+
+I like cross stitching for it's obvious connection to pixelated icons and images from the web. I made the pattern by grabbing a picture of the shirt, knocking out the background, and posterizing the colors down to just red, yellow, and black. Then I blew up the image 400% and added a grid to show each stitch. Now, you can just upload an image <a href="http://www.microrevolt.org/knitPro/">here</a> and have it spit out a pattern. You'll still need to spend time simplifying and sizing the source file, though.
+
+I've always liked images of robots - especially mid-20th Century anthropomorphic representations. I like that style, but I also like the metaphor. Robots represent our approach to technology and, frankly, how wrong we usually are. We had hoped to create tech in our own image, like <a href="http://www.jeffbots.com/rosie.html">Rosie</a>, the Jetson's maid who zipped around the house cleaning and cooking. We hoped that robots would enable a life of pure leisure - walking, talking butlers that do our bidding.
+
+Our present reality is far from those idealistic days, but in a way I'm grateful for that. Instead of technology serving us, we've created powerful tools that amplify our abilities. We use computers to make us smarter, the web as an outboard brain, networks to stay connected. Rather than building robots as better humans, we've used technology to become better ourselves.
+
+But that's just me at my most optimistic. The truth is I like to stitch things like this to get me _away from the damn computer. I think I'll start another project...
+&#8203;

@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Links: 2004-07-28"
+date: 2004-07-28
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.flickr.com/photos/tags/flapface/">Flickr: Photos: Flapface</a><br />
+<span class="link-meta">The power of group metadata. (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.dangerouslaboratories.org/drillhistory.html">Ruffner Brothers' Well, 1806-1808</a><br />
+<span class="link-meta">Considered to have been one of the three most important wells drilled in America. (categories: <a href="http://del.icio.us/veen/history">history</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.epinions.com/content_3353518212">The Pork Store: No Better Cure for a Sunday Morning Hangover</a><br />
+<span class="link-meta">Best. Breakfast. Ever. (categories: <a href="http://del.icio.us/veen/food">food</a> )</span></li>
+
+    <li><a href="http://www.mikeindustries.com/blog/archives/000026.php">Mike Davidson: All Hail the iPhone</a><br />
+<span class="link-meta">Will Apple finally ship a phone? Good commentary on why it will happen in 2005. (categories: <a href="http://del.icio.us/veen/gadgets">gadgets</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.rrholidayescape.com/">Rock 'N' Roll Holiday Escape!</a><br />
+<span class="link-meta">Cruise the Caribbean with Journey, REO Speedwagon, and Styx (No, seriously) (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.mcqn.net/mcfilter/archives/newmusicradio/your_personal_new_music_radio_station.html">McFilter: Your Personal New Music Radio Station</a><br />
+<span class="link-meta">More on scraping mp3 blogs (categories: <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="https://www.moveonpac.org/future/index.html">Future Soundtrack for America</a><br />
+<span class="link-meta">Go buy one now. Or go buy ten. Just go. (categories: <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+  </ul>
+
+&#8203;

@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "Charmr: Solving human problems with design"
+date: 2007-08-16
+author: Jeffrey Veen
+---
+This week in Washington DC, my former colleagues at [Adaptive Path][] are holding their annual [User Experience Week][] conference. Part of me is a little sad - this is the first one I've ever missed and was quite a labor of love when I was still with them. But another part of me is proud and inspired by what they've been showing these last few days.
+
+In particular, they unveiled the Charmr project: A 9-week research and prototyping effort inspired by an "[Open Letter to Steve Jobs][]" posted by Amy Tenderich on her [Diabetes Mine][] blog. In that letter, Amy points out that far more design effort seems to be going into devices that entertain rather than equipment that keeps people alive. In her words, 
+
+>Medical device manufacturers are stuck in a bygone era; they continue to design these products in an engineering-driven, physician-centered bubble. They have not yet grasped the concept that medical devices are also life devices, and therefore need to feel good and look good for the patients using them 24/7.
+
+Rather than waiting for a client to fund this kind of work, a small team of designers at Adaptive Path carved out a project to see what they could come up with. They talked to diabetes patients, read the literature, and investigated the current trends in technology. From this, the produced a vision prototype in the form of a video - much like Apple's [Knowledge Navigator][] or Sun's [Starfire][].
+
+Take a moment to read this [collection of blog posts][] on the Adaptive Path site and watch the video. It's really good stuff. 
+
+[Adaptive Path]: http://www.adaptivepath.com/
+[User Experience Week]: http://www.adaptivepath.com/events/2007/aug/
+[Open Letter to Steve Jobs]: http://www.diabetesmine.com/2007/04/an_open_letter_.html
+[Diabetes Mine]: http://www.diabetesmine.com/
+[Knowledge Navigator]: http://en.wikipedia.org/wiki/Knowledge_Navigator
+[Starfire]:http://asktog.com/starfire/
+[collection of blog posts]: http://www.adaptivepath.com/blog/category/charmr-project/

@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The Web 2.0 Checklist"
+date: 2005-11-22
+author: Jeffrey Veen
+---
+<a href="http://sippey.typepad.com/filtered/">Michael</a> outlines the <a href="http://msippey.tadalist.com/lists/public/155420">Web 2.0 product roadmap</a> (while proving Ta-da List a capable blogging tool).
+
+Measure Map hits 13 of 20. Not bad, considering we built our own map...
+&#8203;

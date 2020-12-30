@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Understanding Content Management"
+date: 2004-09-29
+author: Jeffrey Veen
+---
+My colleague at Adaptive Path Peter Merholz and I are heading to Boston on 13 October 2004 to conduct a full-day workshop on <a href="http://www.uie.com/events/uiconf/sessions/veen/index.php">Making Your Content Management System Work For You</a>". I've done this workshop a couple of times before, and I find that my thesis often surprises people. I tell them that content management is a _process and not a _sofware package, and that most companies don't need a CMS at all. Jared Spool, who is running the conference, asked me to do an interview for his newsletter, and in it I make the point further.
+
+<blockquote>Most often, I find that businesses don't treat their web site as a publication, especially those organizations developing standard content, such as product and service descriptions. Instead, they view their site as a software project -- a product that undergoes a development process and needs to be "released". Parts of a web site development project work this way, such as search engine upgrades. Yet, most users aren't concerned with these parts -- they are focused on the content.
+
+For example, I recently helped a company migrate to a new content management system. In my interviews with the content creators, they told me that problems, such as spelling errors and fact changes, required them to open a bug-tracking system ticket. Once the issue was report, they typically had to wait four to six weeks before the problem was "resolved." Like many companies, they consider their web site a software project and not a publication.</blockquote>
+
+The <a href="http://www.uie.com/events/uiconf/articles/veen_interview/index.php">whole interview</a> is online at UIE.com. If you're planning on attending, you can knock 15 percent of the registration price by using code JV01 when filling out <a href="https://www.uie.com/events/uiconf/register/">this form</a>.
+
+<strong>Update:</strong> John Zeratsky offers an excellent continuation of this discussion. "In the long run, good strategy tied with good content will benefit an organization in ways that software cannot." Read the <a href="http://www.johnzeratsky.com/archives/000475.php">full post</a>...
+&#8203;

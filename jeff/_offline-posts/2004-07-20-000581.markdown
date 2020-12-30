@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Links: 2004-07-20"
+date: 2004-07-20
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.readymademag.com/feature_12_macgyver.php">Make Your Own iPod Speakers</a><br />
+<span class="link-meta">Hacking with headphones and Altoids tins (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.gsoto.easynet.co.uk/fr_ride1.htm">Bicycle Ride Up l'Alpe d'Huez</a><br />
+<span class="link-meta">Climbing the famed 21 switchbacks (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://www.aamp.com/about/History1.asp">History of the American Association of Meat Processors</a><br />
+<span class="link-meta">Important innovations: "the importance of freezing food so rapidly that there would be no damage to its cellular structure (affecting taste, texture, and appearance) and freezing food in a package that could be sold directly to the consumer." (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+
+    <li><a href="http://www.cabanonpress.com/images/gallery/terrors.jpg">Our Hero Battles Twenty-Six Alphabetized Terrors</a><br />
+<span class="link-meta">...including both Robots and Sexy Robots (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://story.news.yahoo.com/news?tmpl=story&cid=2027&ncid=2027&e=1&u=/chitribts/myhowthedutchhavegrown">My, how the Dutch have grown</a><br />
+<span class="link-meta">"A new survey that measured 10,000 Dutch schoolchildren confirms their status as the world's tallest." (categories: <a href="http://del.icio.us/veen/personal">personal</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.humanbeans.net/powerpizza/">Human Beans: PowerPizza</a><br />
+<span class="link-meta">The pizza box laptop case. Anti-theft, anti-shock, anti-style (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+  </ul>
+
+&#8203;

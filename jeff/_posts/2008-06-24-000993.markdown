@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Stories we'll hear at the Start Conference"
+date: 2008-06-24
+author: Jeffrey Veen
+featured: yes
+abstract: Who we're inviting to our little gathering
+---
+One of the nice things about organizing your <a href="http://thestartconference.com/">own conference</a> is getting to choose who you want on stage. That's been particularly fun these last couple weeks as Bryan and I have been thinking about who we'd like to talk to and what we'd like them to tell us.
+
+We started with some good friends whom we've worked with and respect. <a href="http://evhead.blogspot.com/">Ev Williams</a>, for example, was an easy choice. We've known him forever, and worked on a redesign of <a href="http://blogger.com">Blogger</a> together a few years ago. We're talking to him about how his new thing, <a href="http://twitter.com/">Twitter</a>, is growing and evolving, what the challenges and opportunities are, and the lessons he's learned so far. I've had similar conversations recently with both <a href="http://ma.tt/">Matt Mullengweg</a> of <a href="http://wordpress.com/">WordPress</a> and <a href="http://www.dollarshort.org/">Mena Trott</a> of <a href="http://www.sixapart.com/">6apart</a>. Their stories have interesting parallels, but even better divergence.
+
+So, yeah, a lot of our friends are in the blogging world. But we do know a few people outside of that world. <a href="http://83degrees.com/">Julie Davidson and Narendra Rocherolle</a>, for example, are joining us to talk about their unique partnership, both in business and in life. They've built <a href="http://www.webshots.com/">Webshots</a>, one of the first photo sharing apps, as well as <a href="http://30boxes.com/">30boxes</a>, a fantastic calendar app that stands as a fantastic example of how to do the Right Thing when building on the web.
+
+On the other end of the entrepreneurial spectrum is our pal <a href="http://www.merlinmann.com/">Merlin Mann</a>. He's built a solid brand out of his productivity site <a href="http://43folders.com/">43Folders</a> and we're looking forward to talking to him about how he did that. But also, I'm particularly interested in his ideas for how small teams can find the best ways to work together and communicate with each other. Also, he is a bit, um, energetic on stage. We should have a good time.
+
+We've got a bunch more people joining us on stage - people who follow the industry, comment on it, invest in it, and help companies get started. I'll post more on them soon. I hope you can <a href="http://thestartconference.com/">join us</a>.
+&#8203;

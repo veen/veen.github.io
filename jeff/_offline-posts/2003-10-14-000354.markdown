@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Kevin's Flowers"
+date: 2003-10-14
+author: Jeffrey Veen
+---
+Years ago at HotWired, I worked with a talented designer named Kevin Lyons. As the design group thinned out through downsizing and mergers, we lost touch. Recently, a friend forwarded a link to a beautiful site Kevin created called <a href="http://www.floraphilia.com">Floraphilia.com</a>. It features his gallery of flowers from his gardened that he captured by _scanning the specimens directly. It's beautiful work, worthy of your desktop or, for that matter, your wall -- Kevin is selling prints.
+&#8203;

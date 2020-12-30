@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Politics and the Web"
+date: 2003-11-14
+author: Jeffrey Veen
+---
+It's no secret that those vying for the White House in 2004 have become much more Web savvy. Blogs, online fundraising, email newsletters -- all the typical Web marketing techniques are being employed on the candidates' Web sites. But beyond the purely strategic aspects of putting technology to use, some folks have been tracking tactical implementations. Check out this <a href="http://politicalweb.info/2004/2004.html">competitive analysis</a>, an <a href="http://www.linuxjournal.com/article.php?sid=7239">overview of server platforms</a>,  <a href="http://www.optimizationweek.com/reviews/president/">speed and accessibility analysis</a>, and <a href="http://www.amon-hen.com/index.cgi/Politics/cand_ws_pop">popularity based on inbound links</a>. Sadly, my own quick survey shows that not one of the sites validates. (But then again, neither does <a href="http://validator.w3.org/check?uri=http://veen.com/jeff/">mine</a> right now.) 
+&#8203;

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Links: 2004-01-28"
+date: 2004-01-28
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.sxswblog.com/">SXSW Community Weblog</a><br /><span class="link-meta">Back from the dead for the 2004 South-by-Southwest conference (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+    <li><a href="http://www.soxiam.com/cyclog.php">Cyclog</a><br /><span class="link-meta">Cycling blog by Soxiam (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+    <li><a href="http://www.jjeff.com/archive/000073.html">Arlo William Robbins</a><br /><span class="link-meta">the next music legend (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://newyork.craigslist.org/ofc/23123114.html">Wanted: personal social network coordinator</a><br /><span class="link-meta">Please help Jason (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.cyclingnews.com/photos/?id=2003/diaries/danielson/Danie007">Winter hill work</a><br /><span class="link-meta">Tom Danielson will do well in Europe this year if he keeps training like this. (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+<li><a href="http://superfluousbanter.org/archives/000136.php">SuperfluousBanter: Design and Usability</a><br /><span class="link-meta">"The aesthetic quality of something is intrinsically locked with how functional and usable it is" (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+    <li><a href="http://www.sitepoint.com/print/1273">Simple Tricks for More Usable Forms</a><br /><span class="link-meta">Web developers loathe the task of building forms almost as much as users loathe having to fill them in (categories: <a href="http://del.icio.us/veen/design">design</a> )</span></li>
+    <li><a href="http://www.joshcagan.com/archives/2004_01_01_index.html#107472489872543536">"Yeah, I just covered that on my blog"</a><br /><span class="link-meta">"Are you a fifteen year old GIRL?" (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.megnut.com/weblogs/007666.asp">On comments and weblogs</a><br /><span class="link-meta">Meg warns against unplanned community (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/design">design</a> )</span></li>
+    <li><a href="http://www.bombich.com/software/ccc.html">Carbon Copy Cloner</a><br /><span class="link-meta">An indespensible utility for making an exact bootable copy of your Mac OS X 10.3 drive. (categories: <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+  </ul>
+&#8203;

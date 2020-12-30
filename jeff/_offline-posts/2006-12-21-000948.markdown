@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "My favorite posts in 2006"
+date: 2006-12-21
+author: Jeffrey Veen
+---
+I was a little busy with a <a href="http://googleblog.blogspot.com/2006/02/here-comes-measure-map.html">new job</a> to do a lot of blogging this year, but I still managed to get some thoughts down here. Overall in 2006, I posted about every eight days for a total of 46 times this year. Here are five of my favorites:
+
+<ul><li><strong><a href="http://www.veen.com/jeff/archives/000899.html">rm -r *</a></strong> I wrote down a conversation I overheard and it landed me on the front page of Digg, drawing about 30,000 visitors the next day. Sometimes the most innocuous posts are the ones that really take off.</li>
+
+<li><strong><a href="http://www.veen.com/jeff/archives/000903.html">Looking back at HotWired</a></strong> When Lycos finally put HotWired to rest, I dug up all the old home page screenshots and wrote some of our experiences in creating them.</li>
+
+<li><strong><a href="http://www.veen.com/jeff/archives/000840.html">The art of the incremental redesign</a></strong> After 80 years, the New Yorker magazine still pretty much looks the same. How many of us can say the same for our web sites?</li>
+
+<li><strong><a href="http://www.veen.com/jeff/archives/000895.html">People writing on the web</a></strong> There was a lot of buzz around User Generated Content this year. I was more excited that blogging tools are evolving and maturing, and more people that ever are expressing themselves online.</li>
+
+<li><strong><a href="http://www.veen.com/jeff/archives/000919.html">Making location simple</a></strong> While I've been increasingly enamored by location-based services, it all really comes back to good design. "Give people the tools to participate effortlessly, accept that they own their data, and remember your service is just one tiny piece of a much bigger experience."</li></ul>
+&#8203;

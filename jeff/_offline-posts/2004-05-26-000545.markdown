@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Links: 2004-05-26"
+date: 2004-05-26
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.eweek.com/print_article/0,1761,a=127942,00.asp">Finding Middle Ground in Office Use of Collaboration Tools</a><br />
+<span class="link-meta">People want to get work done, IT will have none of it. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.bridger.us/2002/12/16/CrashTestingMINICooperVsFordF150">Crash Testing: MINI Cooper vs Ford F150</a><br />
+<span class="link-meta">Size matters. Small is beautiful. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://home.introweb.nl/~dodger/itunesserver.html">Setting up an iTunes server in FreeBSD</a><br />
+<span class="link-meta"> (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.bikebiz.co.uk/daily-news/article.php?id=3802">The saddle that pleasures</a><br />
+<span class="link-meta">Patent application for a vibrating bike seat. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.bicyclepaintings.com/">Bicyclepaintings.com</a><br />
+<span class="link-meta">The work of Taliah Lempert. Beautiful. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://web.wm.edu/news/index.php?id=3650">Jon Stewart's William & Mary Commencement Address</a><br />
+<span class="link-meta">"I’m not saying aim low. Not everybody can wander around in an alcoholic haze and then at 40 just, you know, decide to be president." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+
+&#8203;

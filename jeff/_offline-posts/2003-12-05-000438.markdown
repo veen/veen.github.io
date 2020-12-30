@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Links: 2003-12-05"
+date: 2003-12-05
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.smh.com.au/articles/2003/12/01/1070127346271.html">Perls of wisdom in a sea of site mismanagement</a><br /><span class="link-meta">Posted: 18:31:17 (categories: <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+    <li><a href="http://sfgate.com/cgi-bin/object.cgi?paper=gate&file=notes120503.DTL&directory=/g/a/2003/12/05&type=morford&object=/gate/pictures/2003/12/04/williamssonoma.jpg">Mark Morford writes the best captions ever</a><br /><span class="link-meta">Posted: 19:56:54 (categories: <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+    <li><a href="http://www.firstmonday.org/issues/issue7_10/harrison/index.html">Hypertext Links: Whither Thou Goest, and Why by Claire Harrison</a><br /><span class="link-meta">Posted: 20:48:02 (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/semweb">semweb</a> )</span></li>
+    <li><a href="http://www.alistapart.com/articles/customcorners/">CSS Design: Creating Custom Corners & Borders</a><br /><span class="link-meta">Posted: 17:37:14 (categories: <a href="http://del.icio.us/veen/css">css</a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+    <li><a href="http://www.nytimes.com/2003/12/04/technology/circuits/04stat.html?ex=1071205200?en=47fc7b5edbcf56b4&ei=5058&partner=IWON">Are you getting screwed?</a><br /><span class="link-meta">Posted: 17:33:06 (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+    <li><a href="http://www.noisebetweenstations.com/personal/weblogs/tinderbox/informat/webnavig/wherenav.shtml">Where Nav Meets Taxonomy</a><br /><span class="link-meta">Posted: 17:41:09 (categories: <a href="http://del.icio.us/veen/ia">ia</a> <a href="http://del.icio.us/veen/metadata">metadata</a> )</span></li>
+    <li><a href="http://www.wired.com/news/digiwood/0,1412,61427,00.html">Wired News: TunA Lets Users Fish for Music</a><br /><span class="link-meta">Posted: 11:02:57 (categories: <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+    <li><a href="http://www.wired.com/wired/archive/11.12/view.html?pg=5">When customers own the network, everyone wins</a><br /><span class="link-meta">Posted: 18:25:03 (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+  </ul>
+&#8203;

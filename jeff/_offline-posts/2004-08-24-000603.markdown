@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Links: 2004-08-24"
+date: 2004-08-24
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://jenville.com/pleasures/flor.html">Jenville: Interface FLOR Tiles</a><br />
+<span class="link-meta">Jennifer is the most creative person I know. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/people">people</a> )</span></li>
+
+    <li><a href="http://story.news.yahoo.com/news?tmpl=story&cid=519&e=20&u=/ap/bush_heckler_fired">Graphic Designer Fired After Heckling Bush</a><br />
+<span class="link-meta">Hire Glenn Hiller! Hire him today! (categories: <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.flickr.com/services/api/">Flickr API Documentation</a><br />
+<span class="link-meta">The photo-blogging service opens up everything. How long until the module makes it to CPAN? (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/standards">standards</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+
+    <li><a href="http://louisrosenfeld.com/home/bloug_archive/000286.html">Information Architecture Heuristics</a><br />
+<span class="link-meta">Lou gives us a vocabulary for explaining what's wrong with most sites. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/ia">ia</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+
+    <li><a href="http://hetima.com/safari/stand-e.html">SafariStand</a><br />
+<span class="link-meta">Plugin that adds bookmark searching, separators, and other niceties. Plus source code coloring! (categories: <a href="http://del.icio.us/veen/browsers">browsers</a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+  </ul>
+
+&#8203;

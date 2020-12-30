@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: "Crafting the perfect espresso"
+date: 2006-04-06
+author: Jeffrey Veen
+---
+Despite our many responsibilities at Google, the Measure Map team has managed to find a new obsession: the perfect espresso. <a href="http://www.fivesevensix.com/">Ryan</a> in particular has gone right over the top in his quest; having given up on drinking from paper cups, a porcelain espresso serving set showed up on his desk last week.
+
+Searching for guidance, we contacted our friend Cory for help. Cory is responsible for training baristas at a highly regarded local chain of caf&eacute;s (and not the ones with green aprons, thank you very much). We have been implementing his suggestions, tweaking variables we can control, and perfecting our technique. Here's what he had to say.
+
+<blockquote>
+You have no idea how much has been written and discussed about this very subject, but I have some numbers for you off the top of my head.
+
+<a href="http://www.flickr.com/photos/veen/124378288/" title="Photo Sharing"><img src="http://static.flickr.com/43/124378288_efbf301f86_t.jpg" width="100" height="75" alt="Dosing out the proper amount of espresso beans" style="float:left; margin: 7px;" /></a>The proper amount of ground coffee to put in the porta-filter (the thing that holds the grounds) can vary depending on what size port-filter you have. There is often an indented line about a quarter inch from the lip of the basket (on the inside). The coffee should reach up to this line AFTER it has been tamped. <br clear="all" />
+
+<a href="http://www.flickr.com/photos/veen/124379116/" title="Photo Sharing"><img src="http://static.flickr.com/37/124379116_4d863430bb_t.jpg" width="100" height="75" alt="Proper tamping takes 30lbs of pressure"  style="float:left; margin: 7px;" /></a>The correct amount of pressure (and I am not joking about this- I swear) is 30lbs. They have barista competitions where they press a tamper on a scale to see how accurately they can press. Personally I think that rule is kind of silly. A good firm tamp (no need to put your full weight into it) should be fine.<br clear="all" />
+
+<a href="http://www.flickr.com/photos/veen/124379959/" title="Photo Sharing"><img src="http://static.flickr.com/53/124379959_6a065e3c0c_t.jpg" width="100" height="75" alt="25-30 seconds. no more. no less." style="float:left; margin: 7px;" /></a>A properly tamped (and properly ground-you didn't even mention that) shot will take between 25 and 30 seconds to extract after the brew button is pressed. There should be a delay of approximately 4 seconds between the button being pressed and coffee coming out of the spout. During those 4 seconds the grounds are absorbing the water. <br clear="all" />
+
+<a href="http://www.flickr.com/photos/veen/124380316/" title="Photo Sharing"><img src="http://static.flickr.com/44/124380316_088333ea6b_t.jpg" width="100" height="75" alt="Just a thin stream of syrupy liquid" style="float:left; margin: 7px;" /></a> When the coffee does begin to flow it should be in a thin viscous stream about
+the consistency of poured oil. The final yield should be about 1 to 1.25
+oz. (a shot glass works well to check).<br clear="all" />
+</blockquote>
+
+With Cory's help, we're getting better. Maybe we'll send Ryan to the <a href="http://www.worldbaristachampionship.com/default.htm">competition in Berne this year</a>. 
+&#8203;

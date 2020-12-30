@@ -1,0 +1,36 @@
+--- 
+layout: post
+title: "Links: 2004-03-14"
+date: 2004-03-14
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://placenamehere.com/pnhtoolbar/">PNH Developer Toolbar v0.51</a><br />
+<span class="link-meta">Purely as an experiment in XUL+JS, I've created the PNH Developer Toolbar for Mozilla/Netscape browsers with tons of fun things for web developers. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/accessibility">accessibility</a> )</span></li>
+
+    <li><a href="http://ross.typepad.com/photos/album/ross.html">Butterfield & Mayfield</a><br />
+<span class="link-meta">C'mon, Stewart, just get a PowerBook already. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.monorails.org/tMspages/NMT01.html">Niles Monorail Tour</a><br />
+<span class="link-meta">They built a monorail. In their backyard. Seriously. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.liquidgeneration.com/rumormill/ipod_killing.html">Ipod Used In Domestic Homicide</a><br />
+<span class="link-meta">"A Memphis woman was arrested and charged with first-degree murder after she bludgeoned her boyfriend to death with an iPod." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/gadgets">gadgets</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+
+    <li><a href="http://www.thenation.com/doc.mhtml/?i=20040322&s=cavanagh">Toward a Progressive View on Outsourcing</a><br />
+<span class="link-meta">Developing a position that reflects a concern about the well-being of American workers and those in the countries to which many US jobs have fled (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.salon.com/tech/feature/2004/03/09/deep_web/index_np.html">In search of the deep Web</a><br />
+<span class="link-meta">Alex Wright on the next generation of search engines. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.mobagallery.org/">The Museum Of Bad Art (MOBA)</a><br />
+<span class="link-meta">Dedicated to the collection, preservation, exhibition and celebration of bad art in all its forms. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> )</span></li>
+
+    <li><a href="http://www.cpa-iraq.org/">Iraqcoalition.org: Homepage of The New Iraq</a><br />
+<span class="link-meta">View source and see what's in the meta tag. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/news">news</a> )</span></li>
+
+    <li><a href="http://www.eod.com/americanpeople/">The American People</a><br />
+<span class="link-meta">Keeping track of who’s claiming to speak for us, the American People (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+
+  </ul>
+&#8203;

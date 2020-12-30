@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "On Structure and Reuse"
+date: 2003-01-29
+author: Jeffrey Veen
+---
+Thomas Vander Wal <a href="http://www.vanderwal.net/random/entrysel.php?blog=1040">comments today on rumors</a> that Apple may be developing an answer to Microsoft Word (which would be wonderful, frankly). But Thomas takes this news as an opportunity to dig into the importance of structure, the clear win of separating it from style, and how Microsoft muddles the whole thing. I point this out mostly because I read it about an hour after delivering a 76-page report to a client. I produced this document as xHTML 1.0 Strict with minimal CSS (my source files), HTML 4.0 Transitional with fonts and tables (their corporate intranet style), Microsoft Word (for my contacts there), and Adobe PDF (to distribute and print). What happens when a change needs to be made? Make edit, copy-paste, copy-paste, print to Distiller. Yeah, yeah, it could all be scripted and automated. But that's out of scope. Why not save out of <a href="http://www.envestco2.com/macwhispers/0000009.html">Apple Document</a> and check off "Also Save As..." for the rest? Simple human-readable files created by simple standards-based tools with elegant UI. That's all I ask.
+&#8203;

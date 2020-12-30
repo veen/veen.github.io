@@ -1,0 +1,93 @@
+--- 
+layout: post
+title: "Newer isn't better by default."
+date: 2005-03-02
+author: Jeffrey Veen
+---
+<p><a href="http://www.flickr.com/photos/veen/5762307/" ><img src="http://photos6.flickr.com/5762307_850730fcb0_m.jpg" width="180" height="240" style="float:left; margin-right: 10px; margin-top: 7px; border: 1px solid black;" alt="Hateful Device" /></a>
+We live in an old (by California standards) Art Deco building, built in 1931. We love the rich architectural detail, as well as unique period-specific items -- like cupbords by the back entrance for milk deliveries, and an elevator you need to run yourself.</p>
+
+<p>But old stuff breaks. For example, the little intercom system for buzzing people into the lobby stopped working recently. It was replaced yesterday with the box pictured above. Before, we had a panel with a paper list of each name and unit Next to each entry was a small button next. Find the name, push the button, and buzzer would go off in that unit. Easy. Now, with the new computerized system, it's not at all so easy. Compare:</p>
+
+<p><strong>Old System</strong></p>
+
+<style type="text/css">
+  td {border-top: solid 1px silver;}
+  th {font-style: oblique; text-align: left;}
+.sec {width: 60px;"}
+</style>
+
+<table>
+<colgroup>
+<col style="color:red;" />
+</colgroup>
+  <tr>
+    <th style="width:60px;">Seconds</th>
+    <th style="width:320px">Step to complete</th>
+  <tr>
+  <tr>
+    <td>5</td>
+    <td>Find name on alphabetical list</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Ring buzzer</td>
+  </tr>
+ <tr>
+    <td></td>
+    <td>Wait for friend to buzz door release.</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Total</td>
+  </tr>
+</table>
+
+<p><strong>New System</strong>
+</p>
+<table>
+  <tr>
+    <th class="sec">Seconds</th>
+    <th>Step to complete</th>
+  <tr>
+  <tr>
+    <td>3</td>
+    <td>Wait for display to scroll to instructions, then press "#" for "Directory"</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Scroll through 27 entries to "Veen", evaluating each one</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wait for display to scroll to instructions, indicating "*" must be pressed to dial.</td>
+  </tr>
+ <tr>
+    <td>4</td>
+    <td>Dial extension.</td>
+  </tr>
+ <tr>
+    <td>11</td>
+    <td>Wait for system to connect to unit through phone network.</td>
+  </tr>
+<tr>
+    <td></td>
+    <td>Wait for friend to buzz door release.</td>
+  </tr>
+<tr>
+    <td>40</td>
+    <td>Total</td>
+  </tr>
+</table>
+
+<p>Crazy. There's the guy with my takeout food waiting almost a minute for me to answer the phone. My friends poking at a little green screen trying to figure out how to get in. No Caller ID? Now you need to answer the phone every single time to see if someone is knocking at the door. Bah!</p>
+
+<p>And it gets worse. We were about to get rid of the land line -- why pay for something eclipsed by mobile phones? Not now. Won't work over VoIP. I have to subscribe to call waiting now. Bah!</p>
+
+<p>I understand the efficiencies. One wire goes from the front door to the phone closet. One point of failure, rather than brittle 80-year-old wire to each unit. But at what cost? </p>
+
+<p>Sometimes the efficiency benefits of new technology eclipse the user experience. Newer isn't better by default.</p>
+
+
+
+&#8203;

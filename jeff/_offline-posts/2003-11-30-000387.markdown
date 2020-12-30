@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Simple Tools, Loosely Joined"
+date: 2003-11-30
+author: Jeffrey Veen
+---
+It was but <a href="http://www.veen.com/jeff/archives/000380.html">a week ago</a> that I toyed with the idea of collecting daily links while surfing, but ultimately felt it was too much work. That was, of course, before I discovered <a href="http://del.icio.us">del.icio.us</a>, a fascinatingly simple server-based bookmark storage system. Start by creating an account, then installing a javascript bookmarklet. Then, as you surf, you simply hit the bookmarklet when on a page you'd like to publish, enter a few category words, and you're done. del.icio.us aggregates these links, builds automatic category pages, publishes an <a href="http://del.icio.us/rss/veen">RSS</a> feed for you, and offers an evolving <a href="http://del.icio.us/doc/api">API</a>.
+
+To publish the links, I could have simply written a few lines of PHP and run them through an RSS parser (<a href="http://magpierss.sourceforge.net/">Magpie</a> being my favorite). But since my switch to <a href="http://www.movabletype.org/">MovableType</a>, I've been enamored with the simplicity of having xHTML pages across my site that I republish with each update, rather than a mixture of dynamic and static that switching back to PHP would have required. I found a <a href="http://sackheads.org/~bnaylor/xml/">solution</a> that would work, involving an MT plugin, a Perl script, and a cron job. But that seemed even more complex. The easier solution was to use a simple Javascript include that uses document.write() to keep the links fresh -- the same technique used by <a href="http://www.buzznet.com">Buzznet</a> to syndicate the "Recent Photos" further down that column. On the server side, the well-written <a href="http://chxo.com/software/feedsplitter/index.html">Feedsplitter</a> grabs my RSS, parses it, and translates to Javascript for me -- all while keeping network traffic at a minimum by caching.
+
+Simple tools, each doing one thing very well, interoperable through standards. Living the dream...
+
+<strong>Update:</strong> I wrote a quick <a href="http://veen.com/jeff/delicious-tutorial.html">tutorial</a> on how to do this yourself.
+&#8203;

@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Doug Bowman On Designing Wired News"
+date: 2002-10-13
+author: Jeffrey Veen
+---
+Netscape's Eric Meyer <a href="http://devedge.netscape.com/viewsource/2002/wired-interview/">interviews Lycos Network Design Manager Doug Bowman</a> on the how, why, and what's next of designing Wired News. You'll find lots of good ammunition of convincing people in your organization why you should be using standards to develop your Web site.
+&#8203;

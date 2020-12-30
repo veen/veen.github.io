@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Measure Map sold to Google"
+date: 2006-02-14
+author: Jeffrey Veen
+---
+Big news today: <a href="http://measuremap.com/">Measure Map</a> has been acquired by <a href="http://google.com/">Google</a>, and we're down in Mountain View getting started on everything that is to come. There will be more to say in the coming weeks, but for now you can see my post on the <a href="http://googleblog.blogspot.com/2006/02/here-comes-measure-map.html">Google Blog</a>.
+&#8203;

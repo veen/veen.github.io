@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Google Maps in Safari"
+date: 2005-02-24
+author: Jeffrey Veen
+---
+I mistakenly typed <a href="http://maps.google.com">maps.google.com</a> into Safari for what must have been the 50th time and, as of tonight, it worked. Looks like Google has been hard at work on supporting all browsers since they launched the app a few weeks ago. Awesome.
+&#8203;

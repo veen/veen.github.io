@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Getting Good Help"
+date: 2002-10-29
+author: Jeffrey Veen
+---
+Remember when every company had a staff of 50 do develop and maintain their Web sites? Not so today, of course. Now, more and more organizations are turning to vendors to satisfy their needs. But it's not always easy to develop those relationships. My friend Molly Steenson (aka <a href="http://girlwonder.com/">Girl Wonder</a>) has written a <a href="http://www.newarchitectmag.com/print/documentID=35572">clear and coherent checklist</a> for New Architect Magazine that you can use.
+&#8203;

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Making location simple"
+date: 2006-08-31
+author: Jeffrey Veen
+---
+<a href="http://www.flickr.com/map/?&user_id=35034345637@N01&fLat=37.794533&fLon=-122.400226&zl=5&min_upload_date=946713600&min_taken_date=1970-01-01%2000:00:00"><img src="http://static.flickr.com/94/230213593_d6d7a2ba74_m.jpg" width="240" height="165" alt="My photos on a map"  style="float: right; margin: 10px; border: 1px solid silver;"/></a>
+
+I've been a little embarrassed these passed few days about my complete obsession with the new mapping features in Flickr. It started with lost hours the day it came out, dragging and dropping my pictorial history with inane accuracy ("Hmmm... where was I standing in the park that day?")
+
+There has always been excitement and buzz around location-based computing, but the Hello World always had to do with <a href="http://findarticles.com/p/articles/mi_m0HWW/is_14_4/ai_73746996">Starbucks texting a coupon</a> to me as I walked by. But what Flickr has created is participatory and shows its seams through an API - two qualities that set smart web apps apart from the shovel-ware business models tries to foist every couple quarters.
+
+The participatory nature of this app isn't all that new - people have been able to "<a href="http://tailwind.wordpress.com/2006/07/30/geotagging-pictures/">geotag</a>" photos for quite a while. Rather, the innovation comes from simplicity; no copy-and-paste coordinates, just drag the picture to the spot you took it. If Flickr's <a href="http://feeds.feedburner.com/~r/Flickrblog/~3/17553027/geotagging_one_.html">claim of over a million tagged images the first 24 hours</a> is any indication, they got this one right.
+
+But simplicity isn't just interface improvements, but acknowledging the right tool for the job. One of the things that has always impressed me about the iPod, for example, is that the devices have no capacity for editing metadata, deleting or moving songs, or any of the other mundane tasks of maintaining your music library. Instead, designers at Apple moved all those tasks to iTunes, exploiting your computer's keyboard, mouse, and screen real estate. Flickr takes the same approach. They could have waited for camera manufacturers to add GPS chips or asked cameraphone users to thumb in their location. They chose, however, to exploit the fact that metadata can be added asynchronously without much penalty.
+
+Finally, by including <a href="http://groups.yahoo.com/group/yws-flickr/message/2161">a very easy to use API</a>, Flickr ensures success by giving up control. Send in a properly formatted URL and get back a list of photos - so easy even I could get it to work. I can get at my data whenever I want, do with it what I please, and inspire mashups nobody's even yet considered. Don't like Yahoo's maps? Use Google's instead. Photos near an open WiFi hotspot? Hook up to the <a href="http://www.codeplaze.com/api/whereami/">Plazes API</a>.
+
+Give people the tools to participate effortlessly, accept that they own their data, and remember your service is just one tiny piece of a much bigger experience. A simple formula for success.
+&#8203;

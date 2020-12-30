@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "rm -r *"
+date: 2006-06-27
+author: Jeffrey Veen
+---
+I was waiting for a friend in the lobby of the Hilton down at Union Square. Near me was a middle-aged woman speaking loudly into a pay phone.
+
+"Yes, yes, that's right. You've got it. Now, here's what I want you to type. 'are em' ... yes. The letter 'r' and the letter 'm', together. Now type a dash. Yes, like a hyphen. OK, and then another 'r'. Yes rm space hyphen r. OK, now another space and then a star. Shift 8. Yes. Now read it back to me. [pause] OK perfect. Hit return and tell me what happens. [pause] [pause] OK. Thank you. Goodbye."
+
+And she hung up and walked away while the command-line geek inside of me <a href="http://www.pvv.ntnu.no/~steinl/vitser/rm.html">stood paralyzed with fear</a>.
+&#8203;

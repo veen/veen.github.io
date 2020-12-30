@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Off to Chicago..."
+date: 2002-09-21
+author: Jeffrey Veen
+---
+I'm speaking today at a conference organized by my good friends at <a href="http://gospelcom.net/">Gospelcom.net</a> -- a Web-based network that provides infrastructure for nonprofit sites in the Christian Ministry sector. I'll be leading a workshop on collaborative design; a topic I've been thinking about for a while now (watch for some writing on the subject soon). Tomorrow, it's off to Grand Rapids, Michigan, to see old friends, visit my <a href="http://www.calvin.edu/">alma mater</a> (and check out the cool new <a href="http://www.calvin.edu/news/releases/2002_03/opening_pccanddcc.htm">Communications Center</a>), and pay a visit to <a href="http://www.quixtar.com/">the biggest ecommerce site you've never heard of</a>.
+&#8203;

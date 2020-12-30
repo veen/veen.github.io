@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Gigs from Mars"
+date: 2003-03-21
+author: Jeffrey Veen
+---
+How's this for ease of use? Want to add a file server to your home network? Get the <a href="http://martian.com/">Martian NetDrive Wireless</a> and follow these steps:
+
+1. Plug the power cable into the wall.
+
+Not bad, eh? The box boots up a stripped down Linux distro, grabs an IP from your home network's DHCP server, and starts talking SMB. Or, in layman's terms, you turn it on and start putting stuff on it. 
+
+This means no more big PC sucking up power all day just to trickle MP3s to my <a href="http://www.turtlebeach.com/site/products/audiotron/producthome.asp">Audiotron</a>. Also, a always-on external drive for backups. The downside? $400 for 40 gigs is a far cry away from a <a href="https://www.upgrade-solution.com/detail.cfm?show=yes&PID=308&add=yes">buck a gig</a>, which is fast becoming the storage price point.
+&#8203;

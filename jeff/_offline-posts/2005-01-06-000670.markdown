@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Links: 2005-01-06"
+date: 2005-01-06
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.giantant.com/antenna/archive/2004_12.php3#000952">Flickr as MMORPG</a><br /><span class="link-meta">Nadav wonders if the key to Flickr's success is gaming. (categories: <a href="http://del.icio.us/veen/social">social</a> <a href="http://del.icio.us/veen/games">games</a> <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+    <li><a href="http://2005.bloggies.com/">The Bloggies - 2005</a><br /><span class="link-meta">Is  "Longest Page With Most Forms" a category? (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/design">design</a> )</span></li>
+    <li><a href="http://preshrunk.info/">Preshrunk - The T-shirt Blog</a><br /><span class="link-meta">One t-shirt each day. (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/blog">blog</a> )</span></li>
+    <li><a href="http://falsepositives.blogspot.com/2005/01/folksonomies-on-slashdot-revised.html">Folksonomies on Slashdot: revised, restated and summarized</a><br /><span class="link-meta">False Positives on the state of tag-based metadata. (categories: <a href="http://del.icio.us/veen/metadata">metadata</a> )</span></li>
+    <li><a href="http://www.salon.com/tech/col/leon/2005/01/05/prize/index.html">Salon.com: Eyes on your copyrighted prize</a><br /><span class="link-meta">When does cultural access trump economic interest? (categories: <a href="http://del.icio.us/veen/copyright">copyright</a> <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+  </ul>
+&#8203;

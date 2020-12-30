@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: "Welcome back Webmonkey"
+date: 2008-05-19
+author: Jeffrey Veen
+---
+<img src="http://farm4.static.flickr.com/3030/2506822187_8854c2f0e5_t.jpg" alt="Webmonkey logo" style="float:left; margin-right: 10px; border:solid black 1px;" />
+
+Isn't it nice to get reacquainted with an old friend?
+
+This morning, the fine folks over at Wired relaunched [Webmonkey][]. Somehow, they managed to pry it out of the dying hands of Lycos and revive it as a collaborative site based on MediaWiki. I couldn't be happier to see the site come back; I've just spent a nostalgic afternoon digging through everything that's there.
+
+The original site was founded at HotWired back in 1996 by my friend [June Cohen][]. She pulled a small team together and started publishing tutorials, news, and opinions about how to make the web. They asked me to write a column, which I did for a couple years, and eventually I joined them to redesign the site. I loved that project - it was one of the first sites we built that was dynamically driven through templates rather than as static HTML files - a real separation of content and presentation. It was a big deal for us back then, and it influenced a lot of my future work. 
+
+The new site is equally dynamic, but in a much more contemporary way. As a collaborative wiki, it embraces openness in a way that really resonates with the original mission of Webmonkey. The team wrote about it in the new site's [introduction][]:
+
+>When Webmonkey debuted in 1996, the site was sort of a soapbox for HotWired's engineers and designers -- a place for them to evangelize emerging web standards, rate the newest browsers and demonstrate their bleeding-edge code hacks. Those engineers also produced stacks and stacks of tutorials on all aspects of building for the web. [...] 
+
+>Faced with the prospect of going back into the archives to continuously update and rewrite the older articles, we decided to turn Webmonkey into a collaborative project. It was an easy decision.
+
+I completely agree. And I'm thankful that we have another chapter to follow what really [looked like the end][].
+
+[Webmonkey]: http://webmonkey.com/
+[June Cohen]: http://mediahabit.typepad.com/about.html
+[introduction]: http://www.webmonkey.com/blog/Welcome_to_the_All_New_Webmonkey
+[looked like the end]: http://www.veen.com/jeff/archives/000494.html

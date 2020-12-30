@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Designing like it's 1996"
+date: 2004-10-17
+author: Jeffrey Veen
+---
+<p>From an email sent to me by PayPal:</p>
+
+<blockquote>
+<pre>&lt;pixel.gif&gt;Amount:
+&lt;pixel.gif&gt;$27.00 USD
+
+&lt;pixel.gif&gt;Subject:
+&lt;pixel.gif&gt;old 97 tix
+
+&lt;pixel.gif&gt;Note:
+&lt;pixel.gif&gt;Thanks, man.
+
+&lt;pixel.gif&gt;&lt;pixel.gif&gt;
+&lt;pixel.gif&gt;&lt;pixel.gif&gt;
+View the details of this transaction online
+</pre></blockquote>
+
+<p>I hardly write markup at all these days, but I am _still impressed with the elegance of CSS. Slowly buy surely, the <a href="http://www.dsiegel.com/damage/">misguided attempts to cram design into the tiny little boxes of the past</a> have faded away.</p>
+&#8203;

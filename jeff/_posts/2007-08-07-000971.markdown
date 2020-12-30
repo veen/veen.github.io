@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Fixing the Web"
+date: 2007-08-07
+author: Jeffrey Veen
+featured: yes
+abstract: A pre-iPhone speculation on the opportunity and risks of broadcasting our location.
+---
+The editors of xhtml.com recently invited me to participate in a series they're running titled [Fixing the Web][]. In particular, they asked, "In your opinion, what parts of the Web need to be improved or fixed in order for the Web of today to evolve into the Web of the future?" Here's how I replied:
+
+>I wish every device that was capable of talking to the network could send its geolocation. I'd like this to be fundamental -- let's send longitude and latitude in the HTTP header of every request. Let's make it as ubiquitous and accessible as the time stamp, user agent, and referring URL.
+
+>When location is assumed, we can go beyond the obvious applications of a geo-aware Web. Yes, the map application will be able to center on you when you launch it. But what else becomes possible when email knows where you were when you sent it, or a social app knows the proximity of your friends? We can't even begin to imagine what will emerge.
+
+>But what about the security and privacy implications? We've been dealing with them since the first Web sites launched. Issues with cookies, cross site scripting, and search query logs have given us precedent for enhancing rather than exploiting personal data. Giving users control of their location can learn from the same paths.
+
+>There are hurdles, to be sure. Hardware manufactures still believe access to location data should be a business opportunity, much like software companies once believed proprietary file formats would protect their bottom line.
+
+>That's a shame. The Web grew to prominence providing the "what" and knowing the "who." Let's add the "where" and see what happens next.
+
+[Fixing the Web]: http://xhtml.com/en/future/fixing-the-web-1/

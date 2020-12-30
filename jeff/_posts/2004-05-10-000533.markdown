@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "Working With Blogger is Fun"
+date: 2004-05-10
+author: Jeffrey Veen
+featured: yes
+abstract: Redesigning the earliest of socail networks
+---
+When our friends over at <a href="http://blogger.com/">Blogger</a> asked us for help with the user experience of their site, we jumped at the chance. Not only was it an exciting project with a high-profile client, but it was also an opportunity to help millions of users participate in the Web. See, since Blogger was acquired by Google, they've been getting a flood of traffic -- almost entirely consisting of users who have no idea what a blog is. We set out with a series of goals:
+
+<ul class="post-bullet"><li>How could we explain _instantly what a blog was to people who had never encountered the term?</li><li>What could we do to convince them they would even want to do this?</li><li>Would it be possible to get these new users set up with a site in just three steps and in less than five minutes?</li><li>Could the whole site feel a lot friendlier from a visual perspective, and could that design make use of Web standards?</li></ul>
+
+Well, that last issue turned out to be the easiest. I spoke to Doug Bowman of <a href="http://stopdesign.com/">Stopdesign</a> and said, "Hey, wanna do an XHTML+CSS redesign of Blogger?"
+
+His answer was, of course, "Duh."
+
+So off we went to Mountain View, figuring out which metrics to use to measure success, what technical constraints we'd be up against, what sort of research we'd be able to sneak in to the aggressive schedule, and which one of the many, many Jasons we were supposed to be collaborating with (we never did figure that last one out). And then we dove into a blur wireframes, usability tests, competitive analysis, visual directions, and more.
+
+The project was, frankly, a flat-out success. I couldn't be happier with Doug's work -- the site feels so much more accessible and engaging. But I shouldn't be surprised by that, since all his work is amazing. What is really heartening was the willingness to innovate and experiment on the part of the Blogger team. This is a group of people who are extremely invested in their product -- some of them have been there from it's creation. Not only that, but they are also recently acquired, which means a slew of new cultural and business scenarios to fit into. And it's Google, for crying out loud. They're suddenly competing for resources with some of the most brilliant people in the industry, _and being subjected to code reviews. Yet they were continuously open to all the new ideas we threw at them.
+
+Nice work, everyone.
+&#8203;

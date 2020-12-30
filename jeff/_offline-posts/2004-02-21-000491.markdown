@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "Around the World in 35 Years"
+date: 2004-02-21
+author: Jeffrey Veen
+---
+<img src="http://www.world66.com/myworld66/visitedCountries/worldmap?visited=CAUSCRSVMXDKFRDEITNLESSEUKCNJPAU" alt="Map of the countries I've visited" width="50%" /><br/>
+I've been a few places, indeed. But Africa, South America, and Eastern Asia remain elusive. <a href="http://www.world66.com/myworld66">Make your own</a>.
+&#8203;

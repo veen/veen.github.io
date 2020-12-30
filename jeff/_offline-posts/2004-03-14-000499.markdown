@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Panel Back Channel"
+date: 2004-03-14
+author: Jeffrey Veen
+---
+Two notable occurrences on yesterday's Accessibility is for Everyone panel at <a href="http://sxsw.com">SxSW</a>. First, schedule changes and a late flight conspired to create a situation where I found myself pushing a three cylinder Chevrolet up I35 at 85mph with 15 minutes before the start of the session. As it happened, I trotted up on stage and sat down just as introductions were finishing up. Took a deep breath. Started speaking. Whew.
+
+Second was the experiment I did with the back-channel. Last month, at the Emerging Technology Conference, I was struck by the enormous and active conversation happening across a variety of Rendezvous-enabled applications. So, before we started taking questions, I launched iChat and mentioned to the audience that they could ask me questions via instant message. Sure enough, up pops a window from <a href="http://a.wholelottanothing.com/">Matt Haughey</a>. Then someone else. Then another. Later, as the conversation moved to online tools, people started sending me URLs to show on the screen. It was, frankly, way cool. If you had a Mac, that is.
+&#8203;

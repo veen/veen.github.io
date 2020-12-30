@@ -1,0 +1,56 @@
+body {
+	background: white url(coast_background.jpg) no-repeat;
+	font: .7em Verdana;}
+
+.broken_browsers {
+	display: none;}
+
+
+h1 {
+	color: #909090;
+	font: normal 16pt verdana;
+	letter-spacing: -1pt;
+	margin-top: 130pt;
+	margin-right: 150pt;
+	border-bottom: solid #990000 2px;
+	text-transform : lowercase;}
+
+h2, .footnote  {
+  color: #909090;
+  font-weight: normal;
+  font-size: 1em;
+  margin: 0pt 70pt 0pt 120pt;}
+  
+p {
+  margin: 0pt 150pt 0pt 120pt;
+  text-indent: 2em;
+  line-height: 2em;}
+
+.section {
+  margin-top: 30px;}
+
+.section:first-line {
+  text-transform: uppercase;}
+
+h1, h2, p, .footnote, li {
+	margin-left: 230px;
+}
+
+.footnote {
+	margin-top: 60px;
+	font-size: .8em;}
+
+.tools {
+    margin: 20pt 0pt 20pt 170pt;}
+
+.logo {
+    margin-top: -60px;
+}
+  a {
+	color: #990000;
+	text-decoration: none;
+	}
+
+a:hover {
+	text-decoration: underline;
+}

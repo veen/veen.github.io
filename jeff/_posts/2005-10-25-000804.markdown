@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "Invitation Nation: Getting into all the new Web apps"
+date: 2005-10-25
+author: Jeffrey Veen
+featured: yes
+abstract: Asking users to sign up before a product is ready can help manage scaling -- or build hype
+---
+
+There was a time, late in 2004, when invitations to Google's Gmail service were selling for $40 on Craig's List. These days, entry into a coveted WordPress.com account comes via a "<a href="http://www.yugatech.com/blog/?p=287">Golden Ticket</a>." At the <a href="http://www.techcrunch.com/2005/10/22/thank-you-for-coming-to-our-party/">TechCrunch party</a> last week, almost every new product demoed came with the caveat that they'd be launching soon, but you can sign up for an invitation now (such as <a href="http://wink.com/">this one</a>, <a href="http://sphere.com/">this one</a>, <a href="http://synchroedit.com/account.php">this one</a>, and <a href="http://allpeers.com/download.htm">this one</a>). Why, TailRank's Kevin Burton is even <a href="http://www.feedblog.org/2005/10/20_gets_you_a_t.html">using them to finance servers</a>. 
+
+What's the deal with all these invitations?
+
+When we started planning for the launch of Measure Map, we spent a lot of time trying to estimate how it would scale. As a hosted statistics service, we would be offering to track our customer's stats as the traffic happens. In other words, every time you get a visitor, we get one too. Not an impossible task, but one that would require some careful capacity planning. The last thing we wanted was to cripple under an initial wave of popularity. Remember Friendster? It was fun the first few weeks, and virtually unusable when the next wave of new users brought the service to it's proverbial knees.
+
+Invitations seem like a way to control that initial growth. By giving out a few details of the service, a new Web application can garner some interest and build a waiting list of eager early adopters. That service can then do a nice, soft "beta" launch -- the service need not have its complete feature set, the level of service need not be totally rock solid, and the development team can experiment a little on the built-in research subjects. The first few rounds of users are getting an exclusive early look; they can put up with a few inconveniences. Seems like a balanced proposition.
+
+This seems to play well with the lower barrier to entry enjoyed by Web 2.0 apps. As JotSpot founder <a href="http://bnoopy.typepad.com/bnoopy/2005/06/its_a_great_tim.html">Joe Krause wrote</a>, "There&rsquo;s never been a better time to be an entrepreneur because it&rsquo;s never been cheaper to be one." That is, commoditized hardware, free software, and variety of other trends has taken a lot of risk out of turning ideas into shipping code. Using invitations to scale initial growth can scrub away even more risk. It's like playing a few <a href="http://www.chartattack.com/damn/2004/09/1310.cfm">secret club shows</a> before the band hits the stadium tour -- work the kinks out and get your legs under you, then go for the big time.
+
+There's a downside, of course. Invitations can seem like a cheap marketing ploy to generate unwarranted buzz. And frankly, many startups are probably using them as such. Limiting access to something new creates an artificial scarcity that exploits people's natural insecurities - wanting to be part of the in crowd who is "over ever thing you think is cool." A strategy like that will certainly backfire if not handled with openness and, as always, a firm commitment to your users' experience.
+
+So, with all that in mind, we decided to <a href="http://measuremap.com/">take reservations</a> for Measure Map's controlled, steady launch. And if you're considering doing the same with your nifty new Web app, I'll, uh, trade you for one...

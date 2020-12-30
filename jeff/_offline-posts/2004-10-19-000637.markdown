@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Links: 2004-10-19"
+date: 2004-10-19
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.davidgalbraith.org/archives/000670.html">David Galbraith: RSS is Not a Space</a><br /><span class="link-meta">It's file format. But if you're the king of all ping servers... (categories: <a href="http://del.icio.us/veen/rss">rss</a> <a href="http://del.icio.us/veen/search">search</a> <a href="http://del.icio.us/veen/standards">standards</a> )</span></li>
+    <li><a href="http://feeds.feedburner.com/sippey?m=182">Michael Sippey: Jet Blue and the Usability of Unsubscribing</a><br /><span class="link-meta">"[T]he law doesn't specify any ease-of-use requirements for the web-based opt-out process." (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+    <li><a href="http://www.wired.com/news/space/0,2697,65367,00.html">Wired News: Drawings Blamed for Genesis Crash</a><br /><span class="link-meta">Design deliverables may be why the rocket took a nose dive. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/news">news</a> )</span></li>
+    <li><a href="http://www.090978.org/2004/10/apparently-umbraco-doesnt-suck.html">Apparently Umbraco Doesn't Suck</a><br /><span class="link-meta">Open source CMS developer shows step-by-step how his product measures up to my earlier rant. (categories: <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/opensource">opensource</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+    <li><a href="http://www.theunionleader.com/articles_showa.html?article=44657">John Eisenhower: Why I will vote for John Kerry for President</a><br /><span class="link-meta">President Eisenhower's son: "Leadership involves setting a direction and building consensus, not viewing other countries as practically devoid of significance. [...] The current Republican Party leadership has confused confident leadership with hubris." (categories: <a href="http://del.icio.us/veen/news">news</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+  </ul>
+
+&#8203;

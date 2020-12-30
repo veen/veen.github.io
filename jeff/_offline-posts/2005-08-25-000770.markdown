@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Collaborating at conferences"
+date: 2005-08-25
+author: Jeffrey Veen
+---
+We did a little experiment in collaborative technology at Adaptive Path's annual User Experience Week conference. In addition to the normal printed hand-outs and CDROM full of slides, we set up a wiki and gave everybody access to it during the event.
+
+I was surprised how many people took advantage of it. You can see the array of stuff that ended up there on <a href="https://www.socialtext.net/uxweek/index.cgi">the home page</a>. It's just really cool to see <a href="https://www.socialtext.net/uxweek/index.cgi?introduction_to_ajax_new_web_technology">notes people took during sessions</a>, the <a href="https://www.socialtext.net/uxweek/index.cgi?action=weblog_display">blogs of people attending</a>, and even <a href="https://www.socialtext.net/uxweek/index.cgi?fostering_culture_change">self-organized lunch BOFs</a> and just simple <a href="https://www.socialtext.net/uxweek/index.cgi?current_shortcomings_of_web_2_0">message board-like discussion</a>.
+
+It made me wonder how this sort of connection relates to the problem of paying attention at conferences I <a href="http://www.veen.com/jeff/archives/000764.html">complained about earlier</a> here. When technologies like WiFi, portable computing, open software converge, it really can go both ways. I think that makes me optimistic.
+
+
+
+
+
+
+&#8203;

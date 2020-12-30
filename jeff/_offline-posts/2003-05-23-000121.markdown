@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Communicating through design"
+date: 2003-05-23
+author: Jeffrey Veen
+---
+<a href="http://www.amazon.com/exec/obidos/tg/detail/-/1558609237/hotwiredstyle">Mike's book</a> is doing well, which is good because there is so much important stuff in it. Have a look at this <a href="http://www.usabilitynews.com/news/article1093.asp">excerpt</a> currently running in UsabilityNews.com, in which Mike discusses the role designers have in communicating with users.
+&#8203;

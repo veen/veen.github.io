@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: "Polar Heart Rate Monitors: Gimme my data!"
+date: 2005-11-02
+author: Jeffrey Veen
+---
+I was at a sports expo this weekend -- booths of vendors set up around a marathon in San Jose, CA. As I wandered through, I noticed <a href="http://www.polarusa.com/">Polar</a>, a Scandinavian company that makes devices for monitoring an athlete's heart rate by means of a chest strap and a wristwatch. Over the years, they've developed a couple high-end systems that allow training data to be downloaded to personal computers for further analysis. As an athlete with an interest in biometrics, I stopped to chat with the sales rep.
+
+"So, when I download my data, can I export it into something usable - maybe Excel or a text file?" I asked him.
+
+"Well, sure. That's theoretically possible," he replied. "But there's really no reason you'd need to. Our software does absolutely everything you need for in-depth tracking of your workouts. In fact..."
+
+"Really?" I interrupted. "Can I geotag the data and plot exertion against my <a href="http://www.tobyk.com/maps/">favorite routes</a> on Google Maps?"
+
+"Uh, what's that now?"
+
+"Or how about auto-posting each workout through the Atom API to a <a href="http://www.slimspirited.com/">fitness blog</a> I'm thinking of starting?"
+
+"Fitness block?"
+
+"No, blog. Never mind. Does this software run on my Macintosh?"
+
+"Ah! Macintosh! We've looked at the market share numbers and..."
+
+"Ok. Thanks. See ya."
+
+I know. That wasn't fair. Polar makes great heart rate monitors. Yet, it's clear that the company's move into the software business has proven difficult for them. Not only do their devices break the USB specification, but their data formats are proprietary. What possible competitive advantage is there in denying a fervent hacking community from extending your products? 
+
+There are a few examples, notably <a href="http://www.pccoach.com/products/software/index.htm">PC Coach</a> and <a href="http://www.ismarttrain.com/">iSmartTrain</a> for the Mac. But poking through the <a href="http://www.otag.co.uk/phorum5/read.php?2,592,821#msg-821">forums</a> shows that 3rd party development has to be reverse engineered, from scratch, with each new model. And the only official word is <a href="http://www.polarusa.com/service_repair/show_faq_con.asp?ID=49">corporate marketing-speak</a> from the manufacturer.
+
+I shouldn't be surprised, really. It's just that in the bubble of tech companies I tend to patronize, this sort of behavior seems so ... immature. In the world of <a href="http://www.tivocommunity.com/tivo-vb/forumdisplay.php?s=&amp;forumid=8">Tivo</a>, <a href="http://www.asterisk.org/">Asterisk</a>, and <a href="http://www.slimdevices.com/pi_specs.html">Slim Devices</a>, embracing openness and the creativity of your audience should be at the core of any product release.
+
+I've long believed that customers of any application own the data they enter into it. What could possibly be more personal than the beating of my own heart?
+
+&#8203;

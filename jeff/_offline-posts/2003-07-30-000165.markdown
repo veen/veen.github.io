@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Buying Shoes in Portland"
+date: 2003-07-30
+author: Jeffrey Veen
+---
+_Sales Guy: That will be one hundred and twenty five dollars.
+_Jeff: One twenty five even?
+_SG: Yes.
+_J: Oh, right, no sales tax here.
+_SG: Nope. You pay what's on the tag.
+_J: Neat.
+_SG: Uh huh.
+_J: So how do you build roads and stuff?
+_SG: With asphalt and steamrollers.
+_J: ...
+_SG: ...
+_J: Higher income tax, then?
+_SG: Yeah. And the lottery. We make a lot off the lottery.
+_J: So you tax people who are bad at math?
+_SG: Exactly. Enjoy your shoes.
+_J: Bye.
+
+&#8203;

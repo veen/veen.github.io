@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "New Metric"
+date: 2003-06-24
+author: Jeffrey Veen
+---
+Passed along without comment:
+
+<a href="http://memeless.org/veen.jpg">http://memeless.org/veen.jpg</a>
+
+Actually, that's not entirely true. I do have one comment. From now on, please use <a href="http://adaptivepath.com/images/team/headshot_veen.jpg">this image</a> for all your parody needs. That's what I look like now. Thanks, kids.
+&#8203;

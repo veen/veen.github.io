@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "So much news..."
+date: 2005-08-17
+author: Jeffrey Veen
+---
+There is a lot going on, for sure, just not much time to write about it. So I'll point you in a few places, instead. 
+
+With regards to work, Peter wrote a great piece on <a href="http://www.adaptivepath.com/publications/essays/archives/000501.php">giving up control</a>, Jesse interviewed <a href="http://www.adaptivepath.com/publications/essays/archives/000519.php">Flickr's Eric Costello</a>, and one of Adaptive Path's newest practitioners Dan Saffer <a href="http://www.adaptivepath.com/publications/essays/archives/000524.php">took a swing at personas</a>.
+
+Personally, I was stoked to see the fist public mention of the product I've been building, Measure Map, show up on page three of <a href="http://www.salon.com/tech/feature/2005/08/10/37signals/index.html">this Salon article</a>, followed almost immediately and inevitably by a bit of <a href="http://businesslogs.com/big_ideas/adaptive_path_secret_project_vs_shaun_inmans_mint.php">fallout</a>. We even started <a href="http://www.measuremap.com/">taking reservations</a> for future invitations.
+
+Though to be perfectly honest, no news made me happier than the fact that my brother Greg has started <a href="http://www.veen.com/greg/archives/000767.html">shopping for his first crack pipe</a>.
+&#8203;

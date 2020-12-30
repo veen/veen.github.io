@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Interview with Brian Oberkirch"
+date: 2006-09-25
+author: Jeffrey Veen
+---
+Brian Oberkirch stopped by a couple days ago and we had a great chat about this whole "Architecture of Participation" thing, specifically what it means for doing design these days, how news organizations should have APIs for the data behind their stories, and how cool it would be to fill the whole Wikipedia with meaninful microformats. The <s>pod</s>netcast is <a href="http://www.brianoberkirch.com/?p=700">here</a>.
+&#8203;

@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Continuing the conversation"
+date: 2005-03-18
+author: Jeffrey Veen
+---
+I had a minor epiphany during a panel discussion at SxSW this week. After a lively discussion with my fellow panelists, I started taking questions from the audience. I called on someone and got the question I get at literally every session I participate in: ""Hey, this was such a great conversation, it would be a shame to see it end with this conference. We should really find a forum or listserv to keep it going!"
+
+I agree with the sentiment, of course. Why not keep like minds collaborating together after the physical event has ended. But the mechanism usually fails -- they require everyone go and do something and remember to keep doing it. With rare exceptions, these well-intentioned communities just don't take off.
+
+So I said so, but offered an alternative. "Post your thoughts on your blog. Tag it '<a href="http://www.technorati.com/tag/sxsw" rel="tag">sxsw</a>' and we'll find it and comment on our blogs." It's what Technorati founder Dave Sifry is <a href="http://www.sifry.com/alerts/archives/000270.html">always talking about</a> -- the conversation in the blogosphere.
+
+I don't know if participation would be any better if people did this. But I know I'm a lot more likely to post to my blog than to a less open community. I own my words here, and offer up no personal data to post them.
+
+That said, I offer these links to the presentations from my panelists. Please link back. Continue the conversation:
+
+Don Turnbull, University of Texas School of Information<br /><a href="http://www.ischool.utexas.edu/~donturn/solipsism-donturn.ppt">http://www.ischool.utexas.edu/~donturn/solipsism-donturn.ppt
+</a>
+
+Thomas Vander Wall, INDUS Corp.<br /><a href="http://vanderwal.net/essays/pic/sxsw2005/personalinfomgt.pdf">http://vanderwal.net/essays/pic/sxsw2005/personalinfomgt.pdf</a>
+
+Tantek &Ccedil;elik, Technorati<br /><a href="http://tantek.com/presentations/2005/03/leveragingtags.html">http://tantek.com/presentations/2005/03/leveragingtags.html</a>
+
+Me, Adaptive Path<br /><a href="http://adaptivepath.com/events/sxsw/solipsism.pdf">http://adaptivepath.com/events/sxsw/solipsism.pdf</a>
+&#8203;

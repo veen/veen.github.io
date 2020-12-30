@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Defining What We Do"
+date: 2002-10-11
+author: Jeffrey Veen
+---
+It seems we're never quite done when it comes to developing definitions for our vocabulary in this industry. I'm getting kind of tired of the debate, frankly -- I'd rather focus on <i>how</i> to do this stuff, <i>when</i> it's appropriate, and <i>why</i> it's important at all. That said, I was impressed by Peter's comments in the latest <a href="http://www.digital-web.com/interviews/interview_2002-10.shtml">Digital Web Magazine</a>. Meryl interviewed him along with old friend Nathan Shedroff on the subject of what, exactly, do we mean when we talk about User Centered design.
+&#8203;

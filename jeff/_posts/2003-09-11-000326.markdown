@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Why the Telecom Industry Will Fail"
+date: 2003-09-11
+author: Jeffrey Veen
+featured: yes
+abstract: We have a right to the content we create, regardless of the hardware we chose to use
+---
+I've been using a Treo 300 for about a year now -- mostly as an extremely large and awkward phone with a couple of interesting PIM features. On a handful of occasions, I've connected to the Sprint PCS Vision service (a marketing term referring to the company's 3G implementation). In fact, I even wrote about the future wireless Web for New Architect Magazine based on my experiences with that brick.
+
+Well, my Treo is now in a  Washington DC taxi company's lost-n-found. Or somewhere. After calling it for a couple of days, I finally gave in and headed to the Sprint PCS store in the famed Flatiron Building in Manhattan. The timing was awkward for a new mobile purchase, since I was starting to think about upgrading to the Treo 600, but that doesn't appear to be out for another few weeks. So I grabbed a Sanyo 5300 -- enamored by it's form factor and camera.
+
+What I didn't realize was that I really wasn't buying a camera. What I was buying was the opportunity to subscribe to their "PictureMail" service. Additionally, without the service, I would have no way of getting photos off the phone. Once you snap a picture, I have the options of saving the image to something called my "wallet" -- a limited storage space on the handset. I can also upload the photo to the Sprint Web site. Or, I can "share" the image with anyone with an email address. This, I thought, was the coolest. I could take pictures whenever I wanted and email them to myself or friends.
+
+And you can. Sort of.
+
+Emailing a photo isn't what you would think. Rather than sending an email with a MIME attachment, the image is again sent to the Sprint PictureMail site, and an HTML email is sent including an IMG tag that call in the picture from the Web site. So rather than delivering the image, Sprint just places it on a public Web site -- no authentication, encryption, or other security measures. So when I took a picture of a whiteboard at a client meeting the other day, all that proprietary information was moved to a Web site owned by a giant telecom.
+
+I know, I know. It's the same as the actual phone service -- you buy a handset and it's worthless without the contract. But it's worth pointing out that there was no mention of this system whatsoever in the Sprint marketing. No asterisk point to small print. Just a camera that allows you to share pictures. And even that wasn't so bad, until I read the Terms of Service, in which Sprint reserves the rights to:
+
+  - Cancel the service at anytime, deleting all my images.
+  - Deleting my images at any time for any other reason.
+  - Canceling my account if I take any images that are, "obscene, slanderous, derogatory, or violating the intellectual property of copyrighted material, at the sole discression of Sprint or their agents."
+
+Now, I'm pretty sure there aren't any controls over the content of my speech when communicating over their voice service. Additionally, if anyone affiliated with Sprint were to eavesdrop on my conversations, they could only do so with express permission from me and the party with whom I was speaking. Anything else is a violation of privacy.
+
+Why is the camera different? Why can't I use it for whatever purpose I see fit? Why is any of this Sprint's business at all?
+
+The telecommunications carriers continue their misguided attempts to own not only infrastructure, but content as well. In fact, most attempts to pair the two have already proven unsuccessful (see also: AOL, WEP, Interactive TV, et al). 
+
+There are countless business opportunities when you just let people to communicate, collaborate, and publish as they see fit. There are few when you try to control the whole channel.

@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Links: 2004-03-25"
+date: 2004-03-25
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://daringfireball.net/projects/markdown/">Markdown</a><br />
+<span class="link-meta">allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/accessibility">accessibility</a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://www.designobserver.com/archives/000121.html">Top Ten Things They Never Taught Me in Design School</a><br />
+<span class="link-meta">Design is not magic. It is common sense. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+
+    <li><a href="http://whatdoiknow.org/archives/001601.shtml">OS X Software: Quicksilver</a><br />
+<span class="link-meta">Todd Dominey reviews a utility you didn't know you couldn't live without. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/mac">mac</a> )</span></li>
+
+    <li><a href="http://www.washingtonmonthly.com/features/2004/0401.florida.html"> "Creative Class War" by Richard Florida</a><br />
+<span class="link-meta">Over the last few years, as the conservative movement in the U.S. has become more entrenched, many people I know are looking for better lives in Canada, Europe, and Australia." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.waxy.org/archive/2004/03/21/infocomb.shtml">InfocomBot for AOL Instant Messenger</a><br />
+<span class="link-meta">ohmygosh! Andy hacked all my favorite Infocom text adventures into an AIMBot (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> )</span></li>
+
+    <li><a href="http://jenville.com/adventures/sxsw04/02.html">Arlo Goes to SXSW 2004</a><br />
+<span class="link-meta">Hanging out with my new best friend. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/personal">personal</a> )</span></li>
+
+  </ul>
+
+&#8203;

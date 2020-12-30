@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "BayCHI and UX Business"
+date: 2003-11-24
+author: Jeffrey Veen
+---
+If you're in the San Francisco Bay Area on 9 December, come see Adaptive Path's business strategist <a href="http://adaptivepath.com/team/scott.php">Scott Hirsch</a> at BayCHI. The panel is titled, "<a href="http://www.baychi.org/program/">The Business of User Experience</a>," and includes speakers from both Yahoo and eBay.
+&#8203;

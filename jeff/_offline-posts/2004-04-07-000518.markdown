@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Editorial vs. Advertising"
+date: 2004-04-07
+author: Jeffrey Veen
+---
+I did a lot of work on integrating advertising into content sites back when I was at HotWired. We were inherently an editorial organization, and there was a pretty strict separation between content and ads. But we fought a constant battle with the sales department, especially in the later years when the bottom fell out of the banner market. They would perpetually lobby for a few more pixels here and there -- a new unit on the home page, a couple more "sponsored links" on the results page. It was, frankly, exhausting.
+
+Later, after we were acquired by Lycos, I pretty much gave up. They were a marketing-driven company, and were publicly traded. They had no heuristics for the sanctity of editorial and we often found ourselves being ordered to do atrocious -- frequently downright deceptive -- design treatments to ensure ads were getting the appropriate amount of clickthrough. Mostly, this came towards the end of each quarter, as executives desperately tried to book enough revenue for the quarterly report to shareholders. I finally realized that I'd be unable to do much good work there, and left the company.
+
+I bring this up because I still clearly have issues with poorly-executed advertising. It's been heartening to see Google's unwavering dedication to user-centered, relevant, and minimal advertising. But recently, when following a link to a PC Magazine article, I was stopped in my tracks by what must be the most egregious abuse of advertising I've ever seen. Back in my days as a newspaper guy, we generally had a 60/40 split between ads and copy. What do you think pcmag.com's numbers are? I've highlighted the "story" I was after in the image below:
+
+<a href="http://www.pcmag.com/article2/0,1759,1555181,00.asp"><img src="/jeff/images/pcmag.jpg" alt="Advertising run amok at pcmag.com" /></a>
+&#8203;

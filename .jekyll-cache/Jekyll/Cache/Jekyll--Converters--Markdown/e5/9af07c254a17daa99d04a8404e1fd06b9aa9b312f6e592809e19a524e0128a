@@ -1,0 +1,12 @@
+I"
+<p>We’ve been developing features very iteratively with <a href="http://measuremap.com/">Measure Map</a>. That is, we’ll boil a feature down to it’s essence, work on it until we’ve got it solid, and then launch it once that simple core is ready. Then we’ll continue to develop “versions” of that feature, adding enhancements and launching them quickly, rather than waiting until something is “feature complete” – and bloated with stuff nobody wants. It’s really <a href="http://getreal.37signals.com/">not all that innovative</a> of a development process, but keeping scope strictly in check and launching new stuff frequently has really helped keep momentum up both with the team and our users.</p>
+
+<p>The reason I mention this is because we’re currently revisiting our browser stats in the application, and it’s a really good example of the process. We started with one simple screen: what percentage of your users visited with IE, Firefox, Safari, or “Other” – along with a way to change the date range being viewed.</p>
+
+<p><a href="http://www.flickr.com/photos/veen/91224276/"><img src="http://static.flickr.com/41/91224276_9fc971dd91.jpg" width="500" height="144" alt="Half Firefox" /></a></p>
+
+<p>Pretty basic, admittedly. But also a useful introduction to users not that familiar with analytics, and probably an easier initiation than a list of hundreds of user agents. So we constrained the feature and launched it rock solid, and are now revisiting it. First step? Drill down into each browser to see gains and losses per version – especially important now that Firefox 1.5 is gaining adoption. After that? We’ll probably show browser share for each post on your blog, or even per link to your blog. So, for example, you could see that when you write about open source, and SlashDot links to you, the resulting audience is 87% Firefox. Neat!</p>
+
+<p>The other obvious benefit of iterative feature development is the ability to do course changes. As we create and launch new features, we do so with a better and better understanding of what resonates with our users. So many of our current design decisions have been influenced by feedback on the early, simple features. So when we circle back to those features, we can do so with more confidence. That’s a nice way to manage risk – we can avoid spending thousands of hours developing features that were poorly conceived. It’s a way of testing the waters, and is yet another reason I’d rather be developing a Web app than a piece of shrink-wrapped software.</p>
+
+:ET

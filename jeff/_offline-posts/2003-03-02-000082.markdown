@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Mac Update: Web Development"
+date: 2003-03-02
+author: Jeffrey Veen
+---
+I left the Macintosh in 1997 presicely because I was falling behind the cutting edge when it came to Web development. Web technology like browsers and plugins were arriving months late on the Mac, if at all. Integration with the industry standard open source tools was barely happening. Just think: it wasn't that long ago that your only option for serving content from a Mac was WebStar and FileMaker.</p>
+
+<p>Now that I'm back and using Jaguar, I've installed the latest sources of PHP, MySQL, Perl 5.8, and CVS. BBedit is a dream, offering the ability to pipe from the command line, run scripts in the terminal, and integrate with CVS seemlessly. A couple of my partners have joined me. We're now, oh, I don't know, about a billion times more efficient. Some good links:
+<ul><li><a href="http://developer.apple.com/internet/macosx/cvsoverview.html">Version Control with Mac OS X</a></li>
+<li>All of Marc Liyanage's <a href="http://www.entropy.ch/software/welcome.html">packages</a></li>
+<li>O'Reilley's <a href="http://www.macdevcenter.com">MacDev Center</a></li>
+<li><a href="http://www.barebones.com/">BareBones Software</a></li>
+<li><a href="http://saladwithsteve.com/osx/">Forwarding Address: Mac OS X</a></li></ul>
+&#8203;

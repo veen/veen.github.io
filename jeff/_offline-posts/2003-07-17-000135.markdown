@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "xHTML Strict, PDX, Pillars, and Pavement"
+date: 2003-07-17
+author: Jeffrey Veen
+---
+So much happening lately, I've not had a chance to bring this site up to date. We've relaunched <a href="http://adaptivepath.com/">adaptivepath.com</a> by exploiting the remarkable talent of Doug Bowman, principle of <a href="http://stopdesign.com/">Stopdesign</a>. Pretty much the whole dang thing validates as XHTML Strict + CSS, and the only tables you'll find are the ones filled with, well, tabular data.
+
+While Lane, Doug, <a href="http://www.jayallen.org/">Jay Allen</a>, and I were desparately hacking away at the site, <a href="http://jjg.net/">Jesse</a> was busy redefining our disciplin again with a <a href="">new chart</a>, this time reflecting on what roles and responsibilities are needed to effectively produce Web stuff. Read the <a href="http://adaptivepath.com/publications/essays/archives/000242.php">Nine Pillars of Successful Web Teams</a>, the latest essay on the Adaptive Path site.
+
+And, just as I catch my breath, we're off to Portland, OR, for the <a href="http://www.webvisionsevent.com/home/home.php">WebVisions Conference</a>. I'm very much looking forward to this weekend. Not only does the event look to be entertaining and inspiring, but PDX is one of my favorite cities in North America. Livable, progressive, beautiful. And looks like we'll be walking around in shirtsleeves with temps in the 80s.
+
+Finally, I've been fretting over whether or not to post about the last couple stages of Le Tour. It has been, without a doubt, the most strategic, terrifying, and exhilarating cycling I've ever seen. Postal is so strong, but Lance has had off days. Alp d'Huez was an <a href="http://www.velonews.com/images/details/4505.5411.f.jpg">epic battle</a>. The descent to Gap was among the most brutal things I've ever watched on television. Beloki <a href="http://velonews.com/images/details/4520.5461.f.jpg">wailing on the pavement</a> with a broken femur and shattered elbow. Lance rocketing over the edge of the road, bouncing through a corn field, jumping a ditch, and remounting. Vinokourov wining <cite>another</cite> for his fallen friend.
+
+I don't know how much of this I can take.
+&#8203;

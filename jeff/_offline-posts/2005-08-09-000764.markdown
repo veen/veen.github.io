@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Is anyone listening? WiFi and the new ADD"
+date: 2005-08-09
+author: Jeffrey Veen
+---
+I like being connected. I like being able to just open up my laptop and start communicating - catch up on email, stay current with my project, say hi to friends. I don't like being offline, wondering what's going on. I like to have the choice.
+
+I also go to a lot of conferences. Since they are technology-related events, they almost all have WiFi open for attendees to use. It makes sense, really, since it's just a matter of a cheap router plugged into the venue's network. Some conferences are even starting to lay down power strips in the rooms. So I sit down, plug in, log on. Great!
+
+All of this is fine until I get up on the stage, because I also _speak at a lot of events. Recently, I've been finding myself speaking to rooms full of attendees with heads down and typing. At first, I was happy to assume people taking were notes or blogging the event. But my recent informal surveys as an attendee (that is, looking around at screens) shows me that most folks are buried in email, feed readers, and various web-surfing activities. 
+
+This was most apparent at a recent presentation I gave in which someone from the audience asked a question almost verbatim to one asked just five minutes before. There was a bit of nervous laughter, and I tried to be graceful, but it appears that a lot of the events I'm attending are suffering from overall attention deficit.
+
+The problem isn't limited to conferences -- not at all. Portable computing and ubiquitous connectivity are starting to affect how meetings are being conducted in companies, too. Linda Stone of Microsoft gave an excellent presentation at this year's Supernova conference that was well covered by <a href="http://radar.oreilly.com/archives/2005/06/supernova_2005_2.html">O'Rielly Radar</a> and virtually plagiarized by someone on <a href="http://www.microsoft.com/smallbusiness/resources/technology/hardware/7_rules_for_using_laptops_in_meetings.mspx">Microsoft's Small Business site</a>. Her point: Be aware of why you're some place, communicate that, and use technology accordingly.
+
+Clearly, laptops in conference sessions are a mixed blessing. While attention suffers, there are many benefits -- some we're only starting to explore. During a panel discussion at <a href="http://2005.sxsw.com/">South by Southwest</a>, I told my audience to IM questions to me if they found the microphone intimidating. Many did. It was cool. I've also seen speakers offer up URLs for the demos they're showing, encouraging the crowd to play along and ask questions as they go. 
+
+And finally, there is the reality of needing to be connected. As danah boyd <a href="http://www.zephoria.org/thoughts/archives/2005/03/08/fuck_the_sxsw_etiquette_guide.html">realized earlier this year</a>, she sometimes _needs to be in two places at once:
+
+<blockquote>No, i'm not going to be 100% present at SXSW but if that's what's required to go, than i can't go. I figure it's better to be 60% there than not at all. I'll still be goofing around in the hallways, meeting new people and rekindling relationships with old friends who i wouldn't see otherwise. </blockquote>
+
+So what's the best solution? Should conference planners make WiFi available in the halls but not the session rooms? Should the net be down during conference time, but up on breaks? Maybe it's similar to mobile phone etiquette 10 years ago -- we all learned not to answer at the restaurant and to silence the thing in the theater. Maybe people will pay attention when they should, because not doing so is just, well, embarrassing.
+&#8203;

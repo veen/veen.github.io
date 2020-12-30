@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Drafts: What's in your folder of shame?"
+date: 2005-11-06
+author: Jeffrey Veen
+---
+The other day, <a href="http://www.blackbeltjones.com/">Matt Jones</a> and I were chatting about what we _haven't written on our blogs. Turns out we both are in the habit of starting posts, writing a paragraph or two, and then trailing off. We started comparing the lingering headlines in our "Drafts" folder, or as Matt calls it, <a href="http://www.blackbeltjones.com/work/?p=1248">The Folder of Shame</a>:
+
+<blockquote>The things where you&rsquo;ve just thought of the title, but written nothing to back it up? The momentary points of self-deluded genius that in the cold light of day you thought better of?</blockquote>
+
+So I took a deep breath, opened up my Drafts, and had a look. Sure enough, an accurate record of interesting ideas that never really existed:
+
+<ul>
+<li>Cyclical Optimism and the "New" Internet</li>
+<li>Content Types in Blog Tools</li>
+<li>54x11</li>
+<li>Process and Stupidity</li>
+<li>How often should you post?</li>
+<li>Not Synonyms</li>
+<li>The Experience of Time</li>
+<li>Why is checked luggage so hard?</li>
+<li>Self-centered design</li>
+<li>Someone is reading your feed</li>
+<li>Bending Towards Our Users</li>
+</ul>
+
+So what's in _your Drafts folder?
+&#8203;

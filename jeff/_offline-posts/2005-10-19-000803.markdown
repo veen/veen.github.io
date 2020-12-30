@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Banana Republic designs for Web 1.0"
+date: 2005-10-19
+author: Jeffrey Veen
+---
+<a href="http://www.flickr.com/photos/veen/54179868/" title="Photo Sharing"><img src="http://static.flickr.com/33/54179868_25dcfca579.jpg" width="500" height="230" alt="Banana Republic's web site in Safari 2.0" style="border: 1px solid black;" /></a>
+
+I had almost forgotten about the "browser wars" of years past, when publishers aligned themselves with rendering engines, and forbade their audience from entering without a "modern" browser. That all seems so quaint in hindsight - as if ESPN would do a deal with Sony so that SportsCenter was only viewable on a Wega monitor. Or something.
+
+Yet I was whisked back to those annoyingly naive times today when I visited <a href="http://www.bananarepublic.com/">Banana Republic</a>'s newly redesigned site with Safari. I was ready to drop some cash on a few shirts (they've got a great line of tall sizes for freaks like me) when I was barred from entering -- as if they'd hired a bouncer with a velvet rope. Apparently, they've gone all Ajaxy with shopping carts that slide into the page. All quite nice, I'm sure, but I'm not going to switch browsers just to be their customer. Would you?
+
+I would have thought that a savvy retailer like the Gap (who owns BR) would understand the <a href="http://www.adaptivepath.com/publications/essays/archives/000266.php">business value of web standards</a>. After all, Safari may only be a couple of percentage points, but can you really afford to take even that out of your profit margin? 
+
+The biggest irony: I couldn't complain. Even the Customer Service link is off limits to my browser of choice. Oh well...
+
+<strong>Update:</strong> The redirect page on their site now reports, "We're working on supporting Safari. Please check back soon." And this humble post now ranks #5 for the query "<a href="http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;q=%22banana+republic%22&amp;btnG=Search">Banana Republic</a>" on Google.
+&#8203;

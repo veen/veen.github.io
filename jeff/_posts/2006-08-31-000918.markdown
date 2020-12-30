@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Values and client work"
+date: 2006-08-31
+author: Jeffrey Veen
+featured: yes
+abstract: Finding an ethical standard to decide what work we take on
+---
+A friend and I were speaking recently about the ethics of freelance work - what criteria should we use to evaluate potential projects? 
+
+In this case, my friend was worried that a new project with a high-profile client might appear to be a conflict of interest. The client assured (and even preferred) anonymity. But what would people think if they did find out? Would taking the job affect his reputation? 
+
+His questions caused me to think of how we handled these issues at Adaptive Path. Even before we landed our first client, we talked a lot about our values toward the work we'd take.
+
+Eventually, we came up with a simple set of criteria. When someone would approach us with work, we'd think about it this way:
+
+*The point of any project is 
+- make the world better for people who use the client's product
+- learn from the project, and share that knowledge
+- get paid*
+
+The key, we realized, was to try to keep those values in _that order. So we'd evaluate any new project on these criteria to see if we'd actually be in an environment where we could successfully see good design get implemented (first case), be proud of the work and get explicit approval to talk about it in case studies and presentations (second case), and then sell and sell until we got every dime we could from them (third case).
+
+So even when the economy was shit and we were scraping to buy a laser printer, we still used these steps to consciously make decisions about the work we were taking. Some times two out of three was OK. "Well, they want us to be very quiet, but it's important work and they're rich." or "We really believe in this, and it's a big meaty project. Let's take <a href="http://www.eff.org/">this one</a> pro bono since we have the availability."
+
+The realities of day-to-day business are often at odds with values like this. But sometimes cold, hard reality presents us with difficult choices. Those are the times when it's good to have at least figured out what you would ideally do, and agree with everyone you work with. Because when the work is done, your reputation is the thing that you'll have to live with.
+
+

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "Ethical Blogging (or, I think you should buy this t-shirt)"
+date: 2006-02-11
+author: Jeffrey Veen
+---
+<img src="http://veen.com/jeff/images/hybrid_sm.jpg" alt="A t-shirt from Mule Design" style="float:left;" />
+
+The debate over the journalistic standards of bloggers is not new; it pops up with enough frequency to keep me optimistic about the future of amateur publishing on the Web. If people feel this strongly about the influence blogs are having on media and the world, well ... then, blogs must actually be gaining some influence. I'm a fan of citizen journalism. That makes me happy.
+
+There was a good example being linked to heavily last week. Robert Scoble, an evangelist for Microsoft and nearly-ubiquitous blogger, found himself in yet <a href="http://scobleizer.wordpress.com/2006/02/11/google-domains-going-after-outlook-msn-did-that-months-ago/">another debate over blogging ethics</a>. How can you possibly publish objectively about the company that pays your salary? The obvious answer is, "You can't." And the obvious solution to that dilemma has been Scoble's fairly consistent record of disclosure. It's pretty hard to read his posts and _not know he works for Microsoft. 
+
+Ultimately, if you're going to advocate for something in any public forum, you need to come clean. 
+
+Let me give you another example. Last week, my friend <a href="http://flickr.com/photos/37996612733@N01/91921086/">Erika</a>, who works at <a href="http://muledesign.com/">Mule Design</a>, gave me a t-shirt they had recently produced. It depicts a set of mules pulling a giant SUV as two men sit on its roof with the reigns. In big letters behind them is spelled out HYBRID. "It's funny!" I told her. "How much are they?"
+
+"Aw, take it," she replied. "Just blog about it or something."
+
+So there you go. Full disclosure. And you can buy yours <a href="http://store.muledesign.com/shirts/hybrid.php">here</a>.
+
+_<strong>Update:</strong> I rewrote this post on 12 February 2006 to remove an example of ethical blogging reported in the Wall Street Journal, about Spanish start-up FON. After reflecting on the controversy behind that story, I felt it was no longer relevant. See David Weinberger's <a href="http://www.hyperorg.com/blogger/mtarchive/wsj_on_fon_disclosure_and_my_f.html">analysis</a> of the issue.
+&#8203;

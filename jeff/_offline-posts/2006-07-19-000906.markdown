@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: "Is Ajax ready for prime time?"
+date: 2006-07-19
+author: Jeffrey Veen
+---
+Yahoo has launched a redesign of their <a href="http://www.yahoo.com/">homepage</a> recently, making ambitious use of Ajax-inspired design techniques and technologies. As Dan Saffer noted on the <a href="http://www.adaptivepath.com/blog/2006/07/17/new-yahoo-homepage/">Adaptive Path blog</a>, "People like my parents, who have never used Google Maps or shopped at The Gap online, much less used hipster sites like Flickr, will now be exposed to what can now be done online."
+
+This feels like a relatively big step in the evolution of what is possible to achieve with web interfaces. Not that these simple interactions and browser-based technologies are particularly new - the effects on the Yahoo! page could have been produced years ago. Rather, it will help a far broader set of people become accustomed to a new set of expectations for the sites they use every day. (Well, unless they use Safari. Yahoo is still serving the old home page for those users.)
+
+Perhaps more interesting, though, is the technological precedent being set. Much like Doug Bowman's <a href="http://stopdesign.com/portfolio/web_interface/wired_news.html">standards-based redesign of Wired News</a> years ago, Ajax at Yahoo may signal to conservative IT managers that it's finally ok to loosen the reigns a bit. This technology is in the hands of the majority of users. Let's use it!
+
+It can be so frustrating for designers trying to push an agenda of simplicity and ease of use to be thwarted by developers unwilling to experiment with what's possible today. Of course, the converse is just as true - slow-adopting designers can drag even the most innovative team down. The fact is, a rational process is driven more by personality and emotion than most of us ever acknowledge.
+
+I saw this play out recently at <a href="http://www.ifilm.com/?htv=12">ifilm.com</a>. I'd been using their Ajax-enabled single screen registration interface as an example of excellent design. See the video below for an example of how the system would query the database to see if a username was taken without having to ever leave the page. So nice...
+
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/tj8TpTGGGFI"></param><embed src="http://www.youtube.com/v/tj8TpTGGGFI" type="application/x-shockwave-flash" width="600" height="350"></embed></object>
+
+However, returning a few weeks ago, I found the interactive parts all stripped out; ifilm was now sporting standard click-and-navigate style error checking.
+
+I asked a friend who works there what had happened. Why had they taken the efficient and delightful interface away? "An engineer was concerned with performance - too many database hits."
+
+_Sigh. I'm sure that developer was entirely right. I'm sure the better user experience was more expensive. But when balancing user needs with business goals and technological constraints, priorities need to be set in a collaborative and holistic way. It's something I try to keep in mind whenever I find myself being obstinate.
+&#8203;

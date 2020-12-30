@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Millionaires Making People Smile"
+date: 2004-10-06
+author: Jeffrey Veen
+---
+There was a panel at the <a href="http://www.web2con.com/">Web2.0</a> conference today discussing the music business, and the implications of current digital trends on that industry. There was a guy from the Atlantic Records, another guy from Apple who works with iTunes, Michael&#160;Weiss, the CEO of <a href="http://streamcast.com/">Streamcast</a> (who makes the p2p app Morpheus), and <a href="http://www.djdangermouse.com/">DJ Danger Mouse</a>, of "<a href="http://www.illegal-art.org/audio/grey.html">Grey Album</a>" fame.
+
+There was a bunch of pretty uninspired discussion about copyright and how hard it is for everyone to make money, and how stuff is getting stolen all the time and how can we protect it? But Danger Mouse stole the show. I wrote down a couple of quotes from him, including this response to why creating new work out of old work has taken off so quickly.
+
+<blockquote>Mashing is so easy. It takes years to learn how to play the guitar and write your own songs. It takes a few weeks of practice with turntable to make people dance and smile. It takes a few hours to crank out something good with some software. So with such a low barrier to entry, everyone jumps in and starts immediately being creative. I don't understand why that is illegal.</blockquote>
+
+Then, at the end of the panel, someone asked why nobody was trying to solve the hard problems. There are tremendous fortunes to be made and lost, and those behind them are destroying democracy and technology to ensure the cash gets protected. Who, ultimately, is responsible?
+
+<blockquote>Artists are responsible, because for some reason we think we should be millionaires for making people smile. But I don't  worry too much, because it will be over soon. There won't be a market for making people smile because kids will just do it for free.</blockquote>
+&#8203;

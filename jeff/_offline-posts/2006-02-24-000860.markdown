@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "The \"wood\" anniversary"
+date: 2006-02-24
+author: Jeffrey Veen
+---
+Will you be in or around San Francisco on Thursday? Do you like tacos?
+
+Adaptive Path is turning 5 years old on 2 March 2006 and we're bringing back the infamous [Taco Truck][] from last year. And even if I'm officially [alumni][] now, I'll still happily buy you a beer.
+
+Details are [here][].
+
+
+[Taco Truck]: http://www.flickr.com/photos/peterme/7401955/
+[alumni]: http://www.adaptivepath.com/aboutus/veen.php
+[here]: http://upcoming.org/event/56540/

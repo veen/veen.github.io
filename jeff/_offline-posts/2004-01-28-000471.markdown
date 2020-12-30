@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Big In Japan"
+date: 2004-01-28
+author: Jeffrey Veen
+---
+The volunteers are working overtime on the <a href="http://aifia.org/translations/">AIFIA Translations Initiative</a> -- an effort established to bring Information Architecture articles to a global audience. My recent article on "<a href="http://adaptivepath.com/publications/essays/archives/000266.php">The Business Value of Web Standards</a>" is now available in <a href="http://aifia.org/ja/translations/000241.html">Japanese</a>. So is <a href="http://aifia.org/ja/translations/000298.html">Peter and Scott's review</a> of NNG's ROI study, which originally ran on <a href="http://www.boxesandarrows.com/archives/report_review_nielsennorman_groups_usability_return_on_investment.php">Boxes and Arrows</a>.
+&#8203;

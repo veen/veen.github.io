@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Newspapers Don't Have To Suck"
+date: 2004-08-02
+author: Jeffrey Veen
+---
+The San Francisco Examiner has <a href="http://www.sfexaminer.com/home/">redesigned its Web site</a> and has done something no other newspaper has been able to accomplish: They've launched an attractive, readable, standards-compliant design. The front page is almost blog-like in it's simplicity and usability. It <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.examiner.com%2Fhome%2Findex.cfm&#38;charset=%28detect+automatically%29&#38;doctype=%28detect+automatically%29">validates</a> as XHTML 1.0 Transitional. And even <a href="http://www.sfexaminer.com/archive/browsebydate/">the archives</a> are great -- browse month-by-month with a shockingly intuitive interface: a calendar.
+
+Now, if the paper would just hire a few journalists, they'd really be on to something.
+
+<strong>Update:</strong> sfexaminer.com Webmaster Jim Ramsey did this redesign in-house, as well as the last four before it. Nice work!
+&#8203;

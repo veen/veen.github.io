@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Content Migration made easy"
+date: 2005-12-06
+author: Jeffrey Veen
+---
+I've written a number of times about the black art of Content Management and both the <a href="http://www.adaptivepath.com/publications/essays/archives/000315.php">frustrations</a> and <a href="http://www.veen.com/jeff/archives/000620.html">opportunities</a> inherent in that undertaking.
+
+Happily, there seems to be a solution to one of the trickier steps in that process: the painstaking migration of content from an older static site into a new managed system. My coworker at Adaptive Path, <a href="http://www.adaptivepath.com/team/chiara.php">Chiara Fox</a>, has been through this more times than she cares to remember, and has put together a new report summing up all that experience. "<a href="http://www.adaptivepath.com/publications/reports/migration/">Ten Strategies for Content Migration</a>" is a steal at $20, especially if you're facing the copy-and-paste nightmare of moving to a dynamic site.
+&#8203;

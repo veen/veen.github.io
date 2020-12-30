@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The bubble is back!"
+date: 2006-09-22
+author: Jeffrey Veen
+---
+From a <a href="http://www.net-temps.com/job/txhj/050508/human_factors_human_computer.html?r=shd&r=shpaid">job posting</a> on SimplyHired.com:
+
+<blockquote>Will serve as a Human Factors Engineer/Graphical User Interface designer for a start-up company. (**Please note that compensation for this position is in company stock initially, as the company is pre-funded. Candidate can work on a part-time basis, nights, weekends, etc. Salary will be available upon completion of funding. Most work can be done from home.)</blockquote>
+&#8203;

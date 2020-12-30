@@ -1,0 +1,131 @@
+@import url('reset.css');
+@import url('960.css');
+
+body {
+	font: normal normal normal 18px/26px chaparral-pro-1, chaparral-pro-2, Georgia, 'Times New Roman', Times, serif;}
+
+.tagline {
+	text-align: right;
+	color: silver;
+	letter-spacing: .2em;
+	margin-top:10px;}
+
+a, .tagline a, .dsq-comment-cite a {
+	text-decoration: none;
+	color: #900;}
+
+
+.date {
+	letter-spacing: .2em;
+	font-weight: bold;
+	font-size: 12px;
+	text-align:bottom;
+	color: #888;
+	text-align:right;
+	text-transform:uppercase;
+	margin-top: 52px;}
+
+h4 {
+	letter-spacing: .2em;
+	font-size: 16px;
+	text-align:bottom;
+	color: #888;
+	text-transform:uppercase;
+	margin: 1em 0 1em 0;}
+
+h1 {
+	font-weight: normal;
+	font-size: 37px;
+	line-height: 1em;
+	margin-top: 40px;
+	margin-bottom: 7px;
+	}
+
+h2 {
+	font-weight: bold;
+	text-indent: 0px;
+	margin-top: 18px;
+}
+
+blockquote {
+	margin:1em;
+	padding-left: 1em;
+	color: #888;
+	border-left: 1px solid #ee;
+}
+
+.home-list {
+	text-align:justify; 
+	margin-top:17px;
+	line-height: 30px;
+}
+
+.home-date {
+	letter-spacing: .1em;
+	font-weight: bold;
+	color: #888;
+	font-size: 12px;
+	text-transform:uppercase;}
+
+.posts {
+	margin-top:40px;
+}
+
+.posts li span {
+	font-size: .8em;
+	color: silver;}
+
+
+.posts a {
+	text-decoration: none;
+	color: #900;}
+
+li {
+	margin-left: 1em;}
+
+p {
+	margin: 0px;
+	text-indent: 1.5em;}
+
+.tagline, .dsq-comment-cite, .dsq-comment-header-time  {
+/*	font-family: "proxima-nova-1","proxima-nova-2",sans-serif !important; */
+	letter-spacing: .2em;
+	font-size: 12px !important;
+	padding-left: 12px;
+	text-transform:uppercase;
+	font-style: normal;
+	text-decoration: none;
+	color: #888 !important;
+	font-weight: bold;
+}
+
+div p:first-of-type
+{
+text-indent: 0em;
+} 
+
+
+/* Formatting for Disqus */
+
+.dsq-comment-header-meta {
+	padding: -60px 0 0 10px !important;
+}
+
+#disqus_thread {
+	margin-top: 60px;
+	border-top: 3px solid #e0e0e0;}
+	
+.dsq-options {display:none !important;}
+
+#dsq-content p {
+	font-size: 18px;
+	color: #666;}
+
+.dsq-comment-buttons {
+	display: none;
+}
+
+h3 {font-weight: normal !important;
+	margin-top:-40px !important;
+	font-size:22px;
+	font-style: italic;}

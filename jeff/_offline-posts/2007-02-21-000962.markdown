@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Bicycle racing and data overlays"
+date: 2007-02-21
+author: Jeffrey Veen
+---
+<a href="http://www.flickr.com/photos/veen/398055184/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/152/398055184_249bdd52d9_m.jpg" width="240" height="175" alt="Tour of California bike race tracker web app" style="float:left; margin-right: 10px; border:black 1px solid;" /></a> Combine a rich, well-designed web application with professional cycling and what do you get? Well, all of my available attention, for one. But also a glimpse into how sports may change on TV.
+
+Adobe and CSC teamed up with the organizers of the Amgen Tour of California  to provide <a href="http://www.amgentourofcalifornia.com/docroot/tourtracker2/index.html">real-time tracking of each stage</a>, along with full-screen streaming video. While the app is not without hiccups, it certainly represents a very cool vision of how data can overlay and enhance a televised event. 
+
+While the stage is progressing, the background of the app fills the browser with chunky, scaled video accompanied by a voice over. On top of that are little windows with different types of data: An updated news ticker from <a href="http://velonews.com/">Velonews</a>, a photo mashup from <a href="http://www.flickr.com/photos/tags/tourofcalifornia/clusters/">Flickr</a>, a map showing the peloton and breaks-aways, the current overall standings, and a course profile. It's too much all at once, of course. But the modules are easily collapsable - which is nice.
+
+The only real problem is timeshifting - that is, all of this cool stuff only works while the stage is actually happening. Checking in late in the race these past few days made me instinctively want to rewind. And not just the video, but the data as well. How cool would it be if there were a slider to drag back to see how the group was split half way up the climb across all the visualizations? I guess Tivo has permanently spoiled me.
+
+It's great to see this kind of effort come off so cleanly. I didn't need to install or configure anything; it just worked. I can only imagine this will continue to get more sophisticated in the future - individual rider tracking and deeper data behind the initial view. I can't wait.
+
+&#8203;

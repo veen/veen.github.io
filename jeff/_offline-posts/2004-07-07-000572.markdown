@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Why APIs Are So Cool"
+date: 2004-07-07
+author: Jeffrey Veen
+---
+I've written before about the <a href="http://www.veen.com/jeff/archives/000387.html">del.icio.us social bookmark manager</a>, and how to take the data you store there and repurpose it in various ways. This is possible in large part because the creator of the app opened up the entire thing via an <a href="http://del.icio.us/doc/api">API</a>. That means that everything you put in there can come out again, whenever you want, in a standards-base and structured way. 
+
+Case in point: <a href="http://blackbeltjones.com/">Matt Jones</a> pointed me to <a href="http://kevan.org/extispicious.cgi/">extisp.icio.us</a>, an example of how an open API is like throwing seeds on fertile ground. Kevan Davis spent an afternoon writing an app that takes a user's del.icio.us categories (or, tags) and creates a visualization based on how many links are stored in each one. Awesome.
+
+The possibilities are endless. Why not show me the overlaps between my tags and those of my friends at <a href="http://www.orkut.com/">Orkut</a>. Ah, but we can't. There is no Orkut API. You can't get that data out of the service once you put it in. Their <a href="http://orkut.com/terms.html">Terms of Service</a> makes this perfectly clear that you can't use "any robot, spider, site search/retrieval application, or other device to retrieve or index any portion or the orkut.com service."
+
+Apparently locking in customer data through closed APIs and obscure file formats has become an appropriate business model. That's too bad. Just think what we could do <a href="http://www.veen.com/jeff/archives/000512.html">just by sharing</a>.
+&#8203;

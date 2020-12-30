@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Links: 2004-12-14"
+date: 2004-12-14
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://ranchero.com/marsedit/">Ranchero Software: MarsEdit 1.0</a><br /><span class="link-meta">My favorite blog-writing tool comes out of beta. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+    <li><a href="http://www.pvrblog.com/pvr/2004/12/the_pvrblog_int.html">PVRBlog: Designing the TiVo</a><br /><span class="link-meta">Matt interviews Margret Schmidt, the director of User Experience at Tivo. (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+    <li><a href="http://sooper.org/misc/ppt/">sooper.org: PowerPointless?</a><br /><span class="link-meta">Collected links on the danger of PowerPoint overdose. (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/presenting">presenting</a> )</span></li>
+    <li><a href="http://www.43folders.com/2004/12/five_mistakes_b.html">43 Folders: Five Mistakes Band &amp; Label Sites Make</a><br /><span class="link-meta">"Your fans are trying to drive people to the cash register, but you insist on making them watch a puppet show before they can even enter the damned store." Go, Merlin, go! (categories: <a href="http://del.icio.us/veen/ideas">ideas</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+    <li><a href="http://www.webpronews.com/ebusiness/sitepromotion/wpn-3-20041210HowToBuildTrafficToYourBlog.html">How To Build Traffic To Your Blog</a><br /><span class="link-meta">"1. Write Posts That People Will Want To Read" ... Brilliant!!! And also: "marketers tend to forget that their readers are real people." (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/ideas">ideas</a> )</span></li>
+    <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/12/05/TRGK1A4CEC1.DTL">Finding their rhythm on a Highway 1 tandem trip</a><br /><span class="link-meta">"Riding a bike for 430 miles is not particularly difficult, it just takes a good while. It's like riding to Golden Gate Park, except that when you get to Golden Gate Park you keep going." (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+  </ul>
+
+&#8203;

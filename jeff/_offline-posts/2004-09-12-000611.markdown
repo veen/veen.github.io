@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: "Links: 2004-09-12"
+date: 2004-09-12
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://xtralean.com/IW.html">ImageWell</a><br />
+<span class="link-meta">"The easy way to edit, rotate, crop and resize your image and upload it to your iDisk, FTP server or WebDAV server." (categories: <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/photos">photos</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+
+    <li><a href="http://www.playitcybersafe.com/resources/EthicsCode.pdf">The Cyber-Ethics Champion Code (PDF)</a><br />
+<span class="link-meta">Hey kids! Sign here to pledge your submission to all corporate copyright restrictions. It's fun! (categories: <a href="http://del.icio.us/veen/copyright">copyright</a> <a href="http://del.icio.us/veen/propaganda">propaganda</a> )</span></li>
+
+    <li><a href="http://www.burningdoor.com/eric/archives/000722.html">Dancing About Architecture: The Future of Bloglines</a><br />
+<span class="link-meta">Eric speculates on who will aquire which serverside RSS aggregator. (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/business">business</a> <a href="http://del.icio.us/veen/rss">rss</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.oreillynet.com/pub/wlg/5557">Brian D. Foy: How not to do public relations</a><br />
+<span class="link-meta">"All I wanted was an evaluation license, but I figure I can listen to what they have to say." (categories: <a href="http://del.icio.us/veen/business">business</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://bluezy.com/carolineyang/TDF%20html%20pages/TDF1.html">Caroline Yang Photography</a><br />
+<span class="link-meta">Beautiful photographs of the humanity of cycling, not just the sport. (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/photos">photos</a> <a href="http://del.icio.us/veen/sports">sports</a> )</span></li>
+
+    <li><a href="http://gnomoradio.org/">Gnomoradio</a><br />
+<span class="link-meta">A peer-to-peer music player with a unique hook: it seeks out and plays only music with a Creative Commons license. (categories: <a href="http://del.icio.us/veen/copyright">copyright</a> <a href="http://del.icio.us/veen/music">music</a> <a href="http://del.icio.us/veen/search">search</a> <a href="http://del.icio.us/veen/software">software</a> )</span></li>
+
+    <li><a href="http://www.slower.net//entries/001778.php">RNC detritus</a><br />
+<span class="link-meta">Eliot takes such beautiful pictures. (categories: <a href="http://del.icio.us/veen/photos">photos</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://atrios.blogspot.com/2004/09/bush-vs-jesus.html">Bush vs. Jesus</a><br />
+<span class="link-meta">Jesus is soft on crime. Jesus will raise your taxes. (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/religion">religion</a> )</span></li>
+
+  </ul>
+&#8203;

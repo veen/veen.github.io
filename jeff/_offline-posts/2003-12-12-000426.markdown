@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Links: 2003-12-12"
+date: 2003-12-12
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://search.cpan.org/~bdfoy/Mac-iTunes-0.82/lib/iTunes.pm">CPAN Perl Module: interact with and control iTunes</a><br /><span class="link-meta">Posted: 06:07:52 (categories: <a href="http://del.icio.us/veen/mac">mac</a> <a href="http://del.icio.us/veen/music">music</a> )</span></li>
+    <li><a href="http://www.ok-cancel.com/archives/week_2003_11_28.html">OK/Cancel: Flavors of Usability</a><br /><span class="link-meta">Posted: 20:12:52 (categories: <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/usability">usability</a> )</span></li>
+    <li><a href="http://www.37signals.com/blogprez/">37 Signals: Blogs in Business</a><br /><span class="link-meta">Posted: 20:14:54 (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/trend">trend</a> )</span></li>
+    <li><a href="http://www.andybudd.com/blog/bookmarklets.html">Useful bookmarklets that work in Safari</a><br /><span class="link-meta">Posted: 05:59:54 (categories: <a href="http://del.icio.us/veen/design">design</a> <a href="http://del.icio.us/veen/javascript">javascript</a> )</span></li>
+    <li><a href="http://gils.utah.gov/rss/rsssearchworkshop.html">How to Search RSS Channels for News</a><br /><span class="link-meta">Posted: 19:29:54 (categories: <a href="http://del.icio.us/veen/blog">blog</a> <a href="http://del.icio.us/veen/rss">rss</a> )</span></li>
+    <li><a href="http://www.metropolismag.com/html/urbanjournal_1203/urbancycling.html">Urban Cycling: A Tale of Two Cities</a><br /><span class="link-meta">Posted: 21:02:37 (categories: <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+  </ul>
+
+&#8203;

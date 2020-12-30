@@ -1,0 +1,72 @@
+--- 
+layout: post
+title: "Change your email address in 13 simple steps"
+date: 2005-08-07
+author: Jeffrey Veen
+---
+A friend working in IT for a large telecoms once told me, "Sixty percent of your phone bill comes from making your phone bill." That is, the telecommunications industry is so massive, bureaucratic, and slow-moving that the process of billing you costs more than the service they provide.
+
+So it's not surprising to find that changing my email address with MCI is a _13 step process -- with an additional four warnings that this is all for my privacy and security.
+
+And here I foolishly though this could be accomplished with a text field and a submit button.
+
+This is what I was told when I asked MCI how to update my address:
+
+<blockquote>Dear Jeffrey Veen,
+
+Thank you for contacting MCI &reg; e-Customer Service.
+
+I have received your to update your e-mail address.  We appreciate
+your efforts to update your MCI account information in Online Account
+Manager. To change your e-mail address, simply follow the steps
+below:
+
+To discuss account specific information via e-mail, make account
+changes, and to protect your account security, please send account
+inquiries from Online Account Manager at www.mci.com/service.  By
+requiring you to log in to your existing account using a unique
+username and password combination, or to sign up for a new Online
+Account Manager account, we can ensure the privacy and security of
+your account information.  Once your e-mail is received, we will
+answer your questions and/or make changes as quickly as possible. We
+apologize for any inconvenience.
+
+Establishing an Online Account Manager account is fast, easy, and
+free. Simply follow the steps I've provided below:
+
+1) Visit our Online Account Manager website at www.mci.com/service<br />
+2) Click on the "Create Account" button under "Create an Account"<br />
+3) Enter your telephone number.<br />
+4) Enter your MCI account number OR MCI Calling Card PIN to
+verify your identification and maintain your account security.<br />
+5) Select your username and password (Your username and password
+must be between 6 and 20 characters, and the password must
+contain a combination of letters and numbers. You will use
+this information every time you wish to access your online
+account).<br />
+6) Enter your e-mail address.<br />
+7) Tell us how you heard about Online Account Manager.<br />
+8) Read the Online Account Manager terms and conditions and
+click the "Register" button.<br />
+
+Once you have logged in, simply click on the "Contact Us" link for
+assistance.
+
+1) Log on to Online Account Manager at www.mci.com/service<br />
+2) Click on "Account Maintenance" from the navigation bar, or click
+on the "Your Information" (orange color) bar on the left of your page<br />
+3) Select "Update Your E-mail Address"<br />
+4) Fill out the online form provided<br />
+5) Click on "SUBMIT"<br />
+
+MCI is committed to ensuring you make the most of your service.
+If you have any additional questions or concerns, please visit
+Online Account Manager at www.mci.com/service.
+
+Sincerely,
+
+Randy
+e-Customer Service</blockquote>
+
+That's really confusing -- and I'm only trying to update my email address. I can't imagine how difficult it must be to add something like Caller ID to my service. I wonder, are the new breed of VoIP services any better? Or will they fall into the same rut of complexity as they grow, too?
+&#8203;

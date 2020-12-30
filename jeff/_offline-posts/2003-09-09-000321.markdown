@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Gold Finger?"
+date: 2003-09-09
+author: Jeffrey Veen
+---
+<cite>"Remove the PCI slot panel cover(nomatter it with screw or not,if with screw please keep the screw if not with screw please check the system parts box and find out the screw), and plug the QX-1004 on PCI slot with right position,please check the QX-1004 PCI bus (gold finger) is all plug into the PCI slot, put the screw to fix the card on the case."</cite>
+
+Speaking of clear, concise instructional text... I stumbled acros the "<a href="http://www.tecstandards.com/2003winner.htm">Worst Documentation of 2003 Awards</a>" -- an annual look at horrendous writing hosted by Technical Standards, Inc. Funny, funny stuff.
+&#8203;

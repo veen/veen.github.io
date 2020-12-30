@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Prototyping a Vision"
+date: 2002-11-30
+author: Jeffrey Veen
+---
+I've been putting a lot of thought into how prototyping and the discovery process can intersect. I've had some interesting experiences with our clients lately that involved getting everyone to agree on a set of features by illustrating hypothetical pages live in a meeting. I'll put a blank Visio document up on the projector and start adding UI elements as we talk through how the applicaiton should work, what will be included, and what won't. I try to get a good cross section of the development team there -- engineers, designers, marketing managers, etc. I've found I need to take firm control of the meeting, and keep things moving. But the results have been great. Recently, I found an article on the boxesasarrows.com site discussing this: "<a href="http://www.boxesandarrows.com/archives/defining_feature_sets_through_prototyping.php">Defining Feature Sets Through Prototyping</a>" by Laura S. Quinn.
+&#8203;

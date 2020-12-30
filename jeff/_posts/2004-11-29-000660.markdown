@@ -1,0 +1,30 @@
+--- 
+layout: post
+title: "Death By Powerpoint"
+date: 2004-11-29
+author: Jeffrey Veen
+featured: yes
+abstract: How we present ideas has changed over the years, but the princples remain the same
+---
+I recently came across an academic paper titled, <cite><a href="http://seeit.mit.edu/Publications/YatesOrlikowski-PP.pdf">The PowerPoint Presentation and Its Corollaries: How Genres Shape Communicative Action in Organizations</a></cite> [pdf] by JoAnne Yates and Wanda Orlikowski, both of the MIT Sloan School of Management. In it, they have a look at how the genre of PowerPoint presentations in business affects communication both inside companies and externally with their clients or customers. It's a fascinating look at how PowerPoint has, essentially, automated lazy thought. Or, to put it another way, created bullet-point expectations for all organizational knowledge.
+
+Along the way to their thesis, though, the authors trace a brief history of business communications. I was particularly struck by this quote from Willard C. Brinton&rsquo;s 1914 book *Graphical Methods for Presenting Facts*:
+
+>In many presentations it is not a question of saving time to the reader but a question of placing the arguments in such form that the results may surely be obtained.
+
+Brinton was arguing 90 years ago for clarity in presentations, and reminding his readers that graphics were **aides** for communications, not shortcuts or diversions. It was the apex of the industrial revolution, and with it came startlingly complex business data. Charts, graphs, and illustrations were popularized as a way of translating that data into knowledge. DuPont, for example, had grown so large that the organization relied on an industry-renown <a href="http://www.cfo.com/article.cfm/2990236">chart room</a> to keep its executives up to date.
+
+As technology progressed and matured, the ability to control presentations began to creep in as a surrogate for communicating complex ideas with well-crafted narrative. With the advent of the overhead projector:
+
+>Presenters frequently used two techniques for revealing information gradually: covering part of the transparency with paper (a practice that audience members frequently found annoying) and sliding that paper down as needed, and using overlays to add information gradually to an image.
+
+Already, transitions and effects were becoming ubiquitous.
+
+Once PowerPoint hit the scene, the backlash was sudden and fierce, including parody in the form of the <a href="http://www.norvig.com/Gettysburg/">Gettysburg PowerPoint Presentation</a> and <a href="http://www.clicktoaddtitle.com/">Click To Add Title</a>. Microsoft parried with the "AutoContent Wizard" -- a tool that creates a deck from a series of questions -- and things spiraled down from there.
+
+The paper does a good job of analyzing how PowerPoint presentations are being used in a variety of organizations. From internal training, to external sales pitches, to actual "deliverables" for a design firm. The authors also describe just how artificial and uninspired the output of the tool can be, especially joined with "telepresence" of remote presentation, or as a "leave behind" for someone not at the original meeting. These decks almost always cary too much detail for the event, and not enough context for later.
+
+What is the solution to all this decorative yet spurious communication? Discipline would help. I find myself getting intellectually lazy with presentations, glossing over bits and hoping to wing it in the board room. I've started experimenting with writing out everything I want to say for every slide, then printing them in the notes with the hand outs. That allows me to almost completely move away from bullet points on the screen. Rather, I can show a well-chosen image or illustration, and talk about it, then move on. I've memorized my notes, my audience has a copy. But wow, it's hard.
+
+Switching to Apple's <a href="http://www.apple.com/keynote/">Keynote</a> software has helped, too. It's very much a first-generation tool, with rudimentary drawing tools and very simple typographic control. It amounts to nothing more than a very well designed rendering engine -- something that takes the slides I create elsewhere and shows them on screen beautifully, with a cache of gorgeous transitions and dropshadows. In essence, by ditching the cruft Microsoft has attached to PowerPoint, it does exactly what communications professionals have been proclaiming for years: Get up there and tell a good story, and get visual _only_ when it adds something.
+&#8203;

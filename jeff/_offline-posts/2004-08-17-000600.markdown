@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "The Right Tool For the Job"
+date: 2004-08-17
+author: Jeffrey Veen
+---
+Years ago, I remember hearing a quote attributed to former Netscape engineer <a href="http://jwz.org">Jamie Zawinski</a> that went something like, "All software expands until it can read email." I'm sure he was referring to the exponential growth in size of his company's Web software -- something that was inevitable, since they were trying to position the browser as just a component in a much larger <a href="http://en.wikipedia.org/wiki/Netscape_Navigator">Web platform</a>. I'm not sure if JWZ _actually said that, since I could find no trace of it on his site (<strong>update:</strong> <a href="http://www.jwz.org/hacks/">here it is</a>). But he certainly is <a href="http://www.google.com/search?hl=en&lr=lang_en&ie=UTF-8&safe=off&c2coff=1&q=jwz+software+expands+until+email&btnG=Search">quoted</a> as saying it a lot.
+
+I mention this because I think it's time for an update. If things keep going at the pace there are, all software will expand until it can <a href="http://www.puremis.net/excel/soft/EaZyRss.shtml">aggregate RSS feeds</a>.
+&#8203;

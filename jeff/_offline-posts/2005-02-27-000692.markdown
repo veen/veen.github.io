@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: "Doing it first versus doing it right"
+date: 2005-02-27
+author: Jeffrey Veen
+---
+With the announcement of <a href="http://odeo.com/">Odeo</a> ("what Blogger did for publishing, we'll do for podcasting"), Ev Williams is getting a lot of attention again. That's not surprising, of course, since he's been something of a web startup poster child these last few years. And while that gives the new project a head start, it also brings out the cranks and critics. 
+
+The ink was barely dry on the <a href="http://www.nytimes.com/2005/02/25/technology/25podcast.html">New York Times</a> story, when Dave Winer <a href="http://archive.scripting.com/2005/02/25#When:3:46:44AM">jumped into the fray</a>:
+
+<blockquote>"...this wouldn't be the first time Evan Williams 'took over' an idea."</blockquote>
+
+The folks over at Glassdog, however, were <a href="http://www.glassdog.com/archives/2005/02/25/making_software_for_humans_not_engineers.html">quick to remind everyone</a> that inventing technology is only interesting when it is applied to actual human need. And the best way to do that, frankly, is by commercializing it:
+
+<blockquote>"There is a rich history of business ideas that were invented by engineers, but perfected by those that re-made them for the mainstream and profited in users and dollars many times over the original creators. This looks like another one."</blockquote>
+
+A rich history indeed. Read a bit about <a href="http://en.wikipedia.org/wiki/Alexander_Graham_Bell">Alexander Graham Bell</a> -- he was far from the inventor of the telephone, but became known as such for his ability to bring a marketable product to the business community.
+
+Ev may not be an inventor and businessman like Bell, but he seems to be looking in the right direction with his new product. As he told the reporter from the Times:
+
+<blockquote>"We're going to let people do what they do and we'll see what they do and hope they do it a lot."</blockquote>
+
+That quote may be a bit abstract, but take it apart and you'll find three keys to success. An open platform that responds to user needs ("let people do what they do"). An understanding of the importance of observation and iteration ("we'll see what they do"). And a desire to measure success in the market ("hope they do it a lot.")
+
+Alternatively, you can complain that you did it first and it's not fair. Your choice.
+
+&#8203;

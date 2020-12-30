@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "You'll use Verdana, and you'll be happy"
+date: 2005-09-01
+author: Jeffrey Veen
+---
+I remember sitting through demos by both Netscape and Microsoft marketing folks, showing us all the wonderful things that would be in the 4.0 versions of their browsers. Not the least of which was the ability to embed fonts -- any font! -- into our pages. Designers rejoice! The era of web typography had arrived.
+
+I also remember them both saying, almost verbatim, "Well, no, actually. Ours won't work with theirs. But we think that because of the way marketshare is moving in the browser space..." And you likely know the end of that story.
+
+I guess it's not surprising that embedded fonts never really took off. Looking back at Taylor's <a href="http://webmonkey.com/98/01/index3a.html?tw=design">introduction</a> to the technology in Webmonkey shows a world of promise, but also a confusing array of DRM-laced technology for "burning" fonts into web pages using incompatible file formats. In the end, the good designers realized that typographic constraint can give rise to tremendous creatively, be it with <a href="http://www.stopdesign.com/articles/replace_text/">CSS</a> or <a href="http://www.mikeindustries.com/sifr/">Flash</a>.
+
+All of this is in reference to BitStream, one of the original embedded font vendors, <a href="http://www.truedoc.com/webpages/intro/">throwing in the towel</a>. As they say in their farewell message, "Unfortunately, we do not build the browsers, nor can we control how they handle fonts ... We suggest that you contact AOL and Microsoft and encourage them to support dynamic fonts in the new releases of their browsers."
+
+Ironically, the promise of controlling fonts is cited as a factor in their demise. And with that, another story in the history of the web comes to a quiet end.
+&#8203;

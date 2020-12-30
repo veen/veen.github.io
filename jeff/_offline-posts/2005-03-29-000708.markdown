@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Don't Screw Up"
+date: 2005-03-29
+author: Jeffrey Veen
+---
+
+Not a lot of people understand what blogging is. And I'm not being metaphysical -- I mean that the vast majority of people in the world have no idea what we're talking about when we talk about blogs. And most of those familiar with the concept often liken it to crazy hermits pounding out manifestos in their mountain cabins. Marketing this will be an uphill battle.
+
+But I've always seen it as a technological solution for enabling participation. Typing into a text box and hitting the publish button has proven far more successful that angle brackets and FTP servers. People can say what they want, share stuff, and stay focused on _communicating rather than web publishing.
+
+So I was eager to have a look at <a href="http://360.yahoo.com/">Yahoo 360&deg;</a>, the search company's foray into the blog world. After playing with beta for a while this morning, I was impressed with the level of integration they've achieved with their other properties, and the emphasis on community and sharing. Photos, friends, music, groups!
+
+Still, it's ultimately a blog tool, and the big column down the center of your 360 page communicates this clearly. In fact, one of the last registration steps tells you as much:
+
+<img src="http://www.veen.com/jeff/images/360-dont-screw-up.jpg" border="0" height="168" width="350" alt="360-dont-screw-up.jpg" />
+
+And that's how they encourage you to get started, as if they're saying, "Before you tell your friends about your new blog, you better fill it up. There's a big empty space there, and you haven't said anything smart yet. Go! Write! And it better be good!"
+
+In the research I've done for blog-related projects, people have told me over and over that they don't blog because they don't have anything to say. They're wrong about that -- everyone has something to share, even if it's with just a handful of friends or family. But starting people off with a cavernous blank page is certainly not the way to do it.
+
+It reminds me of one of my first trips to the plate in Little League Baseball. I was eight, clutching the bat, terrified. My coach pulled me aside and gave me advice: "Just relax, keep your knuckles lined up and your eye on the ball. Oh, and if you strike out we loose. Go get 'em!"
+
+
+&#8203;

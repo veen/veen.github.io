@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "The Privacy of Prayer"
+date: 2004-04-27
+author: Jeffrey Veen
+---
+I was on a panel discussion about the ethics of online publishing this week at Calvin College's _<a href="http://www.calvin.edu/academic/engl/festival.htm">Festival of Faith and Writing</a>. We discussed digital rights, distribution, and a bunch of other issues. Someone asked a question about privacy, however, that completely caught me off guard. Considering the recent changes in patient rights brought about by the new <a href="http://www.hhs.gov/ocr/hipaa/">HIPAA</a> legislation, they asked, could churches still publish prayer requests on their bulletins and Web sites?
+
+Huh.
+
+I knew that in a health care context, the new regulations protect patients from any public mention of the condition or procedure in which they are involved. That means your employer not call up and ask your doctor why you're being seen. That also means that a nurse, for example, can no longer enter the room and say, "Mrs. Smith, it's time for your surgery." 
+
+I think the privacy benefits are great. But I've also heard that ministers have been frustrated that they cannot call and find out the status of their congregates. The issue of prayer requests, however, was a grey area that I'd never considered.
+
+A little googling revealed the answer, on the very well written <a href="http://www.lcms.org/pages/internal.asp?NavID=4001">FAQ</a> provided by the Lutheran Church.
+
+<blockquote>HIPAA is not violated when a church publishes the names and medical conditions of church members who are either hospitalized or ill in church publications, such as a church bulletin, newsletter, prayer list or on the congregation's website. However, it is possible that a congregation's disclosure of a member's medical condition or even non-medical information, without the consent of the member, would constitute an "invasion of privacy" under state law. Such "invasion of privacy" laws often give an individual the right to sue when a person publicly discloses information that is private in nature.</blockquote>
+
+Interesting stuff. As someone in charge of a church Web site, I've always just been polite. I ask folks if they want to mentioned on the Web site, or stay anonymous. Their answers run about half-and-half, and that I can easily respect.
+&#8203;

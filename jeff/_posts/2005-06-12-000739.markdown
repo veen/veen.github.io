@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "Designing for the subtlety of Ajax"
+date: 2005-06-12
+author: Jeffrey Veen
+featured: yes
+abstract: Looking for delicate solutions in progressive interaction design
+---
+As I've been incorporating more and more <a href="http://www.adaptivepath.com/publications/essays/archives/000385.php">Ajax</a> techniques into the interaction design work I do, I've started to realize the importance of subtle clues to indicate change -- a design challenge I really haven't had to worry about much before. 
+
+Not all that long ago interaction on the Web was a lot simpler -- you clicked a link, the page you were on disappeared, you waited a bit, a new one appeared. No feedback was really necessary. Clearly, something had occured. Whether it was what you were expecting was another matter entirely. From an interaction point of view, there was no question that your action had a reaction from the system.
+
+Enter Ajax. Now, I have the option of requesting bits of data whenever I need it, and updating just parts of a page that has already been rendered. No longer am I required to refresh an entire page every time a user clicks a link or submits data. With Ajax, I can chose.
+
+That choice, however, has implications. For one, it flies in the face of most established conventions and user expectations. "Click-reload" is pretty different than "click-add an item to a list." So it's not surprising that designers are starting to respond to the fact that users might not notice those subtle changes.
+
+One of the first, and likely the widest linked, examples was from 37Signals in their Basecamp project management app. In it, they showed users that something had been added to the page by turning that item's <a href="http://www.37signals.com/svn/archives/000558.php">background bright yellow</a>. "Hey! Look at this!" Then, they quickly faded the obtrusive color back into white. It was effective, and widely copied. And rightly so -- it's a good example of making the subtle obvious.
+
+Recently, I saw a demo by Bill Scott of Sabre Airline Solutions. He was showing an application for their travel logistics application, and in particular, how to use Ajax for what he called "cinematic effects." These were created, he said, to help users understand that an Ajax action had the intended effect. When dragging and dropping, for example, existing items nudged out of the way to show users they could drop. Buttons faded out after clicking. Accordion controls scrolled smoothly when opened. All of these techniques where appropriate and even delicate, never veering into the gratuitous -- though it would be so easy to over do it. 
+
+Even cooler, Bill and his team have released their Ajax framework under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0 license</a> at <a href="http://openrico.org/">OpenRico.org</a>. The demos and code are all online (though, not quite working in Safari yet).
+
+I'm looking for other examples, both good and bad, of designing for subtlety. Know of any?

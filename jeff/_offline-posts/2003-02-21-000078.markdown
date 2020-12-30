@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Talking About the Elements of User Experience"
+date: 2003-02-21
+author: Jeffrey Veen
+---
+WebWord posts <a href="http://webword.com/interviews/jjg.html">an interview</a> with Jesse, in which he gives further explaination of the concepts in his book, <a href="http://jjg.net/elements/">The Elements of User Experience</a>.
+&#8203;

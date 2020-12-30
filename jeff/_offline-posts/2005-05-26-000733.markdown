@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: "The Usability of Subscribing to Feeds"
+date: 2005-05-26
+author: Jeffrey Veen
+---
+I have always been bothered by how difficult it is to subscribe to RSS/Atom feeds.  Consider the user experience -- Someone sees an orange button with an unfamiliar acronym, they click it, and the browser starts spewing undecipherable code. <a href="http://www.peterme.com/archives/000149.html">Peter wrote about this</a> a while back, and considering how much excitement there has been in the blog world, little really has changed. 
+
+Thankfully, Apple recently made <a href="http://www.apple.com/macosx/features/safari/">Safari handle the RSS feeds</a>, or send it off to an aggregator you've chosen. If you're using Tiger and haven't found this feature yet, look in Safari's preferences at the RSS pane. There, you'll find a dropdown menu for setting which application you'd like as your default news aggregator.
+
+But that's just one browser, with an unfortunately small marketshare at that. Feedburner does a great job of designing feeds for browsers so that they look attractive, and have clear instructions on what they're for -- but you still have to click on them to get there. 
+
+I'm working on a product right now that is full of feeds, and I want to make sure the experience is appropriate for anyone, regardless of how much experience they've had with RSS. Should I help people subscribe?
+
+<p style="text-align: center;"><img src="http://www.veen.com/jeff/images/sub-feed.png" border="0" height="163" width="289" alt="sub-feed.png" align="" /></a>
+
+
+Here's a super quick rendering of one idea. It's a javascript-based intercept that tries to explain what is happening, offers a link for more help, and provides the actual feed link. It leads me to all sorts of questions:
+
+<ul><li> Does this affect experienced users' expectations too much? (For example, before the new version of Safari, I would drag XML icons over to my reader. This may break that.)</li>
+<li> Ignoring the text for now, are these the right elements? Quick headline, a sentence of description, a link to more help, and a link to the feed.</li>
+<li> The text is currently pretty opaque. How would you describe the process of adding a bunch of data encapsulated in an XML vocabulary into something called either a news aggregator or feed reader?</li>
+<li> What is the interaction model? Does it display onMouseOver? onClick? How does it go away? </li>
+<li>Most importantly: is this even a problem that needs to be solved? Should we be content to wait for the incremental evolution of browsers? Or is feed aggregation becoming second nature -- a convention akin to hypertext's underlined links?</li></ul>
+
+Lots of questions, but an interesting discussion. Is there anything we can do to the sites we build to help people subscribe to feeds?
+&#8203;

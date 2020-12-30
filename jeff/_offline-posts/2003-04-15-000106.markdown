@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Safari Update"
+date: 2003-04-15
+author: Jeffrey Veen
+---
+If you haven't yet heard, the second beta of Apple's <a href="http://www.apple.com/safari/">Safari browser</a> is available for download. This build includes the long-awaited tabbed browsing feature, as well as auto-fill for forms and all the other stuff a modern browser now needs.
+
+More important to those of us who make Web stuff, though, are the bugs that were fixed in CSS rendering. Mark Pilgrim updated his <a href="http://diveintomark.org/safari/">Safari for Web Developers</a> page roughly 15 minutes after the code was posted to Apple's site. 
+&#8203;

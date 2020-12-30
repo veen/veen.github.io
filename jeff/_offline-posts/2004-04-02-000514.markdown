@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: "Links: 2004-04-02"
+date: 2004-04-02
+author: Jeffrey Veen
+---
+<ul>
+    <li><a href="http://www.foaf.dk/hosting/">foaf.dk : hosting</a><br />
+<span class="link-meta">This is a hosting service for FOAF related information and encrypted RDF. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/standards">standards</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+
+    <li><a href="http://www.gerrymcgovern.com/nt/2003/nt_2003_11_03_discipline.htm">Web publishing needs real discipline</a><br />
+<span class="link-meta">Many web managers still seem to believe that if they get the technology right the publishing will look after itself. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+
+    <li><a href="http://www.peterme.com/archives/000303.html">Enterprise Content Management is a Process, Not A Technology</a><br />
+<span class="link-meta">Focus your content management efforts on developing strong metadata, developing templates, and treating the CMS simply as a database -- a content repository. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cms">cms</a> )</span></li>
+
+    <li><a href="http://www.oreillynet.com/pub/wlg/4648">People critical for managing content</a><br />
+<span class="link-meta">"Expect technology to serve as a useful adjunct to a successful project, not as the heart of the project itself." (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cms">cms</a> <a href="http://del.icio.us/veen/xml">xml</a> )</span></li>
+
+    <li><a href="http://eurosport.com/home/pages/V3/L0/S18/E6611/sport_Lng0_Spo18_Evt6611_Sto569290.shtml">George Hincapie wins Three Days of La Panne</a><br />
+<span class="link-meta">First ever American winner of the Belgium classic. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> )</span></li>
+
+    <li><a href="http://story.news.yahoo.com/news?tmpl=story&u=/040329/480/efa10603290253">John Kerry rides a Serotta.</a><br />
+<span class="link-meta">How will this affect his transportation policy? (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/cycling">cycling</a> <a href="http://del.icio.us/veen/politics">politics</a> )</span></li>
+
+    <li><a href="http://www.factcheck.org/">FactCheck.org</a><br />
+<span class="link-meta">The Annenberg Public Policy Center of the University of Pennsylvania uses the Internet for its intended purpose. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/politics">politics</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.usatoday.com/tech/wireless/data/2004-03-28-coming-tech_x.htm">Four wireless technologies move toward starting gate</a><br />
+<span class="link-meta">Amit writes a typically cogent piece in an untypical place. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+    <li><a href="http://www.ftrain.com/ThePassivator.html">The Passivator (Ftrain.com)</a><br />
+<span class="link-meta">A passive verb and adverb flagger for Mozilla-derived browsers, Safari, and Opera 7.5, with caveats. (categories: <a href="http://del.icio.us/veen/"></a> <a href="http://del.icio.us/veen/fun">fun</a> <a href="http://del.icio.us/veen/tech">tech</a> <a href="http://del.icio.us/veen/trends">trends</a> )</span></li>
+
+  </ul>
+
+&#8203;
