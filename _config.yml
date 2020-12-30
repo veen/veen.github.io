@@ -1,19 +1,14 @@
 
-# markdown:      rdiscount
-# rdiscount:
-# extensions:   [smart]
+
 permalink:      jeff/archives/:title.html
-#layouts:        _layouts/
-#source:         jeff
-#destination:    jeff
 title:          Jeffrey Veen
+feed:           /rss-source.xml
+description:    "The personal web site of Jeffrey Veen."
+
 #url:           http://127.0.0.1:4000
 #url:           http://veen.com/jeff
 #url:           http://pixel:81
 url:            https://veen.github.io
-feed:           /rss-source.xml
-#baseurl:        /jeff
-description:    "The personal web site of Jeffrey Veen."
 
 sass:
     style: compressed
