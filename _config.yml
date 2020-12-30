@@ -10,7 +10,7 @@ title:          Jeffrey Veen
 #url:           http://127.0.0.1:4000
 #url:           http://veen.com/jeff
 #url:           http://pixel:81
-url:            https://veen.github.io/jeff
+url:            https://veen.github.io
 feed:           /rss-source.xml
 #baseurl:        /jeff
 description:    "The personal web site of Jeffrey Veen."
