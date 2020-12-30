@@ -1,4 +1,4 @@
-
+exclude:        [greg, amy, start, smallbatch, archives, artsci]
 
 permalink:      jeff/archives/:title.html
 title:          Jeffrey Veen
