@@ -7,7 +7,6 @@ featured: yes
 abstract: Does designing to Web standards give organizations a return on investment? Does the transition to XHTML and CSS make financial sense? The answer to those questions is yes.
 ---
 
-September 18, 2003
 
 I’ve been involved in the Web standards community almost as long as I’ve been working on the Web, and I’ve long felt that designing to W3C recommendations is the Right Thing To Do. When it came time to redesign the adaptivepath.com site, my partners agreed that we should approach the project from a standards perspective. But before we started, we discussed whether the effort — and it was a lot of effort — was really worth it.
 

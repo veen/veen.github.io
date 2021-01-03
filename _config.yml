@@ -1,13 +1,12 @@
+permalink:    jeff/archives/:title.html
+title:        Jeffrey Veen
+feed:         /rss-source.xml
+description:   "The personal web site of Jeffrey Veen."
+layouts_dir:  jeff/_layouts
 
-permalink:      jeff/archives/:title.html
-title:          Jeffrey Veen
-feed:           /rss-source.xml
-description:    "The personal web site of Jeffrey Veen."
-
-url:           https://veen.com
-#url:           http://127.0.0.1:4000
-#url:           http://pixel:81
+#url:       https://veen.com
+#url:      http://127.0.0.1:4000
+#url:      http://pixel:81
 
 sass:
     style: compressed
-
