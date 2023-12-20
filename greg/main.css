@@ -27,6 +27,9 @@ a#instagram i {
 a#linkedin i {
   background-image: url(/greg/images/linkedin.svg);
 }
+a#mastodon i {
+  background-image: url(/greg/images/mastodon.svg);
+}
 a#twitter i {
   background-image: url(/greg/images/twitter.svg);
   margin-right: 0.15em;
