@@ -22,7 +22,7 @@ a:hover i {
     brightness(104%) contrast(105%);
 }
 a#bluesky i {
-  background-image: url(/greg/images/bluesky.svg);
+  background-image: url(/greg/images/bluesky-black.svg);
 }
 a#threads i {
   background-image: url(/greg/images/threads.svg);
