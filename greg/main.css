@@ -21,6 +21,12 @@ a:hover i {
   filter: invert(57%) sepia(56%) saturate(2182%) hue-rotate(154deg)
     brightness(104%) contrast(105%);
 }
+a#bluesky i {
+  background-image: url(/greg/images/bluesky.svg);
+}
+a#threads i {
+  background-image: url(/greg/images/threads.svg);
+}
 a#instagram i {
   background-image: url(/greg/images/instagram.svg);
 }
