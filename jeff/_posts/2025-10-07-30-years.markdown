@@ -1,0 +1,43 @@
+---
+layout: post
+title: "It's Time to Build Again"
+date: 2025-10-07
+author: Jeffrey Veen
+featured: yes
+abstract: Dusting this site off after 30 years.
+---
+
+You can open up a terminal on your computer and type the following at the command prompt:
+
+```
+$ whois veen.com
+```
+
+Your terminal will fill with a few pages of mostly-redacted information. This command queries a database of publicly available `domain registrations`. Years ago, you’d see actual email addresses and phone numbers for the people who owned and managed domain names across the internet. But in today’s world, all of that this hidden.
+
+However, if you pick through the whois output, you’ll still find these lines:
+
+```
+Domain Name: VEEN.COM
+Creation Date: 1994-12-02T05:00:00Z
+```
+
+Thirty years! I missed the big anniversary in the year-end bustle last December, but it feels like quite a milestone. I remember registering the domain when I was building webpages at Wired Magazine. Back then, you needed to send email directly to the InterNIC, with an explanation of what you intended to do with the address. Thankfully, they granted me the URL, and I set up and old Mac IIci in the server closet to serve a simple site. Eventually, I started using early blogging software and started updating the site regularly.
+
+Skip ahead to the 2010s. For many reasons, I let the site sit. I was writing on the  [Typekit blog](https://blog.typekit.com/2009/05/27/introducing-typekit/); I wrote on [Medium](https://medium.com/@veen) for a spell. Then I mostly went quiet in public as part of general retreat from social media, which was healthy and refreshing for me.
+
+Recently, GitHub started sending me [Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide) alerts for this site’s repo with the forbidding message, “Known security vulnerabilities detected.” In the past, fixing something like this would have been just enough effort to ignore. I’d have to dig through the code to remember how everything worked, and what I was thinking back in 2012 when I last updated the site. But we live in the future now, so I pulled the repo down, asked [Claude](https://www.claude.com/product/claude-code) to update the libraries, and it happily did so, modernizing the CSS and making everything more accessible to boot.
+
+But before I checked it back in, I paused. Why not start posting again? And in doing so, why not make it less precious? Looking through some of the older posts, I can see that was only posting if something [Very Important](https://veen.com/jeff/archives/investors.html) had happened, like the [launch of something new](https://veen.com/jeff/archives/000965.html) or a [change in my career](https://medium.com/@veen/next-b1364d7652cb).
+
+But something big *has* been happening lately and I thought maybe I could just clean up all these notes I’m keeping for myself and start dropping them here. And the thing that has been happening is rekindling my love of building things. You can see it here:
+
+![Github Heatmap](/jeff/images/github-heatmap.png)
+
+That’s a Github heat map showing commits I’ve made over the last 12 months. During that time I have been steadily shipping code that actually works and other people use, with coding agents that get [more powerful](https://www.swebench.com/index.html) seemingly every day. 
+
+What a revelation that has been. After a long career in product and design, most of which was spent in management and leadership, it feels incredibly empowering to just have an idea, kick that idea around with a virtual developer who has read the entire internet, and get the code back in a few minutes. Test, iterate, think, repeat. The dopamine rush of shipping happening multiple times a day. *Crazy*.
+
+Thirty years ago, on `1994-12-02T05:00:00Z`, I felt like something big was happening. The Web was blossoming in front of our eyes. The future seemed limitless. There are similar vibes today. I’ve been quietly exploring the new future, and I think I’ll share a bit about that here. 
+
+With luck, I might get another 30 years out of this domain.

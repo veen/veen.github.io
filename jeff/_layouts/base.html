@@ -1,29 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129508-1"></script>
+    <!-- Google tag (gtag.js) - Google Analytics 4 -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://use.typekit.net">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQERBRFEC9"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'UA-129508-1');
+      gtag('config', 'G-XQERBRFEC9');
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} by Jeffrey Veen</title>
-    <link rel="stylesheet" href="{{ site.url }}/jeff/css/style_10feb2020.css" type="text/css" media="screen">
+    <meta name="description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+    <meta name="author" content="Jeffrey Veen">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+    <link rel="stylesheet" href="{{ site.url }}/jeff/css/style.css" type="text/css" media="screen">
     <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
     <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/rss-source.xml" title="Atom Feed">
   </head>
   <body>
 
-    <nav>
-        <p>A website by <a href="{{site.url}}/jeff">Jeffrey Veen</a></p>
-    </nav>
+    <header>
+      <nav>
+          <p><a href="{{site.url}}/jeff">Jeffrey Veen</a> &raquo; &nbsp; <a href="{{site.url}}/jeff">Blog</a> &nbsp; <a href="{{site.url}}/jeff/about/">About</a></p>
+      </nav>
+    </header>
 
+    <main>
 		{{ content }}
+    </main>
 
   </body>
 </html>
