@@ -6,10 +6,22 @@ title: Jeffrey Veen's blog
 <section class="archive">
 {% for post in site.posts %}
     {% if post.featured %}
-    
+    <article class="archive-post">
     <h2><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="abstract"> &raquo; <span class="published_date">{{ post.date | date_to_string }}</span> &middot; {{post.abstract}}</p>
-    
+    <p class="published_date">{{ post.date | date_to_string }}</p>
+    {% assign paragraphs = post.content | split: '</p>' %}
+    {% assign displayed = 0 %}
+    {% for paragraph in paragraphs %}
+      {% assign trimmed = paragraph | strip %}
+      {% if trimmed contains '<p' and displayed < 3 %}
+        {{ trimmed | append: '</p>' }}
+        {% assign displayed = displayed | plus: 1 %}
+      {% endif %}
+      {% if displayed == 3 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    </article>
     {% endif %}
 {% endfor %} 
 

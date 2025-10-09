@@ -321,11 +321,12 @@ code {
 
 /* Home page listing */
 
-.abstract {
-    font-family: var(--font-family-heading);
-    font-size: var(--font-size-abstract);
-    font-weight: var(--font-weight-regular);
-    margin: 0 0 var(--space-stack-md) 0;
+.archive-post {
+    margin-bottom: var(--space-stack-xl);
+}
+
+.archive-post:last-of-type {
+    margin-bottom: 0;
 }
 
 .archive h2 {
