@@ -10,17 +10,24 @@ title: Jeffrey Veen's blog
     <h2><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
     <p class="published_date">{{ post.date | date_to_string }}</p>
     {% assign paragraphs = post.content | split: '</p>' %}
-    {% assign displayed = 0 %}
+    {% assign word_count = 0 %}
     {% for paragraph in paragraphs %}
       {% assign trimmed = paragraph | strip %}
-      {% if trimmed contains '<p' and displayed < 3 %}
+      {% if trimmed contains '<p' %}
+        {% assign text = trimmed | strip_html | strip_newlines | strip %}
+        {% if text != '' %}
+          {% assign normalized = text | replace: '  ', ' ' %}
+          {% assign normalized = normalized | replace: '  ', ' ' %}
+          {% assign paragraph_word_count = normalized | split: ' ' | size %}
+          {% assign word_count = word_count | plus: paragraph_word_count %}
+        {% endif %}
         {{ trimmed | append: '</p>' }}
-        {% assign displayed = displayed | plus: 1 %}
-      {% endif %}
-      {% if displayed == 3 %}
-        {% break %}
+        {% if word_count >= 50 %}
+          {% break %}
+        {% endif %}
       {% endif %}
     {% endfor %}
+    <p class="continue-reading"><a href="{{site.url}}{{ post.url }}">CONTINUE READING &rarr;</a></p>
     </article>
     {% endif %}
 {% endfor %} 

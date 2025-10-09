@@ -13,7 +13,7 @@ You can open up a terminal on your computer and type the following at the comman
 $ whois veen.com
 ```
 
-Your terminal will fill with a few pages of mostly-redacted information. This command queries a database of publicly available `domain registrations`. Years ago, you’d see actual email addresses and phone numbers for the people who owned and managed domain names across the internet. But in today’s world, all of that this hidden.
+Your terminal will fill with a few pages of mostly-redacted information. This command queries a database of publicly available domain registrations. Years ago, you’d see actual email addresses and phone numbers for the people who owned and managed domain names across the internet. But in today’s world, all of that this hidden.
 
 However, if you pick through the whois output, you’ll still find these lines:
 
