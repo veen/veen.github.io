@@ -37,7 +37,12 @@
     <div class="site">
       <header class="site-header">
         <nav class="site-nav" aria-label="Primary navigation">
-            <p><a href="{{site.url}}/jeff">Jeffrey Veen</a> &raquo; &nbsp; <a href="{{site.url}}/jeff">Blog</a> &nbsp; <a href="{{site.url}}/jeff/about/">About</a></p>
+            <p>
+              <a href="{{site.url}}/jeff">Jeffrey Veen</a> &raquo; &nbsp; <a href="{{site.url}}/jeff">Blog</a> &nbsp; <a href="{{site.url}}/jeff/about/">About</a> &nbsp;
+              <button class="theme-toggle" type="button" aria-label="Toggle color theme" aria-pressed="false">
+                <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+              </button>
+            </p>
         </nav>
       </header>
 
@@ -46,5 +51,73 @@
       </main>
     </div>
 
+    <script>
+      (function () {
+        const storageKey = "theme-preference";
+        const root = document.documentElement;
+        const toggle = document.querySelector(".theme-toggle");
+        if (!toggle) return;
+
+        const icon = toggle.querySelector(".theme-toggle__icon");
+        const prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)");
+
+        const safeGet = () => {
+          try {
+            return localStorage.getItem(storageKey);
+          } catch (error) {
+            return null;
+          }
+        };
+
+        const safeSet = (value) => {
+          try {
+            localStorage.setItem(storageKey, value);
+          } catch (error) {
+            /* ignore write failures, e.g. private mode */
+          }
+        };
+
+        const applyTheme = (theme) => {
+          const isDark = theme === "dark";
+          root.classList.remove("theme--dark", "theme--light");
+          root.classList.add(isDark ? "theme--dark" : "theme--light");
+          toggle.setAttribute("aria-pressed", String(isDark));
+          if (icon) {
+            icon.textContent = isDark ? "◑" : "◐";
+          }
+        };
+
+        const getPreferredTheme = () => {
+          const stored = safeGet();
+          if (stored === "dark" || stored === "light") {
+            return stored;
+          }
+          return prefersDark && prefersDark.matches ? "dark" : "light";
+        };
+
+        let currentTheme = getPreferredTheme();
+        applyTheme(currentTheme);
+
+        toggle.addEventListener("click", () => {
+          currentTheme = currentTheme === "dark" ? "light" : "dark";
+          applyTheme(currentTheme);
+          safeSet(currentTheme);
+        });
+
+        const handlePreferenceChange = (event) => {
+          if (safeGet()) {
+            return;
+          }
+          currentTheme = event.matches ? "dark" : "light";
+          applyTheme(currentTheme);
+        };
+
+        if (prefersDark && prefersDark.addEventListener) {
+          prefersDark.addEventListener("change", handlePreferenceChange);
+        } else if (prefersDark && prefersDark.addListener) {
+          prefersDark.addListener(handlePreferenceChange);
+        }
+      })();
+    </script>
   </body>
 </html>
