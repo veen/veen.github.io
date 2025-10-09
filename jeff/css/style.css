@@ -13,7 +13,7 @@
   --color-neutral-900: #1a1a1a;
 
   --font-family-sans: "source-sans-pro", sans-serif;
-  --font-family-serif: "source-serif-pro", Georgia,, serif;
+  --font-family-serif: "source-serif-pro", Georgia, "Times New Roman", Times, serif;
   --font-family-mono: "source-code-pro", monospace;
   --font-weight-light: 300;
   --font-weight-regular: 400;
