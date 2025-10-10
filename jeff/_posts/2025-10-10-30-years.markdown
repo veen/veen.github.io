@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "30 Years of Building"
-date: 2025-10-11
+date: 2025-10-10
 author: Jeffrey Veen
 featured: yes
 abstract: Dusting this site off after 30 years.
