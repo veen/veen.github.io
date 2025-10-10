@@ -2,15 +2,12 @@
 layout: base
 ---
   <article>
-      <h1> {{ page.title | smartify }}</h1>
-      
-      <section class="byline">
-          <!-- Publish date-->
-          {{ page.date | date_to_string }}
-      </section>
+      <h1>{{ page.title | smartify }}</h1>
 
-       {{ content }}
+      <time class="byline" datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date_to_string }}
+      </time>
+
+      {{ content }}
 
   </article>
-
-<!--<span class="link-to-home"><br>Read <a href="{{ site.url }}">more &rarr;</a></span>-->

@@ -1,4 +1,5 @@
 title:        Jeffrey Veen
+url:          https://veen.com
 feed:         /rss-source.xml
 description:   "The personal web site of Jeffrey Veen."
 permalink:    jeff/archives/:title.html

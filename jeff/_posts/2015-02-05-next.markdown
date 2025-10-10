@@ -7,7 +7,7 @@ featured: yes
 abstract: I’m leaving Adobe to practice design in ways I never quite expected.
 ---
 
-Recently I had the privilege of being interviewed by [Om Malik]("https://om.co/") at his Roadmap Conference. We were talking about about design in general and Adobe in particular, and he asked me about the project I had completed earlier in the year, in which we redesigned the entire Adobe.com experience from the ground up. It was an almost absurd undertaking, and Om rightly pointed out what had been at stake. "How do you convince a big company like that to make such a big change? Isn't design risky?"
+Recently I had the privilege of being interviewed by [Om Malik](https://om.co/) at his Roadmap Conference. We were talking about about design in general and Adobe in particular, and he asked me about the project I had completed earlier in the year, in which we redesigned the entire Adobe.com experience from the ground up. It was an almost absurd undertaking, and Om rightly pointed out what had been at stake. "How do you convince a big company like that to make such a big change? Isn't design risky?"
 
 I thought for a moment, and then told him I disagreed:
 

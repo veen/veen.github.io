@@ -3,10 +3,10 @@ layout: base
 title: Jeffrey Veen's blog
 ---
 
-<section class="archive">
+<section class="post-list" aria-label="Recent posts">
 {% for post in site.posts limit:3 %}
   {% if post.featured %}
-  <article class="archive-post">
+  <article class="post-item">
     <h2><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
     {% assign paragraphs = post.content | split: '</p>' %}
     {% assign word_count = 0 %}
@@ -26,11 +26,11 @@ title: Jeffrey Veen's blog
         {% endif %}
       {% endif %}
     {% endfor %}
-    <div class="archive-post-footer">
-      <p class="continue-reading"><a href="{{site.url}}{{ post.url }}">CONTINUE READING &rarr;</a></p>
-      <p class="published_date">{{ post.date | date_to_string }}</p>
-    </div>
-    <hr class="archive-separator">
+    <footer class="post-footer">
+      <p class="continue-reading"><a href="{{site.url}}{{ post.url }}" aria-label="Continue reading {{ post.title }}">CONTINUE READING &rarr;</a></p>
+      <time class="published_date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+    </footer>
+    <hr class="post-separator" aria-hidden="true">
   </article>
   {% endif %}
 {% endfor %}
