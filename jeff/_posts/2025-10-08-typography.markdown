@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Typography"
-date: 2025-10-07
+date: 2025-10-11
 author: Jeffrey Veen
 featured: yes
 abstract: Dusting this site off after 30 years.
@@ -21,14 +21,28 @@ For us, so much was uncharted. The four of us who founded the company had worked
 
 .site {
     display: grid;
-    grid-template-columns: minmax(var(--space-page-inline), 1fr) minmax(auto, var(--layout-content-max)) minmax(var(--space-page-inline), 1fr);
-    gap: var(--space-stack-lg);
+    grid-template-columns: var(--space-4) 1fr var(--space-4);
+    row-gap: var(--space-stack-lg);
+    column-gap: 0;
     padding-block: var(--space-stack-lg);
+    padding-inline: var(--space-0);
+}
+
+@media (min-width: 768px) {
+  .site {
+    grid-template-columns: minmax(var(--space-page-inline-lg), 1fr) minmax(auto, var(--layout-content-max)) minmax(var(--space-page-inline-lg), 1fr);
+    padding-inline: 0;
+  }
 }
 
 .site > * {
     grid-column: 2;
     width: 100%;
+}
+
+.site-header {
+    display: flex;
+    justify-content: flex-end;
 }
 ```
 
