@@ -29,8 +29,18 @@
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+    
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ site.url }}/jeff/css/style.css" type="text/css" media="screen">
+
+    <!-- My baby... -->
     <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
+
+    <!-- Prism syntax highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" id="prism-light-theme">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-dark.min.css" id="prism-dark-theme" disabled>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/toolbar/prism-toolbar.min.css">
+
     <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/jeff/rss-source.xml" title="Atom Feed">
   </head>
   <body>
@@ -85,6 +95,14 @@
           if (icon) {
             icon.textContent = isDark ? "◑" : "◐";
           }
+
+          // Toggle Prism themes
+          const lightTheme = document.getElementById("prism-light-theme");
+          const darkTheme = document.getElementById("prism-dark-theme");
+          if (lightTheme && darkTheme) {
+            lightTheme.disabled = isDark;
+            darkTheme.disabled = !isDark;
+          }
         };
 
         const getPreferredTheme = () => {
@@ -119,5 +137,15 @@
         }
       })();
     </script>
+
+    <!-- Prism syntax highlighting -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-markup.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-css.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/toolbar/prism-toolbar.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js"></script>
   </body>
 </html>

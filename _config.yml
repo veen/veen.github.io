@@ -6,3 +6,15 @@ permalink:    jeff/archives/:title.html
 layouts_dir:  jeff/_layouts
 sass:
     style: compressed
+
+collections:
+  drafts:
+    output: true
+    permalink: /jeff/drafts/:title.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "post"

@@ -9,7 +9,7 @@ abstract: Dusting this site off after 30 years.
 
 You can open up a terminal on your computer and type the following at the command prompt:
 
-```
+```bash
 $ whois veen.com
 ```
 
@@ -17,7 +17,7 @@ Your terminal will fill with a few pages of mostly-redacted information. This co
 
 However, if you pick through the whois output, you’ll still find these lines:
 
-```
+```bash
 Domain Name: VEEN.COM
 Creation Date: 1994-12-02T05:00:00Z
 ```
@@ -32,7 +32,7 @@ But before I checked it back in, I paused. Why not start posting again? And in d
 
 But something big *has* been happening lately and I thought maybe I could just clean up all these notes I’m keeping for myself and start dropping them here. And the thing that has been happening is rekindling my love of building things. You can see it here:
 
-![Github Heatmap](/jeff/images/github-heatmap.png)
+![Github Heatmap](https://veen.com/jeff/images/github-heatmap.png)
 
 That’s a Github heat map showing commits I’ve made over the last 12 months. During that time I have been steadily shipping code that actually works and other people use, with coding agents that get [more powerful](https://www.swebench.com/index.html) seemingly every day. 
 

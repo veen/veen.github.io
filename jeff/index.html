@@ -5,6 +5,7 @@ title: Jeffrey Veen's blog
 
 <section class="post-list" aria-label="Recent posts">
 {% for post in site.posts limit:3 %}
+  {% unless post.collection == 'drafts' %}
   {% if post.featured %}
   <article class="post-item">
     <h2><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
@@ -33,5 +34,6 @@ title: Jeffrey Veen's blog
     <hr class="post-separator" aria-hidden="true">
   </article>
   {% endif %}
+  {% endunless %}
 {% endfor %}
 </section>
