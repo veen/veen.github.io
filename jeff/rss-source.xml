@@ -19,6 +19,7 @@ permalink: /jeff/rss-source.xml
     <name>{{ site.author | default: "Jeffrey Veen" }}</name>
   </author>
   {% for post in site.posts limit:20 %}
+  {% unless post.collection == 'drafts' %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" />
@@ -26,5 +27,6 @@ permalink: /jeff/rss-source.xml
     <id>{{ post.url | absolute_url }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
+  {% endunless %}
   {% endfor %}
 </feed>
