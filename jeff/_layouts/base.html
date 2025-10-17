@@ -23,12 +23,20 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+    {% if page.og_image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.og_image }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    {% endif %}
 
     <!-- Twitter -->
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="{% if page.og_image %}summary_large_image{% else %}summary{% endif %}">
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+    {% if page.og_image %}
+    <meta name="twitter:image" content="{{ site.url }}{{ page.og_image }}">
+    {% endif %}>
     
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ site.url }}/jeff/css/style.css" type="text/css" media="screen">
