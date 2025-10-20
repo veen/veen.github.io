@@ -10,4 +10,24 @@ layout: base
 
       {{ content }}
 
+      <hr class="post-footer-separator">
+      <footer class="post-footer">
+        <form
+          action="https://buttondown.com/api/emails/embed-subscribe/veen"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.com/veen', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email" class="post-footer__label">
+            <em>
+              Get future posts via
+              <a href="{{ '/jeff/rss-source.xml' | absolute_url }}">RSS</a> or email
+            </em>
+          </label>
+          <input type="email" name="email" id="bd-email" autocomplete="email" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </footer>
+
   </article>

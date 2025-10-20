@@ -8,7 +8,7 @@ title: Jeffrey Veen's blog
   {% unless post.collection == 'drafts' %}
   {% if post.featured %}
   <article class="post-item">
-    <h2><a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
     {% assign paragraphs = post.content | split: '</p>' %}
     {% assign word_count = 0 %}
     {% for paragraph in paragraphs %}
@@ -28,7 +28,7 @@ title: Jeffrey Veen's blog
       {% endif %}
     {% endfor %}
     <footer class="post-footer">
-      <p class="continue-reading"><a href="{{site.url}}{{ post.url }}" aria-label="Continue reading {{ post.title }}">CONTINUE READING &rarr;</a></p>
+      <p class="continue-reading"><a href="{{ post.url | absolute_url }}" aria-label="Continue reading {{ post.title }}">Continue reading &rarr;</a></p>
       <time class="published_date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
     </footer>
     <hr class="post-separator" aria-hidden="true">

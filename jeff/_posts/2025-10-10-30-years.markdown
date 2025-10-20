@@ -8,6 +8,8 @@ abstract: Dusting this site off after 30 years.
 og_image: /jeff/images/terminal_window.png
 ---
 
+![Terminal window showing whois veen.com output](/jeff/images/terminal_window.png)
+
 You can open up a terminal on your computer and type the following at the command prompt:
 
 ```bash
