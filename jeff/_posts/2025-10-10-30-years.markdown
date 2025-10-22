@@ -25,7 +25,7 @@ Domain Name: VEEN.COM
 Creation Date: 1994-12-02T05:00:00Z
 ```
 
-Thirty years! I missed the big anniversary in the year-end bustle last December, but it feels like quite a milestone. I remember registering the domain when I was building webpages at Wired Magazine. Back then, you needed to send email directly to the InterNIC, with an explanation of what you intended to do with the address. Thankfully, they granted me the URL, and I set up and old Mac IIci in the server closet to serve a simple site. Eventually, I started using early blogging software and started updating the site regularly.
+Thirty years! I missed the big anniversary in the year-end bustle last December, but it feels like quite a milestone. I remember registering the domain when I was building webpages at Wired Magazine. Back then, you needed to send email directly to the InterNIC, with an explanation of what you intended to do with the address. Thankfully, they granted me the URL, and I set up an old Mac IIci in the server closet to serve a simple site. Eventually, I started using early blogging software and started updating the site regularly.
 
 Skip ahead to the 2010s. For many reasons, I let the site sit. I was writing on the  [Typekit blog](https://blog.typekit.com/2009/05/27/introducing-typekit/); I wrote on [Medium](https://medium.com/@veen) for a spell. Then I mostly went quiet in public as part of general retreat from social media, which was healthy and refreshing for me.
 
