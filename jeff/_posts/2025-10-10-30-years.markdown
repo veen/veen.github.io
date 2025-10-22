@@ -16,7 +16,7 @@ You can open up a terminal on your computer and type the following at the comman
 $ whois veen.com
 ```
 
-Your terminal will fill with a few pages of mostly-redacted information. This command queries a database of publicly available domain registrations. Years ago, you’d see actual email addresses and phone numbers for the people who owned and managed domain names across the internet. But in today’s world, all of that this hidden.
+Your terminal will fill with a few pages of mostly-redacted information. This command queries a database of publicly available domain registrations. Years ago, you’d see actual email addresses and phone numbers for the people who owned and managed domain names across the internet. But in today’s world, all of that is hidden.
 
 However, if you pick through the whois output, you’ll still find these lines:
 
@@ -37,9 +37,9 @@ But something big *has* been happening lately and I thought maybe I could just c
 
 ![Github Heatmap](https://veen.com/jeff/images/github-heatmap.png)
 
-That’s a Github heat map showing commits I’ve made over the last 12 months. During that time I have been steadily shipping code that actually works and other people use, with coding agents that get [more powerful](https://www.swebench.com/index.html) seemingly every day. 
+That’s a Github heat map showing commits I’ve made over the last 12 months. During that time I have been steadily shipping code that actually works, with coding agents that get [more powerful](https://www.swebench.com/index.html) seemingly every day. Some of this code is just for me: [Codex](https://openai.com/codex/) chewing through a directory of PDFs with test results from my doctor to build a dashboard for me. Other projects are work related: a system for extracting co-investors and valuations from archived cap tables at [True](https://trueventures.com/).
 
-What a revelation that has been. After a long career in product and design, most of which was spent in management and leadership, it feels incredibly empowering to just have an idea, kick that idea around with a virtual developer who has read the entire internet, and get the code back in a few minutes. Test, iterate, think, repeat. The dopamine rush of shipping happening multiple times a day. *Crazy*.
+What a revelation that has been. After a long career in product and design, most of which was spent in management and leadership, it feels incredibly empowering to just have an idea, kick that idea around with a virtual developer who has read the entire internet, and get the code back in a few minutes. Test, iterate, think, repeat. The dopamine rush of shipping happening multiple times a day.
 
 Thirty years ago, on `1994-12-02T05:00:00Z`, I felt like something big was happening. The Web was blossoming in front of our eyes. The future seemed limitless. There are similar vibes today. I’ve been quietly exploring the new future, and I think I’ll share a bit about that here. 
 
