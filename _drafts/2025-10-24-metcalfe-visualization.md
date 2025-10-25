@@ -21,11 +21,11 @@ I left Keynote for Claude. I gave it the Wikipedia diagram and described how I e
 
 ![The visualizer app I created](/jeff/images/metcalfe-visualizer-app.png)
 ## Vibe coding is a design super power
-The experience I had preparing for Founder Camp was another nudge towards working in a very different way.
+The experience I had preparing for Founder Camp was a step towards working in a very different way.
 
 First, it’s a good marker for how fast things are changing. That was in March. We’re now in October and it already feels like my vibe coding story comes from a different era. Today, as I write this, multiple Codex agents work in tiled windows on my desktop, refactoring one of my projects.  I would say that I am struck by how far we’ve come, but that feeling hits me weekly now.  The model releases of past few months have been an astonishing leap forward in the efficacy of [code generation](https://www.claude.com/product/claude-code), [design prototyping](https://www.figma.com/make/), and [UX of increasing powerful agents](https://openai.com/index/introducing-agentkit/). I made the animation in a Sonnet 3.5 chat window, setting everything up by hand in the terminal and pasting back and forth as we iterated. That feels like an ancient way of working but it was only seven months ago! 
 
-And second, this just such a good example of how the changing nature of our tools can unlock our ambition for what’s possible now. I’ve spent a career working under constraints, always able to imagine far more than my teams could realistically develop. But it has me thinking about design tools in a very different way now. Our abilities are compounding at a rate that feels even faster than what my diagram illustrated, and traditional tools aren’t keeping up. 
+And second, this just such a great example of how the changing nature of our tools can unlock our ambition for what’s possible now. I’ve spent a career working under constraints, always able to imagine far more than my teams could realistically develop, beholden to budgets and, frankly, the fear of telling a developer to abandon the code I asked for. But this experience, and others since, has me thinking about tools in a very different way now. Our abilities are compounding at a rate that feels even faster than what my diagram illustrated, and traditional software isn’t keeping up. 
 
 The tools we can summon are limited only by our imagination.
 
@@ -36,8 +36,3 @@ I probably would have abandoned the Metcalfe’s Law point had I not been able t
 
 [1] I am generalizing. Metcalfe’s Law counts potential connections and assumes equal edge value. Networks of people have uneven ties: knowledge, power, trust, distance all weigh on relationships. Normalizing these are why we did this exercise in the first place.
 
-
-
-Feedback: [ChatGPT](https://chatgpt.com/share/e/68ef73ac-67f0-8003-b462-6a72f2357950)
-Latest 2025-10-17 [Claude](https://claude.ai/chat/4253d8b0-8348-4662-9cfb-f58acd6a25e9)
-#blog 
