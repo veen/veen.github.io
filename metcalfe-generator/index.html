@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self';">
+  <title>Interactive Network Animator</title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Metcalfe's Law Network Animator</h1>
+    <p>
+      This interactive tool visualizes networks based on Metcalfe's Law, the principle that the value of a network is proportional to the square of its users. Adjust parameters to see how network structure and aesthetics change. Create and download animations of network growth. Read the <a href="https://veen.com/jeff/">blog post</a> for more detail. By Jeff Veen.
+    </p>
+  </header>
+  <div id="app">
+    <canvas id="networkCanvas"></canvas>
+    <aside class="control-pane">
+      <div class="tabs" role="tablist" aria-label="Animation controls">
+        <button class="tab tab-active" type="button" id="tab-structure" data-target="panel-structure" role="tab" aria-selected="true" aria-controls="panel-structure" tabindex="0">Structure</button>
+        <button class="tab" type="button" id="tab-colors" data-target="panel-colors" role="tab" aria-selected="false" aria-controls="panel-colors" tabindex="-1">Colors</button>
+        <button class="tab" type="button" id="tab-download" data-target="panel-download" role="tab" aria-selected="false" aria-controls="panel-download" tabindex="-1">Download</button>
+      </div>
+      <div class="controls-card">
+        <div class="panel panel-active" id="panel-structure" role="tabpanel" aria-labelledby="tab-structure" tabindex="0">
+          <div class="control">
+            <div class="control-header">
+              <label for="nodeCount">Node Count</label>
+              <span class="control-value" id="nodeCountValue">36</span>
+            </div>
+            <input id="nodeCount" type="range" min="3" max="96" value="36">
+          </div>
+          <div class="control">
+            <div class="control-header">
+              <label for="nodeRadius">Node Radius</label>
+              <span class="control-value" id="nodeRadiusValue">11</span>
+            </div>
+            <input id="nodeRadius" type="range" min="4" max="18" value="11">
+          </div>
+          <div class="control">
+            <div class="control-header">
+              <label for="radius">Graph Radius</label>
+              <span class="control-value" id="radiusValue">320</span>
+            </div>
+            <input id="radius" type="range" min="120" max="320" value="320">
+          </div>
+          <div class="control">
+            <div class="control-header">
+              <label for="lineWidth">Line Width</label>
+              <span class="control-value" id="lineWidthValue">0.50</span>
+            </div>
+            <input id="lineWidth" type="range" min="0.25" max="3" step="0.05" value="0.5">
+          </div>
+          <div class="control">
+            <label for="patternMenu">Pattern</label>
+            <div class="dropdown" id="patternDropdown">
+              <button id="patternMenu" type="button" class="dropdown-trigger" aria-haspopup="listbox" aria-expanded="false">
+                <span class="dropdown-label">Circular alternating</span>
+                <svg aria-hidden="true" viewBox="0 0 12 8" width="12" height="8" focusable="false">
+                  <path d="M2 2l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+              </button>
+              <ul class="dropdown-list" role="listbox">
+                <li><button type="button" role="option" data-pattern="circular-alternating" class="dropdown-option selected" aria-selected="true">Circular alternating</button></li>
+                <li><button type="button" role="option" data-pattern="circular" class="dropdown-option" aria-selected="false">Circular sweep</button></li>
+                <li><button type="button" role="option" data-pattern="opposite" class="dropdown-option" aria-selected="false">Opposite pairs</button></li>
+                <li><button type="button" role="option" data-pattern="alternating" class="dropdown-option" aria-selected="false">Alternating fill</button></li>
+              </ul>
+            </div>
+          </div>
+          <div class="control">
+            <div class="control-header">
+              <label for="buildRate">Build Rate (nodes/sec)</label>
+              <span class="control-value" id="buildRateValue">6.0</span>
+            </div>
+            <input id="buildRate" type="range" min="0.5" max="20" step="0.5" value="6">
+          </div>
+          <div class="toggles">
+            <button id="playToggle" type="button" class="button" aria-pressed="true">
+              <svg id="playToggleIcon" viewBox="0 0 12 12" aria-hidden="true">
+                <path id="playToggleIconPath" d="M3 2.5h2v7H3zm4 0h2v7H7z" fill="currentColor" />
+              </svg>
+              <span id="playToggleLabel">Pause</span>
+            </button>
+          </div>
+        </div>
+        <div class="panel" id="panel-colors" role="tabpanel" aria-labelledby="tab-colors" tabindex="-1">
+          <div class="control">
+            <label for="lineColor">Line Color</label>
+            <input id="lineColor" type="color" value="#646464">
+          </div>
+          <div class="control">
+            <label for="backgroundColor">Background</label>
+            <input id="backgroundColor" type="color" value="#ffffff">
+          </div>
+          <div class="control">
+            <label>Node Colors</label>
+            <div id="nodeColorList" class="color-grid"></div>
+          </div>
+          <div class="control">
+            <label for="newNodeColor">Add Node Color</label>
+            <div style="display:flex; gap:0.75rem; align-items:center;">
+              <input id="newNodeColor" type="color" value="#ffffff" title="New node color">
+              <button id="addNodeColor" type="button" class="button">Add Color</button>
+            </div>
+          </div>
+        </div>
+        <div class="panel" id="panel-download" role="tabpanel" aria-labelledby="tab-download" tabindex="-1">
+          <div class="control">
+            <span class="control-label">Aspect Ratio</span>
+            <div class="tabs aspect-tabs" role="radiogroup" aria-label="Aspect ratio">
+              <button type="button" class="tab tab-active aspect-tab" data-aspect="1:1" aria-pressed="true">
+                <span class="aspect-icon aspect-icon-square" aria-hidden="true"></span>
+                1:1
+              </button>
+              <button type="button" class="tab aspect-tab" data-aspect="16:9" aria-pressed="false">
+                <span class="aspect-icon aspect-icon-wide" aria-hidden="true"></span>
+                16:9
+              </button>
+            </div>
+          </div>
+          <div class="control">
+            <label for="downloadVideoButton">Download</label>
+            <button id="downloadVideoButton" type="button" class="button" disabled>Download video</button>
+          </div>
+          <p id="downloadStatus" class="download-status" role="status" aria-live="polite"></p>
+        </div>
+      </div>
+      <footer class="control-footer">
+        <span>
+          Created by <a href="https://veen.com/jeff/">Jeff Veen</a> with <a href="https://claude.ai/">Claude Code</a>.
+        </span>
+        <a class="footer-github" href="https://github.com/veen/metcalfe-generator" aria-label="View source on GitHub">
+          <svg class="footer-github-icon" width="98" height="96" viewBox="0 0 98 96" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M48.854 0C21.839 0 0 22 0 49.217c0 21.756 13.993 40.172 33.405 46.69 2.427.49 3.316-1.059 3.316-2.362 0-1.141-.08-5.052-.08-9.127-13.59 2.934-16.42-5.867-16.42-5.867-2.184-5.704-5.42-7.17-5.42-7.17-4.448-3.015.324-3.015.324-3.015 4.934.326 7.523 5.052 7.523 5.052 4.367 7.496 11.404 5.378 14.235 4.074.404-3.178 1.699-5.378 3.074-6.6-10.839-1.141-22.243-5.378-22.243-24.283 0-5.378 1.94-9.778 5.014-13.2-.485-1.222-2.184-6.275.486-13.038 0 0 4.125-1.304 13.426 5.052a46.97 46.97 0 0 1 12.214-1.63c4.125 0 8.33.571 12.213 1.63 9.302-6.356 13.427-5.052 13.427-5.052 2.67 6.763.97 11.816.485 13.038 3.155 3.422 5.015 7.822 5.015 13.2 0 18.905-11.404 23.06-22.324 24.283 1.78 1.548 3.316 4.481 3.316 9.126 0 6.6-.08 11.897-.08 13.526 0 1.304.89 2.853 3.316 2.364 19.412-6.52 33.405-24.935 33.405-46.691C97.707 22 75.788 0 48.854 0z" fill="currentColor"></path>
+          </svg>
+        </a>
+      </footer>
+    </aside>
+  </div>
+
+  <script type="module" src="lib/app.js"></script>
+</body>
+</html>
