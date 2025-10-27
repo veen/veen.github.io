@@ -71,6 +71,9 @@
   --font-family-meta: var(--font-family-sans);
   --font-family-nav: var(--font-family-mono);
   --font-family-code: var(--font-family-mono);
+  --font-family-footnote: var(--font-family-sans);
+
+  --font-weight-footnote: var(--font-weight-regular);
 
   --font-size-body: clamp(1.125rem, 2vw, 1.25rem);
   --font-size-meta: 1rem;
@@ -80,11 +83,13 @@
   --font-size-h2: clamp(1.25rem, 3vw, 1.5rem);
   --font-size-h3: clamp(1.1rem, 2.5vw, 1.25rem);
   --font-size-code-block: 0.88rem;
+  --font-size-footnote: 1rem;
 
   --line-height-tight: 1.15;
   --line-height-heading: 1.3;
   --line-height-body: 1.55;
   --line-height-code: 1;
+  --line-height-footnote: 1.35;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -572,4 +577,26 @@ figcaption {
     margin-top: var(--space-stack-xs);
     text-align: center;
     font-style: italic;
+}
+
+/* Footnotes */
+
+.littlefoot-footnote,
+.littlefoot-footnote__content {
+    font-size: var(--font-size-footnote);
+    line-height: var(--line-height-footnote);
+    font-weight: var(--font-weight-footnote);
+    color: var(--text-primary);
+}
+
+.littlefoot-footnote,
+.littlefoot-footnote * {
+    font-family: var(--font-family-footnote);
+}
+
+.littlefoot {
+    --popover-font-family: var(--font-family-footnote);
+    --popover-font-weight: var(--font-weight-footnote);
+    --popover-font-size: var(--font-size-footnote);
+    --popover-line-height: var(--line-height-footnote);
 }
