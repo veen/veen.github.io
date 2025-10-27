@@ -4,7 +4,7 @@ title: "Vibing with Metcalfe’s Law"
 date: 2025-10-27
 author: Jeffrey Veen
 featured: yes
-abstract: Super powerful, totally disposable, completely personalized tools is our future.
+abstract: Our future may be filled with super powerful, totally disposable, completely personalized tools
 og_image: /jeff/images/metcalfe-visualization.png
 ---
 
