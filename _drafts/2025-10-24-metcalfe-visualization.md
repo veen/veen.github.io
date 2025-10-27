@@ -2,7 +2,7 @@
 layout: post
 title: "Vibing with Metcalfe’s Law"
 date: 2025-10-27
-author: Jeffrey Veen
+author: Jeff Veen
 featured: yes
 abstract: Our future may be filled with super powerful, totally disposable, completely personalized tools
 og_image: /jeff/images/metcalfe-visualization.png
