@@ -5,7 +5,7 @@ date: 2025-10-27
 author: Jeffrey Veen
 featured: yes
 abstract: Super powerful, totally disposable, completely personalized tools is our future.
-og_image: /jeff/images/metcalfe-visualization.png
+og_image: https://veen.com/jeff/images/metcalfe-visualization.png
 ---
 
 [![A visualization of a network with nodes and edges forming a beautiful geometric pattern](https://veen.com/jeff/images/metcalfe-visualization.png)](https://veen.com/metcalfe-generator/)
