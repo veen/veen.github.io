@@ -14,9 +14,9 @@
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }} by Jeffrey Veen</title>
-    <meta name="description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
-    <meta name="author" content="Jeffrey Veen">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeff Veen's blog about design, technology, and the web{% endif %}">
+    <meta name="author" content="Jeff Veen">
 
     <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
@@ -29,7 +29,7 @@
     <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+    <meta property="og:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeff Veen's blog about design, technology, and the web{% endif %}">
     {% if page.og_image %}
     <meta property="og:image" content="{{ site.url }}{{ page.og_image }}">
     <meta property="og:image:width" content="1200">
@@ -40,7 +40,7 @@
     <meta name="twitter:card" content="{% if page.og_image %}summary_large_image{% else %}summary{% endif %}">
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeffrey Veen's blog about design, technology, and the web{% endif %}">
+    <meta name="twitter:description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Jeff Veen's blog about design, technology, and the web{% endif %}">
     {% if page.og_image %}
     <meta name="twitter:image" content="{{ site.url }}{{ page.og_image }}">
     {% endif %}
@@ -69,7 +69,7 @@
         <nav class="site-nav" aria-label="Primary navigation">
             <ul class="site-nav__list">
               <li class="site-nav__item site-nav__item--home">
-                <a href="{{ '/jeff' | relative_url }}">Jeffrey Veen</a>
+                <a href="{{ '/jeff' | relative_url }}">Jeff Veen</a>
               </li>
               <li class="site-nav__item">
                 <a href="{{ '/jeff' | relative_url }}">Blog</a>
