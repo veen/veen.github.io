@@ -1,0 +1,106 @@
+{% assign sidebar_featured = site.posts | where_exp: "post", "post.featured" %}
+{% assign sidebar_posts = sidebar_featured | slice: 0, 3 %}
+{% if sidebar_posts.size == 0 %}
+  {% assign sidebar_posts = site.posts | slice: 0, 3 %}
+{% endif %}
+
+<aside class="sidebar" aria-label="Site information">
+  <div class="sidebar__card">
+    <section class="sidebar__section sidebar__section--profile">
+      <div class="sidebar__profile">
+        <img
+          class="sidebar__avatar"
+          src="{{ '/jeff/images/jeff-bw.jpeg' | relative_url }}"
+          alt="Portrait of Jeff Veen"
+          loading="lazy"
+        >
+        <div class="sidebar__profile-meta">
+          <p class="sidebar__name">Jeff Veen</p>
+          <ul class="sidebar__social" role="list">
+            <li>
+              <a class="sidebar__social-link" href="https://www.linkedin.com/in/jeffreyveen" aria-label="LinkedIn">
+                <svg class="sidebar__icon" viewBox="0 0 19.4066 19.4066" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                  <path d="M15.3635 0H4.04304C1.81047 0 0 1.81047 0 4.04304V15.3635C0 17.5961 1.81047 19.4066 4.04304 19.4066H15.3635C17.5969 19.4066 19.4066 17.5961 19.4066 15.3635V4.04304C19.4066 1.81047 17.5969 0 15.3635 0ZM6.46886 15.3635H4.04304V6.46886H6.46886V15.3635ZM5.25595 5.44355C4.47483 5.44355 3.84089 4.80475 3.84089 4.01716C3.84089 3.22958 4.47483 2.59078 5.25595 2.59078C6.03706 2.59078 6.67101 3.22958 6.67101 4.01716C6.67101 4.80475 6.03787 5.44355 5.25595 5.44355ZM16.1722 15.3635H13.7463V10.8321C13.7463 8.10872 10.5119 8.31491 10.5119 10.8321V15.3635H8.08608V6.46886H10.5119V7.89605C11.6407 5.80499 16.1722 5.65055 16.1722 9.89817V15.3635Z" fill="#777777"/>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a class="sidebar__social-link" href="https://x.com/veen" aria-label="X (formerly Twitter)">
+                <svg class="sidebar__icon" viewBox="34.9318 0 19.4066 19.4066" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                  <path d="M38.1663 0C36.3799 0 34.9318 1.4481 34.9318 3.23443V16.1722C34.9318 17.9585 36.3799 19.4066 38.1663 19.4066H51.104C52.8903 19.4066 54.3384 17.9585 54.3384 16.1722V3.23443C54.3384 1.4481 52.8903 0 51.104 0H38.1663ZM39.1301 4.15855H42.7977L45.4022 7.85956L48.5627 4.15855H49.7178L45.9239 8.60048L50.6022 15.248H46.9355L43.9132 10.9541L40.2456 15.248H39.0904L43.3915 10.2132L39.1301 4.15855ZM40.8989 5.08268L47.4174 14.3239H48.8334L42.3149 5.08268H40.8989Z" fill="#777777"/>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a class="sidebar__social-link" href="https://github.com/veen" aria-label="GitHub">
+                <svg class="sidebar__icon" viewBox="69.8637 0 19.4065 19.4065" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M79.575 0C74.2049 0 69.8637 4.44732 69.8637 9.94927C69.8637 14.3473 72.6453 18.0701 76.504 19.3877C76.9865 19.4868 77.1632 19.1736 77.1632 18.9102C77.1632 18.6796 77.1473 17.889 77.1473 17.0652C74.4458 17.6583 73.8833 15.8792 73.8833 15.8792C73.4491 14.7261 72.8059 14.4297 72.8059 14.4297C71.9217 13.8203 72.8703 13.8203 72.8703 13.8203C73.8511 13.8862 74.3657 14.8415 74.3657 14.8415C75.2338 16.3569 76.6326 15.9287 77.1954 15.6651C77.2757 15.0227 77.5331 14.5779 77.8064 14.3309C75.6518 14.1002 73.3849 13.2437 73.3849 9.42206C73.3849 8.33489 73.7706 7.44543 74.3816 6.75366C74.2852 6.50664 73.9475 5.48517 74.4782 4.11802C74.4782 4.11802 75.2982 3.85441 77.1471 5.13929C77.9387 4.9215 78.755 4.81071 79.575 4.80978C80.395 4.80978 81.2309 4.92521 82.0027 5.13929C83.8518 3.85441 84.6718 4.11802 84.6718 4.11802C85.2025 5.48517 84.8646 6.50664 84.7682 6.75366C85.3954 7.44543 85.7651 8.33489 85.7651 9.42206C85.7651 13.2437 83.4982 14.0837 81.3275 14.3309C81.6813 14.6438 81.9866 15.2367 81.9866 16.1757C81.9866 17.5099 81.9707 18.5807 81.9707 18.91C81.9707 19.1736 82.1477 19.4868 82.6299 19.3879C86.4887 18.0699 89.2702 14.3473 89.2702 9.94927C89.2861 4.44732 84.929 0 79.575 0Z" fill="#777777"/>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a class="sidebar__social-link" href="{{ '/jeff/rss-source.xml' | absolute_url }}" aria-label="RSS feed">
+                <svg class="sidebar__icon" viewBox="104.796 0 19.4066 19.4066" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                  <rect x="104.796" width="19.4066" height="19.4066" rx="4" fill="#777777"/>
+                  <path d="M107.707 7.52763V10.1225C109.399 10.1225 111.002 10.7911 112.201 11.9904C113.4 13.1897 114.064 14.7922 114.064 16.4903V16.4956H116.669C116.669 14.0228 115.661 11.7887 114.037 10.1597C112.419 8.53587 110.179 7.53294 107.707 7.52763Z" fill="white"/>
+                  <path d="M109.511 12.8819C109.012 12.8819 108.566 13.0835 108.237 13.4125C107.908 13.7415 107.707 14.1873 107.707 14.6861C107.707 15.1796 107.908 15.6253 108.237 15.9543C108.566 16.278 109.012 16.4797 109.511 16.4797C110.01 16.4797 110.455 16.2833 110.784 15.9543C111.113 15.6253 111.315 15.1796 111.315 14.6861C111.315 14.1873 111.113 13.7415 110.784 13.4125C110.455 13.0835 110.01 12.8819 109.511 12.8819Z" fill="white"/>
+                  <path d="M117.306 6.89616C114.849 4.43395 111.458 2.91099 107.712 2.91099V5.50586C113.767 5.51117 118.686 10.4409 118.691 16.4956H121.291C121.291 12.7492 119.768 9.35837 117.306 6.89616Z" fill="white"/>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <p class="sidebar__bio">
+        Design Partner at True Ventures. Formerly, founder of Typekit and Adaptive Path, design leadership at Google and Adobe.
+        <a href="{{ '/jeff/about/' | relative_url }}" class="sidebar__more-link">MORE...</a>
+      </p>
+    </section>
+
+    <section class="sidebar__section" aria-labelledby="sidebar-recent-heading">
+      <p id="sidebar-recent-heading" class="sidebar__eyebrow">RECENT POSTS</p>
+      <ol class="sidebar__recent-list" role="list">
+        {% for post in sidebar_posts %}
+        <li class="sidebar__recent-item">
+          <a class="sidebar__recent-link" href="{{ post.url | relative_url }}">
+            <span class="sidebar__recent-title">{{ post.title | smartify }}</span>
+            <time class="sidebar__recent-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" | upcase }}</time>
+            {% assign summary_source = post.abstract | default: post.excerpt %}
+            {% assign summary_text = summary_source | strip_html | strip_newlines | strip %}
+            {% if summary_text != "" %}
+            <span class="sidebar__recent-excerpt">{{ summary_text | truncate: 140 }}</span>
+            {% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+  </div>
+
+  <section class="sidebar__subscribe-block" aria-labelledby="sidebar-subscribe-heading">
+    <p id="sidebar-subscribe-heading" class="sidebar__eyebrow">STAY IN TOUCH</p>
+    <p class="sidebar__subscribe-copy">
+      Sign up to receive future posts or subscribe via
+      <a href="{{ '/jeff/rss-source.xml' | absolute_url }}">RSS</a>.
+    </p>
+    <form
+      action="https://buttondown.com/api/emails/embed-subscribe/veen"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.com/veen', 'popupwindow')"
+      class="sidebar__subscribe-form embeddable-buttondown-form"
+    >
+      <input
+        type="email"
+        name="email"
+        id="sidebar-email"
+        class="sidebar__input"
+        placeholder="Your email"
+        aria-label="Email address"
+        autocomplete="email"
+        required
+      >
+      <button type="submit" class="sidebar__button">Subscribe</button>
+    </form>
+  </section>
+</aside>

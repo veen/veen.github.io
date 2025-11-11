@@ -1,9 +1,12 @@
 ---
 layout: base
 title: Jeffrey Veen's blog
+main_class: site-main--wide
+sidebar: true
 ---
 
-<section class="post-list" aria-label="Recent posts">
+<div class="layout layout--with-sidebar">
+<section class="post-list layout__content" aria-label="Recent posts">
 {% for post in site.posts limit:3 %}
   {% unless post.collection == 'drafts' %}
   {% if post.featured %}
@@ -37,3 +40,5 @@ title: Jeffrey Veen's blog
   {% endunless %}
 {% endfor %}
 </section>
+{% include sidebar.html %}
+</div>

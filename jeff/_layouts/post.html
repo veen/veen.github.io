@@ -1,7 +1,12 @@
 ---
 layout: base
 ---
-  <article>
+  {% if page.sidebar %}
+  <div class="layout layout--with-sidebar">
+    <article class="layout__content">
+  {% else %}
+    <article>
+  {% endif %}
       <h1>{{ page.title | smartify }}</h1>
 
       <time class="byline" datetime="{{ page.date | date_to_xmlschema }}">
@@ -30,4 +35,10 @@ layout: base
         </form>
       </footer>
 
-  </article>
+  {% if page.sidebar %}
+    </article>
+    {% include sidebar.html %}
+  </div>
+  {% else %}
+    </article>
+  {% endif %}

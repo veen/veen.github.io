@@ -4,6 +4,7 @@ feed:         /rss-source.xml
 description:   "The personal web site of Jeffrey Veen."
 permalink:    jeff/archives/:title.html
 layouts_dir:  jeff/_layouts
+includes_dir: jeff/_includes
 sass:
     style: compressed
 
@@ -18,3 +19,11 @@ defaults:
       type: "drafts"
     values:
       layout: "post"
+      main_class: "site-main--wide"
+      sidebar: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      main_class: "site-main--wide"
+      sidebar: true
