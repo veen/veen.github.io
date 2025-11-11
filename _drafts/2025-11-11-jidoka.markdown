@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Small Acts Build Great Cultures"
+date: 2025-11-11
+author: Jeffrey Veen
+featured: yes
+abstract: Does it feel safe to slow down your team?
+og_image: /jeff/images/operation.png
+---
+This morning as I walked to the cafe my phone alerted me that I’d left my luggage at home. This and other bugs have been happening off and on since I upgraded to iOS 26. My AirTags are randomly forgetting where they are. Some of my friends are showing up as mere phone numbers in iMessage. Nothing terribly bad, just a string of little paper cuts.
+
+It reinforces my belief that teams need a culture that values attention to detail when building products. Tiny annoyances so often get neglected as we rush to ship, but the consequences accumulate, souring the whole brand. It’s not a long journey from “Ugh, these AirTags…” to “Apple has lost their way…”
+
+But in my experience, those rough edges seldom go unnoticed by someone, somewhere, who was unable to stop the momentum of a product release for such an “insignificant” flaw. Or, even more consequentially, they did not feel it was safe to do so. 
+
+This resonates with the concept of [jidoka](https://mag.toyota.co.uk/jidoka-toyota-production-system/) — a principle from Toyota's legendary production process that gave a switch to every worker allowing them to stop the assembly line if they noticed a problem. The innovation was not that they wired the factory to be controlled this way, it was that everyone on the team had a shared sense of quality. Each worker had a constant reminder that the organization trusted their judgement.
+
+This is where your values become tangible. We can talk about believing in quality, caring about users, or the psychological safety of our teams. But how does that boil down to a junior designer filing a P0 bug the night before launch?
+
+I’ve always felt that culture is made of the accumulation of small acts of gracious leadership: acknowledging moments of bravery during a retro, teasing out a reticent comment during a product review, and on and on. It can come from other places too, but it is most effective when it comes from the top.
+
+If you’re leading a team remember: Never criminalize pride in craft.
