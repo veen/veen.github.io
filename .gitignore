@@ -2,4 +2,8 @@
 .jekyll-cache/
 .jekyll-metadata
 _site
+vendor/bundle/
+.bundle/
+.gem/
+.devcontainer/vendor/
 repomix-output.xml

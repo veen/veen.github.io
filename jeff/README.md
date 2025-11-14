@@ -31,10 +31,10 @@ jeff/
 ### Using Apple Container (recommended on macOS)
 
 ```bash
-container run --rm -v $(pwd):/site -w /site -p 4000:4000 ruby:3.2 bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
+container run -p 4000:4000 --name jekyll -v $(pwd):/site bretfisher/jekyll-serve
 ```
 
-Then visit: http://localhost:4000
+Then visit: http://localhost:4000/jeff
 
 ### Using Docker
 

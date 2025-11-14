@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(container:*)",
+      "Bash(tree:*)",
+      "Bash(curl:*)",
+      "Bash(git checkout:*)",
+      "WebFetch(domain:prismjs.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git branch:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
