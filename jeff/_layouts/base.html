@@ -64,30 +64,28 @@
     <script defer src="https://unpkg.com/littlefoot/dist/littlefoot.js"></script>
   </head>
   <body>
-    <div class="site">
-      <header class="site-header">
-        <nav class="site-nav" aria-label="Primary navigation">
-            <ul class="site-nav__list">
-              <li class="site-nav__item site-nav__item--home">
-                <a href="{{ '/jeff' | relative_url }}">Jeff Veen</a>
-              </li>
-              <li class="site-nav__item">
-                <a href="{{ '/jeff' | relative_url }}">Blog</a>
-              </li>
-              <li class="site-nav__item">
-                <a href="{{ '/jeff/about/' | relative_url }}">About</a>
-              </li>
-              <li class="site-nav__item site-nav__item--theme">
-                <button class="theme-toggle" type="button" aria-label="Toggle color theme" aria-pressed="false">
-                  <span class="theme-toggle__icon" aria-hidden="true">◐</span>
-                </button>
-              </li>
-            </ul>
-        </nav>
-      </header>
+    <div class="page">
+      <nav class="site-header site-nav" aria-label="Primary navigation">
+          <ul class="site-nav__list">
+            <li class="site-nav__item site-nav__item--home">
+              <a href="{{ '/jeff' | relative_url }}">Jeff Veen</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="{{ '/jeff' | relative_url }}">Blog</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="{{ '/jeff/about/' | relative_url }}">About</a>
+            </li>
+            <li class="site-nav__item site-nav__item--theme">
+              <button class="theme-toggle" type="button" aria-label="Toggle color theme" aria-pressed="false">
+                <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+              </button>
+            </li>
+          </ul>
+      </nav>
 
-      <main class="site-main">
-  		{{ content }}
+      <main class="content">
+		{{ content }}
       </main>
     </div>
 

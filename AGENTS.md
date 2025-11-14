@@ -18,3 +18,4 @@
 - A ready-to-go VS Code dev container lives in `.devcontainer/`; reopen the repo inside it to get Ruby 3.1, Bundler 2.4.19, and `github-pages` installed automatically (port 4000 is forwarded for `jekyll serve`).
 - Serve locally with the container cmd from `README.md`, e.g. `container run ... bretfisher/jekyll-serve`, then visit `http://localhost:4000/jeff`.
 - Production deploys automatically through GitHub Pages when `main` updates; keep templates, CSS, and Markdown valid so `jekyll build` stays clean.
+- After each set of changes, create a commit with a brief but descriptive message so history stays readable.
