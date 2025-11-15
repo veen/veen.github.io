@@ -33,7 +33,7 @@
 
   --article-blockquote-padding-left: var(--space-md);
   --article-blockquote-border-width: var(--border-width-lg);
-  --article-blockquote-border-color: var(--color-border-muted);
+  --article-blockquote-border-color: var(--border-muted);
 
   --article-list-padding-left: var(--space-2xl);
   --article-list-item-gap: var(--space-sm);

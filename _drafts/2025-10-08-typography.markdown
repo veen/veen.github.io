@@ -68,7 +68,7 @@ To ground all of this theory, here’s a small snippet that mirrors the semantic
   --article-headline-font-family: var(--font-family-sans);
   --article-headline-font-weight: var(--font-weight-regular);
   --article-paragraph-margin-bottom: var(--space-xl);
-  --article-blockquote-border-color: var(--color-border-muted);
+  --article-blockquote-border-color: var(--border-muted);
   --article-code-inline-radius: var(--radius-sm);
 }
 

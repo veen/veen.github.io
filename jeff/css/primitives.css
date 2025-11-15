@@ -14,13 +14,13 @@
   --color-neutral-800: oklch(0.269 0 0);
   --color-neutral-900: oklch(0.205 0 0);
   --color-neutral-950: oklch(0.145 0 0);
-  --color-border: var(--color-neutral-300);
-  --color-border-muted: var(--color-neutral-200);
-  --color-border-strong: var(--color-neutral-500);
-
   /* Brand / accent colors */
   --color-link-primary: oklch(0.5094 0.1873 263.92);
+  --color-link-hover: oklch(0.4298 0.1586 263.64);
   --color-link-visited: oklch(0.4298 0.1586 263.64);
+  --color-link-primary-dark: oklch(0.7641 0.1197 266.3);
+  --color-link-hover-dark: oklch(0.8241 0.0872 268.0);
+  --color-link-visited-dark: oklch(0.7641 0.1197 266.3);
 
   /* Typography families */
   --font-family-sans: "source-sans-pro", sans-serif;

@@ -19,24 +19,24 @@
 
   /* link colors */
   --link-primary: var(--color-link-primary);
-  --link-primary-hover: var(--color-link-primary);
+  --link-primary-hover: var(--color-link-hover);
   --link-visited: var(--color-link-visited);
 
   /* border colors */
-  --border-default: var(--color-border);
-  --border-muted: var(--color-border-muted);
-  --border-strong: var(--color-border-strong);
+  --border-default: var(--color-neutral-300);
+  --border-muted: var(--color-neutral-200);
+  --border-strong: var(--color-neutral-500);
 
   /* blockquote styles */
-  --quote-decoration-color: var(--color-border-muted);
+  --quote-decoration-color: var(--border-muted);
   --quote-decoration-width: var(--border-width-lg);
 
   /* horizontal rules */
-  --separator-color: var(--color-border-muted);
+  --separator-color: var(--border-muted);
   --separator-width: var(--border-width-sm);
 
   /* accessible focus outline */
-  --outline-focus: var(--color-border);
+  --outline-focus: var(--border-default);
   --focus-ring-width: var(--border-width-md);
   --focus-ring-radius: var(--radius-sm);
 
@@ -48,9 +48,9 @@
   --text-primary: var(--color-neutral-50);
   --text-muted: var(--color-neutral-300);
   --text-code: var(--color-neutral-300);
-  --link-primary: #8fb0ff;
-  --link-primary-hover: #adc4ff;
-  --link-visited: #8fb0ff;
+  --link-primary: var(--color-link-primary-dark);
+  --link-primary-hover: var(--color-link-hover-dark);
+  --link-visited: var(--color-link-visited-dark);
   --border-default: var(--color-neutral-700);
   --border-muted: var(--color-neutral-800);
   --border-strong: var(--color-neutral-600);
