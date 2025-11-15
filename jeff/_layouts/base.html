@@ -65,8 +65,8 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ '/jeff/css/style.css' | relative_url }}" type="text/css" media="screen">
 
-    <!-- Typekit kit hosted locally so we can enforce font-display: swap -->
-    <link rel="stylesheet" href="{{ '/jeff/css/typekit.css' | relative_url }}" type="text/css" media="screen">
+    <!-- My baby... -->
+    <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
 
     <!-- Prism syntax highlighting -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" id="prism-light-theme">
@@ -220,12 +220,6 @@
             initializer();
           }
         }
-
-        document.querySelectorAll(".highlighter-rouge pre").forEach((pre) => {
-          if (!pre.hasAttribute("tabindex")) {
-            pre.setAttribute("tabindex", "0");
-          }
-        });
       });
     </script>
 
