@@ -65,7 +65,7 @@ To ground all of this theory, here’s a small snippet that mirrors the semantic
 
 ```css
 :root {
-  --article-headline-font-family: var(--font-family-heading);
+  --article-headline-font-family: var(--font-family-sans);
   --article-headline-font-weight: var(--font-weight-regular);
   --article-paragraph-margin-bottom: var(--space-xl);
   --article-blockquote-border-color: var(--color-border-muted);

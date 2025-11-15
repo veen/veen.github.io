@@ -43,18 +43,6 @@
   --focus-ring-width: var(--border-width-md);
   --focus-ring-radius: var(--radius-sm);
 
-  /* refactor these */
-  --space-page-inline: var(--space-xl);
-  --space-page-inline-lg: var(--space-2xl);
-
-  --font-family-heading: var(--font-family-sans);
-  --font-family-body: var(--font-family-serif);
-  --font-family-meta: var(--font-family-sans);
-  --font-family-nav: var(--font-family-mono);
-  --font-family-footnote: var(--font-family-sans);
-
-  --font-weight-footnote: var(--font-weight-regular);
-
 }
 
 @media (prefers-color-scheme: dark) {
@@ -413,8 +401,8 @@ div.code-toolbar > .toolbar {
 }
 
 div.code-toolbar > .toolbar > .toolbar-item > button {
-    font-family: var(--font-family-code) !important;
-    font-size: var(--font-size-caption) !important;
+    font-family: var(--article-code-font-family) !important;
+    font-size: var(--font-scale-sm) !important;
     font-weight: var(--font-weight-regular) !important;
     background: transparent !important;
     color: var(--text-muted) !important;
@@ -472,14 +460,14 @@ div.code-toolbar > .toolbar > .toolbar-item > button:focus {
 }
 
 .post-footer .embeddable-buttondown-form button {
-    font-family: var(--font-family-code);
-    font-size: var(--font-size-code-block);
-    line-height: var(--line-height-code);
+    font-family: var(--article-code-font-family);
+    font-size: var(--article-code-font-size);
+    line-height: var(--article-code-line-height);
 }
 
 .continue-reading {
-    font-family: var(--font-family-meta);
-    font-size: var(--font-size-meta);
+    font-family: var(--article-byline-font-family);
+    font-size: var(--article-byline-font-size);
     margin: 0;
 }
 
@@ -496,8 +484,8 @@ div.code-toolbar > .toolbar > .toolbar-item > button:focus {
 
 .post-footer .published_date {
     text-align: right;
-    font-family: var(--font-family-meta);
-    font-size: var(--font-size-meta);
+    font-family: var(--article-byline-font-family);
+    font-size: var(--article-byline-font-size);
     text-transform: uppercase;
     letter-spacing: 0.08em;
 }
@@ -521,7 +509,7 @@ div.code-toolbar > .toolbar > .toolbar-item > button:focus {
 
 .published_date {
     font-weight: var(--font-weight-regular);
-    font-family: var(--font-family-meta);
+    font-family: var(--article-byline-font-family);
 }
 
 /* Images and Figures */
@@ -568,8 +556,8 @@ figcaption {
 }
 
 .littlefoot {
-    --popover-font-family: var(--font-family-footnote);
-    --popover-font-weight: var(--font-weight-footnote);
-    --popover-font-size: var(--font-size-footnote);
-    --popover-line-height: var(--line-height-footnote);
+    --popover-font-family: var(--article-footnote-font-family);
+    --popover-font-weight: var(--article-footnote-font-weight);
+    --popover-font-size: var(--article-footnote-font-size);
+    --popover-line-height: var(--article-footnote-line-height);
 }
