@@ -55,8 +55,6 @@
   --link-primary: var(--color-link-primary);
   --link-primary-hover: var(--color-link-primary);
   --link-visited: var(--color-link-visited);
-  --text-link: var(--color-link-primary);
-  --text-link-hover: var(--link-primary-hover);
   --text-code: var(--color-neutral-750);
   --text-inverse: var(--color-neutral-0);
   --border-default: var(--color-neutral-300);
@@ -108,8 +106,6 @@
     --link-primary: #8fb0ff;
     --link-primary-hover: #adc4ff;
     --link-visited: #8fb0ff;
-    --text-link: var(--link-primary);
-    --text-link-hover: var(--link-primary-hover);
     --text-code: var(--color-neutral-25);
     --text-inverse: var(--color-neutral-900);
     --border-default: var(--color-neutral-700);
@@ -131,8 +127,6 @@ html.theme--dark {
     --link-primary: #8fb0ff;
     --link-primary-hover: #adc4ff;
     --link-visited: #8fb0ff;
-    --text-link: var(--link-primary);
-    --text-link-hover: var(--link-primary-hover);
     --text-code: var(--color-neutral-25);
     --text-inverse: var(--color-neutral-900);
     --border-default: var(--color-neutral-700);
