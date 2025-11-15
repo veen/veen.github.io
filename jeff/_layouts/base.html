@@ -143,6 +143,8 @@
 
         const updateToggleState = (isDark) => {
           toggle.setAttribute("aria-pressed", String(isDark));
+          toggle.setAttribute("aria-label", isDark ? "Switch to light theme" : "Switch to dark theme");
+          toggle.setAttribute("title", isDark ? "Switch to light theme" : "Switch to dark theme");
           if (icon) {
             icon.textContent = isDark ? "◑" : "◐";
           }
@@ -155,12 +157,25 @@
           return prefersDark && prefersDark.matches ? "dark" : "light";
         };
 
+        const announceTheme = (isDark) => {
+          let liveRegion = document.getElementById("theme-status");
+          if (!liveRegion) {
+            liveRegion = document.createElement("div");
+            liveRegion.id = "theme-status";
+            liveRegion.setAttribute("aria-live", "polite");
+            liveRegion.setAttribute("class", "sr-only");
+            document.body.appendChild(liveRegion);
+          }
+          liveRegion.textContent = isDark ? "Dark theme enabled" : "Light theme enabled";
+        };
+
         const applyTheme = (theme) => {
           const finalTheme = resolveTheme(theme);
           root.dataset.theme = finalTheme;
           const isDark = finalTheme === "dark";
           updateToggleState(isDark);
           syncPrismThemes(isDark);
+          announceTheme(isDark);
         };
 
         const syncFromPreference = () => {
