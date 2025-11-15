@@ -65,6 +65,8 @@
   --outline-focus: var(--color-neutral-900);
   --quote-decoration-color: var(--border-muted);
   --quote-decoration-width: var(--border-width-lg);
+  --separator-color: var(--border-muted);
+  --separator-width: var(--border-width-sm);
 
   --space-page-inline: var(--space-xl);
   --space-page-inline-lg: var(--space-2xl);
@@ -476,7 +478,7 @@ div.code-toolbar > .toolbar > .toolbar-item > button:focus {
 .post-item {
     margin-bottom: var(--space-3xl);
     padding-bottom: var(--space-3xl);
-    border-bottom: var(--border-width-sm) solid var(--border-default);
+    border-bottom: var(--separator-width) solid var(--separator-color);
 }
 
 .post-item:last-of-type {
@@ -496,7 +498,7 @@ div.code-toolbar > .toolbar > .toolbar-item > button:focus {
 
 .post-footer-separator {
     border: 0;
-    border-top: var(--border-width-sm) solid var(--border-default);
+    border-top: var(--separator-width) solid var(--separator-color);
     margin: var(--space-3xl) 0 var(--space-md);
 }
 
