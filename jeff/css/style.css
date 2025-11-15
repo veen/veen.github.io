@@ -45,9 +45,9 @@
   --layout-content-max: 60ch;
 
   /* Semantic tokens */
-  --surface-body: var(--color-neutral-75);
-  --surface-subtle: var(--color-neutral-100);
-  --surface-code: var(--color-neutral-100);
+  --surface-body: var(--color-neutral-50);
+  --surface-sidebar: var(--color-neutral-50);
+  --surface-code: var(--color-neutral-300);
   --text-primary: var(--color-neutral-900);
   --text-muted: var(--color-neutral-750);
   --text-link: var(--color-neutral-900);
@@ -56,7 +56,9 @@
   --text-link-body-hover: #1f47a5;
   --text-code: var(--color-neutral-750);
   --text-inverse: var(--color-neutral-0);
-  --border-default: var(--color-neutral-200);
+  --border-default: var(--color-neutral-300);
+  --border-strong: var(--color-neutral-500);
+  --border-muted: var(--color-neutral-200);
   --outline-focus: var(--color-neutral-900);
 
   --space-page-inline: var(--space-xl);
