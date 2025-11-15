@@ -323,6 +323,7 @@ code {
     border-radius: var(--article-code-inline-radius);
 }
 
+/* Jekyll wraps Prism code blocks with Rouge markup, so we keep these selectors. */
 .highlighter-rouge {
     margin: var(--space-2xl) 0;
     max-width: 100%;
