@@ -10,15 +10,11 @@
 
   /* background colors */
   --surface-body: var(--color-neutral-50);
-  --surface-subtle: var(--color-neutral-100);
-  --surface-sidebar: var(--color-neutral-50);
-  --surface-code: var(--color-neutral-300);
 
   /* text colors */
   --text-primary: var(--color-neutral-900);
   --text-muted: var(--color-neutral-600);
   --text-code: var(--color-neutral-600);
-  --text-inverse: var(--color-neutral-0);
 
   /* link colors */
   --link-primary: var(--color-link-primary);
@@ -48,13 +44,9 @@
 @media (prefers-color-scheme: dark) {
   :root:not(.theme--light) {
     --surface-body: var(--color-neutral-900);
-    --surface-subtle: var(--color-neutral-800);
-    --surface-sidebar: var(--color-neutral-900);
-    --surface-code: var(--color-neutral-800);
     --text-primary: var(--color-neutral-50);
     --text-muted: var(--color-neutral-300);
     --text-code: var(--color-neutral-300);
-    --text-inverse: var(--color-neutral-950);
     --link-primary: #8fb0ff;
     --link-primary-hover: #adc4ff;
     --link-visited: #8fb0ff;
@@ -72,16 +64,12 @@ html.theme--light {
 html.theme--dark {
     color-scheme: dark;
     --surface-body: var(--color-neutral-900);
-    --surface-subtle: var(--color-neutral-800);
-    --surface-sidebar: var(--color-neutral-900);
-    --surface-code: var(--color-neutral-800);
     --text-primary: var(--color-neutral-50);
     --text-muted: var(--color-neutral-300);
     --link-primary: #8fb0ff;
     --link-primary-hover: #adc4ff;
     --link-visited: #8fb0ff;
     --text-code: var(--color-neutral-300);
-    --text-inverse: var(--color-neutral-950);
     --border-default: var(--color-neutral-700);
     --border-muted: var(--color-neutral-800);
     --border-strong: var(--color-neutral-600);
@@ -136,6 +124,7 @@ body {
 }
 
 .page > * {
+
     grid-column: 2;
     width: 100%;
     min-width: 0;
