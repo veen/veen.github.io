@@ -6,80 +6,74 @@ author: Jeffrey Veen
 featured: yes
 abstract: Dusting this site off after 30 years.
 ---
-There are lots of reasons to do a startup. Sometimes, there’s an idea you just can’t stop thinking about – a thing you absolutely want to exist in the world. Or sometimes you see a gap in how an industry is evolving, and with a small team of talented people you think you can fill that gap much faster than the big companies can.
 
-Both of these things were true when we started [Typekit](https://blog.typekit.com/2009/05/27/introducing-typekit/) three years ago. Web browsers started implementing `@font-face` and a lot of people started wringing their hands over the issue of intellectual property and typefaces. A debate sprang up: Web designers were embracing new CSS features like never before, but font designers worried that their craft would go the way of Napster and BitTorrent. It was a recipe for disruption and opportunity, and we jumped in.
+Typography has always been the quiet craft that makes every word legible, credible, and humane. A good sentence becomes irresistible when it’s set with patient rhythm, generous margins, and confident contrast. I wanted a single post that exercises every typographic style on this site—because there’s no better way to validate a new token system than to run it through a gauntlet of paragraphs, lists, and code snippets that talk about the very topic they inhabit.
 
-For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
+The first lesson is that paragraphs carry the cadence of a voice. When line height breathes and measure stays gentle, the reader feels invited rather than scolded. Even a simple note about letterforms can feel luxurious:
 
-## Some Code to Test
+> “Great typography is akin to hospitality,” Beatrice Warde reminded us. “It invites the reader in, lets them sit down, and never makes them search for the salt.”
 
-For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
+That’s the bar for the rest of this reference. Let’s walk through the elements I care about most.
+
+## Headings That Set the Pace
+
+Each heading is more than big text—it’s a landmark. H1 keeps a generous margin beneath it so the body copy can gather itself. H2 signals a new argument with upright shoulders, and H3 lets me annotate inside a section without shouting.
+
+### Supporting Rhythm
+
+Headlines need running mates, so bylines provide a subtle whisper of metadata. Here we can celebrate the author, emphasize the date, and still keep the voice calm:
+
+<time class="byline" datetime="2025-10-11">11 October 2025 · Jeff still tinkering with kerning</time>
+
+## Lists That Teach and Delight
+
+Bulleted lists deserve breathing room, otherwise they become a blur. Here’s a short one that captures why I love a well-tuned typescale:
+
+- Shoulder room between items makes scanning effortless.
+- Consistent list padding keeps the rag tidy.
+- A balanced text color keeps lists from feeling like footnotes.
+- Tight letter-spacing is tempting, but open counters are kinder.
+
+Numbered lists should read like instructions, not demands:
+
+1. Start with generous leading so multi-line items don’t collide with their numerals.
+2. Keep numerals aligned; a ragged gutter is louder than any bold weight.
+3. Close with a sentence that ties the list back into narrative flow.
+
+## Blockquotes That Carry Respect
+
+Sometimes you want to linger on a paragraph (or two) from a hero. The left rule and extra padding in this system keep quotations safe while still allowing them to feel like part of the story.
+
+> We keep talking about font licensing, but the bigger story is presentation. When designers have ethical access to high-quality faces, the reading experience improves by default.
+>
+> Beautiful typography is the fastest shortcut to empathy: it tells your audience that you cared enough to make their time comfortable.
+
+## Inline Emphasis and Links
+
+Inline code like `var(--article-code-font-family)` should look intentional, not like a temporary highlight. Likewise, links such as [the first manual for the IBM Selectric](https://archive.org/details/ibmselectric1961) deserve to feel integrated with the surrounding prose rather than plastered on top of it.
+
+When we speak through emphasis—_italics for nuance_, **bold for the rare shout**—it’s crucial that the typeface supports those voices without distortion.
+
+## Code Blocks Inspired by the Tokens
+
+To ground all of this theory, here’s a small snippet that mirrors the semantic tokens we just defined. It’s contrived, but it demonstrates how the palette is meant to be consumed.
 
 ```css
-/* Layout */
-
-.site {
-    display: grid;
-    grid-template-columns: var(--space-4) 1fr var(--space-4);
-    row-gap: var(--space-stack-lg);
-    column-gap: 0;
-    padding-block: var(--space-stack-lg);
-    padding-inline: var(--space-0);
+:root {
+  --article-headline-font-family: var(--font-family-heading);
+  --article-headline-font-weight: var(--font-weight-regular);
+  --article-paragraph-margin-bottom: var(--space-xl);
+  --article-blockquote-border-color: var(--color-border-muted);
+  --article-code-inline-radius: var(--radius-sm);
 }
 
-@media (min-width: 768px) {
-  .site {
-    grid-template-columns: minmax(var(--space-page-inline-lg), 1fr) minmax(auto, var(--layout-content-max)) minmax(var(--space-page-inline-lg), 1fr);
-    padding-inline: 0;
-  }
-}
-
-.site > * {
-    grid-column: 2;
-    width: 100%;
-}
-
-.site-header {
-    display: flex;
-    justify-content: flex-end;
+article code {
+  font-family: var(--article-code-font-family);
+  padding: var(--article-code-inline-padding);
+  border-radius: var(--article-code-inline-radius);
 }
 ```
 
-And that's what the code will look like.
+## Closing Thoughts
 
-## Testing how bulletted lists and quotes will look.
-
-There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-- A list of short items fist.
-- For us, so much was uncharted.
-- And a third.
-- And perhaps even a fourth.
-
-There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-- Now, paragraphs as bullets. There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-- There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-- There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-We might have numbered lists? There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-1. Now, paragraphs as numbered lists. There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-2. There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-3. There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-And finally let's quote something briefly. There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-> _"A smart man said a smart thing."_
-
-And them something more substantial. And finally let's quote something briefly. There's always a bit of text first. For us, so much was uncharted. The four of us who founded the company had worked together and built products before, but we’d never been down the venture capital path.
-
-> Both of these things were true when we started Typekit three years ago. Web browsers started implementing @font-face and a lot of people started wringing their hands over the issue of intellectual property and typefaces. A debate sprang up: Web designers were embracing new CSS features like never before, but font designers worried that their craft would go the way of Napster and BitTorrent. It was a recipe for disruption and opportunity, and we jumped in.
->
-> That includes a couple paragraphs. Both of these things were true when we started Typekit three years ago. Web browsers started implementing @font-face and a lot of people started wringing their hands over the issue of intellectual property and typefaces. A debate sprang up: Web designers were embracing new CSS features like never before, but font designers worried that their craft would go the way of Napster and BitTorrent. It was a recipe for disruption and opportunity, and we jumped in.
-
+All of this may feel obsessive, but typography is the chassis of the entire site. When we get spacings, weights, and voices right in a single article, every new post inherits that confidence. There’s nothing more satisfying than releasing a sentence into the world and knowing the system beneath it is invisible, sturdy, and quietly beautiful.
