@@ -14,6 +14,8 @@
   --color-neutral-800: oklch(0.269 0 0);
   --color-neutral-900: oklch(0.205 0 0);
   --color-neutral-950: oklch(0.145 0 0);
+  --color-link-primary: oklch(0.5094 0.1873 263.92);
+  --color-link-visited: oklch(0.4298 0.1586 263.64);
 
   --font-family-sans: "source-sans-pro", sans-serif;
   --font-family-serif: "source-serif-pro", Georgia, "Times New Roman", Times, serif;
@@ -50,10 +52,11 @@
   --surface-code: var(--color-neutral-300);
   --text-primary: var(--color-neutral-900);
   --text-muted: var(--color-neutral-750);
-  --text-link: var(--color-neutral-900);
-  --text-link-hover: var(--color-neutral-900);
-  --text-link-body: #2b5bcf;
-  --text-link-body-hover: #1f47a5;
+  --link-primary: var(--color-link-primary);
+  --link-primary-hover: oklch(0.47 0.17 263);
+  --link-visited: var(--color-link-visited);
+  --text-link: var(--link-primary);
+  --text-link-hover: var(--link-primary-hover);
   --text-code: var(--color-neutral-750);
   --text-inverse: var(--color-neutral-0);
   --border-default: var(--color-neutral-300);
@@ -98,10 +101,11 @@
     --surface-code: var(--color-neutral-850);
     --text-primary: var(--color-neutral-25);
     --text-muted: var(--color-neutral-25);
-    --text-link: var(--color-neutral-25);
-    --text-link-hover: var(--color-neutral-25);
-    --text-link-body: #8fb0ff;
-    --text-link-body-hover: #adc4ff;
+    --link-primary: #8fb0ff;
+    --link-primary-hover: #adc4ff;
+    --link-visited: #8fb0ff;
+    --text-link: var(--link-primary);
+    --text-link-hover: var(--link-primary-hover);
     --text-code: var(--color-neutral-25);
     --text-inverse: var(--color-neutral-900);
     --border-default: var(--color-neutral-700);
@@ -120,10 +124,11 @@ html.theme--dark {
     --surface-code: var(--color-neutral-850);
     --text-primary: var(--color-neutral-25);
     --text-muted: var(--color-neutral-25);
-    --text-link: var(--color-neutral-25);
-    --text-link-hover: var(--color-neutral-25);
-    --text-link-body: #8fb0ff;
-    --text-link-body-hover: #adc4ff;
+    --link-primary: #8fb0ff;
+    --link-primary-hover: #adc4ff;
+    --link-visited: #8fb0ff;
+    --text-link: var(--link-primary);
+    --text-link-hover: var(--link-primary-hover);
     --text-code: var(--color-neutral-25);
     --text-inverse: var(--color-neutral-900);
     --border-default: var(--color-neutral-700);
@@ -206,16 +211,21 @@ article {
 /* Links */
 
 a {
-    color: var(--text-link-body);
+    color: var(--link-primary);
     font-weight: var(--font-weight-semibold);
     text-decoration: none;
     transition: color var(--duration-short) var(--easing-standard),
                 text-decoration-color var(--duration-short) var(--easing-standard);
 }
 
-a:hover {
+a:hover,
+a:focus-visible {
     text-decoration: underline;
-    color: var(--text-link-body-hover);
+    color: var(--link-primary-hover);
+}
+
+a:visited {
+    color: var(--link-visited);
 }
 
 a:focus {
@@ -299,7 +309,7 @@ h3 {
 
 .site-nav a:hover,
 .site-nav a:focus-visible {
-    color: var(--text-link-body);
+    color: var(--link-primary);
     text-decoration: underline;
 }
 
@@ -326,7 +336,7 @@ h3 {
 
 .theme-toggle:hover,
 .theme-toggle:focus-visible {
-    color: var(--text-link-body);
+    color: var(--link-primary);
 }
 
 .theme-toggle__icon {
@@ -362,16 +372,16 @@ article > blockquote {
 }
 
 article a {
-    color: var(--text-link-body);
+    color: var(--link-primary);
     font-weight: var(--font-weight-regular);
 }
 
 article a:hover {
-    color: var(--text-link-body-hover);
+    color: var(--link-primary-hover);
 }
 
 article a:focus {
-    outline: var(--border-width-md) solid var(--text-link-body-hover);
+    outline: var(--border-width-md) solid var(--link-primary-hover);
     outline-offset: var(--outline-offset);
 }
 
@@ -538,7 +548,7 @@ div.code-toolbar > .toolbar > .toolbar-item > button:focus {
 
 .post-list h2 a:hover,
 .post-list h2 a:focus {
-    color: var(--text-link-body);
+    color: var(--link-primary);
 }
 
 .published_date {
