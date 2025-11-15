@@ -96,20 +96,6 @@
   --article-code-inline-padding: 0.15em 0.35em;
   --article-code-inline-radius: var(--radius-sm);
 
-  --font-size-body: var(--font-scale-base);
-  --font-size-meta: var(--font-scale-md);
-  --font-size-caption: var(--font-scale-sm);
-  --font-size-abstract: var(--font-scale-lg);
-  --font-size-h1: var(--font-scale-3xl);
-  --font-size-h2: var(--font-scale-2xl);
-  --font-size-h3: var(--font-scale-xl);
-  --font-size-code-block: var(--font-scale-xs);
-  --font-size-footnote: var(--font-scale-md);
-
-  --line-height-heading: var(--line-height-tight);
-  --line-height-body: var(--line-height-base);
-  --line-height-code: var(--line-height-extra-tight);
-  --line-height-footnote: var(--line-height-loose);
 }
 
 @media (prefers-color-scheme: dark) {
