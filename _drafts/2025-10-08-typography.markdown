@@ -48,6 +48,10 @@ Sometimes you want to linger on a paragraph (or two) from a hero. The left rule 
 >
 > Beautiful typography is the fastest shortcut to empathy: it tells your audience that you cared enough to make their time comfortable.
 
+![Robert Bringhurst’s _Elements of Typographic Style_](https://typographica.org/wp-content/uploads/2013/02/bringhurst4_7.jpg)
+
+*The book that taught a generation to respect measure, rhythm, and restraint.*
+
 ## Inline Emphasis and Links
 
 Inline code like `var(--article-code-font-family)` should look intentional, not like a temporary highlight. Likewise, links such as [the first manual for the IBM Selectric](https://archive.org/details/ibmselectric1961) deserve to feel integrated with the surrounding prose rather than plastered on top of it.
