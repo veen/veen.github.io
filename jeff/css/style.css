@@ -6,6 +6,7 @@
 /* Design Tokens */
 
 :root {
+  color-scheme: light;
   /* Semantic tokens */
 
   /* background colors */
@@ -41,39 +42,23 @@
 
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not(.theme--light) {
-    --surface-body: var(--color-neutral-900);
-    --text-primary: var(--color-neutral-50);
-    --text-muted: var(--color-neutral-300);
-    --text-code: var(--color-neutral-300);
-    --link-primary: #8fb0ff;
-    --link-primary-hover: #adc4ff;
-    --link-visited: #8fb0ff;
-    --border-default: var(--color-neutral-700);
-    --border-muted: var(--color-neutral-800);
-    --border-strong: var(--color-neutral-600);
-    --outline-focus: var(--color-neutral-600);
-  }
+:root[data-theme="light"] {
+  color-scheme: light;
 }
 
-html.theme--light {
-    color-scheme: light;
-}
-
-html.theme--dark {
-    color-scheme: dark;
-    --surface-body: var(--color-neutral-900);
-    --text-primary: var(--color-neutral-50);
-    --text-muted: var(--color-neutral-300);
-    --link-primary: #8fb0ff;
-    --link-primary-hover: #adc4ff;
-    --link-visited: #8fb0ff;
-    --text-code: var(--color-neutral-300);
-    --border-default: var(--color-neutral-700);
-    --border-muted: var(--color-neutral-800);
-    --border-strong: var(--color-neutral-600);
-    --outline-focus: var(--color-neutral-600);
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface-body: var(--color-neutral-900);
+  --text-primary: var(--color-neutral-50);
+  --text-muted: var(--color-neutral-300);
+  --text-code: var(--color-neutral-300);
+  --link-primary: #8fb0ff;
+  --link-primary-hover: #adc4ff;
+  --link-visited: #8fb0ff;
+  --border-default: var(--color-neutral-700);
+  --border-muted: var(--color-neutral-800);
+  --border-strong: var(--color-neutral-600);
+  --outline-focus: var(--color-neutral-600);
 }
 
 /* Base */
