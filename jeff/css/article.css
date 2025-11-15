@@ -55,6 +55,6 @@
 
   --article-footnote-font-family: var(--font-family-sans);
   --article-footnote-font-size: var(--font-scale-md);
-  --article-footnote-line-height: var(--line-height-loose);
+  --article-footnote-line-height: var(--line-height-snug);
   --article-footnote-font-weight: var(--font-weight-regular);
 }
