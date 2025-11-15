@@ -55,6 +55,8 @@
   --border-muted: var(--color-neutral-800);
   --border-strong: var(--color-neutral-600);
   --outline-focus: var(--color-neutral-600);
+  --quote-decoration-color: var(--border-muted);
+  --separator-color: var(--border-muted);
 }
 
 /* Base */
