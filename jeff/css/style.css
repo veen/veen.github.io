@@ -27,11 +27,12 @@
 
   --separator-color: var(--color-border-muted);
   --separator-width: var(--border-width-sm);
+  --outline-focus: var(--color-border);
+  --focus-ring-width: var(--border-width-md);
+  --focus-ring-radius: var(--radius-sm);
 
   --space-page-inline: var(--space-xl);
   --space-page-inline-lg: var(--space-2xl);
-  --outline-offset: var(--space-xs);
-  --outline-focus: var(--color-link-primary);
 
   --font-family-heading: var(--font-family-sans);
   --font-family-body: var(--font-family-serif);
@@ -74,7 +75,7 @@
     --border-default: var(--color-neutral-700);
     --border-muted: var(--color-neutral-800);
     --border-strong: var(--color-neutral-600);
-    --outline-focus: #8fb0ff;
+    --outline-focus: var(--color-neutral-600);
   }
 }
 
@@ -98,7 +99,7 @@ html.theme--dark {
     --border-default: var(--color-neutral-700);
     --border-muted: var(--color-neutral-800);
     --border-strong: var(--color-neutral-600);
-    --outline-focus: #8fb0ff;
+    --outline-focus: var(--color-neutral-600);
 }
 
 /* Base */
@@ -190,13 +191,17 @@ a:focus-visible {
     color: var(--link-primary-hover);
 }
 
+a:focus-visible {
+    box-shadow: 0 0 0 var(--focus-ring-width) var(--outline-focus);
+    border-radius: var(--focus-ring-radius);
+}
+
 a:visited {
     color: var(--link-visited);
 }
 
 a:focus {
-    outline: var(--border-width-md) solid var(--outline-focus);
-    outline-offset: var(--outline-offset);
+    outline: none;
 }
 
 /* Headings and meta */
@@ -344,11 +349,6 @@ article a {
 
 article a:hover {
     color: var(--link-primary-hover);
-}
-
-article a:focus {
-    outline: var(--border-width-md) solid var(--link-primary-hover);
-    outline-offset: var(--outline-offset);
 }
 
 code {
