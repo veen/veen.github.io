@@ -141,7 +141,7 @@ body {
     line-height: var(--line-height-body);
 }
 
-/* Layout */
+/* Page Layout */
 
 .page {
     display: grid;
@@ -165,6 +165,8 @@ body {
     min-width: 0;
 }
 
+/* Nav */
+
 .site-header {
     display: flex;
     justify-content: flex-end;
@@ -174,6 +176,8 @@ body {
 .content {
     width: 100%;
 }
+
+/* Article */
 
 article {
     font-family: var(--font-family-body);
@@ -185,7 +189,7 @@ article {
     overflow-x: hidden;
 }
 
-/* Links */
+/* Page Links */
 
 a {
     color: var(--link-primary);
