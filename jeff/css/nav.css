@@ -1,0 +1,16 @@
+/* Navigation semantic tokens */
+
+:root {
+  --nav-header-margin-bottom: var(--space-xl);
+  --nav-font-family: var(--font-family-nav);
+  --nav-font-size: var(--font-scale-md);
+  --nav-font-weight: var(--font-weight-regular);
+  --nav-gap: var(--space-xl);
+  --nav-link-color: var(--text-primary);
+  --nav-link-hover-color: var(--link-primary);
+  --nav-home-divider-margin-left: var(--space-sm);
+  --nav-home-divider-margin-right: var(--space-lg);
+  --nav-theme-margin-left: var(--space-lg);
+  --nav-theme-color: var(--text-primary);
+  --nav-theme-hover-color: var(--link-primary);
+}

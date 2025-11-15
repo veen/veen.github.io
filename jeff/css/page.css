@@ -1,0 +1,11 @@
+/* Page semantic tokens */
+
+:root {
+  --page-grid-columns: var(--space-lg) minmax(0, var(--layout-content-max)) var(--space-lg);
+  --page-grid-columns-lg: minmax(var(--space-page-inline-lg), 1fr) minmax(auto, var(--layout-content-max)) minmax(var(--space-page-inline-lg), 1fr);
+  --page-row-gap: var(--space-2xl);
+  --page-column-gap: 0;
+  --page-padding-block: var(--space-2xl);
+  --page-padding-inline: var(--space-none);
+  --page-padding-inline-lg: 0;
+}

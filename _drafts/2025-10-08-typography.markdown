@@ -48,9 +48,10 @@ Sometimes you want to linger on a paragraph (or two) from a hero. The left rule 
 >
 > Beautiful typography is the fastest shortcut to empathy: it tells your audience that you cared enough to make their time comfortable.
 
-![Robert Bringhurst’s _Elements of Typographic Style_](https://typographica.org/wp-content/uploads/2013/02/bringhurst4_7.jpg)
-
-*The book that taught a generation to respect measure, rhythm, and restraint.*
+<figure>
+  <img src="https://typographica.org/wp-content/uploads/2013/02/bringhurst4_7.jpg" alt="Robert Bringhurst’s Elements of Typographic Style">
+  <figcaption>The book that taught a generation to respect measure, rhythm, and restraint.</figcaption>
+</figure>
 
 ## Inline Emphasis and Links
 
