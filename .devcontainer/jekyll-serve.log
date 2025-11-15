@@ -38008,3 +38008,2656 @@ To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
                     
       Regenerating: 1 file(s) changed at 2025-11-15 09:08:56
                     .devcontainer/jekyll-serve.log
+                    ...done in 1.01719685 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:08:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.913988778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:08:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.935009434 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:08:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928379854 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918149818 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914079069 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925549522 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921768357 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928517603 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.907536739 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.903388658 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921342398 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.910327988 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928610687 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.957048297 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.97035879 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.965399584 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.962858211 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.927020979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.924391856 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925734189 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.933504643 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937609224 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920072066 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.943114763 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919525567 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.936892765 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.929126062 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.931849602 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.900413034 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921149149 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934062267 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:09:29
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.970597665 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.950675925 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894582787 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.92939127 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.932004352 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934708225 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.897026787 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914548611 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934643392 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.97142129 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.984493241 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930626269 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937044557 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944741095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.94234843 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.939667348 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.94513597 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.924002356 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91532111 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.916024902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.892424538 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.902929909 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.888843041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.905620824 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.970496207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.997136234 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.951723258 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.931547394 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.951946883 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:09:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.945007428 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.970732582 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.927951854 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915434402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.017609808 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.947596469 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.975056246 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.902414992 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923078065 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908387573 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.909456113 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889255832 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.010576811 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.969022082 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923299814 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908497072 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.900244785 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944760845 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.96810475 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91612111 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928898145 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.929230728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.993787153 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934739267 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.952804049 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.938166974 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.92860827 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915365902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944948845 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.982287075 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.946587844 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.926459855 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.901522909 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.891293206 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.892435331 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.890658581 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.906841073 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91964915 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.895885537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908641697 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.902140909 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.909303822 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.90915453 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.962851461 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.905625574 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91013578 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.896931745 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.900728326 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894605163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921456398 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.898283369 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.907707864 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914275944 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908582073 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915676778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911210405 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908928114 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.901790201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:10:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.89794437 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.945313346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.966824043 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.927404479 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.916610027 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944990513 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937797099 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.931153436 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.948162803 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.92958902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.926833355 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.931213853 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937218099 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930863144 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920463025 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.957266547 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.932198977 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.961062462 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.94243393 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.90167791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920123525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.904072076 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894840205 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889983749 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.903874158 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.905862908 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911760738 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889425499 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914161111 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894440705 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.907338115 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.892111289 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.904430158 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911167946 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.895737579 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921925691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.952581967 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940250307 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918663276 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920180109 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.957582506 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.941869097 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.945426928 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.952153092 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922574899 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930691644 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934085185 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928799604 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930671353 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.01012927 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.959716838 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923748232 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914256695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.912565321 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.975532996 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922916648 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.987063074 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.935621059 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:11:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.960625338 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919152234 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937444807 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.93277531 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944149263 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925330648 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.899089078 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.89492208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911396905 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.900857869 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91114803 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.897225287 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.895878412 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894084247 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889118042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.884416377 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.890103582 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.88750225 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.891192957 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911901572 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.924222773 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.938288557 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914747195 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921748899 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918519401 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911344322 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923553857 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.926021439 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925360398 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.9051567 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.913730696 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.900541743 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.893009581 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919971775 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.92737748 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.916836652 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925778605 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.910441738 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.9196059 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.910467739 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91442032 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.913668695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.927653355 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.931971769 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922691066 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915879861 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930924728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.917357735 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.916697152 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918051402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928870104 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922969607 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934725518 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.958378547 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.968250376 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.993257195 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.94315018 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920938733 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940348598 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:12:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908388323 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934195435 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.905959999 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.893024069 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.906916271 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914729392 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894767277 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894172235 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928080011 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.917253683 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918144849 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.92256318 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919129765 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.912808893 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.90628223 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911109644 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894584402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.900128441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.912375893 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918780849 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.909437228 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.901983357 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.905065897 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.902618981 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911743019 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.904561981 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.951525541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940601672 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921570055 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:13:29
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.951861166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.903801981 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.938382089 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934916049 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.938802464 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.99230523 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:13:35
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.930342593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91903714 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.912850894 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.924423721 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923426596 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919476515 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:13:41
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 1.011561596 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.960588412 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918947765 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919636348 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.929925593 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:13:47
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.930313593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.917687016 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919955098 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930972718 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930559635 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915436809 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918243599 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923187638 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.945055253 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.949307334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.939483089 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930387552 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:13:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918306641 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.917295642 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.913787268 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920427307 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919355806 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.926805512 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915352309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.938726006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.967460409 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.946951034 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.945184054 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940405431 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.043096921 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.021649806 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944015138 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:14:15
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.967076668 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.951176385 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918705901 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.952846134 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.997585652 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.955749507 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908670282 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944166013 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.957586881 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.950235927 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.96688271 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.97047525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.94599072 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.957466048 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:14:30
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.916279069 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.924099691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928209022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944230555 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922348358 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91555607 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922187692 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921705984 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.929531562 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914669946 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930019396 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921137983 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922347107 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921783441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.916994319 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923282691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915125528 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922167691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921935275 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.934134685 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918738527 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.917371402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925804357 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.910131323 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.938522725 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940753973 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915832944 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937951308 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.942210306 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:14:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.969825125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.93437356 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.968734292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940137682 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.947971387 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.959394756 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922725149 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.888356583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.898586162 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.887949917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.896490953 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894358369 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.893198037 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.060907825 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.030887507 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.914973025 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915191359 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.997349733 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.009058226 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923786104 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.89834045 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915978942 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894920286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911031736 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.882219083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.890004122 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.888112789 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.897050159 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.903142698 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.899089909 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.885056165 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.9165424 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.913558776 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.888507413 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.886420957 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883231042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883327375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883350542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.885618749 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.88391525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.884054458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.888085414 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.899497908 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.898174909 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.899000575 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.960689919 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.8824225 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889491705 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.887715873 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.884755458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889891454 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.890800038 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.887387415 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883906916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.880543001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.912368485 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923148937 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.986491655 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.977233701 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:15:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.959308418 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.897783118 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.887336206 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.884594374 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.11423063 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908039112 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.898635325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.305028614 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.106056926 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894681494 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.095019057 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894088036 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.893992536 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.882794751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.298455117 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.263032719 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.307979488 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.288141915 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.282997251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.402683564 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.310779445 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.294671328 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.285157458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.287383082 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.404597813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.237201317 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.293254162 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.309821487 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.295026994 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.300177283 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.289241497 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.333180683 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.289210165 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.566903853 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.37514137 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.263987844 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.299841034 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.282726209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.284707625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.287574332 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.299754034 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.279774503 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.341692429 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.163674771 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.882299292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.901627657 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:16:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.096619681 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:17:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.882716167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:17:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.879154211 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:17:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.081072481 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:17:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1015.539771503 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:33:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.622861498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.090095689 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.941990098 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.94830972 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.9403996 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.896918663 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883666711 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.902512619 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.875342341 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.014729936 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920247026 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.873816717 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.857580183 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.919734151 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.84778998 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.096329519 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.05352229 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.87778059 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.863433014 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.93497656 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.887557001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894866498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.862104348 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.855954935 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.908996032 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.031130677 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.029597345 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.880414838 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.017643268 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.895326664 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930827813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.875648841 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.879494381 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.869109053 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.948151178 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.963614837 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.990352531 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.912661447 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.917128278 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.892526123 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.977528497 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.949093428 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.904747659 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.938799058 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.941342391 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.972970707 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937330601 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.932412312 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.999556111 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.901484244 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.963268546 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.885079419 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911302615 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.88512817 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.935121019 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.915979779 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.930232813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:34:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.982033786 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.935211852 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.955460966 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.916887195 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894724998 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.904476951 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.893010748 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:35:06
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.931323604 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.897535371 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.907057908 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.910569032 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.890797042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889768959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.936033684 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.931532729 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.916928486 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.97491429 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.937533309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.936614268 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.025631472 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.007442523 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.99085074 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.926703022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.955404383 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.968949876 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940642891 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.960457672 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.992459156 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.971615416 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.891305083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.999391985 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.917780778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.963267921 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921328817 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.922399275 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.895228955 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928044189 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.929819397 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.00643069 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.958894382 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.899445537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:41
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.989814116 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.943845848 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.967246627 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.995811654 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.978021372 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.924260733 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.992586864 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.968981793 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.979344704 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.058018455 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.910168531 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.895286789 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.958962757 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.986737617 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.957479548 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.020483225 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:35:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.98698145 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.025569596 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:01
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.018109767 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.965654961 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.945898847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889953083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.897528788 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.907202992 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.92485294 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.892278749 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-15 09:36:09
+                    .devcontainer/jekyll-serve.log
+                    jeff/css/style.css
+                    ...done in 0.887198293 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.895303705 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883459129 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.888344542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:13
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.889122417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.882950462 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.897467538 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.877738924 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.880171713 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883852711 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894599539 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883668295 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.888999251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.884306461 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.883656586 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.892506624 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.896335622 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925285815 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:27
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911694948 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:28
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921255984 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:29
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.942997765 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:30
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.93058048 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:31
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923761691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:32
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.982187661 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:33
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.910778864 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:34
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925832106 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:35
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.965400586 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:36
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894817539 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:37
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.030939595 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:38
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.940739974 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:39
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.925630357 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:40
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918025402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:42
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.918261694 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:43
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.890674083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:44
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.969618751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:45
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.955678133 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:46
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.99109774 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:47
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.906729075 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:48
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.903360493 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:49
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.963788796 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:50
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.89953837 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:51
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.960681588 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:52
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.946345554 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:53
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.972935082 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:54
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.912736822 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:55
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.931691604 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:56
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.923533608 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:57
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.989458157 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:58
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.045133712 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:36:59
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.005594107 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:00
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.076080279 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:02
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.981789203 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:03
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.008506855 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:04
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.002911609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:05
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.993006239 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:06
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.975187748 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:07
+                    .devcontainer/jekyll-serve.log
+                    ...done in 1.005746899 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:08
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.994762488 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:09
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.981782036 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:10
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.911638655 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:11
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.960209255 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:12
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.942655014 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:14
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.921081817 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:15
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.939733974 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:16
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.913842821 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:17
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.93533881 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:18
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.920970859 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:19
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.94174914 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:20
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.894871706 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:21
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.944601097 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:22
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.946132763 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:23
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.907097991 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:24
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.91703807 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:25
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.928030023 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:26
+                    .devcontainer/jekyll-serve.log
+                    ...done in 0.90254166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-15 09:37:27
+                    .devcontainer/jekyll-serve.log

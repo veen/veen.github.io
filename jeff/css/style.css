@@ -4,33 +4,43 @@
 
 :root {
   /* Semantic tokens */
+
+  /* background colors */
   --surface-body: var(--color-neutral-50);
   --surface-subtle: var(--color-neutral-100);
   --surface-sidebar: var(--color-neutral-50);
   --surface-code: var(--color-neutral-300);
 
+  /* text colors */
   --text-primary: var(--color-neutral-900);
   --text-muted: var(--color-neutral-600);
   --text-code: var(--color-neutral-600);
   --text-inverse: var(--color-neutral-0);
 
+  /* link colors */
   --link-primary: var(--color-link-primary);
   --link-primary-hover: var(--color-link-primary);
   --link-visited: var(--color-link-visited);
 
+  /* border colors */
   --border-default: var(--color-border);
   --border-muted: var(--color-border-muted);
   --border-strong: var(--color-border-strong);
 
+  /* blockquote styles */
   --quote-decoration-color: var(--color-border-muted);
   --quote-decoration-width: var(--border-width-lg);
 
+  /* horizontal rules */
   --separator-color: var(--color-border-muted);
   --separator-width: var(--border-width-sm);
+
+  /* accessible focus outline */
   --outline-focus: var(--color-border);
   --focus-ring-width: var(--border-width-md);
   --focus-ring-radius: var(--radius-sm);
 
+  /* refactor these */
   --space-page-inline: var(--space-xl);
   --space-page-inline-lg: var(--space-2xl);
 
