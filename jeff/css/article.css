@@ -22,6 +22,7 @@
   --article-body-font-family: var(--font-family-body);
   --article-body-font-size: var(--font-scale-base);
   --article-body-line-height: var(--line-height-base);
+  --article-body-letter-spacing: -0.004em;
   --article-paragraph-margin-bottom: var(--space-xl);
 
   --article-byline-font-family: var(--font-family-meta);
@@ -42,4 +43,18 @@
   --article-code-line-height: var(--line-height-extra-tight);
   --article-code-inline-padding: 0.15em 0.35em;
   --article-code-inline-radius: var(--radius-sm);
+
+  --article-image-margin-block: var(--space-2xl);
+  --article-image-border-radius: var(--radius-sm);
+
+  --article-figure-margin-block: var(--space-2xl);
+  --article-figcaption-font-family: var(--font-family-meta);
+  --article-figcaption-font-size: var(--font-scale-sm);
+  --article-figcaption-color: var(--text-muted);
+  --article-figcaption-margin-top: var(--space-sm);
+
+  --article-footnote-font-family: var(--font-family-footnote);
+  --article-footnote-font-size: var(--font-scale-md);
+  --article-footnote-line-height: var(--line-height-loose);
+  --article-footnote-font-weight: var(--font-weight-footnote);
 }

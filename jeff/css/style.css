@@ -166,8 +166,8 @@ body {
 /* Article */
 
 article {
-    font-family: var(--font-family-body);
-    letter-spacing: -0.004em;
+    font-family: var(--article-body-font-family);
+    letter-spacing: var(--article-body-letter-spacing);
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     min-width: 0;
@@ -528,12 +528,12 @@ article img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: var(--space-2xl) 0;
-    border-radius: var(--radius-sm);
+    margin: var(--article-image-margin-block) 0;
+    border-radius: var(--article-image-border-radius);
 }
 
 figure {
-    margin: var(--space-2xl) 0;
+    margin: var(--article-figure-margin-block) 0;
 }
 
 figure img {
@@ -541,27 +541,28 @@ figure img {
 }
 
 figcaption {
-    font-family: var(--font-family-meta);
-    font-size: var(--font-size-caption);
-    color: var(--text-muted);
-    margin-top: var(--space-sm);
+    font-family: var(--article-figcaption-font-family);
+    font-size: var(--article-figcaption-font-size);
+    color: var(--article-figcaption-color);
+    margin-top: var(--article-figcaption-margin-top);
     text-align: center;
     font-style: italic;
 }
 
 /* Footnotes */
 
+
 .littlefoot-footnote,
 .littlefoot-footnote__content {
-    font-size: var(--font-size-footnote);
-    line-height: var(--line-height-footnote);
-    font-weight: var(--font-weight-footnote);
+    font-size: var(--article-footnote-font-size);
+    line-height: var(--article-footnote-line-height);
+    font-weight: var(--article-footnote-font-weight);
     color: var(--text-primary);
 }
 
 .littlefoot-footnote,
 .littlefoot-footnote * {
-    font-family: var(--font-family-footnote);
+    font-family: var(--article-footnote-font-family);
 }
 
 .littlefoot {
