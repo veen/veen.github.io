@@ -53,9 +53,9 @@
   --text-primary: var(--color-neutral-900);
   --text-muted: var(--color-neutral-750);
   --link-primary: var(--color-link-primary);
-  --link-primary-hover: oklch(0.47 0.17 263);
+  --link-primary-hover: var(--color-link-primary);
   --link-visited: var(--color-link-visited);
-  --text-link: var(--link-primary);
+  --text-link: var(--color-link-primary);
   --text-link-hover: var(--link-primary-hover);
   --text-code: var(--color-neutral-750);
   --text-inverse: var(--color-neutral-0);
