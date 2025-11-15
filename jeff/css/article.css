@@ -48,7 +48,7 @@
   --article-image-border-radius: var(--radius-sm);
 
   --article-figure-margin-block: var(--space-2xl);
-  --article-figcaption-font-family: var(--font-family-meta);
+  --article-figcaption-font-family: var(--font-family-sans);
   --article-figcaption-font-size: var(--font-scale-sm);
   --article-figcaption-color: var(--text-muted);
   --article-figcaption-margin-top: var(--space-sm);
