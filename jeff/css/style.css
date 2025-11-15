@@ -63,7 +63,7 @@
   --border-strong: var(--color-neutral-500);
   --border-muted: var(--color-neutral-200);
   --outline-focus: var(--color-neutral-900);
-  --quote-decoration-color: var(--border-strong);
+  --quote-decoration-color: var(--border-muted);
   --quote-decoration-width: var(--border-width-lg);
 
   --space-page-inline: var(--space-xl);
