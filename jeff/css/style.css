@@ -21,15 +21,17 @@
   --border-default: var(--color-border);
   --border-muted: var(--color-border-muted);
   --border-strong: var(--color-border-strong);
-  --outline-focus: var(--color-link-primary);
+
   --quote-decoration-color: var(--color-border-muted);
   --quote-decoration-width: var(--border-width-lg);
+
   --separator-color: var(--color-border-muted);
   --separator-width: var(--border-width-sm);
 
   --space-page-inline: var(--space-xl);
   --space-page-inline-lg: var(--space-2xl);
   --outline-offset: var(--space-xs);
+  --outline-focus: var(--color-link-primary);
 
   --font-family-heading: var(--font-family-sans);
   --font-family-body: var(--font-family-serif);
