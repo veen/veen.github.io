@@ -1,11 +1,11 @@
 /* Page semantic tokens */
 
 :root {
-  --page-grid-columns: var(--space-lg) minmax(0, var(--layout-content-max)) var(--space-lg);
-  --page-grid-columns-lg: minmax(var(--space-2xl), 1fr) minmax(auto, var(--layout-content-max)) minmax(var(--space-2xl), 1fr);
+  --page-grid-columns-sm: var(--space-lg) minmax(0, var(--layout-content-max)) var(--space-lg);
+  --page-grid-columns: minmax(var(--space-2xl), 1fr) minmax(auto, var(--layout-content-max)) minmax(var(--space-2xl), 1fr);
   --page-row-gap: var(--space-2xl);
   --page-column-gap: 0;
   --page-padding-block: var(--space-2xl);
-  --page-padding-inline: var(--space-none);
-  --page-padding-inline-lg: 0;
+  --page-padding-inline-sm: var(--space-none);
+  --page-padding-inline: 0;
 }

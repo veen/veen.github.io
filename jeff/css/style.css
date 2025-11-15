@@ -121,17 +121,17 @@ body {
 
 .page {
     display: grid;
-    grid-template-columns: var(--page-grid-columns);
+    grid-template-columns: var(--page-grid-columns-sm);
     row-gap: var(--page-row-gap);
     column-gap: var(--page-column-gap);
     padding-block: var(--page-padding-block);
-    padding-inline: var(--page-padding-inline);
+    padding-inline: var(--page-padding-inline-sm);
 }
 
 @media (min-width: 768px) {
   .page {
-    grid-template-columns: var(--page-grid-columns-lg);
-    padding-inline: var(--page-padding-inline-lg);
+    grid-template-columns: var(--page-grid-columns);
+    padding-inline: var(--page-padding-inline);
   }
 }
 
