@@ -1,4 +1,4 @@
-/* Article semantic tokens */
+/* Article semantic tokens: everything specific to post typography lives here so code/style.css stays lean. */
 
 :root {
   --article-headline-font-family: var(--font-family-sans);

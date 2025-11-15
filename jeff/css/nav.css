@@ -1,4 +1,4 @@
-/* Navigation semantic tokens */
+/* Navigation semantic tokens: typography, spacing, and colors for the header nav. */
 
 :root {
   --nav-header-margin-bottom: var(--space-xl);

@@ -1,4 +1,4 @@
-/* Page semantic tokens */
+/* Page semantic tokens: control the grid shell, so changing layout never requires touching component CSS. */
 
 :root {
   --page-grid-columns-sm: var(--space-lg) minmax(0, var(--layout-content-max)) var(--space-lg);

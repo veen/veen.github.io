@@ -1,3 +1,4 @@
+/* style.css orchestrates semantic tokens + component rules on top of the primitives/page/nav/article token layers. */
 @import url("./primitives.css");
 @import url("./page.css");
 @import url("./nav.css");
@@ -5,6 +6,7 @@
 
 /* Design Tokens */
 
+/* Light-theme defaults live in :root so the site renders correctly even before JS sets data-theme. */
 :root {
   color-scheme: light;
   /* Semantic tokens */
@@ -42,6 +44,7 @@
 
 }
 
+/* Dark overrides are centralized here; the toggle/auto-detect script only flips data-theme on <html>. */
 :root[data-theme="dark"] {
   color-scheme: dark;
   --surface-body: var(--color-neutral-900);
@@ -59,7 +62,7 @@
   --separator-color: var(--border-muted);
 }
 
-/* Base */
+/* Base: reset colors so all downstream styles just reference semantic tokens. */
 
 html {
 }
@@ -88,7 +91,7 @@ body {
     line-height: var(--article-body-line-height);
 }
 
-/* Page Layout */
+/* Page Layout: grid shell that centers everything and drives global rhythm via page tokens. */
 
 .page {
     display: grid;
@@ -113,7 +116,7 @@ body {
     min-width: 0;
 }
 
-/* Nav */
+/* Nav: navigation tokens keep typography + spacing tweakable without touching markup. */
 
 .site-header {
     display: flex;
@@ -125,7 +128,7 @@ body {
     width: 100%;
 }
 
-/* Article */
+/* Article: every typographic decision flows through the article tokens so posts stay themeable. */
 
 article {
     font-family: var(--article-body-font-family);
