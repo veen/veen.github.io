@@ -9,7 +9,7 @@ abstract: Dusting this site off after 30 years.
 
 Typography has always been the quiet craft that makes every word legible, credible, and humane. A good sentence becomes irresistible when it’s set with patient rhythm, generous margins, and confident contrast. I wanted a single post that exercises every typographic style on this site—because there’s no better way to validate a new token system than to run it through a gauntlet of paragraphs, lists, and code snippets that talk about the very topic they inhabit.
 
-The first lesson is that paragraphs carry the cadence of a voice. When line height breathes and measure stays gentle, the reader feels invited rather than scolded. Even a simple note about letterforms can feel luxurious:
+The first lesson is that paragraphs carry the cadence of a voice. When line height breathes and measure stays gentle, the reader feels invited rather than scolded.[^1] Even a simple note about letterforms can feel luxurious:
 
 > “Great typography is akin to hospitality,” Beatrice Warde reminded us. “It invites the reader in, lets them sit down, and never makes them search for the salt.”
 
@@ -82,3 +82,5 @@ article code {
 ## Closing Thoughts
 
 All of this may feel obsessive, but typography is the chassis of the entire site. When we get spacings, weights, and voices right in a single article, every new post inherits that confidence. There’s nothing more satisfying than releasing a sentence into the world and knowing the system beneath it is invisible, sturdy, and quietly beautiful.
+
+[^1]: Footnotes, even when automated by Littlefoot, should use clear typography and sufficient line height.
