@@ -62,6 +62,25 @@
   --separator-color: var(--border-muted);
 }
 
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --surface-body: var(--color-neutral-900);
+    --text-primary: var(--color-neutral-50);
+    --text-muted: var(--color-neutral-300);
+    --text-code: var(--color-neutral-300);
+    --link-primary: var(--color-link-primary-dark);
+    --link-primary-hover: var(--color-link-hover-dark);
+    --link-visited: var(--color-link-visited-dark);
+    --border-default: var(--color-neutral-700);
+    --border-muted: var(--color-neutral-800);
+    --border-strong: var(--color-neutral-600);
+    --outline-focus: var(--color-neutral-600);
+    --quote-decoration-color: var(--border-muted);
+    --separator-color: var(--border-muted);
+  }
+}
+
 /* Base: reset colors so all downstream styles just reference semantic tokens. */
 
 html {
