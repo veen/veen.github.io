@@ -53,6 +53,49 @@
 
   --font-weight-footnote: var(--font-weight-regular);
 
+  /* Article tokens */
+  --article-headline-font-family: var(--font-family-heading);
+  --article-headline-font-weight: var(--font-weight-regular);
+  --article-headline-font-size: var(--font-scale-3xl);
+  --article-headline-line-height: var(--line-height-tight);
+  --article-headline-margin-bottom: var(--space-lg);
+
+  --article-subhead-font-weight: var(--font-weight-semibold);
+  --article-subhead-font-size: var(--font-scale-2xl);
+  --article-subhead-line-height: var(--line-height-tight);
+  --article-subhead-margin-top: var(--space-2xl);
+  --article-subhead-margin-bottom: var(--space-sm);
+
+  --article-tertiary-font-weight: var(--font-weight-semibold);
+  --article-tertiary-font-size: var(--font-scale-xl);
+  --article-tertiary-line-height: var(--line-height-tight);
+  --article-tertiary-margin-top: var(--space-xl);
+  --article-tertiary-margin-bottom: var(--space-sm);
+
+  --article-body-font-family: var(--font-family-body);
+  --article-body-font-size: var(--font-scale-base);
+  --article-body-line-height: var(--line-height-base);
+  --article-paragraph-margin-bottom: var(--space-xl);
+
+  --article-byline-font-family: var(--font-family-meta);
+  --article-byline-font-size: var(--font-scale-md);
+  --article-byline-letter-spacing: var(--tracking-extra-wide);
+  --article-byline-margin-top: var(--space-xs);
+  --article-byline-margin-bottom: var(--space-xl);
+
+  --article-blockquote-padding-left: var(--space-md);
+  --article-blockquote-border-width: var(--border-width-lg);
+  --article-blockquote-border-color: var(--color-border-muted);
+
+  --article-list-padding-left: var(--space-2xl);
+  --article-list-item-gap: var(--space-sm);
+
+  --article-code-font-family: var(--font-family-code);
+  --article-code-font-size: var(--font-scale-xs);
+  --article-code-line-height: var(--line-height-extra-tight);
+  --article-code-inline-padding: 0.15em 0.35em;
+  --article-code-inline-radius: var(--radius-sm);
+
   --font-size-body: var(--font-scale-base);
   --font-size-meta: var(--font-scale-md);
   --font-size-caption: var(--font-scale-sm);
@@ -136,9 +179,9 @@ html, body {
 }
 
 body {
-    font-family: var(--font-family-body);
-    font-size: var(--font-size-body);
-    line-height: var(--line-height-body);
+    font-family: var(--article-body-font-family);
+    font-size: var(--article-body-font-size);
+    line-height: var(--article-body-line-height);
 }
 
 /* Page Layout */
@@ -221,42 +264,42 @@ a:focus {
 /* Headings and meta */
 
 h1, h2, h3 {
-    font-family: var(--font-family-heading);
+    font-family: var(--article-headline-font-family);
     font-style: normal;
     margin-top: 0;
 }
 
 h1 {
-    font-weight: var(--font-weight-regular);
-    font-size: var(--font-size-h1);
-    line-height: var(--line-height-tight);
-    margin-bottom: var(--space-lg);
+    font-weight: var(--article-headline-font-weight);
+    font-size: var(--article-headline-font-size);
+    line-height: var(--article-headline-line-height);
+    margin-bottom: var(--article-headline-margin-bottom);
 }
 
 h2 {
-    font-weight: var(--font-weight-semibold);
-    font-size: var(--font-size-h2);
-    line-height: var(--line-height-heading);
-    margin-top: var(--space-2xl);
-    margin-bottom: var(--space-sm);
+    font-weight: var(--article-subhead-font-weight);
+    font-size: var(--article-subhead-font-size);
+    line-height: var(--article-subhead-line-height);
+    margin-top: var(--article-subhead-margin-top);
+    margin-bottom: var(--article-subhead-margin-bottom);
 }
 
 h3 {
-    font-weight: var(--font-weight-semibold);
-    font-size: var(--font-size-h3);
-    line-height: var(--line-height-heading);
-    margin-top: var(--space-xl);
-    margin-bottom: var(--space-sm);
+    font-weight: var(--article-tertiary-font-weight);
+    font-size: var(--article-tertiary-font-size);
+    line-height: var(--article-tertiary-line-height);
+    margin-top: var(--article-tertiary-margin-top);
+    margin-bottom: var(--article-tertiary-margin-bottom);
 }
 
 .byline {
-    font-family: var(--font-family-meta);
-    font-size: var(--font-size-meta);
+    font-family: var(--article-byline-font-family);
+    font-size: var(--article-byline-font-size);
     font-weight: var(--font-weight-regular);
-    margin-top: var(--space-xs);
-    margin-bottom: var(--space-xl);
+    margin-top: var(--article-byline-margin-top);
+    margin-bottom: var(--article-byline-margin-bottom);
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: var(--article-byline-letter-spacing);
     display: block;
 }
 
@@ -337,23 +380,23 @@ article > ul,
 article > ol,
 article > blockquote {
     margin-top: 0;
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--article-paragraph-margin-bottom);
 }
 
 article > ul,
 article > ol {
-    padding-left: var(--space-2xl);
+    padding-left: var(--article-list-padding-left);
 }
 
 article > ul > li,
 article > ol > li {
-    margin-bottom: var(--space-sm);
+    margin-bottom: var(--article-list-item-gap);
 }
 
 article > blockquote {
-    padding-left: var(--space-md);
+    padding-left: var(--article-blockquote-padding-left);
     color: var(--text-primary);
-    border-left: var(--quote-decoration-width) solid var(--quote-decoration-color);
+    border-left: var(--article-blockquote-border-width) solid var(--article-blockquote-border-color);
 }
 
 article a {
@@ -367,12 +410,12 @@ article a:hover {
 
 code {
     color: var(--text-code);
-    font-family: var(--font-family-code);
+    font-family: var(--article-code-font-family);
     font-weight: var(--font-weight-regular);
-    font-size: var(--font-size-code-block) !important;
-    line-height: var(--line-height-code) !important;
-    padding: 0.15em 0.35em;
-    border-radius: var(--radius-sm);
+    font-size: var(--article-code-font-size) !important;
+    line-height: var(--article-code-line-height) !important;
+    padding: var(--article-code-inline-padding);
+    border-radius: var(--article-code-inline-radius);
 }
 
 .highlighter-rouge {
@@ -391,9 +434,9 @@ code {
     margin: 0;
     padding: var(--space-lg) var(--space-xl);
     color: var(--text-code);
-    font-family: var(--font-family-code);
-    font-size: var(--font-size-code-block);
-    line-height: var(--line-height-code) !important;
+    font-family: var(--article-code-font-family);
+    font-size: var(--article-code-font-size);
+    line-height: var(--article-code-line-height) !important;
     background: none;
     max-width: 100%;
     overflow-x: auto;
@@ -415,8 +458,8 @@ code[class*="language-"] {
 
 /* Override Prism's default font size and line height */
 .highlighter-rouge pre code {
-    font-size: var(--font-size-code-block);
-    line-height: var(--line-height-code) !important;
+    font-size: var(--article-code-font-size);
+    line-height: var(--article-code-line-height) !important;
 }
 
 /* Clean up Prism toolbar and copy button */
