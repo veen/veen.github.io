@@ -45,6 +45,23 @@
     <meta name="twitter:image" content="{{ site.url }}{{ page.og_image }}">
     {% endif %}
     
+    <script>
+      (function () {
+        const storageKey = "theme-preference";
+        try {
+          const stored = localStorage.getItem(storageKey);
+          const prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)");
+          if (stored === "dark" || stored === "light") {
+            document.documentElement.dataset.theme = stored;
+          } else if (prefersDark && prefersDark.matches) {
+            document.documentElement.dataset.theme = "dark";
+          }
+        } catch (error) {
+          /* ignore failures (private mode, etc.) */
+        }
+      })();
+    </script>
+
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ '/jeff/css/style.css' | relative_url }}" type="text/css" media="screen">
 
@@ -64,30 +81,28 @@
     <script defer src="https://unpkg.com/littlefoot/dist/littlefoot.js"></script>
   </head>
   <body>
-    <div class="site">
-      <header class="site-header">
-        <nav class="site-nav" aria-label="Primary navigation">
-            <ul class="site-nav__list">
-              <li class="site-nav__item site-nav__item--home">
-                <a href="{{ '/jeff' | relative_url }}">Jeff Veen</a>
-              </li>
-              <li class="site-nav__item">
-                <a href="{{ '/jeff' | relative_url }}">Blog</a>
-              </li>
-              <li class="site-nav__item">
-                <a href="{{ '/jeff/about/' | relative_url }}">About</a>
-              </li>
-              <li class="site-nav__item site-nav__item--theme">
-                <button class="theme-toggle" type="button" aria-label="Toggle color theme" aria-pressed="false">
-                  <span class="theme-toggle__icon" aria-hidden="true">◐</span>
-                </button>
-              </li>
-            </ul>
-        </nav>
-      </header>
+    <div class="page">
+      <nav class="site-header site-nav" aria-label="Primary navigation">
+          <ul class="site-nav__list">
+            <li class="site-nav__item site-nav__item--home">
+              <a href="{{ '/jeff' | relative_url }}">Jeff Veen</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="{{ '/jeff' | relative_url }}">Blog</a>
+            </li>
+            <li class="site-nav__item">
+              <a href="{{ '/jeff/about/' | relative_url }}">About</a>
+            </li>
+            <li class="site-nav__item site-nav__item--theme">
+              <button class="theme-toggle" type="button" aria-label="Toggle color theme" aria-pressed="false">
+                <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+              </button>
+            </li>
+          </ul>
+      </nav>
 
-      <main class="site-main">
-  		{{ content }}
+      <main class="content">
+		{{ content }}
       </main>
     </div>
 
@@ -117,16 +132,7 @@
           }
         };
 
-        const applyTheme = (theme) => {
-          const isDark = theme === "dark";
-          root.classList.remove("theme--dark", "theme--light");
-          root.classList.add(isDark ? "theme--dark" : "theme--light");
-          toggle.setAttribute("aria-pressed", String(isDark));
-          if (icon) {
-            icon.textContent = isDark ? "◑" : "◐";
-          }
-
-          // Toggle Prism themes
+        const syncPrismThemes = (isDark) => {
           const lightTheme = document.getElementById("prism-light-theme");
           const darkTheme = document.getElementById("prism-dark-theme");
           if (lightTheme && darkTheme) {
@@ -135,29 +141,67 @@
           }
         };
 
-        const getPreferredTheme = () => {
-          const stored = safeGet();
-          if (stored === "dark" || stored === "light") {
-            return stored;
+        const updateToggleState = (isDark) => {
+          toggle.setAttribute("aria-pressed", String(isDark));
+          toggle.setAttribute("aria-label", isDark ? "Switch to light theme" : "Switch to dark theme");
+          toggle.setAttribute("title", isDark ? "Switch to light theme" : "Switch to dark theme");
+          if (icon) {
+            icon.textContent = isDark ? "◑" : "◐";
+          }
+        };
+
+        const resolveTheme = (theme) => {
+          if (theme === "dark" || theme === "light") {
+            return theme;
           }
           return prefersDark && prefersDark.matches ? "dark" : "light";
         };
 
-        let currentTheme = getPreferredTheme();
-        applyTheme(currentTheme);
+        const announceTheme = (isDark) => {
+          let liveRegion = document.getElementById("theme-status");
+          if (!liveRegion) {
+            liveRegion = document.createElement("div");
+            liveRegion.id = "theme-status";
+            liveRegion.setAttribute("aria-live", "polite");
+            liveRegion.setAttribute("class", "sr-only");
+            document.body.appendChild(liveRegion);
+          }
+          liveRegion.textContent = isDark ? "Dark theme enabled" : "Light theme enabled";
+        };
+
+        const applyTheme = (theme) => {
+          const finalTheme = resolveTheme(theme);
+          root.dataset.theme = finalTheme;
+          const isDark = finalTheme === "dark";
+          updateToggleState(isDark);
+          syncPrismThemes(isDark);
+          announceTheme(isDark);
+        };
+
+        const syncFromPreference = () => {
+          const stored = safeGet();
+          if (stored === "dark" || stored === "light") {
+            applyTheme(stored);
+          } else {
+            applyTheme(null);
+          }
+        };
+
+        const currentTheme = () => root.dataset.theme || resolveTheme(null);
+
+        syncFromPreference();
 
         toggle.addEventListener("click", () => {
-          currentTheme = currentTheme === "dark" ? "light" : "dark";
-          applyTheme(currentTheme);
-          safeSet(currentTheme);
+          const nextTheme = currentTheme() === "dark" ? "light" : "dark";
+          applyTheme(nextTheme);
+          safeSet(nextTheme);
         });
 
-        const handlePreferenceChange = (event) => {
+        const handlePreferenceChange = () => {
           if (safeGet()) {
             return;
           }
-          currentTheme = event.matches ? "dark" : "light";
-          applyTheme(currentTheme);
+          applyTheme(null);
         };
 
         if (prefersDark && prefersDark.addEventListener) {
