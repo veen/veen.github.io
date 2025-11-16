@@ -309,12 +309,6 @@
         "blockquoteWidth": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.lg}"},
         "codeInlineRadius": {"$type": "dimension", "$value": "{foundation.dimension.radius.sm}"},
         "imageRadius": {"$type": "dimension", "$value": "{foundation.dimension.radius.sm}"}
-      },
-      "$extensions": {
-        "jeff.todo": [
-          "Express --article-code-inline-padding once multi-value dimensions are supported.",
-          "Blockquote border color inherits from themes.* tokens."
-        ]
       }
     },
     "base": {
@@ -323,10 +317,10 @@
         "width": {"$type": "dimension", "$value": "{foundation.dimension.utility.px1}"},
         "height": {"$type": "dimension", "$value": "{foundation.dimension.utility.px1}"},
         "margin": {"$type": "dimension", "$value": "{foundation.dimension.utility.pxNeg1}"},
-        "padding": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"}
-      },
-      "$extensions": {
-        "jeff.todo": ["sr-only clip/overflow tokens need custom string/composite support."]
+        "padding": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"},
+        "clip": {"$type": "string", "$value": "rect(0, 0, 0, 0)"},
+        "overflow": {"$type": "string", "$value": "hidden"},
+        "whiteSpace": {"$type": "string", "$value": "nowrap"}
       },
       "motion": {
         "linkColor": {"$type": "transition", "$description": "Default transition for color + text decoration interactions.", "$value": {"duration": "{foundation.motion.duration.short}", "delay": {"value": 0, "unit": "ms"}, "timingFunction": "{foundation.motion.easing.standard}"}}
