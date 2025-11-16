@@ -7,554 +7,115 @@
       "$description": "OKLCH ramp plus link + shadow colors pulled from primitives.",
       "neutral": {
         "$description": "Neutral grayscale ramp referenced across light/dark themes.",
-        "000": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              1,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-0"
-        },
-        "050": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.985,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-50"
-        },
-        "100": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.97,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-100"
-        },
-        "200": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.922,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-200"
-        },
-        "300": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.87,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-300"
-        },
-        "400": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.708,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-400"
-        },
-        "500": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.556,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-500"
-        },
-        "600": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.439,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-600"
-        },
-        "700": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.371,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-700"
-        },
-        "800": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.269,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-800"
-        },
-        "900": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.205,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-900"
-        },
-        "950": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.145,
-              0,
-              0
-            ]
-          },
-          "$description": "Matches --color-neutral-950"
-        }
+        "000": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [1, 0, 0]}, "$description": "Matches --color-neutral-0"},
+        "050": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.985, 0, 0]}, "$description": "Matches --color-neutral-50"},
+        "100": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.97, 0, 0]}, "$description": "Matches --color-neutral-100"},
+        "200": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.922, 0, 0]}, "$description": "Matches --color-neutral-200"},
+        "300": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.87, 0, 0]}, "$description": "Matches --color-neutral-300"},
+        "400": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.708, 0, 0]}, "$description": "Matches --color-neutral-400"},
+        "500": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.556, 0, 0]}, "$description": "Matches --color-neutral-500"},
+        "600": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.439, 0, 0]}, "$description": "Matches --color-neutral-600"},
+        "700": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.371, 0, 0]}, "$description": "Matches --color-neutral-700"},
+        "800": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.269, 0, 0]}, "$description": "Matches --color-neutral-800"},
+        "900": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.205, 0, 0]}, "$description": "Matches --color-neutral-900"},
+        "950": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.145, 0, 0]}, "$description": "Matches --color-neutral-950"}
       },
       "link": {
         "$description": "Brand/link accent colors for light and dark modes.",
-        "primary": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.5094,
-              0.1873,
-              263.92
-            ]
-          },
-          "$description": "CSS var --color-link-primary"
-        },
-        "hover": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.4298,
-              0.1586,
-              263.64
-            ]
-          },
-          "$description": "CSS var --color-link-hover"
-        },
-        "visited": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.4298,
-              0.1586,
-              263.64
-            ]
-          },
-          "$description": "CSS var --color-link-visited"
-        },
-        "primaryDark": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.7641,
-              0.1197,
-              266.3
-            ]
-          },
-          "$description": "CSS var --color-link-primary-dark"
-        },
-        "hoverDark": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.8241,
-              0.0872,
-              268.0
-            ]
-          },
-          "$description": "CSS var --color-link-hover-dark"
-        },
-        "visitedDark": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "oklch",
-            "components": [
-              0.7641,
-              0.1197,
-              266.3
-            ]
-          },
-          "$description": "CSS var --color-link-visited-dark"
-        }
+        "primary": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.5094, 0.1873, 263.92]}, "$description": "CSS var --color-link-primary"},
+        "hover": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.4298, 0.1586, 263.64]}, "$description": "CSS var --color-link-hover"},
+        "visited": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.4298, 0.1586, 263.64]}, "$description": "CSS var --color-link-visited"},
+        "primaryDark": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.7641, 0.1197, 266.3]}, "$description": "CSS var --color-link-primary-dark"},
+        "hoverDark": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.8241, 0.0872, 268.0]}, "$description": "CSS var --color-link-hover-dark"},
+        "visitedDark": {"$type": "color", "$value": {"colorSpace": "oklch", "components": [0.7641, 0.1197, 266.3]}, "$description": "CSS var --color-link-visited-dark"}
       },
       "shadow": {
         "$description": "Shadow colors with preset opacities for depth tokens.",
-        "sm": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "srgb",
-            "components": [
-              0,
-              0,
-              0
-            ],
-            "alpha": 0.08,
-            "hex": "#000000"
-          },
-          "$description": "Base shadow color with alpha 0.08"
-        },
-        "md": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "srgb",
-            "components": [
-              0,
-              0,
-              0
-            ],
-            "alpha": 0.1,
-            "hex": "#000000"
-          },
-          "$description": "Base shadow color with alpha 0.1"
-        },
-        "lg": {
-          "$type": "color",
-          "$value": {
-            "colorSpace": "srgb",
-            "components": [
-              0,
-              0,
-              0
-            ],
-            "alpha": 0.12,
-            "hex": "#000000"
-          },
-          "$description": "Base shadow color with alpha 0.12"
-        }
+        "sm": {"$type": "color", "$value": {"colorSpace": "srgb", "components": [0, 0, 0], "alpha": 0.08, "hex": "#000000"}, "$description": "Base shadow color with alpha 0.08"},
+        "md": {"$type": "color", "$value": {"colorSpace": "srgb", "components": [0, 0, 0], "alpha": 0.1, "hex": "#000000"}, "$description": "Base shadow color with alpha 0.1"},
+        "lg": {"$type": "color", "$value": {"colorSpace": "srgb", "components": [0, 0, 0], "alpha": 0.12, "hex": "#000000"}, "$description": "Base shadow color with alpha 0.12"}
       }
     },
     "typography": {
       "$description": "Font families, weights, line-heights, letter spacing, and scale clamps.",
       "family": {
         "$description": "Font stacks for sans, serif, and mono usage.",
-        "sans": {
-          "$type": "fontFamily",
-          "$value": [
-            "source-sans-3-variable",
-            "Source Sans 3",
-            "system-ui",
-            "-apple-system",
-            "BlinkMacSystemFont",
-            "Segoe UI",
-            "sans-serif"
-          ]
-        },
-        "serif": {
-          "$type": "fontFamily",
-          "$value": [
-            "source-serif-4-variable",
-            "Source Serif 4",
-            "Iowan Old Style",
-            "Palatino Linotype",
-            "URW Palladio L",
-            "Times New Roman",
-            "serif"
-          ]
-        },
-        "mono": {
-          "$type": "fontFamily",
-          "$value": [
-            "source-code-variable",
-            "Source Code Pro",
-            "ui-monospace",
-            "SFMono-Regular",
-            "Menlo",
-            "Monaco",
-            "Consolas",
-            "Liberation Mono",
-            "monospace"
-          ]
-        }
+        "sans": {"$type": "fontFamily", "$value": ["source-sans-3-variable", "Source Sans 3", "system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "sans-serif"]},
+        "serif": {"$type": "fontFamily", "$value": ["source-serif-4-variable", "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "URW Palladio L", "Times New Roman", "serif"]},
+        "mono": {"$type": "fontFamily", "$value": ["source-code-variable", "Source Code Pro", "ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "monospace"]}
       },
       "weight": {
         "$description": "Font weight scale.",
-        "light": {
-          "$type": "fontWeight",
-          "$value": 300
-        },
-        "regular": {
-          "$type": "fontWeight",
-          "$value": 400
-        },
-        "semibold": {
-          "$type": "fontWeight",
-          "$value": 600
-        }
+        "light": {"$type": "fontWeight", "$value": 300},
+        "regular": {"$type": "fontWeight", "$value": 400},
+        "semibold": {"$type": "fontWeight", "$value": 600}
       },
       "lineHeight": {
         "$description": "Line height scale expressed as unitless multipliers.",
-        "extraTight": {
-          "$type": "number",
-          "$value": 1
-        },
-        "tight": {
-          "$type": "number",
-          "$value": 1.15
-        },
-        "snug": {
-          "$type": "number",
-          "$value": 1.35
-        },
-        "base": {
-          "$type": "number",
-          "$value": 1.55
-        },
-        "loose": {
-          "$type": "number",
-          "$value": 1.7
-        },
-        "extraLoose": {
-          "$type": "number",
-          "$value": 1.85
-        }
+        "extraTight": {"$type": "number", "$value": 1},
+        "tight": {"$type": "number", "$value": 1.15},
+        "snug": {"$type": "number", "$value": 1.35},
+        "base": {"$type": "number", "$value": 1.55},
+        "loose": {"$type": "number", "$value": 1.7},
+        "extraLoose": {"$type": "number", "$value": 1.85}
       },
       "letterSpacing": {
         "$description": "Letter spacing scale stored as multipliers of em.",
-        "tight": {
-          "$type": "number",
-          "$value": -0.02,
-          "$description": "Multiply by 1em in CSS"
-        },
-        "base": {
-          "$type": "number",
-          "$value": 0,
-          "$description": "Multiply by 1em in CSS"
-        },
-        "wide": {
-          "$type": "number",
-          "$value": 0.05,
-          "$description": "Multiply by 1em in CSS"
-        },
-        "extraWide": {
-          "$type": "number",
-          "$value": 0.08,
-          "$description": "Multiply by 1em in CSS"
-        },
-        "articleBody": {
-          "$type": "number",
-          "$value": -0.004,
-          "$description": "Article body tracking; multiply by 1em in CSS"
-        }
+        "tight": {"$type": "number", "$value": -0.02, "$description": "Multiply by 1em in CSS"},
+        "base": {"$type": "number", "$value": 0, "$description": "Multiply by 1em in CSS"},
+        "wide": {"$type": "number", "$value": 0.05, "$description": "Multiply by 1em in CSS"},
+        "extraWide": {"$type": "number", "$value": 0.08, "$description": "Multiply by 1em in CSS"},
+        "articleBody": {"$type": "number", "$value": -0.004, "$description": "Article body tracking; multiply by 1em in CSS"}
       },
       "scale": {
         "$description": "Clamp args for responsive type scale.",
         "xs": {
           "$description": "Clamp(0.8rem, 1.1vw, 0.9rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 0.8,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 1.1
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 0.9,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 0.8, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 1.1},
+          "max": {"$type": "dimension", "$value": {"value": 0.9, "unit": "rem"}}
         },
         "sm": {
           "$description": "Clamp(0.85rem, 1.2vw, 0.95rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 0.85,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 1.2
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 0.95,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 0.85, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 1.2},
+          "max": {"$type": "dimension", "$value": {"value": 0.95, "unit": "rem"}}
         },
         "base": {
           "$description": "Clamp(1.125rem, 2.0vw, 1.25rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.125,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 2.0
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.25,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 1.125, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 2.0},
+          "max": {"$type": "dimension", "$value": {"value": 1.25, "unit": "rem"}}
         },
         "md": {
           "$description": "Clamp(0.95rem, 1.5vw, 1.05rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 0.95,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 1.5
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.05,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 0.95, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 1.5},
+          "max": {"$type": "dimension", "$value": {"value": 1.05, "unit": "rem"}}
         },
         "lg": {
           "$description": "Clamp(1.05rem, 1.8vw, 1.15rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.05,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 1.8
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.15,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 1.05, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 1.8},
+          "max": {"$type": "dimension", "$value": {"value": 1.15, "unit": "rem"}}
         },
         "xl": {
           "$description": "Clamp(1.1rem, 2.5vw, 1.25rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.1,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 2.5
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.25,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 1.1, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 2.5},
+          "max": {"$type": "dimension", "$value": {"value": 1.25, "unit": "rem"}}
         },
         "2xl": {
           "$description": "Clamp(1.25rem, 3.0vw, 1.5rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.25,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 3.0
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.5,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 1.25, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 3.0},
+          "max": {"$type": "dimension", "$value": {"value": 1.5, "unit": "rem"}}
         },
         "3xl": {
           "$description": "Clamp(1.6rem, 4.0vw, 2.0rem) arguments.",
-          "min": {
-            "$type": "dimension",
-            "$value": {
-              "value": 1.6,
-              "unit": "rem"
-            }
-          },
-          "preferred": {
-            "$type": "number",
-            "$value": 4.0
-          },
-          "max": {
-            "$type": "dimension",
-            "$value": {
-              "value": 2.0,
-              "unit": "rem"
-            }
-          }
+          "min": {"$type": "dimension", "$value": {"value": 1.6, "unit": "rem"}},
+          "preferred": {"$type": "number", "$value": 4.0},
+          "max": {"$type": "dimension", "$value": {"value": 2.0, "unit": "rem"}}
         }
       }
     },
@@ -562,231 +123,55 @@
       "$description": "Spacing, radii, borders, and layout constants in rem/number units.",
       "space": {
         "$description": "Spacing scale expressed in rem.",
-        "none": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0,
-            "unit": "rem"
-          }
-        },
-        "xs": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.25,
-            "unit": "rem"
-          }
-        },
-        "sm": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.5,
-            "unit": "rem"
-          }
-        },
-        "md": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.75,
-            "unit": "rem"
-          }
-        },
-        "lg": {
-          "$type": "dimension",
-          "$value": {
-            "value": 1,
-            "unit": "rem"
-          }
-        },
-        "xl": {
-          "$type": "dimension",
-          "$value": {
-            "value": 1.5,
-            "unit": "rem"
-          }
-        },
-        "2xl": {
-          "$type": "dimension",
-          "$value": {
-            "value": 2,
-            "unit": "rem"
-          }
-        },
-        "3xl": {
-          "$type": "dimension",
-          "$value": {
-            "value": 3,
-            "unit": "rem"
-          }
-        }
+        "none": {"$type": "dimension", "$value": {"value": 0, "unit": "rem"}},
+        "xs": {"$type": "dimension", "$value": {"value": 0.25, "unit": "rem"}},
+        "sm": {"$type": "dimension", "$value": {"value": 0.5, "unit": "rem"}},
+        "md": {"$type": "dimension", "$value": {"value": 0.75, "unit": "rem"}},
+        "lg": {"$type": "dimension", "$value": {"value": 1, "unit": "rem"}},
+        "xl": {"$type": "dimension", "$value": {"value": 1.5, "unit": "rem"}},
+        "2xl": {"$type": "dimension", "$value": {"value": 2, "unit": "rem"}},
+        "3xl": {"$type": "dimension", "$value": {"value": 3, "unit": "rem"}}
       },
       "radius": {
         "$description": "Border radius scale.",
-        "sm": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.25,
-            "unit": "rem"
-          }
-        },
-        "md": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.375,
-            "unit": "rem"
-          }
-        }
+        "sm": {"$type": "dimension", "$value": {"value": 0.25, "unit": "rem"}},
+        "md": {"$type": "dimension", "$value": {"value": 0.375, "unit": "rem"}}
       },
       "borderWidth": {
         "$description": "Border width scale.",
-        "sm": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.0625,
-            "unit": "rem"
-          }
-        },
-        "md": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.125,
-            "unit": "rem"
-          }
-        },
-        "lg": {
-          "$type": "dimension",
-          "$value": {
-            "value": 0.1875,
-            "unit": "rem"
-          }
-        }
+        "sm": {"$type": "dimension", "$value": {"value": 0.0625, "unit": "rem"}},
+        "md": {"$type": "dimension", "$value": {"value": 0.125, "unit": "rem"}},
+        "lg": {"$type": "dimension", "$value": {"value": 0.1875, "unit": "rem"}}
       },
       "layout": {
         "$description": "Layout-related numeric values.",
         "contentMax": {
           "$description": "CSS applies this as {value}ch since the spec lacks a ch unit.",
-          "ch": {
-            "$type": "number",
-            "$value": 60
-          }
+          "ch": {"$type": "number", "$value": 60}
         }
       },
       "utility": {
         "$description": "Pixel units required for sr-only utilities.",
-        "px1": {
-          "$type": "dimension",
-          "$value": {
-            "value": 1,
-            "unit": "px"
-          }
-        },
-        "pxNeg1": {
-          "$type": "dimension",
-          "$value": {
-            "value": -1,
-            "unit": "px"
-          }
-        }
+        "px1": {"$type": "dimension", "$value": {"value": 1, "unit": "px"}},
+        "pxNeg1": {"$type": "dimension", "$value": {"value": -1, "unit": "px"}}
       }
     },
     "motion": {
       "$description": "Durations, easing, and shadow composites.",
       "duration": {
         "$description": "Animation duration scale.",
-        "short": {
-          "$type": "duration",
-          "$value": {
-            "value": 0.2,
-            "unit": "s"
-          }
-        },
-        "medium": {
-          "$type": "duration",
-          "$value": {
-            "value": 0.3,
-            "unit": "s"
-          }
-        }
+        "short": {"$type": "duration", "$value": {"value": 0.2, "unit": "s"}},
+        "medium": {"$type": "duration", "$value": {"value": 0.3, "unit": "s"}}
       },
       "easing": {
         "$description": "Reusable timing functions.",
-        "standard": {
-          "$type": "cubicBezier",
-          "$value": [
-            0.25,
-            0.1,
-            0.25,
-            1
-          ]
-        }
+        "standard": {"$type": "cubicBezier", "$value": [0.25, 0.1, 0.25, 1]}
       },
       "shadow": {
         "$description": "Shadow presets converted from rgba strings.",
-        "sm": {
-          "$type": "shadow",
-          "$value": {
-            "color": "{foundation.color.shadow.sm}",
-            "offsetX": {
-              "value": 0,
-              "unit": "px"
-            },
-            "offsetY": {
-              "value": 1,
-              "unit": "px"
-            },
-            "blur": {
-              "value": 2,
-              "unit": "px"
-            },
-            "spread": {
-              "value": 0,
-              "unit": "px"
-            }
-          }
-        },
-        "md": {
-          "$type": "shadow",
-          "$value": {
-            "color": "{foundation.color.shadow.md}",
-            "offsetX": {
-              "value": 0,
-              "unit": "px"
-            },
-            "offsetY": {
-              "value": 4,
-              "unit": "px"
-            },
-            "blur": {
-              "value": 12,
-              "unit": "px"
-            },
-            "spread": {
-              "value": 0,
-              "unit": "px"
-            }
-          }
-        },
-        "lg": {
-          "$type": "shadow",
-          "$value": {
-            "color": "{foundation.color.shadow.lg}",
-            "offsetX": {
-              "value": 0,
-              "unit": "px"
-            },
-            "offsetY": {
-              "value": 12,
-              "unit": "px"
-            },
-            "blur": {
-              "value": 24,
-              "unit": "px"
-            },
-            "spread": {
-              "value": 0,
-              "unit": "px"
-            }
-          }
-        }
+        "sm": {"$type": "shadow", "$value": {"color": "{foundation.color.shadow.sm}", "offsetX": {"value": 0, "unit": "px"}, "offsetY": {"value": 1, "unit": "px"}, "blur": {"value": 2, "unit": "px"}, "spread": {"value": 0, "unit": "px"}}},
+        "md": {"$type": "shadow", "$value": {"color": "{foundation.color.shadow.md}", "offsetX": {"value": 0, "unit": "px"}, "offsetY": {"value": 4, "unit": "px"}, "blur": {"value": 12, "unit": "px"}, "spread": {"value": 0, "unit": "px"}}},
+        "lg": {"$type": "shadow", "$value": {"color": "{foundation.color.shadow.lg}", "offsetX": {"value": 0, "unit": "px"}, "offsetY": {"value": 12, "unit": "px"}, "blur": {"value": 24, "unit": "px"}, "spread": {"value": 0, "unit": "px"}}}
       }
     }
   },
@@ -795,175 +180,73 @@
     "light": {
       "$description": "Default semantic tokens for light mode (no data-theme or data-theme='light').",
       "surface": {
-        "body": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.050}"
-        }
+        "body": {"$type": "color", "$value": "{foundation.color.neutral.050}"}
       },
       "text": {
-        "primary": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.900}"
-        },
-        "muted": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.600}"
-        },
-        "code": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.600}"
-        }
+        "primary": {"$type": "color", "$value": "{foundation.color.neutral.900}"},
+        "muted": {"$type": "color", "$value": "{foundation.color.neutral.600}"},
+        "code": {"$type": "color", "$value": "{foundation.color.neutral.600}"}
       },
       "link": {
-        "primary": {
-          "$type": "color",
-          "$value": "{foundation.color.link.primary}"
-        },
-        "hover": {
-          "$type": "color",
-          "$value": "{foundation.color.link.hover}"
-        },
-        "visited": {
-          "$type": "color",
-          "$value": "{foundation.color.link.visited}"
-        }
+        "primary": {"$type": "color", "$value": "{foundation.color.link.primary}"},
+        "hover": {"$type": "color", "$value": "{foundation.color.link.hover}"},
+        "visited": {"$type": "color", "$value": "{foundation.color.link.visited}"}
       },
       "border": {
-        "default": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.300}"
-        },
-        "muted": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.200}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.500}"
-        }
+        "default": {"$type": "color", "$value": "{foundation.color.neutral.300}"},
+        "muted": {"$type": "color", "$value": "{foundation.color.neutral.200}"},
+        "strong": {"$type": "color", "$value": "{foundation.color.neutral.500}"}
       },
       "blockquote": {
         "decoration": {
-          "color": {
-            "$type": "color",
-            "$value": "{foundation.color.neutral.200}"
-          },
-          "width": {
-            "$type": "dimension",
-            "$value": "{foundation.dimension.borderWidth.lg}"
-          }
+          "color": {"$type": "color", "$value": "{foundation.color.neutral.200}"},
+          "width": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.lg}"}
         }
       },
       "separator": {
-        "color": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.200}"
-        },
-        "width": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.borderWidth.sm}"
-        }
+        "color": {"$type": "color", "$value": "{foundation.color.neutral.200}"},
+        "width": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.sm}"}
       },
       "focus": {
-        "outline": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.300}"
-        },
-        "ringWidth": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.borderWidth.md}"
-        },
-        "ringRadius": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.radius.sm}"
-        }
+        "outline": {"$type": "color", "$value": "{foundation.color.neutral.300}"},
+        "ringWidth": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.md}"},
+        "ringRadius": {"$type": "dimension", "$value": "{foundation.dimension.radius.sm}"}
       }
     },
     "dark": {
       "$description": "Semantic tokens when html[data-theme='dark'].",
       "surface": {
-        "body": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.900}"
-        }
+        "body": {"$type": "color", "$value": "{foundation.color.neutral.900}"}
       },
       "text": {
-        "primary": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.050}"
-        },
-        "muted": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.300}"
-        },
-        "code": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.300}"
-        }
+        "primary": {"$type": "color", "$value": "{foundation.color.neutral.050}"},
+        "muted": {"$type": "color", "$value": "{foundation.color.neutral.300}"},
+        "code": {"$type": "color", "$value": "{foundation.color.neutral.300}"}
       },
       "link": {
-        "primary": {
-          "$type": "color",
-          "$value": "{foundation.color.link.primaryDark}"
-        },
-        "hover": {
-          "$type": "color",
-          "$value": "{foundation.color.link.hoverDark}"
-        },
-        "visited": {
-          "$type": "color",
-          "$value": "{foundation.color.link.visitedDark}"
-        }
+        "primary": {"$type": "color", "$value": "{foundation.color.link.primaryDark}"},
+        "hover": {"$type": "color", "$value": "{foundation.color.link.hoverDark}"},
+        "visited": {"$type": "color", "$value": "{foundation.color.link.visitedDark}"}
       },
       "border": {
-        "default": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.700}"
-        },
-        "muted": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.800}"
-        },
-        "strong": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.600}"
-        }
+        "default": {"$type": "color", "$value": "{foundation.color.neutral.700}"},
+        "muted": {"$type": "color", "$value": "{foundation.color.neutral.800}"},
+        "strong": {"$type": "color", "$value": "{foundation.color.neutral.600}"}
       },
       "blockquote": {
         "decoration": {
-          "color": {
-            "$type": "color",
-            "$value": "{foundation.color.neutral.800}"
-          },
-          "width": {
-            "$type": "dimension",
-            "$value": "{foundation.dimension.borderWidth.lg}"
-          }
+          "color": {"$type": "color", "$value": "{foundation.color.neutral.800}"},
+          "width": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.lg}"}
         }
       },
       "separator": {
-        "color": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.800}"
-        },
-        "width": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.borderWidth.sm}"
-        }
+        "color": {"$type": "color", "$value": "{foundation.color.neutral.800}"},
+        "width": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.sm}"}
       },
       "focus": {
-        "outline": {
-          "$type": "color",
-          "$value": "{foundation.color.neutral.600}"
-        },
-        "ringWidth": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.borderWidth.md}"
-        },
-        "ringRadius": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.radius.sm}"
-        }
+        "outline": {"$type": "color", "$value": "{foundation.color.neutral.600}"},
+        "ringWidth": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.md}"},
+        "ringRadius": {"$type": "dimension", "$value": "{foundation.dimension.radius.sm}"}
       }
     }
   },
@@ -972,234 +255,61 @@
     "page": {
       "$description": "Grid shell spacing tokens; grid-template columns require future composite support.",
       "$extensions": {
-        "jeff.todo": [
-          "Represent --page-grid-columns-sm and --page-grid-columns once string/composite token guidance lands."
-        ]
+        "jeff.todo": ["Represent --page-grid-columns-sm and --page-grid-columns once string/composite token guidance lands."]
       },
       "layout": {
-        "rowGap": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.2xl}"
-        },
-        "columnGap": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.none}"
-        },
-        "paddingBlock": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.2xl}"
-        },
-        "paddingInlineSm": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.none}"
-        },
-        "paddingInline": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.none}"
-        }
+        "rowGap": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
+        "columnGap": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"},
+        "paddingBlock": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
+        "paddingInlineSm": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"},
+        "paddingInline": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"}
       }
     },
     "nav": {
       "$description": "Navigation typography + spacing; colors are sourced from theme tokens.",
       "typography": {
-        "menu": {
-          "$type": "typography",
-          "$description": "Nav links leverage the responsive md clamp scale.",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.mono}",
-            "fontSize": "{foundation.typography.scale.md.min}",
-            "fontWeight": "{foundation.typography.weight.regular}",
-            "letterSpacing": "{foundation.typography.letterSpacing.base}",
-            "lineHeight": "{foundation.typography.lineHeight.base}"
-          }
-        }
+        "menu": {"$type": "typography", "$description": "Nav links leverage the responsive md clamp scale.", "$value": {"fontFamily": "{foundation.typography.family.mono}", "fontSize": "{foundation.typography.scale.md.min}", "fontWeight": "{foundation.typography.weight.regular}", "letterSpacing": "{foundation.typography.letterSpacing.base}", "lineHeight": "{foundation.typography.lineHeight.base}"}}
       },
       "spacing": {
-        "headerMarginBottom": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.xl}"
-        },
-        "gap": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.xl}"
-        },
-        "homeDividerMarginLeft": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.sm}"
-        },
-        "homeDividerMarginRight": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.lg}"
-        },
-        "themeMarginLeft": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.lg}"
-        }
+        "headerMarginBottom": {"$type": "dimension", "$value": "{foundation.dimension.space.xl}"},
+        "gap": {"$type": "dimension", "$value": "{foundation.dimension.space.xl}"},
+        "homeDividerMarginLeft": {"$type": "dimension", "$value": "{foundation.dimension.space.sm}"},
+        "homeDividerMarginRight": {"$type": "dimension", "$value": "{foundation.dimension.space.lg}"},
+        "themeMarginLeft": {"$type": "dimension", "$value": "{foundation.dimension.space.lg}"}
       }
     },
     "article": {
       "$description": "Article-level typography, spacing, and decoration semantics.",
       "typography": {
-        "headline": {
-          "$type": "typography",
-          "$description": "Primary h1 style",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.sans}",
-            "fontSize": "{foundation.typography.scale.3xl.min}",
-            "fontWeight": "{foundation.typography.weight.regular}",
-            "letterSpacing": "{foundation.typography.letterSpacing.base}",
-            "lineHeight": "{foundation.typography.lineHeight.tight}"
-          }
-        },
-        "subhead": {
-          "$type": "typography",
-          "$description": "Section h2 style",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.sans}",
-            "fontSize": "{foundation.typography.scale.2xl.min}",
-            "fontWeight": "{foundation.typography.weight.semibold}",
-            "letterSpacing": "{foundation.typography.letterSpacing.base}",
-            "lineHeight": "{foundation.typography.lineHeight.tight}"
-          }
-        },
-        "tertiary": {
-          "$type": "typography",
-          "$description": "H3 style",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.sans}",
-            "fontSize": "{foundation.typography.scale.xl.min}",
-            "fontWeight": "{foundation.typography.weight.semibold}",
-            "letterSpacing": "{foundation.typography.letterSpacing.base}",
-            "lineHeight": "{foundation.typography.lineHeight.tight}"
-          }
-        },
-        "body": {
-          "$type": "typography",
-          "$description": "Running body copy",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.serif}",
-            "fontSize": "{foundation.typography.scale.base.min}",
-            "fontWeight": "{foundation.typography.weight.regular}",
-            "letterSpacing": "{foundation.typography.letterSpacing.articleBody}",
-            "lineHeight": "{foundation.typography.lineHeight.base}"
-          }
-        },
-        "byline": {
-          "$type": "typography",
-          "$description": "Post byline",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.sans}",
-            "fontSize": "{foundation.typography.scale.md.min}",
-            "fontWeight": "{foundation.typography.weight.regular}",
-            "letterSpacing": "{foundation.typography.letterSpacing.extraWide}",
-            "lineHeight": "{foundation.typography.lineHeight.base}"
-          }
-        },
-        "code": {
-          "$type": "typography",
-          "$description": "Inline code samples",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.mono}",
-            "fontSize": "{foundation.typography.scale.xs.min}",
-            "fontWeight": "{foundation.typography.weight.regular}",
-            "letterSpacing": "{foundation.typography.letterSpacing.base}",
-            "lineHeight": "{foundation.typography.lineHeight.extraTight}"
-          }
-        },
-        "figcaption": {
-          "$type": "typography",
-          "$description": "Figure caption",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.sans}",
-            "fontSize": "{foundation.typography.scale.sm.min}",
-            "fontWeight": "{foundation.typography.weight.regular}",
-            "letterSpacing": "{foundation.typography.letterSpacing.base}",
-            "lineHeight": "{foundation.typography.lineHeight.base}"
-          }
-        },
-        "footnote": {
-          "$type": "typography",
-          "$description": "Footnotes",
-          "$value": {
-            "fontFamily": "{foundation.typography.family.sans}",
-            "fontSize": "{foundation.typography.scale.md.min}",
-            "fontWeight": "{foundation.typography.weight.regular}",
-            "letterSpacing": "{foundation.typography.letterSpacing.base}",
-            "lineHeight": "{foundation.typography.lineHeight.snug}"
-          }
-        }
+        "headline": {"$type": "typography", "$description": "Primary h1 style", "$value": {"fontFamily": "{foundation.typography.family.sans}", "fontSize": "{foundation.typography.scale.3xl.min}", "fontWeight": "{foundation.typography.weight.regular}", "letterSpacing": "{foundation.typography.letterSpacing.base}", "lineHeight": "{foundation.typography.lineHeight.tight}"}},
+        "subhead": {"$type": "typography", "$description": "Section h2 style", "$value": {"fontFamily": "{foundation.typography.family.sans}", "fontSize": "{foundation.typography.scale.2xl.min}", "fontWeight": "{foundation.typography.weight.semibold}", "letterSpacing": "{foundation.typography.letterSpacing.base}", "lineHeight": "{foundation.typography.lineHeight.tight}"}},
+        "tertiary": {"$type": "typography", "$description": "H3 style", "$value": {"fontFamily": "{foundation.typography.family.sans}", "fontSize": "{foundation.typography.scale.xl.min}", "fontWeight": "{foundation.typography.weight.semibold}", "letterSpacing": "{foundation.typography.letterSpacing.base}", "lineHeight": "{foundation.typography.lineHeight.tight}"}},
+        "body": {"$type": "typography", "$description": "Running body copy", "$value": {"fontFamily": "{foundation.typography.family.serif}", "fontSize": "{foundation.typography.scale.base.min}", "fontWeight": "{foundation.typography.weight.regular}", "letterSpacing": "{foundation.typography.letterSpacing.articleBody}", "lineHeight": "{foundation.typography.lineHeight.base}"}},
+        "byline": {"$type": "typography", "$description": "Post byline", "$value": {"fontFamily": "{foundation.typography.family.sans}", "fontSize": "{foundation.typography.scale.md.min}", "fontWeight": "{foundation.typography.weight.regular}", "letterSpacing": "{foundation.typography.letterSpacing.extraWide}", "lineHeight": "{foundation.typography.lineHeight.base}"}},
+        "code": {"$type": "typography", "$description": "Inline code samples", "$value": {"fontFamily": "{foundation.typography.family.mono}", "fontSize": "{foundation.typography.scale.xs.min}", "fontWeight": "{foundation.typography.weight.regular}", "letterSpacing": "{foundation.typography.letterSpacing.base}", "lineHeight": "{foundation.typography.lineHeight.extraTight}"}},
+        "figcaption": {"$type": "typography", "$description": "Figure caption", "$value": {"fontFamily": "{foundation.typography.family.sans}", "fontSize": "{foundation.typography.scale.sm.min}", "fontWeight": "{foundation.typography.weight.regular}", "letterSpacing": "{foundation.typography.letterSpacing.base}", "lineHeight": "{foundation.typography.lineHeight.base}"}},
+        "footnote": {"$type": "typography", "$description": "Footnotes", "$value": {"fontFamily": "{foundation.typography.family.sans}", "fontSize": "{foundation.typography.scale.md.min}", "fontWeight": "{foundation.typography.weight.regular}", "letterSpacing": "{foundation.typography.letterSpacing.base}", "lineHeight": "{foundation.typography.lineHeight.snug}"}}
       },
       "spacing": {
-        "headlineMarginBottom": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.lg}"
-        },
-        "subheadMarginTop": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.2xl}"
-        },
-        "subheadMarginBottom": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.sm}"
-        },
-        "tertiaryMarginTop": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.xl}"
-        },
-        "tertiaryMarginBottom": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.sm}"
-        },
-        "paragraphMarginBottom": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.xl}"
-        },
-        "bylineMarginTop": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.xs}"
-        },
-        "bylineMarginBottom": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.xl}"
-        },
-        "listPaddingLeft": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.2xl}"
-        },
-        "listItemGap": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.sm}"
-        },
-        "imageMarginBlock": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.2xl}"
-        },
-        "figureMarginBlock": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.2xl}"
-        },
-        "figcaptionMarginTop": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.sm}"
-        },
-        "blockquotePaddingLeft": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.md}"
-        }
+        "headlineMarginBottom": {"$type": "dimension", "$value": "{foundation.dimension.space.lg}"},
+        "subheadMarginTop": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
+        "subheadMarginBottom": {"$type": "dimension", "$value": "{foundation.dimension.space.sm}"},
+        "tertiaryMarginTop": {"$type": "dimension", "$value": "{foundation.dimension.space.xl}"},
+        "tertiaryMarginBottom": {"$type": "dimension", "$value": "{foundation.dimension.space.sm}"},
+        "paragraphMarginBottom": {"$type": "dimension", "$value": "{foundation.dimension.space.xl}"},
+        "bylineMarginTop": {"$type": "dimension", "$value": "{foundation.dimension.space.xs}"},
+        "bylineMarginBottom": {"$type": "dimension", "$value": "{foundation.dimension.space.xl}"},
+        "listPaddingLeft": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
+        "listItemGap": {"$type": "dimension", "$value": "{foundation.dimension.space.sm}"},
+        "imageMarginBlock": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
+        "figureMarginBlock": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
+        "figcaptionMarginTop": {"$type": "dimension", "$value": "{foundation.dimension.space.sm}"},
+        "blockquotePaddingLeft": {"$type": "dimension", "$value": "{foundation.dimension.space.md}"}
       },
       "borders": {
-        "blockquoteWidth": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.borderWidth.lg}"
-        },
-        "codeInlineRadius": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.radius.sm}"
-        },
-        "imageRadius": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.radius.sm}"
-        }
+        "blockquoteWidth": {"$type": "dimension", "$value": "{foundation.dimension.borderWidth.lg}"},
+        "codeInlineRadius": {"$type": "dimension", "$value": "{foundation.dimension.radius.sm}"},
+        "imageRadius": {"$type": "dimension", "$value": "{foundation.dimension.radius.sm}"}
       },
       "$extensions": {
         "jeff.todo": [
@@ -1211,41 +321,16 @@
     "base": {
       "$description": "Shared utilities such as sr-only helpers and motion defaults.",
       "srOnly": {
-        "width": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.utility.px1}"
-        },
-        "height": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.utility.px1}"
-        },
-        "margin": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.utility.pxNeg1}"
-        },
-        "padding": {
-          "$type": "dimension",
-          "$value": "{foundation.dimension.space.none}"
-        }
+        "width": {"$type": "dimension", "$value": "{foundation.dimension.utility.px1}"},
+        "height": {"$type": "dimension", "$value": "{foundation.dimension.utility.px1}"},
+        "margin": {"$type": "dimension", "$value": "{foundation.dimension.utility.pxNeg1}"},
+        "padding": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"}
       },
       "$extensions": {
-        "jeff.todo": [
-          "sr-only clip/overflow tokens need custom string/composite support."
-        ]
+        "jeff.todo": ["sr-only clip/overflow tokens need custom string/composite support."]
       },
       "motion": {
-        "linkColor": {
-          "$type": "transition",
-          "$description": "Default transition for color + text decoration interactions.",
-          "$value": {
-            "duration": "{foundation.motion.duration.short}",
-            "delay": {
-              "value": 0,
-              "unit": "ms"
-            },
-            "timingFunction": "{foundation.motion.easing.standard}"
-          }
-        }
+        "linkColor": {"$type": "transition", "$description": "Default transition for color + text decoration interactions.", "$value": {"duration": "{foundation.motion.duration.short}", "delay": {"value": 0, "unit": "ms"}, "timingFunction": "{foundation.motion.easing.standard}"}}
       }
     }
   }
