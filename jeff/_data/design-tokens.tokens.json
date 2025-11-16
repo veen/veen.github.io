@@ -770,8 +770,180 @@
   },
   "themes": {
     "$description": "Semantic theme aliases for light and dark modes.",
-    "light": {},
-    "dark": {}
+    "light": {
+      "$description": "Default semantic tokens for light mode (no data-theme or data-theme='light').",
+      "surface": {
+        "body": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.050}"
+        }
+      },
+      "text": {
+        "primary": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.900}"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.600}"
+        },
+        "code": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.600}"
+        }
+      },
+      "link": {
+        "primary": {
+          "$type": "color",
+          "$value": "{foundation.color.link.primary}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{foundation.color.link.hover}"
+        },
+        "visited": {
+          "$type": "color",
+          "$value": "{foundation.color.link.visited}"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.300}"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.200}"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.500}"
+        }
+      },
+      "blockquote": {
+        "decoration": {
+          "color": {
+            "$type": "color",
+            "$value": "{foundation.color.neutral.200}"
+          },
+          "width": {
+            "$type": "dimension",
+            "$value": "{foundation.dimension.borderWidth.lg}"
+          }
+        }
+      },
+      "separator": {
+        "color": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.200}"
+        },
+        "width": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.borderWidth.sm}"
+        }
+      },
+      "focus": {
+        "outline": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.300}"
+        },
+        "ringWidth": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.borderWidth.md}"
+        },
+        "ringRadius": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.radius.sm}"
+        }
+      }
+    },
+    "dark": {
+      "$description": "Semantic tokens when html[data-theme='dark'].",
+      "surface": {
+        "body": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.900}"
+        }
+      },
+      "text": {
+        "primary": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.050}"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.300}"
+        },
+        "code": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.300}"
+        }
+      },
+      "link": {
+        "primary": {
+          "$type": "color",
+          "$value": "{foundation.color.link.primaryDark}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{foundation.color.link.hoverDark}"
+        },
+        "visited": {
+          "$type": "color",
+          "$value": "{foundation.color.link.visitedDark}"
+        }
+      },
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.700}"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.800}"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.600}"
+        }
+      },
+      "blockquote": {
+        "decoration": {
+          "color": {
+            "$type": "color",
+            "$value": "{foundation.color.neutral.800}"
+          },
+          "width": {
+            "$type": "dimension",
+            "$value": "{foundation.dimension.borderWidth.lg}"
+          }
+        }
+      },
+      "separator": {
+        "color": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.800}"
+        },
+        "width": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.borderWidth.sm}"
+        }
+      },
+      "focus": {
+        "outline": {
+          "$type": "color",
+          "$value": "{foundation.color.neutral.600}"
+        },
+        "ringWidth": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.borderWidth.md}"
+        },
+        "ringRadius": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.radius.sm}"
+        }
+      }
+    }
   },
   "components": {
     "$description": "Component-level tokens for page, nav, article, and shared utilities.",
