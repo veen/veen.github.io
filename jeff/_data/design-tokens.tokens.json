@@ -254,15 +254,14 @@
     "$description": "Component-level tokens for page, nav, article, and shared utilities.",
     "page": {
       "$description": "Grid shell spacing tokens; grid-template columns require future composite support.",
-      "$extensions": {
-        "jeff.todo": ["Represent --page-grid-columns-sm and --page-grid-columns once string/composite token guidance lands."]
-      },
       "layout": {
         "rowGap": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
         "columnGap": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"},
         "paddingBlock": {"$type": "dimension", "$value": "{foundation.dimension.space.2xl}"},
         "paddingInlineSm": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"},
-        "paddingInline": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"}
+        "paddingInline": {"$type": "dimension", "$value": "{foundation.dimension.space.none}"},
+        "gridColumnsSm": {"$type": "string", "$description": "Small viewport grid template (matches --page-grid-columns-sm).", "$value": "1rem minmax(0, 60ch) 1rem"},
+        "gridColumns": {"$type": "string", "$description": "Default grid template (matches --page-grid-columns).", "$value": "minmax(2rem, 1fr) minmax(auto, 60ch) minmax(2rem, 1fr)"}
       }
     },
     "nav": {
