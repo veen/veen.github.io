@@ -379,6 +379,11 @@
           "$type": "number",
           "$value": 0.08,
           "$description": "Multiply by 1em in CSS"
+        },
+        "articleBody": {
+          "$type": "number",
+          "$value": -0.004,
+          "$description": "Article body tracking; multiply by 1em in CSS"
         }
       },
       "scale": {
@@ -664,6 +669,23 @@
             "$value": 60
           }
         }
+      },
+      "utility": {
+        "$description": "Pixel units required for sr-only utilities.",
+        "px1": {
+          "$type": "dimension",
+          "$value": {
+            "value": 1,
+            "unit": "px"
+          }
+        },
+        "pxNeg1": {
+          "$type": "dimension",
+          "$value": {
+            "value": -1,
+            "unit": "px"
+          }
+        }
       }
     },
     "motion": {
@@ -947,9 +969,284 @@
   },
   "components": {
     "$description": "Component-level tokens for page, nav, article, and shared utilities.",
-    "page": {},
-    "nav": {},
-    "article": {},
-    "base": {}
+    "page": {
+      "$description": "Grid shell spacing tokens; grid-template columns require future composite support.",
+      "$extensions": {
+        "jeff.todo": [
+          "Represent --page-grid-columns-sm and --page-grid-columns once string/composite token guidance lands."
+        ]
+      },
+      "layout": {
+        "rowGap": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.2xl}"
+        },
+        "columnGap": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.none}"
+        },
+        "paddingBlock": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.2xl}"
+        },
+        "paddingInlineSm": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.none}"
+        },
+        "paddingInline": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.none}"
+        }
+      }
+    },
+    "nav": {
+      "$description": "Navigation typography + spacing; colors are sourced from theme tokens.",
+      "typography": {
+        "menu": {
+          "$type": "typography",
+          "$description": "Nav links leverage the responsive md clamp scale.",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.mono}",
+            "fontSize": "{foundation.typography.scale.md.min}",
+            "fontWeight": "{foundation.typography.weight.regular}",
+            "letterSpacing": "{foundation.typography.letterSpacing.base}",
+            "lineHeight": "{foundation.typography.lineHeight.base}"
+          }
+        }
+      },
+      "spacing": {
+        "headerMarginBottom": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.xl}"
+        },
+        "gap": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.xl}"
+        },
+        "homeDividerMarginLeft": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.sm}"
+        },
+        "homeDividerMarginRight": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.lg}"
+        },
+        "themeMarginLeft": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.lg}"
+        }
+      }
+    },
+    "article": {
+      "$description": "Article-level typography, spacing, and decoration semantics.",
+      "typography": {
+        "headline": {
+          "$type": "typography",
+          "$description": "Primary h1 style",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.sans}",
+            "fontSize": "{foundation.typography.scale.3xl.min}",
+            "fontWeight": "{foundation.typography.weight.regular}",
+            "letterSpacing": "{foundation.typography.letterSpacing.base}",
+            "lineHeight": "{foundation.typography.lineHeight.tight}"
+          }
+        },
+        "subhead": {
+          "$type": "typography",
+          "$description": "Section h2 style",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.sans}",
+            "fontSize": "{foundation.typography.scale.2xl.min}",
+            "fontWeight": "{foundation.typography.weight.semibold}",
+            "letterSpacing": "{foundation.typography.letterSpacing.base}",
+            "lineHeight": "{foundation.typography.lineHeight.tight}"
+          }
+        },
+        "tertiary": {
+          "$type": "typography",
+          "$description": "H3 style",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.sans}",
+            "fontSize": "{foundation.typography.scale.xl.min}",
+            "fontWeight": "{foundation.typography.weight.semibold}",
+            "letterSpacing": "{foundation.typography.letterSpacing.base}",
+            "lineHeight": "{foundation.typography.lineHeight.tight}"
+          }
+        },
+        "body": {
+          "$type": "typography",
+          "$description": "Running body copy",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.serif}",
+            "fontSize": "{foundation.typography.scale.base.min}",
+            "fontWeight": "{foundation.typography.weight.regular}",
+            "letterSpacing": "{foundation.typography.letterSpacing.articleBody}",
+            "lineHeight": "{foundation.typography.lineHeight.base}"
+          }
+        },
+        "byline": {
+          "$type": "typography",
+          "$description": "Post byline",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.sans}",
+            "fontSize": "{foundation.typography.scale.md.min}",
+            "fontWeight": "{foundation.typography.weight.regular}",
+            "letterSpacing": "{foundation.typography.letterSpacing.extraWide}",
+            "lineHeight": "{foundation.typography.lineHeight.base}"
+          }
+        },
+        "code": {
+          "$type": "typography",
+          "$description": "Inline code samples",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.mono}",
+            "fontSize": "{foundation.typography.scale.xs.min}",
+            "fontWeight": "{foundation.typography.weight.regular}",
+            "letterSpacing": "{foundation.typography.letterSpacing.base}",
+            "lineHeight": "{foundation.typography.lineHeight.extraTight}"
+          }
+        },
+        "figcaption": {
+          "$type": "typography",
+          "$description": "Figure caption",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.sans}",
+            "fontSize": "{foundation.typography.scale.sm.min}",
+            "fontWeight": "{foundation.typography.weight.regular}",
+            "letterSpacing": "{foundation.typography.letterSpacing.base}",
+            "lineHeight": "{foundation.typography.lineHeight.base}"
+          }
+        },
+        "footnote": {
+          "$type": "typography",
+          "$description": "Footnotes",
+          "$value": {
+            "fontFamily": "{foundation.typography.family.sans}",
+            "fontSize": "{foundation.typography.scale.md.min}",
+            "fontWeight": "{foundation.typography.weight.regular}",
+            "letterSpacing": "{foundation.typography.letterSpacing.base}",
+            "lineHeight": "{foundation.typography.lineHeight.snug}"
+          }
+        }
+      },
+      "spacing": {
+        "headlineMarginBottom": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.lg}"
+        },
+        "subheadMarginTop": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.2xl}"
+        },
+        "subheadMarginBottom": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.sm}"
+        },
+        "tertiaryMarginTop": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.xl}"
+        },
+        "tertiaryMarginBottom": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.sm}"
+        },
+        "paragraphMarginBottom": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.xl}"
+        },
+        "bylineMarginTop": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.xs}"
+        },
+        "bylineMarginBottom": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.xl}"
+        },
+        "listPaddingLeft": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.2xl}"
+        },
+        "listItemGap": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.sm}"
+        },
+        "imageMarginBlock": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.2xl}"
+        },
+        "figureMarginBlock": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.2xl}"
+        },
+        "figcaptionMarginTop": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.sm}"
+        },
+        "blockquotePaddingLeft": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.md}"
+        }
+      },
+      "borders": {
+        "blockquoteWidth": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.borderWidth.lg}"
+        },
+        "codeInlineRadius": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.radius.sm}"
+        },
+        "imageRadius": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.radius.sm}"
+        }
+      },
+      "$extensions": {
+        "jeff.todo": [
+          "Express --article-code-inline-padding once multi-value dimensions are supported.",
+          "Blockquote border color inherits from themes.* tokens."
+        ]
+      }
+    },
+    "base": {
+      "$description": "Shared utilities such as sr-only helpers and motion defaults.",
+      "srOnly": {
+        "width": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.utility.px1}"
+        },
+        "height": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.utility.px1}"
+        },
+        "margin": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.utility.pxNeg1}"
+        },
+        "padding": {
+          "$type": "dimension",
+          "$value": "{foundation.dimension.space.none}"
+        }
+      },
+      "$extensions": {
+        "jeff.todo": [
+          "sr-only clip/overflow tokens need custom string/composite support."
+        ]
+      },
+      "motion": {
+        "linkColor": {
+          "$type": "transition",
+          "$description": "Default transition for color + text decoration interactions.",
+          "$value": {
+            "duration": "{foundation.motion.duration.short}",
+            "delay": {
+              "value": 0,
+              "unit": "ms"
+            },
+            "timingFunction": "{foundation.motion.easing.standard}"
+          }
+        }
+      }
+    }
   }
 }
