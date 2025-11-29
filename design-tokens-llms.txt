@@ -1,0 +1,123 @@
+DTCG Design Tokens — Condensed LLM Spec (2025.10)
+Normative unless stated.
+
+FORMAT
+- JSON. RECOMMENDED extensions: .tokens, .tokens.json. MIME SHOULD be application/design-tokens+json.
+- Names: MUST NOT start with '$' or contain '{','}','.'. Period restriction avoids alias‑syntax conflicts.
+- Groups may be empty and valid.
+
+TOKENS & GROUPS
+- Token: object with REQUIRED $value. Optional: $type, $description, $deprecated (bool|string), $extensions (object).
+- Group: object without $value. May contain tokens/groups. Optional: $description, $type (default for descendants), $deprecated, $extends, $extensions.
+- $root: special token "$root" MAY appear in any group as a base value.
+- Ambiguous objects (having $value AND children) MUST error.
+
+$EXTENDS
+- Deep merge of referenced group(s). Equivalent to JSON Schema $ref semantics; tools MAY implement via actual $ref processing.
+- Local values override merged values by path. Arrays REPLACE. Circular extends MUST error.
+
+REFERENCES
+Curly References:
+- "{path.to.token}" = reference to that token’s $value only. No sub‑properties, no array indices.
+JSON Pointer References:
+- {"$ref":"#/pointer"} REQUIRED support. RFC6901 rules:
+  - '/' separates segments; '~0' = '~', '~1' = '/'.
+  - Can access any node including arrays via numeric indices.
+  - Property‑level and component‑level access allowed (e.g. "#/colors/blue/$value/components/0").
+- Circular pointer chains MUST error. Missing targets MUST error.
+
+TYPES — SIMPLE
+color:
+- $value = { colorSpace, components[], alpha?, hex? }.
+- alpha default 1. hex is fallback only (no alpha).
+- Hue components use [0,360) (“360 not included”). For some spaces, hue may be 'none'.
+- Numeric ranges: RGB‑like components ∈ [0,1]; HSL/HWB S,L,W,B ∈ [0,100]; Lab L ∈ [0,100]; a,b unbounded; Lch C ≥0; XYZ X,Y,Z ∈ [0,1]; OKLab/OKLCH L ∈ [0,1].
+- ‘none’ allowed where hue is not applicable (HSL, HWB, LCH, OKLCH).
+- Color spaces: srgb, srgb-linear, hsl, hwb, lab, lch, oklab, oklch, display-p3, a98-rgb, prophoto-rgb, rec2020, xyz-d65, xyz-d50
+
+dimension:
+- { value:number, unit:"px"|"rem" }. Zero MUST include unit. Non‑normative: platform conversions (e.g., dp/pt) vary.
+
+fontFamily:
+- string or [string…], each a single face name; order = preference.
+
+fontWeight:
+- integer 1..1000 or string alias. Aliases case‑sensitive (thin→100 … extra‑black→950).
+
+duration:
+- { value:number, unit:"ms"|"s" }.
+
+cubicBezier:
+- [x1,y1,x2,y2], x1,x2 ∈ [0,1], y1,y2 ∈ ℝ.
+
+number:
+- $value:number.
+
+TYPES — COMPOSITE
+strokeStyle:
+- string (solid, dashed, dotted, double, groove, ridge, outset, inset) OR object form.
+- Object MAY include dashArray, lineCap ("butt"|"round"|"square"), and future properties.
+- Odd-length dashArray auto‑repeats last element to make even.
+
+border:
+- { color:<color|ref>, width:<dimension|ref>, style:<strokeStyle|ref> }.
+
+shadow:
+- single shadow or array. shadow={ color, offsetX, offsetY, blur, spread, inset? }. inset default false.
+
+gradient:
+- array of stops: { color:<color|ref>, position ∈ [0,1] }.
+- If no stop at 0 or 1, nearest stop color extends to end.
+
+transition:
+- { duration:<duration|ref>, delay:<duration|ref>?, timingFunction:<cubicBezier|string|ref> }.
+
+typography:
+- { fontFamily, fontSize, fontWeight, letterSpacing, lineHeight }. lineHeight may be dimension OR number multiplier.
+
+RESOLVER MODULE (2025‑10)
+- File: JSON; RECOMMENDED extension .resolver.json. MIME SHOULD be application/json.
+- Root fields: name?, version (MUST be "2025-10-01"), description?, sets?, modifiers?, resolutionOrder (REQUIRED).
+
+sets:
+- name → { description?, sources:[ {"$ref":uri|#/ptr} | inline group/token ] }.
+- Sources merged in order. Arrays replace.
+
+modifiers:
+- name → { description?, contexts:{ key:[refs|inline…]… }, default? }.
+- contexts MUST have ≥2 keys. default MUST be one of them.
+- Modifiers MAY reference sets within a context. Sets/modifiers MAY NOT reference another modifier directly.
+
+resolutionOrder:
+- Array of refs to sets or modifiers. Later entries override earlier on path conflicts.
+- Pointers MUST NOT target resolutionOrder itself. Invalid pointer MUST error.
+
+inputs:
+- Required if modifiers exist. JSON object { modifierName: contextKey }. Values MUST be strings (SHOULD be case‑insensitive).
+
+resolution process:
+1. Validate inputs.
+2. Compose sets/modifiers per resolutionOrder.
+3. Resolve aliases and references.
+4. Output final tokens.
+
+$extensions (all levels):
+- Vendor‑scoped, reverse‑DNS keys (e.g., "com.example.meta"). Preserved during resolution. Bundles MAY use $defs and pointers "#/$defs/…".
+
+COLOR PROCESS (non‑normative)
+- Interpolation and gamut mapping are tool decisions. Algorithms MAY vary by color space.
+
+ERRORS
+Tools MUST error on:
+- Invalid names.
+- Ambiguous objects (both $value and child entries).
+- Circular references ($extends or $ref).
+- Missing targets.
+- Curly reference to non‑token.
+- Type mismatch in resolved values.
+- Invalid JSON Pointer syntax or access.
+- Token with undeterminable type in context where type required.
+
+NON‑NORMATIVE GUIDANCE (brief)
+- Base tokens vs alias tokens naming conventions helpful but optional.
+- Backwards compatibility is a design goal.

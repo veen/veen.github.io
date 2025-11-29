@@ -2,8 +2,8 @@
 
 :root {
   /* Color scale */
-  --color-neutral-0: oklch(1 0 0);
-  --color-neutral-50: oklch(0.985 0 0);
+  --color-neutral-000: oklch(1 0 0);
+  --color-neutral-050: oklch(0.985 0 0);
   --color-neutral-100: oklch(0.97 0 0);
   --color-neutral-200: oklch(0.922 0 0);
   --color-neutral-300: oklch(0.87 0 0);

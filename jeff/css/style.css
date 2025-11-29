@@ -8,66 +8,66 @@
 
 /* Light-theme defaults live in :root so the site renders correctly even before JS sets data-theme. */
 :root {
-  color-scheme: light;
-  /* Semantic tokens */
+    color-scheme: light;
+    /* Semantic tokens */
 
-  /* background colors */
-  --surface-body: var(--color-neutral-50);
+    /* background colors */
+    --surface-body: var(--color-neutral-050);
 
-  /* text colors */
-  --text-primary: var(--color-neutral-900);
-  --text-muted: var(--color-neutral-600);
-  --text-code: var(--color-neutral-600);
+    /* text colors */
+    --text-primary: var(--color-neutral-900);
+    --text-muted: var(--color-neutral-600);
+    --text-code: var(--color-neutral-600);
 
-  /* link colors */
-  --link-primary: var(--color-link-primary);
-  --link-primary-hover: var(--color-link-hover);
-  --link-visited: var(--color-link-visited);
+    /* link colors */
+    --link-primary: var(--color-link-primary);
+    --link-primary-hover: var(--color-link-hover);
+    --link-visited: var(--color-link-visited);
 
-  /* border colors */
-  --border-default: var(--color-neutral-300);
-  --border-muted: var(--color-neutral-200);
-  --border-strong: var(--color-neutral-500);
+    /* border colors */
+    --border-default: var(--color-neutral-300);
+    --border-muted: var(--color-neutral-200);
+    --border-strong: var(--color-neutral-500);
 
-  /* blockquote styles */
-  --quote-decoration-color: var(--border-muted);
-  --quote-decoration-width: var(--border-width-lg);
+    /* blockquote styles */
+    --quote-decoration-color: var(--border-muted);
+    --quote-decoration-width: var(--border-width-lg);
 
-  /* horizontal rules */
-  --separator-color: var(--border-muted);
-  --separator-width: var(--border-width-sm);
+    /* horizontal rules */
+    --separator-color: var(--border-muted);
+    --separator-width: var(--border-width-sm);
 
-  /* accessible focus outline */
-  --outline-focus: var(--border-default);
-  --focus-ring-width: var(--border-width-md);
-  --focus-ring-radius: var(--radius-sm);
+    /* accessible focus outline */
+    --outline-focus: var(--border-default);
+    --focus-ring-width: var(--border-width-md);
+    --focus-ring-radius: var(--radius-sm);
 
 }
 
 /* Dark overrides are centralized here; the toggle/auto-detect script only flips data-theme on <html>. */
 :root[data-theme="dark"] {
-  color-scheme: dark;
-  --surface-body: var(--color-neutral-900);
-  --text-primary: var(--color-neutral-50);
-  --text-muted: var(--color-neutral-300);
-  --text-code: var(--color-neutral-300);
-  --link-primary: var(--color-link-primary-dark);
-  --link-primary-hover: var(--color-link-hover-dark);
-  --link-visited: var(--color-link-visited-dark);
-  --border-default: var(--color-neutral-700);
-  --border-muted: var(--color-neutral-800);
-  --border-strong: var(--color-neutral-600);
-  --outline-focus: var(--color-neutral-600);
-  --quote-decoration-color: var(--border-muted);
-  --separator-color: var(--border-muted);
+    color-scheme: dark;
+    --surface-body: var(--color-neutral-900);
+    --text-primary: var(--color-neutral-050);
+    --text-muted: var(--color-neutral-300);
+    --text-code: var(--color-neutral-300);
+    --link-primary: var(--color-link-primary-dark);
+    --link-primary-hover: var(--color-link-hover-dark);
+    --link-visited: var(--color-link-visited-dark);
+    --border-default: var(--color-neutral-700);
+    --border-muted: var(--color-neutral-800);
+    --border-strong: var(--color-neutral-600);
+    --outline-focus: var(--color-neutral-600);
+    --quote-decoration-color: var(--border-muted);
+    --separator-color: var(--border-muted);
 }
 
 /* Base: reset colors so all downstream styles just reference semantic tokens. */
 
-html {
-}
+html {}
 
-html, body {
+html,
+body {
     background-color: var(--surface-body);
     color: var(--text-primary);
     margin: 0;
@@ -87,14 +87,15 @@ html, body {
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  html {
-    scroll-behavior: smooth;
-  }
+    html {
+        scroll-behavior: smooth;
+    }
 
-  html, body {
-    transition: background-color var(--duration-medium) var(--easing-standard),
-                color var(--duration-medium) var(--easing-standard);
-  }
+    html,
+    body {
+        transition: background-color var(--duration-medium) var(--easing-standard),
+            color var(--duration-medium) var(--easing-standard);
+    }
 }
 
 body {
@@ -115,13 +116,13 @@ body {
 }
 
 @media (min-width: 768px) {
-  .page {
-    grid-template-columns: var(--page-grid-columns);
-    padding-inline: var(--page-padding-inline);
-  }
+    .page {
+        grid-template-columns: var(--page-grid-columns);
+        padding-inline: var(--page-padding-inline);
+    }
 }
 
-.page > * {
+.page>* {
 
     grid-column: 2;
     width: 100%;
@@ -159,7 +160,7 @@ a {
     font-weight: var(--font-weight-semibold);
     text-decoration: none;
     transition: color var(--duration-short) var(--easing-standard),
-                text-decoration-color var(--duration-short) var(--easing-standard);
+        text-decoration-color var(--duration-short) var(--easing-standard);
 }
 
 a:hover,
@@ -183,7 +184,9 @@ a:focus {
 
 /* Headings and meta */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: var(--article-headline-font-family);
     font-style: normal;
     margin-top: 0;
@@ -295,25 +298,25 @@ h3 {
 
 /* Content */
 
-article > p,
-article > ul,
-article > ol,
-article > blockquote {
+article>p,
+article>ul,
+article>ol,
+article>blockquote {
     margin-top: 0;
     margin-bottom: var(--article-paragraph-margin-bottom);
 }
 
-article > ul,
-article > ol {
+article>ul,
+article>ol {
     padding-left: var(--article-list-padding-left);
 }
 
-article > ul > li,
-article > ol > li {
+article>ul>li,
+article>ol>li {
     margin-bottom: var(--article-list-item-gap);
 }
 
-article > blockquote {
+article>blockquote {
     padding-left: var(--article-blockquote-padding-left);
     color: var(--text-primary);
     border-left: var(--article-blockquote-border-width) solid var(--article-blockquote-border-color);
@@ -344,7 +347,7 @@ code {
     max-width: 100%;
 }
 
-.highlighter-rouge > .highlight {
+.highlighter-rouge>.highlight {
     border-radius: var(--radius-md);
     overflow-x: auto;
     max-width: 100%;
@@ -384,11 +387,11 @@ code[class*="language-"] {
 }
 
 /* Clean up Prism toolbar and copy button */
-div.code-toolbar > .toolbar {
+div.code-toolbar>.toolbar {
     opacity: 1;
 }
 
-div.code-toolbar > .toolbar > .toolbar-item > button {
+div.code-toolbar>.toolbar>.toolbar-item>button {
     font-family: var(--article-code-font-family) !important;
     font-size: var(--font-scale-sm) !important;
     font-weight: var(--font-weight-regular) !important;
@@ -404,8 +407,8 @@ div.code-toolbar > .toolbar > .toolbar-item > button {
     opacity: 0.7;
 }
 
-div.code-toolbar > .toolbar > .toolbar-item > button:hover,
-div.code-toolbar > .toolbar > .toolbar-item > button:focus {
+div.code-toolbar>.toolbar>.toolbar-item>button:hover,
+div.code-toolbar>.toolbar>.toolbar-item>button:focus {
     background: transparent !important;
     color: var(--text-primary) !important;
     box-shadow: none !important;
