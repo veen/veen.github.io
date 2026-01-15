@@ -1,0 +1,120 @@
+/* reading.css - Standalone reading typography stylesheet */
+
+body {
+  font-family: "source-serif-4-variable", "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "URW Palladio L", "Times New Roman", serif;
+  font-size: clamp(1.125rem, 2vw, 1.25rem);
+  line-height: 1.55;
+  letter-spacing: -0.004em;
+  color: oklch(0.205 0 0);
+  background-color: oklch(0.985 0 0);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  max-width: 60ch;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+h1, h2, h3 {
+  font-family: "source-sans-3-variable", "Source Sans 3", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-style: normal;
+  margin-top: 0;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: clamp(1.6rem, 4vw, 2rem);
+  line-height: 1.15;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: clamp(1.25rem, 3vw, 1.5rem);
+  line-height: 1.15;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: clamp(1.1rem, 2.5vw, 1.25rem);
+  line-height: 1.15;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: oklch(0.5094 0.1873 263.92);
+  font-weight: 400;
+  text-decoration: none;
+}
+
+a:hover {
+  color: oklch(0.4298 0.1586 263.64);
+  text-decoration: underline;
+}
+
+a:visited {
+  color: oklch(0.4298 0.1586 263.64);
+}
+
+blockquote {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-left: 0.75rem;
+  border-left: 0.1875rem solid oklch(0.922 0 0);
+}
+
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-left: 2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+code {
+  font-family: "source-code-variable", "Source Code Pro", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: clamp(0.8rem, 1.1vw, 0.9rem);
+  color: oklch(0.439 0 0);
+  padding: 0.15em 0.35em;
+  border-radius: 0.25rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem 0;
+  border-radius: 0.25rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: oklch(0.205 0 0);
+    color: oklch(0.985 0 0);
+  }
+
+  a {
+    color: oklch(0.7641 0.1197 266.3);
+  }
+
+  a:hover, a:visited {
+    color: oklch(0.8241 0.0872 268.0);
+  }
+
+  blockquote {
+    border-left-color: oklch(0.269 0 0);
+  }
+
+  code {
+    color: oklch(0.87 0 0);
+  }
+}
