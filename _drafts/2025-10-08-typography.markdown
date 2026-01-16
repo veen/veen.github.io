@@ -49,7 +49,7 @@ Sometimes you want to linger on a paragraph (or two) from a hero. The left rule 
 > Beautiful typography is the fastest shortcut to empathy: it tells your audience that you cared enough to make their time comfortable.
 
 <figure>
-  <img src="https://typographica.org/wp-content/uploads/2013/02/bringhurst4_7.jpg" alt="Robert Bringhurst’s Elements of Typographic Style">
+  <img src="https://typographica.org/wp-content/uploads/2013/02/bringhurst4_7.jpg" alt="Robert Bringhurst's Elements of Typographic Style" style="width: 150% !important; max-width: none !important; position: relative; left: 50%; transform: translateX(-50%); margin-left: auto; margin-right: auto;">
   <figcaption>The book that taught a generation to respect measure, rhythm, and restraint.</figcaption>
 </figure>
 
@@ -70,6 +70,7 @@ To ground all of this theory, here’s a small snippet that mirrors the semantic
   --article-paragraph-margin-bottom: var(--space-xl);
   --article-blockquote-border-color: var(--border-muted);
   --article-code-inline-radius: var(--radius-sm);
+  --very-long-property-name-that-tests-overflow-behavior: var(--some-super-long-token-name) var(--another-long-name) var(--yet-another-long-property-with-many-values-that-should-definitely-overflow-if-overflow-x-is-hidden);
 }
 
 article code {
