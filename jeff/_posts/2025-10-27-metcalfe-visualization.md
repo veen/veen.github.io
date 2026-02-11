@@ -8,7 +8,9 @@ abstract: Our future may be filled with super powerful, totally disposable, comp
 og_image: /jeff/images/metcalfe-visualization.png
 ---
 
-[![A visualization of a network with nodes and edges forming a beautiful geometric pattern](https://veen.com/jeff/images/metcalfe-visualization.png)](https://veen.com/metcalfe-generator/)
+<a href="https://veen.com/metcalfe-generator/" aria-label="Open Metcalfe's Law interactive visualization">
+  <img src="https://veen.com/jeff/images/metcalfe-visualization.png" alt="A visualization of a network with nodes and edges forming a beautiful geometric pattern">
+</a>
 Earlier this year, we brought the entrepreneurs from our portfolio companies together at [Founder Camp](https://www.instagram.com/reel/DG55PhdpUOT/), a gathering designed around the premise of the ‘unconference’: that the audience will connect and self-organize into conversations that are most relevant to them. More facilitation, less programming. For startup founders, we’ve found this is intensely valuable. The nature of what they’re struggling with is, by definition, out ahead of where conventional advice can help. The best solution is to connect with others who are at the coalface with them.
 
 I hosted the welcome session, and wanted to illustrate the value of these connections from a first principles perspective. As I thought about how I could do this, I remembered [Metcalfe’s Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law) — a way of calculating the value of network effects named after Bob Metcalfe, the creator of Ethernet in the very early days of the internet. The idea is that as a network gets larger, the value grows proportional to the square of the number of nodes. A telephone network with a single phone isn’t very useful, but as you add devices it becomes essential. Same holds for people on a social network, or in this case, founders in a hotel ballroom[^1]. I wanted to show the math: the 209 people in the room represented over 21,736 connections. I told them, “If you’re struggling with a seemingly intractable problem, odds are high that the answer is in the room.”
@@ -19,7 +21,9 @@ Two days earlier, on the flight to the event, I sat looking at the slide I would
 
 I left Keynote for Claude. I gave it the Wikipedia diagram and described how I envisioned the animation working, emphasizing that the output would need to be embeddable in a presentation. It gave me a simple web app that output a movie. A few minutes later I had a crude start. We iterated a dozen times in about 30 minutes and ended with the animation I had envisioned. There was applause when the video played onstage.
 
-[![The visualizer app I created with Claude](https://veen.com/jeff/images/metcalfe-visualizer-app.png)](https://veen.com/metcalfe-generator/)
+<a href="https://veen.com/metcalfe-generator/" aria-label="Open Metcalfe's Law interactive visualization">
+  <img src="https://veen.com/jeff/images/metcalfe-visualizer-app.png" alt="The visualizer app I created with Claude">
+</a>
 ## Vibe coding is a design superpower
 The experience I had preparing for Founder Camp was a step towards working in a very different way.
 

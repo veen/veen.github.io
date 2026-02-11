@@ -3,6 +3,7 @@ layout: base
 title: Jeffrey Veen's blog
 ---
 
+<h1 class="sr-only">Jeffrey Veen's Blog</h1>
 <section class="post-list" aria-label="Recent posts">
 {% for post in site.posts limit:3 %}
   {% unless post.collection == 'drafts' %}

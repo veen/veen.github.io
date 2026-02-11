@@ -81,6 +81,7 @@
     <script defer src="https://unpkg.com/littlefoot/dist/littlefoot.js"></script>
   </head>
   <body>
+    <a class="sr-only" href="#main-content">Skip to main content</a>
     <div class="page">
       <nav class="site-header site-nav" aria-label="Primary navigation">
           <ul class="site-nav__list">
@@ -101,7 +102,7 @@
           </ul>
       </nav>
 
-      <main class="content">
+      <main class="content" id="main-content">
 		{{ content }}
       </main>
     </div>
