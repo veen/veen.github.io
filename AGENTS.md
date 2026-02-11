@@ -25,3 +25,14 @@
 - Alternatively, serve with the container cmd from `README.md`, e.g. `container run ... bretfisher/jekyll-serve`, then visit `http://localhost:4000/jeff`.
 - Production deploys automatically through GitHub Pages when `main` updates; keep templates, CSS, and Markdown valid so `jekyll build` stays clean.
 - After each set of changes, create a commit with a brief but descriptive message so history stays readable.
+
+## Cloudflare Cache Purge
+- DNS is managed by Cloudflare. After deploying, purge the cache with:
+  ```
+  CF_PAGES_TOKEN=$(op read --account devonia.1password.com "op://Private/Cloudflare Pages token/credential") && \
+  curl -s -X POST 'https://api.cloudflare.com/client/v4/zones/8e3ac6ae34d17537a266361e9401a995/purge_cache' \
+    -H "Authorization: Bearer ${CF_PAGES_TOKEN}" \
+    -H 'Content-Type: application/json' \
+    --data '{"purge_everything":true}'
+  ```
+- Requires 1Password CLI (`op`) authenticated to the **devonia.1password.com** account.
