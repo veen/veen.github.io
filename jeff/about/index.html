@@ -3,12 +3,84 @@ layout: base
 title: About Jeff Veen
 ---
 
-<article>
-    <h1>About</h1>
-    <img src="../images/jeff-bw.jpeg" alt="Jeff Veen" style="float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 0; max-width: 400px; border-radius: 8px;">
-    <p>I'm a Design Partner and Head of Platform at True Ventures, where I spend my time helping founders create better products. I do this as an advisor, as well, for companies like about.me, Medium, and WordPress. Previously, I was VP of Design at Adobe after they acquired Typekit, the company I co-founded and ran as CEO.</p>
+<article class="about-page">
+  <header class="about-hero">
+    <div class="about-hero__content">
+      <h1>About</h1>
+      <p class="about-hero__lede">For over 30 years, I've designed products and led teams building tools that help people create, reaching millions of users and resulting in three successful exits.</p>
+      <p class="about-hero__lede">For the past decade, I've worked at the intersection of design and venture, coaching founders and getting early glimpses of what's next. Through all of this, I've found that the best companies are built by founders who think like designers.</p>
+    </div>
+    <figure class="about-hero__portrait">
+      <img src="{{ '/jeff/images/jeff-bw.jpeg' | relative_url }}" alt="Portrait of Jeff Veen">
+    </figure>
+  </header>
 
-    <p>I was also one of the founding partners of the user experience consulting group Adaptive Path. While there, I led Measure Map, which was acquired by Google. During my time at Google, I designed Google Analytics and led the UX team for Google's apps.</p>
+  <section class="about-timeline" aria-label="Career timeline">
+    <h2 class="about-timeline__heading">Experience</h2>
 
-    <p>Much earlier, I was part of the founding web team at Wired Magazine, where I helped build HotWired, Web Monkey, Wired News, and many other sites. During that time, I authored two books, "HotWired Style" and "The Art and Science of Web Design."</p>
+    <section class="about-entry">
+      <h3>True Ventures</h3>
+      <p class="about-entry__meta"><em>Design Partner</em> - 2014-present</p>
+      <p>As a partner in one of the industry's most respected seed-stage venture capital firms, I followed the hypothesis that strong user experience design applied at the moment a company is formed can accelerate product-market fit and lead to more successful outcomes.</p>
+      <p>While at True, I built and ran the Platform team, focused on supporting a community of over a thousand founders and their teams through the tenuous first years of growth.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>Presentable Podcast</h3>
+      <p class="about-entry__meta"><em>Host</em> - 2015-2020</p>
+      <p>For over 120 episodes, I hosted this podcast focusing on how we design and build the products that are shaping our digital future. Guests ranged from tech industry leaders like Google and Apple, to startup founders reinventing the tools we use.</p>
+      <p>As the episodes progressed, the focus shifted to bigger questions: design ethics, the implications of our decisions, and the power of designers to chart a more equitable future for tech.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>Adobe Creative Cloud</h3>
+      <p class="about-entry__meta"><em>Vice President, Product Design</em> - 2011-2014</p>
+      <p>I led the team responsible for designing and implementing the user experience for Adobe's transition from Creative Suite to Creative Cloud.</p>
+      <p>This was a monumental effort requiring coordination between dozens of teams across the company which, <a href="https://store.hbr.org/product/reinventing-adobe/514066">according to Harvard Business Review</a>, resulted in the fastest ramp to billion dollars in recurring revenue of any SaaS product in history.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>Typekit</h3>
+      <p class="about-entry__meta"><em>Co-founder and CEO</em> - 2008-2011 (acquired by Adobe)</p>
+      <p>Our mission at Typekit was to provide the easiest way to access the world's best typography on the web. In a few short years, we served fonts to tens of millions of websites, helping to make the web more beautiful, more accessible, and faster.</p>
+      <p>Our work with independent type designers opened up a market for more diverse voices in the type community. Typekit remains active and vibrant to this day under the historic Adobe Fonts brand.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>Google Analytics</h3>
+      <p class="about-entry__meta"><em>Design Director</em> - 2004-2008</p>
+      <p>I led the design of Google Analytics after the acquisition of the early blog tracking tool Measure Map. Over the course of an 18-month skunkworks project, we conducted extensive user research and worked through a significant technical integration to launch the product.</p>
+      <p>Google Analytics remains influential to this day, and still features much of our original UI design work.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>Measure Map</h3>
+      <p class="about-entry__meta"><em>Founder</em> - 2004 (acquired by Google)</p>
+      <p>As the Adaptive Path consulting practice grew, I started an in-house product development practice, hiring a team of designers and developers to explore new Web 2.0 technologies and idioms.</p>
+      <p>The result launched in beta, then was quickly acquired by Google and used as the basis for the Analytics UI.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>Adaptive Path</h3>
+      <p class="about-entry__meta"><em>Founding Partner</em> - 2000-2005 (acquired by Capital One)</p>
+      <p>I helped create what became one of the first consulting agencies focused on the nascent discipline of user experience design. We used principles and process from ethnography, contextual inquiry, heuristic evaluation, and usability testing to markedly improve the UX of many early Fortune 500 web experiences.</p>
+      <p>Perhaps more influentially, we worked closely with many Web 2.0 companies like Flickr and Blogger to develop fundamentals of an interactive design language known at the time as <em>Ajax</em>. I remained on the board for nearly a decade after leaving day-to-day operations until the company was successfully acquired by Capital One in 2014.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>The Art and Science of Web Design</h3>
+      <p class="about-entry__meta"><em>Author</em> - 2000</p>
+      <p>Released on the cusp of the dot-com bust, I wrote this book to capture two foundational ideas that would prove durable.</p>
+      <p>First, that things that were successful on the web were unlike things that had come before. They were new and unique; <em>native to the web</em> was the catchphrase. The second idea was that these web experiences worked best when built on the separation of content, presentation, and interaction. This was novel in 1999 and remains a foundation of good design and development today.</p>
+      <p>You can download a PDF of this book <a href="https://www.veen.com/artsci/veen-artsci.pdf">here</a>.</p>
+    </section>
+
+    <section class="about-entry">
+      <h3>Wired Magazine</h3>
+      <p class="about-entry__meta"><em>Director of Interface</em> - 1994-2000</p>
+      <p>In 1994, I joined the just-formed team at Wired Magazine to help design the first commercial, ad-supported content website on the World Wide Web: HotWired. Our goal was to build a web-native content destination and over time we launched many firsts in content publishing, internet culture, and technology.</p>
+      <p>As we grew, I led a design and development team as Director of Interface and wrote a regular column on design for Webmonkey. During that time I also wrote one of the first web design books, <em>HotWired Style: Principles for Building Smart Web Sites</em>, which aimed to frame our early understanding of designing for this new medium.</p>
+      <p>You can read my reflections on the evolution of HotWired's design <a href="{{ '/jeff/archives/000903.html' | relative_url }}">here</a>.</p>
+    </section>
+  </section>
 </article>
