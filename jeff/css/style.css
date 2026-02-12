@@ -529,6 +529,14 @@ div.code-toolbar>.toolbar>.toolbar-item>button:focus {
     margin: 0;
 }
 
+.about-hero__image {
+    margin: var(--space-lg) 0 var(--space-xl);
+}
+
+.about-hero__image img {
+    margin: 0;
+}
+
 .about-hero__lede {
     font-size: var(--font-scale-lg);
     line-height: var(--line-height-loose);
