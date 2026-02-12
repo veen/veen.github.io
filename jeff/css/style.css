@@ -545,16 +545,6 @@ div.code-toolbar>.toolbar>.toolbar-item>button:focus {
     gap: var(--space-2xl);
 }
 
-.about-timeline__heading {
-    margin: 0;
-    font-family: var(--article-byline-font-family);
-    font-size: var(--article-byline-font-size);
-    font-weight: var(--font-weight-regular);
-    letter-spacing: var(--article-byline-letter-spacing);
-    text-transform: uppercase;
-    color: var(--text-muted);
-}
-
 .about-entry {
     border-top: var(--separator-width) solid var(--separator-color);
     padding-top: var(--space-xl);
