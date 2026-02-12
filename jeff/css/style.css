@@ -526,13 +526,7 @@ div.code-toolbar>.toolbar>.toolbar-item>button:focus {
 }
 
 .about-hero {
-    display: grid;
-    gap: var(--space-xl);
-    align-items: start;
-}
-
-.about-hero__content {
-    min-width: 0;
+    margin: 0;
 }
 
 .about-hero__lede {
@@ -544,27 +538,6 @@ div.code-toolbar>.toolbar>.toolbar-item>button:focus {
 
 .about-hero__lede:last-child {
     margin-bottom: 0;
-}
-
-.about-hero__portrait {
-    margin: 0;
-}
-
-.about-hero__portrait img {
-    margin: 0;
-    max-width: min(20rem, 100%);
-    border-radius: var(--radius-md);
-}
-
-@media (min-width: 820px) {
-    .about-hero {
-        grid-template-columns: minmax(0, 1fr) minmax(14rem, 18rem);
-        gap: var(--space-2xl);
-    }
-
-    .about-hero__portrait {
-        justify-self: end;
-    }
 }
 
 .about-timeline {
