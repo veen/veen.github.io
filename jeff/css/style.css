@@ -18,6 +18,17 @@
     --text-primary: var(--color-neutral-900);
     --text-muted: var(--color-neutral-600);
     --text-code: var(--color-neutral-600);
+    --surface-code: var(--color-neutral-100);
+    --surface-code-inline: var(--color-neutral-100);
+    --border-code: var(--color-neutral-200);
+    --syntax-comment: var(--color-neutral-500);
+    --syntax-keyword: var(--color-link-hover);
+    --syntax-function: var(--color-link-primary);
+    --syntax-string: var(--color-neutral-800);
+    --syntax-number: var(--color-neutral-900);
+    --syntax-operator: var(--color-neutral-800);
+    --syntax-name: var(--color-neutral-900);
+    --syntax-punctuation: var(--color-neutral-600);
 
     /* link colors */
     --link-primary: var(--color-link-primary);
@@ -51,6 +62,17 @@
     --text-primary: var(--color-neutral-050);
     --text-muted: var(--color-neutral-300);
     --text-code: var(--color-neutral-300);
+    --surface-code: var(--color-neutral-950);
+    --surface-code-inline: var(--color-neutral-800);
+    --border-code: var(--color-neutral-700);
+    --syntax-comment: var(--color-neutral-500);
+    --syntax-keyword: var(--color-link-primary-dark);
+    --syntax-function: var(--color-link-hover-dark);
+    --syntax-string: var(--color-neutral-200);
+    --syntax-number: var(--color-neutral-050);
+    --syntax-operator: var(--color-neutral-200);
+    --syntax-name: var(--color-neutral-050);
+    --syntax-punctuation: var(--color-neutral-300);
     --link-primary: var(--color-link-primary-dark);
     --link-primary-hover: var(--color-link-hover-dark);
     --link-visited: var(--color-link-visited-dark);
@@ -348,6 +370,7 @@ article a:hover {
 
 code {
     color: var(--text-code);
+    background: var(--surface-code-inline);
     font-family: var(--article-code-font-family);
     font-weight: var(--font-weight-regular);
     font-size: var(--article-code-font-size) !important;
@@ -356,7 +379,7 @@ code {
     border-radius: var(--article-code-inline-radius);
 }
 
-/* Jekyll wraps Prism code blocks with Rouge markup, so we keep these selectors. */
+/* Jekyll fenced code blocks are rendered by Rouge with these wrappers. */
 .highlighter-rouge {
     margin: var(--space-2xl) 0;
     max-width: 100%;
@@ -366,7 +389,8 @@ code {
     border-radius: var(--radius-md);
     overflow-x: auto;
     max-width: 100%;
-    border: none;
+    background: var(--surface-code);
+    border: var(--border-width-sm) solid var(--border-code);
 }
 
 .highlighter-rouge pre {
@@ -389,46 +413,85 @@ code {
     white-space: pre;
 }
 
-/* Override Prism theme borders */
-pre[class*="language-"],
-code[class*="language-"] {
-    border: none !important;
-}
-
-/* Override Prism's default font size and line height */
 .highlighter-rouge pre code {
     font-size: var(--article-code-font-size);
     line-height: var(--article-code-line-height) !important;
 }
 
-/* Clean up Prism toolbar and copy button */
-div.code-toolbar>.toolbar {
-    opacity: 1;
+.highlighter-rouge .highlight .c,
+.highlighter-rouge .highlight .cm,
+.highlighter-rouge .highlight .c1,
+.highlighter-rouge .highlight .cp,
+.highlighter-rouge .highlight .cs {
+    color: var(--syntax-comment);
+    font-style: italic;
 }
 
-div.code-toolbar>.toolbar>.toolbar-item>button {
-    font-family: var(--article-code-font-family) !important;
-    font-size: var(--font-scale-sm) !important;
-    font-weight: var(--font-weight-regular) !important;
-    background: transparent !important;
-    color: var(--text-muted) !important;
-    border: none !important;
-    border-radius: var(--radius-sm) !important;
-    padding: var(--space-xs) var(--space-sm) !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
-    cursor: pointer;
-    transition: color var(--duration-short) var(--easing-standard);
-    opacity: 0.7;
+.highlighter-rouge .highlight .k,
+.highlighter-rouge .highlight .kc,
+.highlighter-rouge .highlight .kd,
+.highlighter-rouge .highlight .kn,
+.highlighter-rouge .highlight .kp,
+.highlighter-rouge .highlight .kr,
+.highlighter-rouge .highlight .kt {
+    color: var(--syntax-keyword);
 }
 
-div.code-toolbar>.toolbar>.toolbar-item>button:hover,
-div.code-toolbar>.toolbar>.toolbar-item>button:focus {
-    background: transparent !important;
-    color: var(--text-primary) !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
-    opacity: 1;
+.highlighter-rouge .highlight .s,
+.highlighter-rouge .highlight .sa,
+.highlighter-rouge .highlight .sb,
+.highlighter-rouge .highlight .sc,
+.highlighter-rouge .highlight .dl,
+.highlighter-rouge .highlight .sd,
+.highlighter-rouge .highlight .s1,
+.highlighter-rouge .highlight .s2,
+.highlighter-rouge .highlight .se,
+.highlighter-rouge .highlight .sh,
+.highlighter-rouge .highlight .si,
+.highlighter-rouge .highlight .sx,
+.highlighter-rouge .highlight .sr,
+.highlighter-rouge .highlight .ss {
+    color: var(--syntax-string);
+}
+
+.highlighter-rouge .highlight .m,
+.highlighter-rouge .highlight .mb,
+.highlighter-rouge .highlight .mf,
+.highlighter-rouge .highlight .mh,
+.highlighter-rouge .highlight .mi,
+.highlighter-rouge .highlight .il,
+.highlighter-rouge .highlight .mo {
+    color: var(--syntax-number);
+}
+
+.highlighter-rouge .highlight .na,
+.highlighter-rouge .highlight .nb,
+.highlighter-rouge .highlight .nc,
+.highlighter-rouge .highlight .nd,
+.highlighter-rouge .highlight .ne,
+.highlighter-rouge .highlight .nf,
+.highlighter-rouge .highlight .ni,
+.highlighter-rouge .highlight .nl,
+.highlighter-rouge .highlight .nn,
+.highlighter-rouge .highlight .nx,
+.highlighter-rouge .highlight .py,
+.highlighter-rouge .highlight .nv,
+.highlighter-rouge .highlight .nt {
+    color: var(--syntax-name);
+}
+
+.highlighter-rouge .highlight .o,
+.highlighter-rouge .highlight .ow {
+    color: var(--syntax-operator);
+}
+
+.highlighter-rouge .highlight .p {
+    color: var(--syntax-punctuation);
+}
+
+.highlighter-rouge .highlight .err {
+    color: var(--text-primary);
+    background: var(--surface-code-inline);
 }
 
 /* Home page listing */
