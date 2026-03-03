@@ -1,0 +1,81 @@
+/* Rouge/Pygments token → design token mappings.
+   Rouge emits short class names on <span>s inside .highlight at build time.
+   All colors flow through CSS custom properties so light/dark is free. */
+
+/* Comments */
+.highlight .c,
+.highlight .cd,
+.highlight .ch,
+.highlight .cm,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs  { color: var(--syntax-comment); font-style: italic; }
+.highlight .cp  { color: var(--syntax-comment); font-weight: bold; font-style: italic; }
+
+/* Keywords */
+.highlight .k,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr  { color: var(--syntax-keyword); }
+.highlight .kc,
+.highlight .kt  { color: var(--syntax-constant); }
+
+/* Strings */
+.highlight .s,
+.highlight .sa,
+.highlight .sb,
+.highlight .sc,
+.highlight .dl,
+.highlight .sd,
+.highlight .s2,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx,
+.highlight .sr,
+.highlight .s1,
+.highlight .ss  { color: var(--syntax-string); }
+
+/* Numbers / literals */
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .il,
+.highlight .l,
+.highlight .ld  { color: var(--syntax-number); }
+
+/* Functions, classes, decorators */
+.highlight .nf,
+.highlight .fm,
+.highlight .nc,
+.highlight .nd,
+.highlight .ne  { color: var(--syntax-function); }
+
+/* Tags (HTML/XML) */
+.highlight .nt  { color: var(--syntax-tag); }
+
+/* Constants */
+.highlight .no  { color: var(--syntax-constant); }
+
+/* Operators */
+.highlight .o,
+.highlight .ow  { color: var(--syntax-keyword); font-weight: bold; }
+
+/* Diff: deleted / inserted */
+.highlight .gd  { color: var(--syntax-keyword); }
+.highlight .gi  { color: var(--syntax-tag); }
+
+/* Diff: headings */
+.highlight .gh,
+.highlight .gu  { color: var(--syntax-constant); font-weight: bold; }
+
+/* Generic emphasis / strong */
+.highlight .ge  { font-style: italic; }
+.highlight .gs  { font-weight: bold; }
+
+/* Error */
+.highlight .err { color: var(--syntax-keyword); }

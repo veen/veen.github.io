@@ -22,6 +22,24 @@
   --color-link-hover-dark: oklch(0.8241 0.0872 268.0);
   --color-link-visited-dark: oklch(0.7641 0.1197 266.3);
 
+  /* Syntax highlighting — light (GitHub-inspired) */
+  --color-syntax-comment:  oklch(0.52 0.016 243);
+  --color-syntax-keyword:  oklch(0.54 0.21 17);
+  --color-syntax-string:   oklch(0.27 0.10 262);
+  --color-syntax-number:   oklch(0.65 0.17 54);
+  --color-syntax-function: oklch(0.46 0.19 302);
+  --color-syntax-tag:      oklch(0.52 0.14 152);
+  --color-syntax-constant: oklch(0.44 0.17 265);
+
+  /* Syntax highlighting — dark (GitHub dark-inspired) */
+  --color-syntax-comment-dark:  oklch(0.62 0.016 248);
+  --color-syntax-keyword-dark:  oklch(0.71 0.19 19);
+  --color-syntax-string-dark:   oklch(0.86 0.08 224);
+  --color-syntax-number-dark:   oklch(0.78 0.15 60);
+  --color-syntax-function-dark: oklch(0.81 0.12 308);
+  --color-syntax-tag-dark:      oklch(0.87 0.17 148);
+  --color-syntax-constant-dark: oklch(0.77 0.12 242);
+
   /* Typography families */
   --font-family-sans: "source-sans-3-variable", "Source Sans 3", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-family-serif: "source-serif-4-variable", "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "URW Palladio L", "Times New Roman", serif;

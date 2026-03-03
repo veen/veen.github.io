@@ -3,6 +3,7 @@
 @import url("./page.css");
 @import url("./nav.css");
 @import url("./article.css");
+@import url("./syntax.css");
 
 /* Design Tokens */
 
@@ -42,6 +43,16 @@
     --focus-ring-width: var(--border-width-md);
     --focus-ring-radius: var(--radius-sm);
 
+    /* syntax highlighting */
+    --syntax-bg:       var(--color-neutral-100);
+    --syntax-comment:  var(--color-syntax-comment);
+    --syntax-keyword:  var(--color-syntax-keyword);
+    --syntax-string:   var(--color-syntax-string);
+    --syntax-number:   var(--color-syntax-number);
+    --syntax-function: var(--color-syntax-function);
+    --syntax-tag:      var(--color-syntax-tag);
+    --syntax-constant: var(--color-syntax-constant);
+
 }
 
 /* Dark overrides are centralized here; the toggle/auto-detect script only flips data-theme on <html>. */
@@ -60,11 +71,19 @@
     --outline-focus: var(--color-neutral-600);
     --quote-decoration-color: var(--border-muted);
     --separator-color: var(--border-muted);
+
+    /* syntax highlighting */
+    --syntax-bg:       var(--color-neutral-950);
+    --syntax-comment:  var(--color-syntax-comment-dark);
+    --syntax-keyword:  var(--color-syntax-keyword-dark);
+    --syntax-string:   var(--color-syntax-string-dark);
+    --syntax-number:   var(--color-syntax-number-dark);
+    --syntax-function: var(--color-syntax-function-dark);
+    --syntax-tag:      var(--color-syntax-tag-dark);
+    --syntax-constant: var(--color-syntax-constant-dark);
 }
 
 /* Base: reset colors so all downstream styles just reference semantic tokens. */
-
-html {}
 
 html,
 body {
@@ -350,36 +369,30 @@ code {
     color: var(--text-code);
     font-family: var(--article-code-font-family);
     font-weight: var(--font-weight-regular);
-    font-size: var(--article-code-font-size) !important;
-    line-height: var(--article-code-line-height) !important;
+    font-size: var(--article-code-font-size);
     padding: var(--article-code-inline-padding);
     border-radius: var(--article-code-inline-radius);
 }
 
-/* Jekyll wraps Prism code blocks with Rouge markup, so we keep these selectors. */
 .highlighter-rouge {
     margin: var(--space-2xl) 0;
     max-width: 100%;
 }
 
-.highlighter-rouge>.highlight {
+.highlighter-rouge > .highlight {
+    background: var(--syntax-bg);
     border-radius: var(--radius-md);
     overflow-x: auto;
-    max-width: 100%;
-    border: none;
 }
 
 .highlighter-rouge pre {
     margin: 0;
     padding: var(--space-lg) var(--space-xl);
-    color: var(--text-code);
     font-family: var(--article-code-font-family);
     font-size: var(--article-code-font-size);
-    line-height: var(--article-code-line-height) !important;
+    line-height: var(--line-height-snug);
     background: none;
-    max-width: 100%;
     overflow-x: auto;
-    border: none;
 }
 
 .highlighter-rouge code {
@@ -387,48 +400,6 @@ code {
     color: inherit;
     padding: 0;
     white-space: pre;
-}
-
-/* Override Prism theme borders */
-pre[class*="language-"],
-code[class*="language-"] {
-    border: none !important;
-}
-
-/* Override Prism's default font size and line height */
-.highlighter-rouge pre code {
-    font-size: var(--article-code-font-size);
-    line-height: var(--article-code-line-height) !important;
-}
-
-/* Clean up Prism toolbar and copy button */
-div.code-toolbar>.toolbar {
-    opacity: 1;
-}
-
-div.code-toolbar>.toolbar>.toolbar-item>button {
-    font-family: var(--article-code-font-family) !important;
-    font-size: var(--font-scale-sm) !important;
-    font-weight: var(--font-weight-regular) !important;
-    background: transparent !important;
-    color: var(--text-muted) !important;
-    border: none !important;
-    border-radius: var(--radius-sm) !important;
-    padding: var(--space-xs) var(--space-sm) !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
-    cursor: pointer;
-    transition: color var(--duration-short) var(--easing-standard);
-    opacity: 0.7;
-}
-
-div.code-toolbar>.toolbar>.toolbar-item>button:hover,
-div.code-toolbar>.toolbar>.toolbar-item>button:focus {
-    background: transparent !important;
-    color: var(--text-primary) !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
-    opacity: 1;
 }
 
 /* Home page listing */
