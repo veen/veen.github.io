@@ -22,12 +22,13 @@
     --surface-code-inline: var(--color-neutral-100);
     --border-code: var(--color-neutral-200);
     --syntax-comment: var(--color-neutral-500);
-    --syntax-keyword: var(--color-link-hover);
-    --syntax-function: var(--color-link-primary);
-    --syntax-string: var(--color-neutral-800);
-    --syntax-number: var(--color-neutral-900);
-    --syntax-operator: var(--color-neutral-800);
-    --syntax-name: var(--color-neutral-900);
+    --syntax-keyword: oklch(0.57 0.2 292);
+    --syntax-function: oklch(0.52 0.16 254);
+    --syntax-string: oklch(0.58 0.14 149);
+    --syntax-number: oklch(0.62 0.15 66);
+    --syntax-operator: oklch(0.5 0.14 254);
+    --syntax-name: oklch(0.48 0.13 210);
+    --syntax-variable: oklch(0.46 0.12 197);
     --syntax-punctuation: var(--color-neutral-600);
 
     /* link colors */
@@ -65,13 +66,14 @@
     --surface-code: var(--color-neutral-950);
     --surface-code-inline: var(--color-neutral-800);
     --border-code: var(--color-neutral-700);
-    --syntax-comment: var(--color-neutral-500);
-    --syntax-keyword: var(--color-link-primary-dark);
-    --syntax-function: var(--color-link-hover-dark);
-    --syntax-string: var(--color-neutral-200);
-    --syntax-number: var(--color-neutral-050);
-    --syntax-operator: var(--color-neutral-200);
-    --syntax-name: var(--color-neutral-050);
+    --syntax-comment: var(--color-neutral-400);
+    --syntax-keyword: oklch(0.76 0.12 290);
+    --syntax-function: oklch(0.8 0.11 254);
+    --syntax-string: oklch(0.84 0.13 148);
+    --syntax-number: oklch(0.84 0.14 74);
+    --syntax-operator: oklch(0.78 0.1 254);
+    --syntax-name: oklch(0.81 0.08 205);
+    --syntax-variable: oklch(0.79 0.09 195);
     --syntax-punctuation: var(--color-neutral-300);
     --link-primary: var(--color-link-primary-dark);
     --link-primary-hover: var(--color-link-hover-dark);
@@ -435,6 +437,7 @@ code {
 .highlighter-rouge .highlight .kr,
 .highlighter-rouge .highlight .kt {
     color: var(--syntax-keyword);
+    font-weight: 600;
 }
 
 .highlighter-rouge .highlight .s,
@@ -474,10 +477,22 @@ code {
 .highlighter-rouge .highlight .nl,
 .highlighter-rouge .highlight .nn,
 .highlighter-rouge .highlight .nx,
-.highlighter-rouge .highlight .py,
-.highlighter-rouge .highlight .nv,
 .highlighter-rouge .highlight .nt {
     color: var(--syntax-name);
+}
+
+.highlighter-rouge .highlight .py,
+.highlighter-rouge .highlight .nl,
+.highlighter-rouge .highlight .nv,
+.highlighter-rouge .highlight .vc,
+.highlighter-rouge .highlight .vg,
+.highlighter-rouge .highlight .vi {
+    color: var(--syntax-variable);
+}
+
+.highlighter-rouge .highlight .nf,
+.highlighter-rouge .highlight .fm {
+    color: var(--syntax-function);
 }
 
 .highlighter-rouge .highlight .o,
