@@ -68,11 +68,6 @@
     <!-- My baby... -->
     <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
 
-    <!-- Prism syntax highlighting -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" id="prism-light-theme">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-dark.min.css" id="prism-dark-theme" disabled>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/toolbar/prism-toolbar.min.css">
-
     <link rel="alternate" type="application/atom+xml" href="{{ '/jeff/rss-source.xml' | absolute_url }}" title="Atom Feed">
     <link
       rel="stylesheet"
@@ -133,15 +128,6 @@
           }
         };
 
-        const syncPrismThemes = (isDark) => {
-          const lightTheme = document.getElementById("prism-light-theme");
-          const darkTheme = document.getElementById("prism-dark-theme");
-          if (lightTheme && darkTheme) {
-            lightTheme.disabled = isDark;
-            darkTheme.disabled = !isDark;
-          }
-        };
-
         const updateToggleState = (isDark) => {
           toggle.setAttribute("aria-pressed", String(isDark));
           toggle.setAttribute("aria-label", isDark ? "Switch to light theme" : "Switch to dark theme");
@@ -175,7 +161,6 @@
           root.dataset.theme = finalTheme;
           const isDark = finalTheme === "dark";
           updateToggleState(isDark);
-          syncPrismThemes(isDark);
           announceTheme(isDark);
         };
 
@@ -223,15 +208,5 @@
         }
       });
     </script>
-
-    <!-- Prism syntax highlighting -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-markup.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-css.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/toolbar/prism-toolbar.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js"></script>
   </body>
 </html>

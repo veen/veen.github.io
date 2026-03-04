@@ -61,7 +61,7 @@ When we speak through emphasis—_italics for nuance_, **bold for the rare shout
 
 ## Code Blocks Inspired by the Tokens
 
-To ground all of this theory, here’s a small snippet that mirrors the semantic tokens we just defined. It’s contrived, but it demonstrates how the palette is meant to be consumed.
+To ground all of this theory, here are a few snippets in different languages. They are intentionally varied so we can test comments, strings, numbers, punctuation, long lines, and nested structure in one place.
 
 ```css
 :root {
@@ -78,6 +78,41 @@ article code {
   padding: var(--article-code-inline-padding);
   border-radius: var(--article-code-inline-radius);
 }
+```
+
+```js
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+function formatByline(author, date, tags = []) {
+  const stamp = new Intl.DateTimeFormat("en-GB", { dateStyle: "long" }).format(date);
+  const meta = tags.length ? ` \u00b7 ${tags.join(" \u00b7 ")}` : "";
+  return `${author} \u00b7 ${stamp}${meta}`;
+}
+
+const byline = formatByline("Jeff Veen", new Date("2025-10-11"), ["typography", "tokens", "nord"]);
+console.log(byline);
+```
+
+```html
+<article class="post">
+  <header>
+    <h2>Typography Test Card</h2>
+    <time datetime="2025-10-11">11 October 2025</time>
+  </header>
+  <blockquote cite="https://typographica.org">
+    Good spacing is invisible until it is missing.
+  </blockquote>
+  <footer><a href="/jeff/about/">About the author</a></footer>
+</article>
+```
+
+```bash
+# Rebuild the draft locally and inspect the output URL
+colima nerdctl -- run --rm -p 4000:4000 \
+  -v /Users/jeff/Projects/veen.github.io:/site \
+  docker.io/bretfisher/jekyll-serve
+
+curl -I http://localhost:4000/jeff/drafts/typography.html
 ```
 
 ## Closing Thoughts
