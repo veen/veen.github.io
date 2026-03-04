@@ -27,7 +27,7 @@
     --syntax-string: #a3be8c;
     --syntax-number: #d08770;
     --syntax-operator: #5e81ac;
-    --syntax-name: #3b4252;
+    --syntax-name: #5e81ac;
     --syntax-variable: #b48ead;
     --syntax-punctuation: #434c5e;
 
@@ -72,7 +72,7 @@
     --syntax-string: #a3be8c;
     --syntax-number: #d08770;
     --syntax-operator: #81a1c1;
-    --syntax-name: #e5e9f0;
+    --syntax-name: #88c0d0;
     --syntax-variable: #b48ead;
     --syntax-punctuation: #d8dee9;
     --link-primary: var(--color-link-primary-dark);
@@ -468,6 +468,7 @@ code {
 }
 
 .highlighter-rouge .highlight .na,
+.highlighter-rouge .highlight .n,
 .highlighter-rouge .highlight .nb,
 .highlighter-rouge .highlight .nc,
 .highlighter-rouge .highlight .nd,
@@ -479,6 +480,14 @@ code {
 .highlighter-rouge .highlight .nx,
 .highlighter-rouge .highlight .nt {
     color: var(--syntax-name);
+}
+
+.highlighter-rouge .highlight .na {
+    color: var(--syntax-variable);
+}
+
+.highlighter-rouge .highlight .nt {
+    color: var(--syntax-keyword);
 }
 
 .highlighter-rouge .highlight .py,
