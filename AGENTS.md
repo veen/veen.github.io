@@ -1,62 +1,27 @@
 # AGENTS
 
-## Scope
-- Only work inside `/jeff`; every sibling directory is a legacy project that must remain untouched.
-- The `/jeff` folder is a self-contained Jekyll site whose public root resolves to `/jeff` on GitHub Pages, so use `{% raw %}{{ '/jeff/css/style.css' | relative_url }}{% endraw %}`-style helpers when linking local assets.
+## Role
 
-## Architecture & Layouts
-- Templates live in `_layouts/`: `base.html` wraps every page with the nav ("Jeff Veen", Blog, About) and the dark-mode toggle, plus the GA4 snippet and Littlefoot assets; `post.html` extends `base` and appends the Buttondown subscribe form.
-- Index (`index.html`) renders a `<section class="post-list">` of featured posts, truncating after ~50 words; other pages such as `about/index.html` are raw HTML inside `<article>` blocks using `layout: base`.
-- Styles live in `css/style.css` and are driven by CSS custom properties for spacing, typography, and dark-mode surfaces; respect the token system and semantic variables instead of hard-coded values.
-- Syntax highlighting is native Jekyll/Rouge: fenced Markdown code blocks render with `.highlighter-rouge` and Rouge token classes (`.k`, `.s`, `.nx`, etc.) styled in `css/style.css`. Do not add Prism/highlight.js assets or token markup.
+This is a GitHub Pages deployment repo for [veen.com](https://veen.com). It contains:
 
-## Content Authoring
-- Posts sit in `_posts/` with standard front matter: `layout: post`, `title`, `date`, optional `abstract`, `featured`, `og_image`, etc.; summaries on the home page only include posts with `featured: yes`.
-- Write semantic HTML5 (`<article>`, `<section>`, `<figure>`, `<time>`) and rely on existing utility classes like `.post-footer`, `.continue-reading`, `.highlighter-rouge` for consistent typography, footnotes, and code blocks.
-- Inline code uses the theme-ready `<code>` styling; for code fences, prefer standard Jekyll fenced syntax so Rouge can generate highlighted output.
+- **`/jeff`** — Compiled output from the [jeff-blog](https://github.com/veen/jeff-blog) repo, deployed via `bin/deploy.sh` in that repo. **Do not edit directly** — changes will be overwritten on next deploy.
+- **Legacy subdirectories** (`/amy`, `/greg`, `/samthedog`, `/archives`, `/artsci`, `/start`, `/smallbatch`, `/metcalfe-generator`) — Frozen static HTML. Do not modify unless specifically asked.
+- **Root files** (`index.html`, `404.html`, favicons, `site.webmanifest`) — Static HTML, no Jekyll templating.
 
-## GitHub Pages Compatibility — CRITICAL
-- This site is deployed via **GitHub Pages**. Every change MUST remain fully compatible with the GitHub Pages build environment.
-- **NEVER modify `Gemfile` or `Gemfile.lock`** unless you are certain the change is compatible with the [GitHub Pages dependency versions](https://pages.github.com/versions/). The `github-pages` gem pins exact dependency versions; do not add, remove, or upgrade gems without verifying against that list.
-- Do not assume the local Ruby version matches GitHub Pages. Local tooling issues (e.g. missing stdlib gems on Ruby 3.4) must be solved locally (devcontainer, rbenv, etc.) — never by changing the committed Gemfile.
-- All committed HTML, CSS, Markdown, and Liquid must build cleanly with `github-pages` gem v228 and Jekyll 3.9.x.
+## Key Rules
 
-## Local Dev & Deploy
-- A ready-to-go VS Code dev container lives in `.devcontainer/`; reopen the repo inside it to get Ruby 3.1, Bundler 2.4.19, and `github-pages` installed automatically (port 4000 is forwarded for `jekyll serve`). **The devcontainer is the recommended way to serve locally.**
-- Alternatively, serve with the container cmd from `README.md`, e.g. `container run ... bretfisher/jekyll-serve`, then visit `http://localhost:4000/jeff`.
-- Colima workflow from repo root (`/Users/jeff/Projects/veen.github.io`):
-  - Preview server:
-    ```bash
-    colima nerdctl -- rm -f jekyll >/dev/null 2>&1 || true
-    colima nerdctl -- run -d --name jekyll -p 4000:4000 \
-      -v /Users/jeff/Projects/veen.github.io:/site \
-      docker.io/bretfisher/jekyll-serve
-    ```
-  - Watch logs:
-    ```bash
-    colima nerdctl -- logs -f jekyll
-    ```
-  - Build once (no server):
-    ```bash
-    colima nerdctl -- run --rm \
-      -v /Users/jeff/Projects/veen.github.io:/site \
-      docker.io/bretfisher/jekyll-serve \
-      bundle exec jekyll build
-    ```
-  - Stop preview:
-    ```bash
-    colima nerdctl -- rm -f jekyll
-    ```
-- Production deploys automatically through GitHub Pages when `main` updates; keep templates, CSS, and Markdown valid so `jekyll build` stays clean.
-- After each set of changes, create a commit with a brief but descriptive message so history stays readable.
+- No Jekyll config, Gemfile, or build toolchain exists in this repo. GitHub Pages serves it as static files.
+- To change jeff blog content, work in the `jeff-blog` repo.
+- `/jeff` is the rsync target — the jeff-blog deploy script overwrites it completely with `--delete`.
 
-## Cloudflare Cache Purge
-- DNS is managed by Cloudflare. After deploying, purge the cache with:
-  ```
-  CF_PAGES_TOKEN=$(op read --account devonia.1password.com "op://Private/Cloudflare Pages token/credential") && \
-  curl -s -X POST 'https://api.cloudflare.com/client/v4/zones/8e3ac6ae34d17537a266361e9401a995/purge_cache' \
-    -H "Authorization: Bearer ${CF_PAGES_TOKEN}" \
-    -H 'Content-Type: application/json' \
-    --data '{"purge_everything":true}'
-  ```
-- Requires 1Password CLI (`op`) authenticated to the **devonia.1password.com** account.
+## Deploys
+
+Pushes to `main` are automatically published by GitHub Pages. The jeff blog deploy workflow is:
+
+1. Build in jeff-blog via Docker
+2. `rsync --delete _site/jeff/` into this repo's `/jeff`
+3. Commit, push, and purge Cloudflare cache
+
+## Cloudflare
+
+DNS is managed by Cloudflare. Cache purge is handled automatically by `jeff-blog/bin/deploy.sh` using 1Password CLI for the API token.
