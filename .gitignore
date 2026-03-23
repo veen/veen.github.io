@@ -1,11 +1,2 @@
 .DS_Store
-.jekyll-cache/
-.jekyll-metadata
-_site
-vendor/bundle/
-.bundle/
-.gem/
-.devcontainer/vendor/
-.devcontainer/jekyll-serve.log
-.devcontainer/jekyll-serve.pid
 repomix-output.xml

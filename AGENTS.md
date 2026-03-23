@@ -6,7 +6,7 @@ This is a GitHub Pages deployment repo for [veen.com](https://veen.com). It cont
 
 - **`/jeff`** — Compiled output from the [jeff-blog](https://github.com/veen/jeff-blog) repo, deployed via `bin/deploy.sh` in that repo. **Do not edit directly** — changes will be overwritten on next deploy.
 - **Legacy subdirectories** (`/amy`, `/greg`, `/samthedog`, `/archives`, `/artsci`, `/start`, `/smallbatch`, `/metcalfe-generator`) — Frozen static HTML. Do not modify unless specifically asked.
-- **Root files** (`index.html`, `404.html`, favicons, `site.webmanifest`) — Static HTML, no Jekyll templating.
+- **Root files** (`index.html`, `404.html`, `CNAME`, favicons, `site.webmanifest`) — Static files. `CNAME` maps this repo to veen.com; do not modify.
 
 ## Key Rules
 
