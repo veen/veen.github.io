@@ -14,8 +14,8 @@
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Jeffrey Veen's blog</title>
-    <meta name="description" content="Jeff Veen's blog about design, technology, and the web">
+    <title>Wikirank: Tracking what's popular on Wikipedia</title>
+    <meta name="description" content="The first project from our team at Small Batch Inc., building a trend engine on top of the famed collaborative encyclopedia">
     <meta name="author" content="Jeff Veen">
 
     <!-- Favicons -->
@@ -26,17 +26,17 @@
     <link rel="manifest" href="/site.webmanifest">
 
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://veen.com/jeff/">
-    <meta property="og:title" content="Jeffrey Veen's blog">
-    <meta property="og:description" content="Jeff Veen's blog about design, technology, and the web">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://veen.com/jeff/archives/000998.html">
+    <meta property="og:title" content="Wikirank: Tracking what's popular on Wikipedia">
+    <meta property="og:description" content="The first project from our team at Small Batch Inc., building a trend engine on top of the famed collaborative encyclopedia">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://veen.com/jeff/">
-    <meta name="twitter:title" content="Jeffrey Veen's blog">
-    <meta name="twitter:description" content="Jeff Veen's blog about design, technology, and the web">
+    <meta name="twitter:url" content="https://veen.com/jeff/archives/000998.html">
+    <meta name="twitter:title" content="Wikirank: Tracking what's popular on Wikipedia">
+    <meta name="twitter:description" content="The first project from our team at Small Batch Inc., building a trend engine on top of the famed collaborative encyclopedia">
     
     
     <script>
@@ -92,79 +92,51 @@
       </nav>
 
       <main class="content" id="main-content">
-		<h1 class="sr-only">Jeffrey Veen's Blog</h1>
-<section class="post-list" aria-label="Recent posts">
+		  <article>
+      <h1>Wikirank: Tracking what’s popular on Wikipedia</h1>
 
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/coding-agents-design.html">On Coding Agents and the Future of Design</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p>In his seminal 2010 article on <a href="https://alistapart.com/article/responsive-web-design/">responsive design</a>, Ethan Marcotte described a new way of thinking about web user interfaces that moved beyond a fixed frame. Reacting to his clients’ requests for an “iPhone version” of their websites, he suggested instead a single experience that could <em>respond</em> to the user’s device. Page elements could use a different set of design properties for large screens and small, transforming their form to match the capabilities of the hardware. Crucially, on simpler devices, elements could be hidden entirely if deemed non-essential.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/coding-agents-design.html" aria-label="Continue reading On Coding Agents and the Future of Design">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2026-01-15T00:00:00+00:00">15 Jan 2026</time>
-    </footer>
+      <time class="byline" datetime="2009-03-26T00:00:00+00:00">
+          26 Mar 2009
+      </time>
+
+      <p><a href="http://www.flickr.com/photos/veen/3387998570/" title="Wikirank, on Flickr"><img src="http://farm4.static.flickr.com/3538/3387998570_4b7c712c8b_m.jpg" width="221" height="240" alt="Wikirank screenshot" style="float:left; margin-right:10px; margin-bottom:10px; border: solid thin silver;" /></a>A few months ago, the four of us in <a href="http://smallbatchinc.com/">Small Batch Inc</a> were kicking around ideas for what we should build next. We had just launched the <a href="http://www.readwriteweb.com/archives/twitter_election_site.php">Twitter Election site</a> – a fun real-time data visualization project – and wanted to keep building things that help people make sense of the enormous amount of information that bombards us each day. Late one night soon after, I followed a link to a <a href="http://dammit.lt/wikistats/">repository</a> of Wikipedia server logs. There were gigabytes of data sitting there just begging to be visualized. We got to work.</p>
+
+<p>The result is <a href="http://wikirank.com/">Wikirank</a>, a tool for exploring what’s popular on Wikipedia, discovering comparisons between topics, and sharing them with the world. We launched it yesterday, happily coinciding with the 14th anniversary with Ward Cunningham’s <a href="http://www.aboutus.org/WikiBirthday.org">invention of the wiki</a>.</p>
+
+<p>There are a bunch of reasons why I think Wikirank is cool, but my favorite is how it helps people find stories in the data. One of the great things about the web is how measuring tiny behaviors reveals patterns that tell stories. The data we get from Wikipedia is no different; as we started playing around with the numbers, we saw loads of interesting shapes emerge in the charts.</p>
+
+<p>For example, big news stories show up as dramatic spikes where there there was no data before. When the astounding story broke that an airliner had made an emergency landing in the Hudson, a page was created on Wikipedia within minutes. Over the next two days, that page was one of the most popular on the site.</p>
+
+<p>Comparisons are where Wikirank really shines, however. The weekly viewing habits of television watchers comes into clear view – as do the day on which the shows air – when we compare Heroes to Lost. (It’s also my guess that the occasionally perplexing plotlines of both of those shows leads a fair number of people to Wikipedia to find out what the heck just happened.)</p>
+
+<p>I’m really pleased with how this project came out. I’ll write more about the technology behind the project in a followup post, but the reality is this launch represents a pretty big shift in how we build web apps. With only a couple developers and a rack of rented machines in the cloud, we pulled this all together in just a few weeks. That simply wasn’t possible the <a href="http://www.veen.com/jeff/archives/000799.html">last time</a> we did this.</p>
+
+<p>The team behind all of this includes my long-time friends and business partners <a href="http://bryanmason.com/">Bryan Mason</a>, <a href="http://www.fivesevensix.com/">Ryan Carver</a>, and <a href="http://veen.com/greg/">Greg Veen</a>. We were also extremely fortunate to be able to work with <a href="http://simplebits.com/">Dan Cederholm of Simplebits</a>, who helped us with visual design and identity. Dan rocks.</p>
+
+<p><strong>Update:</strong> On March 10, 2010, Wikirank was <a href="http://techcrunch.com/2010/03/10/brizzly-guide-iphone-picnic/">acquired</a> by Thing Labs, Inc. The were, in turn, acquired by AOL later that year. Priorities change when little companies are subsumed by big companies and, sadly, Wikirank has been retired.</p>
+
+
+      <hr class="post-footer-separator">
+      <footer class="post-footer">
+        <form
+          action="https://buttondown.com/api/emails/embed-subscribe/veen"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.com/veen', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email" class="post-footer__label">
+            <em>
+              Get future posts via
+              <a href="https://veen.com/jeff/rss-source.xml">RSS</a> or email
+            </em>
+          </label>
+          <input type="email" name="email" id="bd-email" autocomplete="email" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </footer>
+
   </article>
-  
-  
-
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/jidoka.html">Small Acts Build Great Cultures</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p>This morning as I walked to the cafe my phone alerted me that I’d left my luggage at home. This and other bugs have been happening off and on since I upgraded to iOS 26. My AirTags are randomly forgetting where they are. Some of my friends are showing up as mere phone numbers in iMessage. Nothing terribly bad, just a string of little paper cuts.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/jidoka.html" aria-label="Continue reading Small Acts Build Great Cultures">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2025-11-11T00:00:00+00:00">11 Nov 2025</time>
-    </footer>
-  </article>
-  
-  
-
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/metcalfe-visualization.html">Vibing with Metcalfe’s Law</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p><a href="https://veen.com/metcalfe-generator/" aria-label="Open Metcalfe's Law interactive visualization">
-  <img src="https://veen.com/jeff/images/metcalfe-visualization.png" alt="A visualization of a network with nodes and edges forming a beautiful geometric pattern" />
-</a>
-Earlier this year, we brought the entrepreneurs from our portfolio companies together at <a href="https://www.instagram.com/reel/DG55PhdpUOT/">Founder Camp</a>, a gathering designed around the premise of the ‘unconference’: that the audience will connect and self-organize into conversations that are most relevant to them. More facilitation, less programming. For startup founders, we’ve found this is intensely valuable. The nature of what they’re struggling with is, by definition, out ahead of where conventional advice can help. The best solution is to connect with others who are at the coalface with them.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/metcalfe-visualization.html" aria-label="Continue reading Vibing with Metcalfe’s Law">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2025-10-27T00:00:00+00:00">27 Oct 2025</time>
-    </footer>
-  </article>
-  
-  
-
-</section>
 
       </main>
     </div>

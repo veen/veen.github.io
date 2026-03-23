@@ -14,8 +14,8 @@
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Jeffrey Veen's blog</title>
-    <meta name="description" content="Jeff Veen's blog about design, technology, and the web">
+    <title>Best Practices for Search Results Design</title>
+    <meta name="description" content="Simple design techniques to make finding things easier.">
     <meta name="author" content="Jeff Veen">
 
     <!-- Favicons -->
@@ -26,17 +26,17 @@
     <link rel="manifest" href="/site.webmanifest">
 
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://veen.com/jeff/">
-    <meta property="og:title" content="Jeffrey Veen's blog">
-    <meta property="og:description" content="Jeff Veen's blog about design, technology, and the web">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://veen.com/jeff/archives/search-results.html">
+    <meta property="og:title" content="Best Practices for Search Results Design">
+    <meta property="og:description" content="Simple design techniques to make finding things easier.">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://veen.com/jeff/">
-    <meta name="twitter:title" content="Jeffrey Veen's blog">
-    <meta name="twitter:description" content="Jeff Veen's blog about design, technology, and the web">
+    <meta name="twitter:url" content="https://veen.com/jeff/archives/search-results.html">
+    <meta name="twitter:title" content="Best Practices for Search Results Design">
+    <meta name="twitter:description" content="Simple design techniques to make finding things easier.">
     
     
     <script>
@@ -92,79 +92,87 @@
       </nav>
 
       <main class="content" id="main-content">
-		<h1 class="sr-only">Jeffrey Veen's Blog</h1>
-<section class="post-list" aria-label="Recent posts">
+		  <article>
+      <h1>Best Practices for Search Results Design</h1>
 
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/coding-agents-design.html">On Coding Agents and the Future of Design</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p>In his seminal 2010 article on <a href="https://alistapart.com/article/responsive-web-design/">responsive design</a>, Ethan Marcotte described a new way of thinking about web user interfaces that moved beyond a fixed frame. Reacting to his clients’ requests for an “iPhone version” of their websites, he suggested instead a single experience that could <em>respond</em> to the user’s device. Page elements could use a different set of design properties for large screens and small, transforming their form to match the capabilities of the hardware. Crucially, on simpler devices, elements could be hidden entirely if deemed non-essential.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/coding-agents-design.html" aria-label="Continue reading On Coding Agents and the Future of Design">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2026-01-15T00:00:00+00:00">15 Jan 2026</time>
-    </footer>
+      <time class="byline" datetime="2004-08-12T00:00:00+00:00">
+          12 Aug 2004
+      </time>
+
+      <p>Over the past year, I’ve evaluated the search experiences on a number of popular content sites. With the help of author and interface designer Darcy DiNucci, I picked apart the search and result designs from sites like Apple.com, NASA.gov, SchwabFoundation.org, and a variety of others. We focused on content sites, rather than e-commerce or Web applications, and we avoided general Web search engines entirely.</p>
+
+<p>Our finding, not surprisingly, is that almost every site’s search engine could use improvement. We also found that most organizations’ Web teams couldn’t really affect the quality of their search results — they were stuck tweaking search technologies that had already been purchased and installed. Often, the most dramatic change they could make was in the design of the search and results interfaces. In some cases, as the old saying goes, this was like putting lipstick on a pig. But cleaning things up does help users find answers to their queries.</p>
+
+<p>Through our research, we discovered eight quick fixes that will improve your site’s search experience:</p>
+
+<h2 id="1-question-search-engine-defaults">1. Question search engine defaults.</h2>
+
+<p>Before turning on your search software, evaluate every option the software provides in terms of user needs. For example, do they really need to hide or show the result summaries? Take away as much as you can; it will simplify your results page.</p>
+
+<h2 id="2-relevance-is-relative">2. Relevance is relative.</h2>
+
+<p>Ranking results based on their relevance is a subjective practice at best. Every piece of search software has its own algorithm for determining which documents best match which queries. Make sure the default ranking you select matches your user needs.</p>
+
+<h2 id="3-help-users-avoid-mistakes">3. Help users avoid mistakes.</h2>
+
+<p>Check your search logs. One of the top queries will inevitably be an empty submission. While we’re not sure why this happens so frequently, users often accidently submit forms before filling them out. One of the simplest usability enhancements you can make to your site’s search experience is a single line of JavaScript. Make sure the search field has something in it before allowing the form to be submitted.</p>
+
+<h2 id="4-roll-your-own-results">4. Roll your own results.</h2>
+
+<p>Even if you can’t change your search engine’s algorithm to be more relevant for your users, don’t give up hope. Frankly, one of the best ways to improve your results is to do them by hand. Get a report of the top search queries on your site. Take the top ten and find three to five pages that satisfy those queries. Then, create a simple script to match them up on your results page. When you have time, do the next 20 most popular. Stop when you get to 50. That will likely cover the majority of your users’ queries. Check the report once a month and adjust the canned results as necessary.</p>
+
+<h2 id="5-simplify-your-page-layout">5. Simplify your page layout.</h2>
+
+<p>Almost every search engine can be more effective with a simple layout.</p>
+
+<ul>
+  <li>Include a wide text box with the user’s search query and a submit button labeled “Search again.”</li>
+  <li>Use a header that displays the total number of results and a control for displaying the next 10 (preferably an arrow pointing to the right).</li>
+  <li>List 10 results with ranking numbers hanging in the column.</li>
+  <li>Repeat the navigation controls at the bottom of the results.</li>
+</ul>
+
+<h2 id="6-offer-help-for-zero-results">6. Offer help for zero results.</h2>
+
+<p>If a query doesn’t find any matches, display the following:</p>
+
+<ul>
+  <li>A text box showing the user’s query that allows them to edit it.</li>
+  <li>Possible spelling alternatives, presented with the phrase, “Did you mean [alternative]?”</li>
+  <li>A couple of other tips as a bulleted list. “Try a broader search term.” or “Try using a synonym.”</li>
+  <li>Include a link to search help, a site map, and contact page.</li>
+</ul>
+
+<h2 id="7-use-categories-if-youve-got-them">7. Use categories if you’ve got them.</h2>
+
+<p>If your search software offers different search categories (often called <strong>catalogs</strong> or <strong>indices</strong>), use them to organize your results in a similar structure to your site’s architecture. Then include links at the top of the results page that show how many results match each category. This will help users narrow their search to a more manageable list.</p>
+
+<h2 id="8-advanced-search-and-help-should-be-the-same-thing">8. Advanced search and help should be the same thing.</h2>
+
+<p>If you link to a page that offers usage instructions for the many features of your search engine, include interfaces for those features so they can be used without switching back and forth.</p>
+
+
+      <hr class="post-footer-separator">
+      <footer class="post-footer">
+        <form
+          action="https://buttondown.com/api/emails/embed-subscribe/veen"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.com/veen', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email" class="post-footer__label">
+            <em>
+              Get future posts via
+              <a href="https://veen.com/jeff/rss-source.xml">RSS</a> or email
+            </em>
+          </label>
+          <input type="email" name="email" id="bd-email" autocomplete="email" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </footer>
+
   </article>
-  
-  
-
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/jidoka.html">Small Acts Build Great Cultures</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p>This morning as I walked to the cafe my phone alerted me that I’d left my luggage at home. This and other bugs have been happening off and on since I upgraded to iOS 26. My AirTags are randomly forgetting where they are. Some of my friends are showing up as mere phone numbers in iMessage. Nothing terribly bad, just a string of little paper cuts.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/jidoka.html" aria-label="Continue reading Small Acts Build Great Cultures">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2025-11-11T00:00:00+00:00">11 Nov 2025</time>
-    </footer>
-  </article>
-  
-  
-
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/metcalfe-visualization.html">Vibing with Metcalfe’s Law</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p><a href="https://veen.com/metcalfe-generator/" aria-label="Open Metcalfe's Law interactive visualization">
-  <img src="https://veen.com/jeff/images/metcalfe-visualization.png" alt="A visualization of a network with nodes and edges forming a beautiful geometric pattern" />
-</a>
-Earlier this year, we brought the entrepreneurs from our portfolio companies together at <a href="https://www.instagram.com/reel/DG55PhdpUOT/">Founder Camp</a>, a gathering designed around the premise of the ‘unconference’: that the audience will connect and self-organize into conversations that are most relevant to them. More facilitation, less programming. For startup founders, we’ve found this is intensely valuable. The nature of what they’re struggling with is, by definition, out ahead of where conventional advice can help. The best solution is to connect with others who are at the coalface with them.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/metcalfe-visualization.html" aria-label="Continue reading Vibing with Metcalfe’s Law">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2025-10-27T00:00:00+00:00">27 Oct 2025</time>
-    </footer>
-  </article>
-  
-  
-
-</section>
 
       </main>
     </div>

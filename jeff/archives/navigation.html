@@ -14,8 +14,8 @@
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Jeffrey Veen's blog</title>
-    <meta name="description" content="Jeff Veen's blog about design, technology, and the web">
+    <title>Faucet Facets: A Few Best Practices for Designing Multifaceted Navigation Systems</title>
+    <meta name="description" content="How to design navigation for a world that's decidedly not heirarchical.">
     <meta name="author" content="Jeff Veen">
 
     <!-- Favicons -->
@@ -26,17 +26,17 @@
     <link rel="manifest" href="/site.webmanifest">
 
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://veen.com/jeff/">
-    <meta property="og:title" content="Jeffrey Veen's blog">
-    <meta property="og:description" content="Jeff Veen's blog about design, technology, and the web">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://veen.com/jeff/archives/navigation.html">
+    <meta property="og:title" content="Faucet Facets: A Few Best Practices for Designing Multifaceted Navigation Systems">
+    <meta property="og:description" content="How to design navigation for a world that's decidedly not heirarchical.">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://veen.com/jeff/">
-    <meta name="twitter:title" content="Jeffrey Veen's blog">
-    <meta name="twitter:description" content="Jeff Veen's blog about design, technology, and the web">
+    <meta name="twitter:url" content="https://veen.com/jeff/archives/navigation.html">
+    <meta name="twitter:title" content="Faucet Facets: A Few Best Practices for Designing Multifaceted Navigation Systems">
+    <meta name="twitter:description" content="How to design navigation for a world that's decidedly not heirarchical.">
     
     
     <script>
@@ -92,79 +92,78 @@
       </nav>
 
       <main class="content" id="main-content">
-		<h1 class="sr-only">Jeffrey Veen's Blog</h1>
-<section class="post-list" aria-label="Recent posts">
+		  <article>
+      <h1>Faucet Facets: A Few Best Practices for Designing Multifaceted Navigation Systems</h1>
 
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/coding-agents-design.html">On Coding Agents and the Future of Design</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p>In his seminal 2010 article on <a href="https://alistapart.com/article/responsive-web-design/">responsive design</a>, Ethan Marcotte described a new way of thinking about web user interfaces that moved beyond a fixed frame. Reacting to his clients’ requests for an “iPhone version” of their websites, he suggested instead a single experience that could <em>respond</em> to the user’s device. Page elements could use a different set of design properties for large screens and small, transforming their form to match the capabilities of the hardware. Crucially, on simpler devices, elements could be hidden entirely if deemed non-essential.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/coding-agents-design.html" aria-label="Continue reading On Coding Agents and the Future of Design">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2026-01-15T00:00:00+00:00">15 Jan 2026</time>
-    </footer>
+      <time class="byline" datetime="2002-06-04T00:00:00+00:00">
+          04 Jun 2002
+      </time>
+
+      <p>So often we assume that Web sites should be hierarchically organized. We talk about a “home page” that offers “top-level navigation” so that users can “drill down” to the content. It’s as if we’re programmed to think top down.</p>
+
+<p>But what about information that isn’t as easily structured this way? Sometimes, content has many attributes that have different importance to different users. A hierarchy assumes everyone approaches these attributes the same way, but that’s often not the case.</p>
+
+<p>Let’s look at a real world example. A couple weeks ago, I walked into a huge warehouse of kitchen appliances and was approached by a salesman.</p>
+
+<p>“Can I help you?” he asked.</p>
+
+<p>“I need a dishwasher that is energy and water efficient with a stainless steel tub and accepts cabinet fronts for an integrated look,” I told him smugly.</p>
+
+<p>“We have three,” he replied. “How much do you want to spend?”</p>
+
+<p>Now that’s a good salesman. He had the entire warehouse inventory in his head, and could narrow down my search based on the criteria I specified. He even knew which unspecified attributes (price) might be important to my decision.</p>
+
+<p>If only Web sites were as effective. Based on my personal preferences, a typical navigation system for dishwashers might look like this:</p>
+
+<p>appliances &gt; dishwashers &gt; energy consumption</p>
+
+<p>In this sort of hierarchical interface, users click down through the categories, choosing their preference for each attribute until they find a dishwasher that perfectly matches their desires. But what if the next user doesn’t value energy consumption over exterior style? What if price is more important? And what if they don’t care at all about a certain attribute? Imagine trying to find all the dishwashers with stainless steel tubs under $400. You’d be clicking up and down the hierarchy following different routes for each choice.</p>
+
+<p>In the world of information science, systems that offer lots of attributes for each piece of information are called multi-faceted. In these systems, each piece of information has facets (like “tub type”) and each facet has values (like “stainless steel”). Interfaces that offer multifaceted navigation present all the options for all the facets as choices for the user. Each time a choice is made, the total number of available matches is winnowed down a little. This winnowing process is iterative. As you choose a value for each facet, the system responds by updating the total number of items now in your subset. The ultimate goal in an interface such as this one is to reduce the size of the subset to a number small enough to allow easy browsing.</p>
+
+<p>While this may sound like a simple interface to design, the reality often gets muddled. Current Web browsers aren’t particularly suited for this sort of iterative process. Ideally, the user would want to experiment with the facets they’re defining. But each selection requires a round trip to the server, which can take the fluidity out of an exploratory experience, even on the fastest connections.</p>
+
+<p>So what are the best practices for designing navigation systems for architectures based on faceted classification? The examples below are pretty good. Each one offers users control of their experience while working around the basic limitations of browser technology.</p>
+
+<p>Broadmoor Interface Detail
+Broadmoor renders attributes — in this case, dates — in an appropriate widget. (Click the image for more.)</p>
+
+<p>Facet selection. There are two important ideas here: First, offer users a way to choose the values that are important to them; and second, use interface widgets that are appropriate to the data being displayed. For example, in the Flash-based interface for the Broadmoor Hotel online registration system, date selection is offered in a calendar format. This may seem an obvious choice, but how often has a Web interface forced you to choose dates from a dropdown menu?</p>
+
+<p>Kohler Interface Detail
+Kohler uses Javascript to make the interaction more seamless. (Click the image for more.)</p>
+
+<p>Winnowing interaction. When a user chooses a value for a facet, show the new total of matches, so that they can see how a particular selection reduces (or, in some cases, increases) the number of items available. For example, consider the Web site for faucet manufacturer Kohler. Their faucet finder interface updates automatically after every choice. If you choose a faucet with a sidespray, it reduces the number of faucets from 124 to 55. Add a cross-style handle and you’ll be down to 7 choices. Click “Show Faucets” and you can easily browse your results.
+The effectiveness of this interaction depends largely on technology. The Kohler site uses Javascript to make this update. This unfortunately requires a trip back to the server to update the number of faucets that meet the new selected criteria. The more iteration that can happen on the client side, the faster the interaction will be, and the more apt a user will be to explore the interface. You can see this in action on the Broadmoor site’s Flash interface, which updates the possible options without reloading.</p>
+
+<p>Sears Interface Detail
+Sears doesn’t allow enough iteration, which makes browsing cumbersome. (Click the image for more.)</p>
+
+<p>Results Rendering. Show your user something when they ask for results. Some systems display these results simply as a number (like the Kohler app above); others show a list of matches much like a search engine would. There are also hybrids that display a few likely matches as well as the total number of matches in the full set. The right interface decision really depends on the kind of information being displayed. The important thing is to let users continue to refine their choices on the same page where the results are being displayed. Retail giant Sears.com offers a great faceted appliance locator, but once you make your choices and submit the form, all you get are results — you have to go back and start over to try another selection. At least the interface shows you how many choices were in each one of your selections, allowing you to click back to broader criteria.
+Architectures based on faceted information are an interesting hybrid of search and navigation. Users are given the impression of browsing through vast amounts of information, while the iterative process of specifying attributes is much like the interaction of many advanced search engines. The best examples find innovative solutions to the inherent overhead of browser technology to achieve an interactive experience that is as seamless as possible.</p>
+
+
+      <hr class="post-footer-separator">
+      <footer class="post-footer">
+        <form
+          action="https://buttondown.com/api/emails/embed-subscribe/veen"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.com/veen', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email" class="post-footer__label">
+            <em>
+              Get future posts via
+              <a href="https://veen.com/jeff/rss-source.xml">RSS</a> or email
+            </em>
+          </label>
+          <input type="email" name="email" id="bd-email" autocomplete="email" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </footer>
+
   </article>
-  
-  
-
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/jidoka.html">Small Acts Build Great Cultures</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p>This morning as I walked to the cafe my phone alerted me that I’d left my luggage at home. This and other bugs have been happening off and on since I upgraded to iOS 26. My AirTags are randomly forgetting where they are. Some of my friends are showing up as mere phone numbers in iMessage. Nothing terribly bad, just a string of little paper cuts.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/jidoka.html" aria-label="Continue reading Small Acts Build Great Cultures">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2025-11-11T00:00:00+00:00">11 Nov 2025</time>
-    </footer>
-  </article>
-  
-  
-
-  
-  
-  <article class="post-item">
-    <h2><a href="https://veen.com/jeff/archives/metcalfe-visualization.html">Vibing with Metcalfe’s Law</a></h2>
-    
-    
-    
-      
-      
-        
-        
-        <p><a href="https://veen.com/metcalfe-generator/" aria-label="Open Metcalfe's Law interactive visualization">
-  <img src="https://veen.com/jeff/images/metcalfe-visualization.png" alt="A visualization of a network with nodes and edges forming a beautiful geometric pattern" />
-</a>
-Earlier this year, we brought the entrepreneurs from our portfolio companies together at <a href="https://www.instagram.com/reel/DG55PhdpUOT/">Founder Camp</a>, a gathering designed around the premise of the ‘unconference’: that the audience will connect and self-organize into conversations that are most relevant to them. More facilitation, less programming. For startup founders, we’ve found this is intensely valuable. The nature of what they’re struggling with is, by definition, out ahead of where conventional advice can help. The best solution is to connect with others who are at the coalface with them.</p>
-        
-          
-    <footer class="post-footer">
-      <p class="continue-reading"><a href="https://veen.com/jeff/archives/metcalfe-visualization.html" aria-label="Continue reading Vibing with Metcalfe’s Law">Continue reading &rarr;</a></p>
-      <time class="published_date" datetime="2025-10-27T00:00:00+00:00">27 Oct 2025</time>
-    </footer>
-  </article>
-  
-  
-
-</section>
 
       </main>
     </div>
