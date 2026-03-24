@@ -1,90 +1,5 @@
-/* style.css orchestrates semantic tokens + component rules on top of the primitives/page/nav/article token layers. */
-@import url("./primitives.css");
-@import url("./page.css");
-@import url("./nav.css");
-@import url("./article.css");
-
-/* Design Tokens */
-
-/* Light-theme defaults live in :root so the site renders correctly even before JS sets data-theme. */
-:root {
-    color-scheme: light;
-    /* Semantic tokens */
-
-    /* background colors */
-    --surface-body: var(--color-neutral-050);
-
-    /* text colors */
-    --text-primary: var(--color-neutral-900);
-    --text-muted: var(--color-neutral-600);
-    --text-code: #2e3440;
-    --surface-code: #eceff4;
-    --surface-code-inline: #e5e9f0;
-    --border-code: #d8dee9;
-    --syntax-comment: #4c566a;
-    --syntax-keyword: #5e81ac;
-    --syntax-function: #88c0d0;
-    --syntax-string: #a3be8c;
-    --syntax-number: #d08770;
-    --syntax-operator: #5e81ac;
-    --syntax-name: #5e81ac;
-    --syntax-variable: #b48ead;
-    --syntax-punctuation: #434c5e;
-
-    /* link colors */
-    --link-primary: var(--color-link-primary);
-    --link-primary-hover: var(--color-link-hover);
-    --link-visited: var(--color-link-visited);
-
-    /* border colors */
-    --border-default: var(--color-neutral-300);
-    --border-muted: var(--color-neutral-200);
-    --border-strong: var(--color-neutral-500);
-
-    /* blockquote styles */
-    --quote-decoration-color: var(--border-muted);
-    --quote-decoration-width: var(--border-width-lg);
-
-    /* horizontal rules */
-    --separator-color: var(--border-muted);
-    --separator-width: var(--border-width-sm);
-
-    /* accessible focus outline */
-    --outline-focus: var(--border-default);
-    --focus-ring-width: var(--border-width-md);
-    --focus-ring-radius: var(--radius-sm);
-
-}
-
-/* Dark overrides are centralized here; the toggle/auto-detect script only flips data-theme on <html>. */
-:root[data-theme="dark"] {
-    color-scheme: dark;
-    --surface-body: var(--color-neutral-900);
-    --text-primary: var(--color-neutral-050);
-    --text-muted: var(--color-neutral-300);
-    --text-code: #eceff4;
-    --surface-code: #2e3440;
-    --surface-code-inline: #3b4252;
-    --border-code: #4c566a;
-    --syntax-comment: #81a1c1;
-    --syntax-keyword: #81a1c1;
-    --syntax-function: #88c0d0;
-    --syntax-string: #a3be8c;
-    --syntax-number: #d08770;
-    --syntax-operator: #81a1c1;
-    --syntax-name: #88c0d0;
-    --syntax-variable: #b48ead;
-    --syntax-punctuation: #d8dee9;
-    --link-primary: var(--color-link-primary-dark);
-    --link-primary-hover: var(--color-link-hover-dark);
-    --link-visited: var(--color-link-visited-dark);
-    --border-default: var(--color-neutral-700);
-    --border-muted: var(--color-neutral-800);
-    --border-strong: var(--color-neutral-600);
-    --outline-focus: var(--color-neutral-600);
-    --quote-decoration-color: var(--border-muted);
-    --separator-color: var(--border-muted);
-}
+/* style.css: authored component rules. Token declarations are generated in tokens.css. */
+@import url("./tokens.css");
 
 /* Base: reset colors so all downstream styles just reference semantic tokens. */
 
@@ -377,7 +292,8 @@ code {
     font-weight: var(--font-weight-regular);
     font-size: var(--article-code-font-size) !important;
     line-height: var(--article-code-line-height) !important;
-    padding: var(--article-code-inline-padding);
+    padding-block: var(--article-code-inline-padding-block);
+    padding-inline: var(--article-code-inline-padding-inline);
     border-radius: var(--article-code-inline-radius);
 }
 
@@ -438,7 +354,7 @@ code {
     padding: 0;
     border: 0;
     background: transparent;
-    color: #999999;
+    color: var(--color-utility-copy-button-foreground);
     cursor: pointer;
     appearance: none;
 }
@@ -472,7 +388,7 @@ code {
 .highlighter-rouge .highlight .kr,
 .highlighter-rouge .highlight .kt {
     color: var(--syntax-keyword);
-    font-weight: 600;
+    font-weight: var(--font-weight-semibold);
 }
 
 .highlighter-rouge .highlight .s,
@@ -601,7 +517,7 @@ code {
 
 .continue-reading a {
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: var(--tracking-extra-wide);
     display: inline-block;
 }
 
@@ -615,12 +531,12 @@ code {
     font-family: var(--article-byline-font-family);
     font-size: var(--article-byline-font-size);
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: var(--tracking-extra-wide);
 }
 
 
 .post-list h2 {
-    font-size: clamp(1.6rem, 4vw, 2rem);
+    font-size: var(--font-scale-3xl);
     line-height: var(--line-height-tight);
     font-weight: var(--font-weight-light);
     margin-bottom: var(--space-sm);
@@ -689,7 +605,7 @@ code {
     margin: 0 0 var(--space-md);
     font-family: var(--article-byline-font-family);
     font-size: var(--article-byline-font-size);
-    letter-spacing: 0.04em;
+    letter-spacing: var(--tracking-about-entry-meta);
     text-transform: uppercase;
     color: var(--text-muted);
 }
