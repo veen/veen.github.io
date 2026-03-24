@@ -2,12 +2,9 @@
 @import url("./tokens.css");
 
 /* Base: reset colors so all downstream styles just reference semantic tokens. */
-
-html {}
-
 html,
 body {
-    background-color: var(--surface-body);
+    background-color: var(--surface-page);
     color: var(--text-primary);
     margin: 0;
     padding: 0;
@@ -105,7 +102,7 @@ article {
 /* Page Links */
 
 a {
-    color: var(--link-primary);
+    color: var(--link-default);
     font-weight: var(--font-weight-semibold);
     text-decoration: none;
     transition: color var(--duration-short) var(--easing-standard),
@@ -115,11 +112,11 @@ a {
 a:hover,
 a:focus-visible {
     text-decoration: underline;
-    color: var(--link-primary-hover);
+    color: var(--link-hover);
 }
 
 a:focus-visible {
-    box-shadow: 0 0 0 var(--focus-ring-width) var(--outline-focus);
+    box-shadow: 0 0 0 var(--focus-ring-width) var(--focus-outline);
     border-radius: var(--focus-ring-radius);
 }
 
@@ -240,7 +237,7 @@ h3 {
 }
 
 .theme-toggle:focus-visible {
-    box-shadow: 0 0 0 var(--focus-ring-width) var(--outline-focus);
+    box-shadow: 0 0 0 var(--focus-ring-width) var(--focus-outline);
     border-radius: var(--focus-ring-radius);
 }
 
@@ -257,7 +254,7 @@ article>ul,
 article>ol,
 article>blockquote {
     margin-top: 0;
-    margin-bottom: var(--article-paragraph-margin-bottom);
+    margin-bottom: var(--article-flow-spacing);
 }
 
 article>ul,
@@ -277,12 +274,12 @@ article>blockquote {
 }
 
 article a {
-    color: var(--link-primary);
+    color: var(--link-default);
     font-weight: var(--font-weight-regular);
 }
 
 article a:hover {
-    color: var(--link-primary-hover);
+    color: var(--link-hover);
 }
 
 code {
@@ -354,14 +351,14 @@ code {
     padding: 0;
     border: 0;
     background: transparent;
-    color: var(--color-utility-copy-button-foreground);
+    color: var(--article-code-block-copy-button-color);
     cursor: pointer;
     appearance: none;
 }
 
 .code-copy-button:focus-visible {
     outline: none;
-    box-shadow: 0 0 0 var(--focus-ring-width) var(--outline-focus);
+    box-shadow: 0 0 0 var(--focus-ring-width) var(--focus-outline);
     border-radius: var(--focus-ring-radius);
 }
 
@@ -548,7 +545,7 @@ code {
 
 .post-list h2 a:hover,
 .post-list h2 a:focus {
-    color: var(--link-primary);
+    color: var(--link-default);
 }
 
 .published_date {
@@ -605,7 +602,7 @@ code {
     margin: 0 0 var(--space-md);
     font-family: var(--article-byline-font-family);
     font-size: var(--article-byline-font-size);
-    letter-spacing: var(--tracking-about-entry-meta);
+    letter-spacing: var(--tracking-wide);
     text-transform: uppercase;
     color: var(--text-muted);
 }
@@ -617,7 +614,7 @@ code {
 
 .about-entry p {
     margin-top: 0;
-    margin-bottom: var(--article-paragraph-margin-bottom);
+    margin-bottom: var(--article-flow-spacing);
 }
 
 .about-entry p:last-child {
