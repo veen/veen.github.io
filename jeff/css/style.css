@@ -294,46 +294,31 @@ code {
     border-radius: var(--article-code-inline-radius);
 }
 
-/* Jekyll fenced code blocks are rendered by Rouge with these wrappers. */
-.highlighter-rouge {
+/* Eleventy fenced code blocks are rendered with Prism language wrappers. */
+pre[class*="language-"] {
     margin: var(--space-2xl) 0;
-    max-width: 100%;
-}
-
-.highlighter-rouge>.highlight {
-    position: relative;
-    border-radius: var(--radius-md);
-    overflow-x: auto;
-    max-width: 100%;
-    background: var(--surface-code);
-    border: var(--border-width-sm) solid var(--border-code);
-}
-
-.highlighter-rouge>.highlight.has-copy-button pre {
-    padding-top: calc(var(--space-xl) + var(--space-md));
-}
-
-.highlighter-rouge pre {
-    margin: 0;
     padding: var(--space-lg) var(--space-xl);
+    max-width: 100%;
+    position: relative;
     color: var(--text-code);
     font-family: var(--article-code-font-family);
     font-size: var(--article-code-font-size);
     line-height: var(--article-code-line-height) !important;
-    background: none;
-    max-width: 100%;
+    border-radius: var(--radius-md);
     overflow-x: auto;
-    border: none;
+    background: var(--surface-code);
+    border: var(--border-width-sm) solid var(--border-code);
 }
 
-.highlighter-rouge code {
+pre[class*="language-"].has-copy-button {
+    padding-top: calc(var(--space-xl) + var(--space-md));
+}
+
+pre[class*="language-"] code {
     background: none;
     color: inherit;
     padding: 0;
     white-space: pre;
-}
-
-.highlighter-rouge pre code {
     font-size: var(--article-code-font-size);
     line-height: var(--article-code-line-height) !important;
 }
@@ -368,100 +353,70 @@ code {
     pointer-events: none;
 }
 
-.highlighter-rouge .highlight .c,
-.highlighter-rouge .highlight .cm,
-.highlighter-rouge .highlight .c1,
-.highlighter-rouge .highlight .cp,
-.highlighter-rouge .highlight .cs {
+pre[class*="language-"] .token.comment,
+pre[class*="language-"] .token.prolog,
+pre[class*="language-"] .token.doctype,
+pre[class*="language-"] .token.cdata {
     color: var(--syntax-comment);
     font-style: italic;
 }
 
-.highlighter-rouge .highlight .k,
-.highlighter-rouge .highlight .kc,
-.highlighter-rouge .highlight .kd,
-.highlighter-rouge .highlight .kn,
-.highlighter-rouge .highlight .kp,
-.highlighter-rouge .highlight .kr,
-.highlighter-rouge .highlight .kt {
+pre[class*="language-"] .token.keyword,
+pre[class*="language-"] .token.atrule,
+pre[class*="language-"] .token.selector {
     color: var(--syntax-keyword);
     font-weight: var(--font-weight-semibold);
 }
 
-.highlighter-rouge .highlight .s,
-.highlighter-rouge .highlight .sa,
-.highlighter-rouge .highlight .sb,
-.highlighter-rouge .highlight .sc,
-.highlighter-rouge .highlight .dl,
-.highlighter-rouge .highlight .sd,
-.highlighter-rouge .highlight .s1,
-.highlighter-rouge .highlight .s2,
-.highlighter-rouge .highlight .se,
-.highlighter-rouge .highlight .sh,
-.highlighter-rouge .highlight .si,
-.highlighter-rouge .highlight .sx,
-.highlighter-rouge .highlight .sr,
-.highlighter-rouge .highlight .ss {
+pre[class*="language-"] .token.string,
+pre[class*="language-"] .token.char,
+pre[class*="language-"] .token.regex,
+pre[class*="language-"] .token.inserted {
     color: var(--syntax-string);
 }
 
-.highlighter-rouge .highlight .m,
-.highlighter-rouge .highlight .mb,
-.highlighter-rouge .highlight .mf,
-.highlighter-rouge .highlight .mh,
-.highlighter-rouge .highlight .mi,
-.highlighter-rouge .highlight .il,
-.highlighter-rouge .highlight .mo {
+pre[class*="language-"] .token.number,
+pre[class*="language-"] .token.boolean,
+pre[class*="language-"] .token.constant {
     color: var(--syntax-number);
 }
 
-.highlighter-rouge .highlight .na,
-.highlighter-rouge .highlight .n,
-.highlighter-rouge .highlight .nb,
-.highlighter-rouge .highlight .nc,
-.highlighter-rouge .highlight .nd,
-.highlighter-rouge .highlight .ne,
-.highlighter-rouge .highlight .nf,
-.highlighter-rouge .highlight .ni,
-.highlighter-rouge .highlight .nl,
-.highlighter-rouge .highlight .nn,
-.highlighter-rouge .highlight .nx,
-.highlighter-rouge .highlight .nt {
+pre[class*="language-"] .token.builtin,
+pre[class*="language-"] .token.class-name,
+pre[class*="language-"] .token.namespace {
     color: var(--syntax-name);
 }
 
-.highlighter-rouge .highlight .na {
+pre[class*="language-"] .token.attr-name,
+pre[class*="language-"] .token.property {
     color: var(--syntax-variable);
 }
 
-.highlighter-rouge .highlight .nt {
+pre[class*="language-"] .token.tag {
     color: var(--syntax-keyword);
 }
 
-.highlighter-rouge .highlight .py,
-.highlighter-rouge .highlight .nl,
-.highlighter-rouge .highlight .nv,
-.highlighter-rouge .highlight .vc,
-.highlighter-rouge .highlight .vg,
-.highlighter-rouge .highlight .vi {
+pre[class*="language-"] .token.variable,
+pre[class*="language-"] .token.parameter {
     color: var(--syntax-variable);
 }
 
-.highlighter-rouge .highlight .nf,
-.highlighter-rouge .highlight .fm {
+pre[class*="language-"] .token.function {
     color: var(--syntax-function);
 }
 
-.highlighter-rouge .highlight .o,
-.highlighter-rouge .highlight .ow {
+pre[class*="language-"] .token.operator,
+pre[class*="language-"] .token.entity,
+pre[class*="language-"] .token.url {
     color: var(--syntax-operator);
 }
 
-.highlighter-rouge .highlight .p {
+pre[class*="language-"] .token.punctuation {
     color: var(--syntax-punctuation);
 }
 
-.highlighter-rouge .highlight .err {
+pre[class*="language-"] .token.deleted,
+pre[class*="language-"] .token.error {
     color: var(--text-primary);
     background: var(--surface-code-inline);
 }

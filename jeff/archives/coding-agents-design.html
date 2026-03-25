@@ -27,22 +27,22 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://veen.com/jeff/archives/coding-agents-design.html">
+    <meta property="og:url" content="http://localhost:8080/jeff/archives/coding-agents-design.html">
     <meta property="og:title" content="On Coding Agents and the Future of Design">
     <meta property="og:description" content="How Claude Code is showing us what apps may become">
     
-    <meta property="og:image" content="https://veen.com/jeff/images/shortcuts.png">
+    <meta property="og:image" content="http://localhost:8080/jeff/images/shortcuts.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://veen.com/jeff/archives/coding-agents-design.html">
+    <meta name="twitter:url" content="http://localhost:8080/jeff/archives/coding-agents-design.html">
     <meta name="twitter:title" content="On Coding Agents and the Future of Design">
     <meta name="twitter:description" content="How Claude Code is showing us what apps may become">
     
-    <meta name="twitter:image" content="https://veen.com/jeff/images/shortcuts.png">
+    <meta name="twitter:image" content="http://localhost:8080/jeff/images/shortcuts.png">
     
     
     <script>
@@ -68,7 +68,7 @@
     <!-- My baby... -->
     <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
 
-    <link rel="alternate" type="application/atom+xml" href="https://veen.com/jeff/rss-source.xml" title="Atom Feed">
+    <link rel="alternate" type="application/atom+xml" href="http://localhost:8080/jeff/rss-source.xml" title="Atom Feed">
     <link
       rel="stylesheet"
       href="https://unpkg.com/littlefoot@4.1.3/dist/littlefoot.css"
@@ -111,50 +111,36 @@
       </time>
 
       <p>In his seminal 2010 article on <a href="https://alistapart.com/article/responsive-web-design/">responsive design</a>, Ethan Marcotte described a new way of thinking about web user interfaces that moved beyond a fixed frame. Reacting to his clients’ requests for an “iPhone version” of their websites, he suggested instead a single experience that could <em>respond</em> to the user’s device. Page elements could use a different set of design properties for large screens and small, transforming their form to match the capabilities of the hardware. Crucially, on simpler devices, elements could be hidden entirely if deemed non-essential.</p>
-
 <p>As this technique became popular among designers and product teams, they quickly realized that it was more challenging to start with the “full” version and pare it down. Instead, by starting with the <em>least</em> capable device, you could boil the product offering down to its essence and present those primitives in the limited screen real estate available. This soon led to an acknowledgment of the irony of responsive design: That the least capable devices often had the most effective user experience, as they were most closely aligned with user needs.</p>
-
 <p>We came to realize that responsive design wasn’t just about layouts, it was about forcing organizations to confront what actually mattered. But organizations, it turns out, cannot resist the temptation to use available UI space for promotions or expressions of their org chart, all of which almost always get in the way of what users are trying to do. That this still remains true all these years later is astounding; the difference in the UX of apps versus websites for banks, airlines, and ecommerce is stark evidence<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
-
-<h2 id="towards-a-more-radical-responsiveness">Towards a More Radical Responsiveness</h2>
+<h2>Towards a More Radical Responsiveness</h2>
 <p>I believe we’re at the beginning of a new era of further crystallization, and it feels both more disruptive and more enabling than the shift to responsive design 15 years ago. Earlier last year, foundation model providers released coding agents that developers could install and use directly from their command line terminals. These agents, including Claude Code and OpenAI Codex, introduced two seemingly small advances that would turn out to be incredibly significant.</p>
-
 <p>First, they could iterate. Unlike earlier chatbot interfaces, these agents would continue to work and refine their output, looping over a plan until its goals had been achieved. Second, they were given access to tools. They could now call standard Unix utilities like curl for loading web pages or grep for searching file contents. A few months later, the underlying models were updated specifically to take advantage of this kind of tool use and to stay more focused on plan-following. With those pieces in place, developers on the frontier of AI-assisted engineering began sharing new workflows that felt genuinely different and everything sped up again.</p>
-
 <p>Recently, many non-developers, myself included, have found that using Claude Code with files locally can be an incredibly effective way to get work done. My social feed is filled with people sharing their use cases: setting the agent to work on an Obsidian vault, managing email and calendars, finally getting value from smart home devices.</p>
-
-<h2 id="primitives-all-the-way-down">Primitives All the Way Down</h2>
-<p>The key to all of this is the tools: small, simple command-line apps with clear, direct documentation. Despite the promise of MCP servers, Claude Code with access to <a href="https://hasseg.org/icalBuddy/">iCalBuddy</a> is a much faster and more effective way to ask for help organizing next week’s schedule. Codex is an expert with <code class="language-plaintext highlighter-rouge">gh</code>, the CLI app for GitHub, and can quickly summarize and organize your next sprint’s outstanding issues. Both can quickly navigate through 1Password with the <code class="language-plaintext highlighter-rouge">op</code> command to avoid spewing access tokens everywhere<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. These apps so clearly expose the primitives of the systems behind them. An agent looping iteratively while stringing dozens of these composable tools together starts to feel like a very new way of working.</p>
-
+<h2>Primitives All the Way Down</h2>
+<p>The key to all of this is the tools: small, simple command-line apps with clear, direct documentation. Despite the promise of MCP servers, Claude Code with access to <a href="https://hasseg.org/icalBuddy/">iCalBuddy</a> is a much faster and more effective way to ask for help organizing next week’s schedule. Codex is an expert with <code>gh</code>, the CLI app for GitHub, and can quickly summarize and organize your next sprint’s outstanding issues. Both can quickly navigate through 1Password with the <code>op</code> command to avoid spewing access tokens everywhere<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. These apps so clearly expose the primitives of the systems behind them. An agent looping iteratively while stringing dozens of these composable tools together starts to feel like a very new way of working.</p>
 <p>This is the next step in responsive design and the blueprints are lurking all around us. The coding agents now let you add skills — simple descriptions of how to accomplish a task written in natural language. You might explain to your agent how to get data from an internal API to help you create your quarterly update, for example. But if you really want a great look at what the future may hold, try this: on an iPhone or Mac, open the Shortcuts app and start searching through the available commands exposed by each app you have installed. There, you’ll find a remarkably clear visualization of all the atomic components of an app’s capabilities. All the nouns and verbs.</p>
-
 <figure>
-  <img src="https://veen.com/jeff/images/shortcuts.png" alt="Three screenshots show shortcut actions for iOS apps Kayak, Contacts, and Wells Fargo" style="width: 150% !important; max-width: none !important; position: relative; left: 50%; transform: translateX(-50%); margin-left: auto; margin-right: auto;" />
+  <img src="https://veen.com/jeff/images/shortcuts.png" alt="Three screenshots show shortcut actions for iOS apps Kayak, Contacts, and Wells Fargo" style="width: 150% !important; max-width: none !important; position: relative; left: 50%; transform: translateX(-50%); margin-left: auto; margin-right: auto;">
 </figure>
-
 <p>None of <em>that</em> works with agents quite yet<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>, but I think this is the clearest glimpse into what apps become in a world of advanced agentic workflows. Here in three screens are the actions we can take when communicating with friends, planning our vacations, and managing our money. This is what it looks like when apps are honest about what they can do. And a step further: all the APIs for all the enterprise SAAS and personal productivity apps, lurking behind developer documentation, waiting to be unlocked. What is a “seat” and what is a “user” when we send our agents to ask questions and make requests? This isn’t just app design, but what <em>businesses</em> become as we collectively lean harder into agents.</p>
-
-<h2 id="clarity-as-competitive-advantage">Clarity as Competitive Advantage</h2>
+<h2>Clarity as Competitive Advantage</h2>
 <p>This may seem counterintuitive, but my career in user experience design makes me even more excited about a potential future like this. If agentic workflows strip back applications to their bare essence, then it makes sense that they’d present what they find in UI components crafted on the fly. Perfect customization, whether you’re accessing the capability on a large display or through your AirPods, in English or Cantonese, wrapped in shadcn or Chakra UI — your choice!</p>
-
 <p>An agentic future elevates design into pure strategy, which is what the best designers have wanted all along. Crafting a great user experience is impossible if the way in which the business expresses its capabilities is muddied, vague or deceptive. So the best have always pushed for more authority, more access to the conversations where the real decisions are being made in their organizations. To gain that access while maintaining advocacy for humans using the products has always been my goal as a designer.</p>
-
 <p>This takes a pretty big leap of faith for those practicing design. I see the same happening for engineers waking up to the fact that they’ll soon stop typing code, and not long after that, stop reading it. Many of us are imagining futures in which aspects of the labor we love are quickly slipping away. But I’ll argue it’s what we’ve been after all along: Responsive designs that mold to our customers and patients and citizens in ways that ask businesses and institutions to express to us exactly what they have to offer.</p>
-
 <p>If an agent used your product tomorrow, what truths would it uncover about your organization?</p>
-
 <div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>I have known Ethan for a very long time and have much admiration of his work and the powerful and positive influence he’s had on the design community. I’m also aware of Ethan’s clear and reasonable commentary on the ethical implications and environmental impacts of LLMs. Citing his work here is done with the utmost respect. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>Let’s not discount the security implications here. They are dramatic. But we need use cases to solve for, rather than blanket bans. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3" role="doc-endnote">
-      <p>You might not find better proof of Apple’s missteps with Apple Intelligence. The raw materials are all there; they’ve already shipped the hardest part. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>I have known Ethan for a very long time and have much admiration of his work and the powerful and positive influence he’s had on the design community. I’m also aware of Ethan’s clear and reasonable commentary on the ethical implications and environmental impacts of LLMs. Citing his work here is done with the utmost respect.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Let’s not discount the security implications here. They are dramatic. But we need use cases to solve for, rather than blanket bans.&nbsp;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>You might not find better proof of Apple’s missteps with Apple Intelligence. The raw materials are all there; they’ve already shipped the hardest part.&nbsp;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+</li>
+</ol>
 </div>
 
 
@@ -170,7 +156,7 @@
           <label for="bd-email" class="post-footer__label">
             <em>
               Get future posts via
-              <a href="https://veen.com/jeff/rss-source.xml">RSS</a> or email
+              <a href="http://localhost:8080/jeff/rss-source.xml">RSS</a> or email
             </em>
           </label>
           <input type="email" name="email" id="bd-email" autocomplete="email" required>
@@ -350,11 +336,11 @@
           stateTimers.set(highlight, timer);
         };
 
-        document.querySelectorAll(".highlighter-rouge > .highlight").forEach((highlight) => {
+        document.querySelectorAll("pre[class*='language-']").forEach((highlight) => {
           if (highlight.querySelector(".code-copy-button")) {
             return;
           }
-          const code = highlight.querySelector("pre code");
+          const code = highlight.querySelector("code");
           if (!code) {
             return;
           }

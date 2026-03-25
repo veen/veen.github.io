@@ -27,14 +27,14 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://veen.com/jeff/archives/000972.html">
+    <meta property="og:url" content="http://localhost:8080/jeff/archives/000972.html">
     <meta property="og:title" content="The record and the bet">
     <meta property="og:description" content="Be careful on what you wager ... and with whom">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://veen.com/jeff/archives/000972.html">
+    <meta name="twitter:url" content="http://localhost:8080/jeff/archives/000972.html">
     <meta name="twitter:title" content="The record and the bet">
     <meta name="twitter:description" content="Be careful on what you wager ... and with whom">
     
@@ -62,7 +62,7 @@
     <!-- My baby... -->
     <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
 
-    <link rel="alternate" type="application/atom+xml" href="https://veen.com/jeff/rss-source.xml" title="Atom Feed">
+    <link rel="alternate" type="application/atom+xml" href="http://localhost:8080/jeff/rss-source.xml" title="Atom Feed">
     <link
       rel="stylesheet"
       href="https://unpkg.com/littlefoot@4.1.3/dist/littlefoot.css"
@@ -105,45 +105,27 @@
       </time>
 
       <p>It was nearly six years ago, in a bar in the Mission district of San Francisco. I was having a drink with friends and we were talking about baseball - home runs, in fact. It felt like just about anyone could put one over the fence - Sosa, McGuire, and Bonds were competing for single-season records and someone even suggested that Hank Aaron’s all-time mark could fall.</p>
-
 <p>Mike Monteiro, one of the founders of <a href="http://muledesign.com/">Mule Design</a>, was there that night. “Bonds will do it,” he said. “I have no doubt in my mind.”</p>
-
 <p>“Bonds?” I said. “You’ve got to be kidding. He’s old, injured, and taking so much junk - he won’t even last the next season.”</p>
-
 <p>“You have no faith.”</p>
-
 <p>“You’re blinded by hero worship.”</p>
-
 <p>And on it went. Eventually, we found ourselves at an impasse. And, as guys do when they argue about sports, we decided to make it interesting.</p>
-
 <p>“Alright. A hundred dollars says he does it,” Mike said.</p>
-
 <p>“Don’t be so minor league. Five hundred,” I countered.</p>
-
 <p>“Oh yeah? Loser buys a luxury box at a game.”</p>
-
 <p>I paused. Clearly, this wasn’t about money. It was about pride. I had to go after his. “We have to make this count. This has to be something really meaningful.”</p>
-
 <p>“What do you have in mind?” he asked.</p>
-
 <p>“Loser wears a dress to a game.”</p>
-
 <p>We shook hands.</p>
-
 <p>Last night, Bonds put one into the centerfield bleachers. There were fireworks, speeches, and tributes. My IM client popped up a few minutes later with a message from Mike:</p>
-
 <blockquote>
-  <p><a href="http://www.chadwicks.com/Department.aspx?DeptId=8295">http://www.chadwicks.com/Department.aspx?DeptId=8295</a></p>
+<p><a href="http://www.chadwicks.com/Department.aspx?DeptId=8295">http://www.chadwicks.com/Department.aspx?DeptId=8295</a></p>
 </blockquote>
-
 <blockquote>
-  <p>See you at the game…</p>
+<p>See you at the game…</p>
 </blockquote>
-
 <p>I am a man of my word. Later this season, I will uphold my end of the wager. There is already talk of reserving the centerfield bleachers and getting a little something up on the Jumbotron. I’m considering my wardrobe; elegant and tasteful while still fun and flattering. Your suggestions would be most appreciated in the comments.</p>
-
-<p>My only consolation? I’ll be a 6’6” guy with a goatee wearing a dress in San Francisco. Nobody will blink an eye…</p>
-
+<p>My only consolation? I’ll be a 6’6&quot; guy with a goatee wearing a dress in San Francisco. Nobody will blink an eye…</p>
 
 
       <hr class="post-footer-separator">
@@ -158,7 +140,7 @@
           <label for="bd-email" class="post-footer__label">
             <em>
               Get future posts via
-              <a href="https://veen.com/jeff/rss-source.xml">RSS</a> or email
+              <a href="http://localhost:8080/jeff/rss-source.xml">RSS</a> or email
             </em>
           </label>
           <input type="email" name="email" id="bd-email" autocomplete="email" required>
@@ -338,11 +320,11 @@
           stateTimers.set(highlight, timer);
         };
 
-        document.querySelectorAll(".highlighter-rouge > .highlight").forEach((highlight) => {
+        document.querySelectorAll("pre[class*='language-']").forEach((highlight) => {
           if (highlight.querySelector(".code-copy-button")) {
             return;
           }
-          const code = highlight.querySelector("pre code");
+          const code = highlight.querySelector("code");
           if (!code) {
             return;
           }

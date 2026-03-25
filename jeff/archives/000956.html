@@ -27,14 +27,14 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://veen.com/jeff/archives/000956.html">
+    <meta property="og:url" content="http://localhost:8080/jeff/archives/000956.html">
     <meta property="og:title" content="Remembering Zork">
     <meta property="og:description" content="My favorite puzzel from one of the earliest video games">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://veen.com/jeff/archives/000956.html">
+    <meta name="twitter:url" content="http://localhost:8080/jeff/archives/000956.html">
     <meta name="twitter:title" content="Remembering Zork">
     <meta name="twitter:description" content="My favorite puzzel from one of the earliest video games">
     
@@ -62,7 +62,7 @@
     <!-- My baby... -->
     <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
 
-    <link rel="alternate" type="application/atom+xml" href="https://veen.com/jeff/rss-source.xml" title="Atom Feed">
+    <link rel="alternate" type="application/atom+xml" href="http://localhost:8080/jeff/rss-source.xml" title="Atom Feed">
     <link
       rel="stylesheet"
       href="https://unpkg.com/littlefoot@4.1.3/dist/littlefoot.css"
@@ -105,10 +105,8 @@
       </time>
 
       <p>Did you ever play text adventure games years ago? They were the sort of command-line games where you would type simple directions and work your way through a story. I played these for hours and hours as a kid at my friend’s house on his dad’s teletype. I remember feeding the green and white paper back through as many times as we could to use all the available space. Later I moved on to the <a href="http://en.wikipedia.org/wiki/Zork">Zork series</a> and other <a href="http://www.csd.uwo.ca/Infocom/">Infocomm</a> titles, staying up way to late at my Commodore 64.</p>
-
 <p>I don’t know what made me remember Zork recently, but it was a pleasure to find that they’re <a href="http://thcnet.net/zork/index.php">playable online</a>. Here’s an excerpt from one of my favorite puzzles:</p>
-
-<blockquote><pre><strong>&gt;look</strong>
+<blockquote><pre><strong>>look</strong>
 Tiny Room
 This is a tiny room carved out of the wall of 
 the ravine. There is an exit down a precarious 
@@ -117,65 +115,47 @@ wooden door, which has a small window barred with
 iron. A formidable bolt lock is set within the 
 door frame. A keyhole covered by a thin metal lid
 lies within the lock.
-
-<strong>&gt;open door</strong>
-The door is locked.
-
-<strong>&gt;inventory</strong>
+<p><strong>&gt;open door</strong>
+The door is locked.</p>
+<p><strong>&gt;inventory</strong>
 You are carrying:
- A sword
- A lamp
- A place mat
- A letter opener
- A newspaper
-
-<strong>&gt;examine door</strong>
-The door is made of oak and is closed.
-
-<strong>&gt;look in keyhole</strong>
-No light can be seen through the keyhole.
-
-<strong>&gt;open lid</strong>
-The lid is now open.
-
-<strong>&gt;put newspaper under door</strong>
-The newspaper crumples up and won't go under
-the door.
-
-<strong>&gt;put placemat under door</strong>
-The place mat fits easily under the door.
-
-<strong>&gt;put letter opener in keyhole</strong>
-There is a faint noise from behind the door 
-and a small cloud of dust rises from beneath it.
-
-<strong>&gt;get placemat</strong>
+A sword
+A lamp
+A place mat
+A letter opener
+A newspaper</p>
+<p><strong>&gt;examine door</strong>
+The door is made of oak and is closed.</p>
+<p><strong>&gt;look in keyhole</strong>
+No light can be seen through the keyhole.</p>
+<p><strong>&gt;open lid</strong>
+The lid is now open.</p>
+<p><strong>&gt;put newspaper under door</strong>
+The newspaper crumples up and won’t go under
+the door.</p>
+<p><strong>&gt;put placemat under door</strong>
+The place mat fits easily under the door.</p>
+<p><strong>&gt;put letter opener in keyhole</strong>
+There is a faint noise from behind the door
+and a small cloud of dust rises from beneath it.</p>
+<p><strong>&gt;get placemat</strong>
 As the placemat is moved, a rusty iron key falls
-from it onto the floor.
-
-<strong>&gt;get key</strong>
-Taken.
-
-<strong>&gt;unlock door</strong>
-What do you want to unlock the door with?
-
-<strong>&gt;unlock door with key</strong>
-The keyhole is blocked.
-
-<strong>&gt;get letter opener</strong>
-Taken.
-
-<strong>&gt;unlock door with key</strong>
-The door is now unlocked.
-
-<strong>&gt;open door</strong>
-The door is now open.</pre></blockquote>
-
+from it onto the floor.</p>
+<p><strong>&gt;get key</strong>
+Taken.</p>
+<p><strong>&gt;unlock door</strong>
+What do you want to unlock the door with?</p>
+<p><strong>&gt;unlock door with key</strong>
+The keyhole is blocked.</p>
+<p><strong>&gt;get letter opener</strong>
+Taken.</p>
+<p><strong>&gt;unlock door with key</strong>
+The door is now unlocked.</p>
+<p><strong>&gt;open door</strong>
+The door is now open.</pre></blockquote></p>
 <p>Success! I can distinctly remember the feeling of first pulling that place mat out and seeing the key on it. Such a sense of accomplishment for a 12 year old.</p>
-
 <p>Today, people still write and explore <a href="http://www.ifwiki.org/index.php/Main_Page">interactive fiction</a>, though I pretty much gave it up when I hit high school. These days, I solve tricky problems by typing into an email client rather than a green-screen game. The skills, however, are pretty much the same...</p>
-<p>​</p>
-
+&#8203;
 
       <hr class="post-footer-separator">
       <footer class="post-footer">
@@ -189,7 +169,7 @@ The door is now open.</pre></blockquote>
           <label for="bd-email" class="post-footer__label">
             <em>
               Get future posts via
-              <a href="https://veen.com/jeff/rss-source.xml">RSS</a> or email
+              <a href="http://localhost:8080/jeff/rss-source.xml">RSS</a> or email
             </em>
           </label>
           <input type="email" name="email" id="bd-email" autocomplete="email" required>
@@ -369,11 +349,11 @@ The door is now open.</pre></blockquote>
           stateTimers.set(highlight, timer);
         };
 
-        document.querySelectorAll(".highlighter-rouge > .highlight").forEach((highlight) => {
+        document.querySelectorAll("pre[class*='language-']").forEach((highlight) => {
           if (highlight.querySelector(".code-copy-button")) {
             return;
           }
-          const code = highlight.querySelector("pre code");
+          const code = highlight.querySelector("code");
           if (!code) {
             return;
           }

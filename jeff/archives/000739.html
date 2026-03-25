@@ -27,14 +27,14 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://veen.com/jeff/archives/000739.html">
+    <meta property="og:url" content="http://localhost:8080/jeff/archives/000739.html">
     <meta property="og:title" content="Designing for the subtlety of Ajax">
     <meta property="og:description" content="Looking for delicate solutions in progressive interaction design">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://veen.com/jeff/archives/000739.html">
+    <meta name="twitter:url" content="http://localhost:8080/jeff/archives/000739.html">
     <meta name="twitter:title" content="Designing for the subtlety of Ajax">
     <meta name="twitter:description" content="Looking for delicate solutions in progressive interaction design">
     
@@ -62,7 +62,7 @@
     <!-- My baby... -->
     <link rel="stylesheet" href="https://use.typekit.net/hke3ona.css">
 
-    <link rel="alternate" type="application/atom+xml" href="https://veen.com/jeff/rss-source.xml" title="Atom Feed">
+    <link rel="alternate" type="application/atom+xml" href="http://localhost:8080/jeff/rss-source.xml" title="Atom Feed">
     <link
       rel="stylesheet"
       href="https://unpkg.com/littlefoot@4.1.3/dist/littlefoot.css"
@@ -105,19 +105,12 @@
       </time>
 
       <p>As I’ve been incorporating more and more <a href="http://www.adaptivepath.com/publications/essays/archives/000385.php">Ajax</a> techniques into the interaction design work I do, I’ve started to realize the importance of subtle clues to indicate change – a design challenge I really haven’t had to worry about much before.</p>
-
 <p>Not all that long ago interaction on the Web was a lot simpler – you clicked a link, the page you were on disappeared, you waited a bit, a new one appeared. No feedback was really necessary. Clearly, something had occured. Whether it was what you were expecting was another matter entirely. From an interaction point of view, there was no question that your action had a reaction from the system.</p>
-
 <p>Enter Ajax. Now, I have the option of requesting bits of data whenever I need it, and updating just parts of a page that has already been rendered. No longer am I required to refresh an entire page every time a user clicks a link or submits data. With Ajax, I can chose.</p>
-
 <p>That choice, however, has implications. For one, it flies in the face of most established conventions and user expectations. “Click-reload” is pretty different than “click-add an item to a list.” So it’s not surprising that designers are starting to respond to the fact that users might not notice those subtle changes.</p>
-
 <p>One of the first, and likely the widest linked, examples was from 37Signals in their Basecamp project management app. In it, they showed users that something had been added to the page by turning that item’s <a href="http://www.37signals.com/svn/archives/000558.php">background bright yellow</a>. “Hey! Look at this!” Then, they quickly faded the obtrusive color back into white. It was effective, and widely copied. And rightly so – it’s a good example of making the subtle obvious.</p>
-
 <p>Recently, I saw a demo by Bill Scott of Sabre Airline Solutions. He was showing an application for their travel logistics application, and in particular, how to use Ajax for what he called “cinematic effects.” These were created, he said, to help users understand that an Ajax action had the intended effect. When dragging and dropping, for example, existing items nudged out of the way to show users they could drop. Buttons faded out after clicking. Accordion controls scrolled smoothly when opened. All of these techniques where appropriate and even delicate, never veering into the gratuitous – though it would be so easy to over do it.</p>
-
 <p>Even cooler, Bill and his team have released their Ajax framework under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0 license</a> at <a href="http://openrico.org/">OpenRico.org</a>. The demos and code are all online (though, not quite working in Safari yet).</p>
-
 <p>I’m looking for other examples, both good and bad, of designing for subtlety. Know of any?</p>
 
 
@@ -133,7 +126,7 @@
           <label for="bd-email" class="post-footer__label">
             <em>
               Get future posts via
-              <a href="https://veen.com/jeff/rss-source.xml">RSS</a> or email
+              <a href="http://localhost:8080/jeff/rss-source.xml">RSS</a> or email
             </em>
           </label>
           <input type="email" name="email" id="bd-email" autocomplete="email" required>
@@ -313,11 +306,11 @@
           stateTimers.set(highlight, timer);
         };
 
-        document.querySelectorAll(".highlighter-rouge > .highlight").forEach((highlight) => {
+        document.querySelectorAll("pre[class*='language-']").forEach((highlight) => {
           if (highlight.querySelector(".code-copy-button")) {
             return;
           }
-          const code = highlight.querySelector("pre code");
+          const code = highlight.querySelector("code");
           if (!code) {
             return;
           }
