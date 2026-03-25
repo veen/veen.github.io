@@ -27,14 +27,14 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:8080/jeff/drafts/typography.html">
+    <meta property="og:url" content="http://localhost:8080/jeff/typography.html">
     <meta property="og:title" content="Testing Typography">
     <meta property="og:description" content="Dusting this site off after 30 years.">
     
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="http://localhost:8080/jeff/drafts/typography.html">
+    <meta name="twitter:url" content="http://localhost:8080/jeff/typography.html">
     <meta name="twitter:title" content="Testing Typography">
     <meta name="twitter:description" content="Dusting this site off after 30 years.">
     
@@ -178,12 +178,10 @@ console<span class="token punctuation">.</span><span class="token function">log<
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>blockquote</span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>footer</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/jeff/about/<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>About the author<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>footer</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>article</span><span class="token punctuation">></span></span></code></pre>
-<pre class="language-bash"><code class="language-bash"><span class="token comment"># Rebuild the draft locally and inspect the output URL</span>
-colima nerdctl -- run <span class="token parameter variable">--rm</span> <span class="token parameter variable">-p</span> <span class="token number">4000</span>:4000 <span class="token punctuation">\</span>
-  <span class="token parameter variable">-v</span> /Users/jeff/Projects/veen.github.io:/site <span class="token punctuation">\</span>
-  docker.io/bretfisher/jekyll-serve
+<pre class="language-bash"><code class="language-bash"><span class="token comment"># Rebuild locally and inspect the output URL</span>
+<span class="token function">npm</span> run dev
 
-<span class="token function">curl</span> <span class="token parameter variable">-I</span> http://localhost:4000/jeff/drafts/typography.html</code></pre>
+<span class="token function">curl</span> <span class="token parameter variable">-I</span> http://localhost:8080/jeff/typography.html</code></pre>
 <h2>Closing Thoughts</h2>
 <p>All of this may feel obsessive, but typography is the chassis of the entire site. When we get spacings, weights, and voices right in a single article, every new post inherits that confidence. There’s nothing more satisfying than releasing a sentence into the world and knowing the system beneath it is invisible, sturdy, and quietly beautiful.</p>
 <div class="footnotes" role="doc-endnotes">
